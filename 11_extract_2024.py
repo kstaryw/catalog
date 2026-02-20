@@ -46,7 +46,6 @@ class MITCourse:
     description: str
     prereq: Optional[str]
     units: Optional[str]
-    level_term: Optional[str]        # e.g., "U (IAP)" or "G (Fall)"
     instructors: Optional[str]
     department_page: str             # e.g., "Electrical Engineering and Computer Science (Course 6)"
     source_url: str
@@ -183,13 +182,11 @@ def parse_course_page(url: str) -> List[MITCourse]:
         if not current:
             return
         description_raw = clean_text(" ".join(desc_lines))
-        description_clean, prereq2, level2, units2 = peel_embedded_fields(description_raw)
+        description_clean, prereq2, _, units2 = peel_embedded_fields(description_raw)
 
         # Only fill fields if not already captured
         if current.get("prereq") is None and prereq2:
             current["prereq"] = prereq2
-        if current.get("level_term") is None and level2:
-            current["level_term"] = level2
         if current.get("units") is None and units2:
             current["units"] = units2
 
@@ -201,7 +198,6 @@ def parse_course_page(url: str) -> List[MITCourse]:
                 description=description,
                 prereq=current.get("prereq"),
                 units=current.get("units"),
-                level_term=current.get("level_term"),
                 instructors=current.get("instructors"),
                 department_page=dept_title,
                 source_url=url,
@@ -225,7 +221,6 @@ def parse_course_page(url: str) -> List[MITCourse]:
                 "title": m.group(2),
                 "prereq": None,
                 "units": None,
-                "level_term": None,
                 "instructors": None,
             }
             continue
@@ -245,7 +240,6 @@ def parse_course_page(url: str) -> List[MITCourse]:
 
             # level/term line often looks like "U (IAP)" or "G (Fall, Spring)"
             if re.fullmatch(r"[UG]\s*\(.+\)", text):
-                current["level_term"] = text
                 continue
 
             # instructor line: many pages use names or "Staff" (not perfect, but useful)
