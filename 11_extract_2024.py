@@ -65,9 +65,9 @@ def clean_text(s: str) -> str:
 
 def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], Optional[str]]:
     """
-    Some catalog pages embed prereq / level-term / units in the same text line.
-    Try to extract them and return:
-      (clean_description, prereq, level_term, units)
+    Extract embedded prereq / level-term / units from a mixed description line.
+    Also remove common catalog prefixes like 'Subject meets with ...'.
+    Returns: (clean_description, prereq, level_term, units)
     """
     s = clean_text(text)
 
@@ -75,7 +75,12 @@ def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], 
     level_term = None
     units = None
 
-    # Extract "Prereq: ...." up to either " U (" or " G (" or " units" or end.
+    # Remove leading "Subject meets with ..." (often before the real description)
+    # Example: "Subject meets with 1.001 U (Spring) . Presents ..."
+    s = re.sub(r"^\s*Subject meets with\b.*?(?=\bPresents\b|\bIntroduces\b|\bProvides\b|\bCovers\b|\bExplores\b|\bDevelops\b|\bFocuses\b|\bExamines\b)", "", s, flags=re.I)
+    s = clean_text(s)
+
+    # Prereq: capture until next known token or end
     m = re.search(
         r"\bPrereq:\s*(.+?)(?=(\b[UG]\s*\(|\b\d+\s*-\s*\d+\s*-\s*\d+\s*units\b|\b\d+\s*units\b|$))",
         s,
@@ -85,20 +90,21 @@ def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], 
         prereq = clean_text(m.group(1))
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Extract level/term like "U (Spring)" or "G (Fall, Spring)"
-    m = re.search(r"\b([UG]\s*\([^)]+\))\b", s)
+    # Level/term: capture U(...) or G(...)
+    # Accepts forms like "U (Spring)", "G (Fall, Spring)", etc.
+    m = re.search(r"\b([UG])\s*\(([^)]+)\)\b", s)
     if m:
-        level_term = clean_text(m.group(1))
+        level_term = clean_text(f"{m.group(1)} ({m.group(2)})")
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Extract units like "3-2-7 units" or "12 units"
+    # Units: "3-2-7 units" or "12 units"
     m = re.search(r"\b(\d+\s*-\s*\d+\s*-\s*\d+\s*units|\d+\s*units)\b", s, flags=re.I)
     if m:
         units = clean_text(m.group(1))
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Optional: remove common non-description tags that sometimes appear (REST, CI-H, HASS, etc.)
-    s = re.sub(r"\b(REST|CI-H|CI-M|HASS-[A-Z]+|GIR)\b", "", s)
+    # Remove stray punctuation artifacts like " . " after deletions
+    s = re.sub(r"\s+\.\s+", " ", s)
     s = clean_text(s)
 
     return s, prereq, level_term, units
