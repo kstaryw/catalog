@@ -1,0 +1,1167 @@
+[
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/",
+    "path": "data/raw_ne/index.html",
+    "kind": "index"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/aace/",
+    "path": "data/raw_ne/subjects/aace.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/aai/",
+    "path": "data/raw_ne/subjects/aai.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrb/",
+    "path": "data/raw_ne/subjects/abrb.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrc/",
+    "path": "data/raw_ne/subjects/abrc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrd/",
+    "path": "data/raw_ne/subjects/abrd.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrh/",
+    "path": "data/raw_ne/subjects/abrh.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrl/",
+    "path": "data/raw_ne/subjects/abrl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abrs/",
+    "path": "data/raw_ne/subjects/abrs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/abru/",
+    "path": "data/raw_ne/subjects/abru.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/acc/",
+    "path": "data/raw_ne/subjects/acc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/acct/",
+    "path": "data/raw_ne/subjects/acct.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/afcs/",
+    "path": "data/raw_ne/subjects/afcs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/afrs/",
+    "path": "data/raw_ne/subjects/afrs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/aly/",
+    "path": "data/raw_ne/subjects/aly.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/amsl/",
+    "path": "data/raw_ne/subjects/amsl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ant/",
+    "path": "data/raw_ne/subjects/ant.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/anth/",
+    "path": "data/raw_ne/subjects/anth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/apl/",
+    "path": "data/raw_ne/subjects/apl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/arab/",
+    "path": "data/raw_ne/subjects/arab.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/arch/",
+    "path": "data/raw_ne/subjects/arch.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/army/",
+    "path": "data/raw_ne/subjects/army.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/art/",
+    "path": "data/raw_ne/subjects/art.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/artd/",
+    "path": "data/raw_ne/subjects/artd.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/arte/",
+    "path": "data/raw_ne/subjects/arte.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/artf/",
+    "path": "data/raw_ne/subjects/artf.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/artg/",
+    "path": "data/raw_ne/subjects/artg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/arth/",
+    "path": "data/raw_ne/subjects/arth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/arts/",
+    "path": "data/raw_ne/subjects/arts.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/asns/",
+    "path": "data/raw_ne/subjects/asns.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/avm/",
+    "path": "data/raw_ne/subjects/avm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/binf/",
+    "path": "data/raw_ne/subjects/binf.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/bio/",
+    "path": "data/raw_ne/subjects/bio.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/bioc/",
+    "path": "data/raw_ne/subjects/bioc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/bioe/",
+    "path": "data/raw_ne/subjects/bioe.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/biol/",
+    "path": "data/raw_ne/subjects/biol.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/biot/",
+    "path": "data/raw_ne/subjects/biot.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/bnsc/",
+    "path": "data/raw_ne/subjects/bnsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/btc/",
+    "path": "data/raw_ne/subjects/btc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/busn/",
+    "path": "data/raw_ne/subjects/busn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/caep/",
+    "path": "data/raw_ne/subjects/caep.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ced/",
+    "path": "data/raw_ne/subjects/ced.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cet/",
+    "path": "data/raw_ne/subjects/cet.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/chem/",
+    "path": "data/raw_ne/subjects/chem.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/chm/",
+    "path": "data/raw_ne/subjects/chm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/chme/",
+    "path": "data/raw_ne/subjects/chme.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/chns/",
+    "path": "data/raw_ne/subjects/chns.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cive/",
+    "path": "data/raw_ne/subjects/cive.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cjs/",
+    "path": "data/raw_ne/subjects/cjs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cltr/",
+    "path": "data/raw_ne/subjects/cltr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cmg/",
+    "path": "data/raw_ne/subjects/cmg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cmmn/",
+    "path": "data/raw_ne/subjects/cmmn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cmn/",
+    "path": "data/raw_ne/subjects/cmn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cnet/",
+    "path": "data/raw_ne/subjects/cnet.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/comm/",
+    "path": "data/raw_ne/subjects/comm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/coop/",
+    "path": "data/raw_ne/subjects/coop.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cop/",
+    "path": "data/raw_ne/subjects/cop.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/crim/",
+    "path": "data/raw_ne/subjects/crim.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/crte/",
+    "path": "data/raw_ne/subjects/crte.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/crwt/",
+    "path": "data/raw_ne/subjects/crwt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cs/",
+    "path": "data/raw_ne/subjects/cs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/csye/",
+    "path": "data/raw_ne/subjects/csye.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/cy/",
+    "path": "data/raw_ne/subjects/cy.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/da/",
+    "path": "data/raw_ne/subjects/da.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/dads/",
+    "path": "data/raw_ne/subjects/dads.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/damg/",
+    "path": "data/raw_ne/subjects/damg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/deaf/",
+    "path": "data/raw_ne/subjects/deaf.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/dgm/",
+    "path": "data/raw_ne/subjects/dgm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/dgtr/",
+    "path": "data/raw_ne/subjects/dgtr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ds/",
+    "path": "data/raw_ne/subjects/ds.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eai/",
+    "path": "data/raw_ne/subjects/eai.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ecn/",
+    "path": "data/raw_ne/subjects/ecn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ecnm/",
+    "path": "data/raw_ne/subjects/ecnm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/econ/",
+    "path": "data/raw_ne/subjects/econ.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/edu/",
+    "path": "data/raw_ne/subjects/edu.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/educ/",
+    "path": "data/raw_ne/subjects/educ.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/edut/",
+    "path": "data/raw_ne/subjects/edut.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eeam/",
+    "path": "data/raw_ne/subjects/eeam.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eeba/",
+    "path": "data/raw_ne/subjects/eeba.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eece/",
+    "path": "data/raw_ne/subjects/eece.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eemb/",
+    "path": "data/raw_ne/subjects/eemb.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eesc/",
+    "path": "data/raw_ne/subjects/eesc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eesh/",
+    "path": "data/raw_ne/subjects/eesh.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eet/",
+    "path": "data/raw_ne/subjects/eet.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/emgt/",
+    "path": "data/raw_ne/subjects/emgt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/encp/",
+    "path": "data/raw_ne/subjects/encp.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eng/",
+    "path": "data/raw_ne/subjects/eng.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/engl/",
+    "path": "data/raw_ne/subjects/engl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/engr/",
+    "path": "data/raw_ne/subjects/engr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/engw/",
+    "path": "data/raw_ne/subjects/engw.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/enlr/",
+    "path": "data/raw_ne/subjects/enlr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ensy/",
+    "path": "data/raw_ne/subjects/ensy.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/entr/",
+    "path": "data/raw_ne/subjects/entr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/envr/",
+    "path": "data/raw_ne/subjects/envr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/envs/",
+    "path": "data/raw_ne/subjects/envs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/esc/",
+    "path": "data/raw_ne/subjects/esc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/eslg/",
+    "path": "data/raw_ne/subjects/eslg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/exed/",
+    "path": "data/raw_ne/subjects/exed.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/exre/",
+    "path": "data/raw_ne/subjects/exre.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/exsc/",
+    "path": "data/raw_ne/subjects/exsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/fin/",
+    "path": "data/raw_ne/subjects/fin.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/fina/",
+    "path": "data/raw_ne/subjects/fina.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/frnh/",
+    "path": "data/raw_ne/subjects/frnh.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/fsem/",
+    "path": "data/raw_ne/subjects/fsem.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/game/",
+    "path": "data/raw_ne/subjects/game.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/gbst/",
+    "path": "data/raw_ne/subjects/gbst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ge/",
+    "path": "data/raw_ne/subjects/ge.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/get/",
+    "path": "data/raw_ne/subjects/get.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/gis/",
+    "path": "data/raw_ne/subjects/gis.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/grmn/",
+    "path": "data/raw_ne/subjects/grmn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/gsnd/",
+    "path": "data/raw_ne/subjects/gsnd.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/gst/",
+    "path": "data/raw_ne/subjects/gst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hbrw/",
+    "path": "data/raw_ne/subjects/hbrw.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hinf/",
+    "path": "data/raw_ne/subjects/hinf.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hist/",
+    "path": "data/raw_ne/subjects/hist.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hls/",
+    "path": "data/raw_ne/subjects/hls.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hlth/",
+    "path": "data/raw_ne/subjects/hlth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hmg/",
+    "path": "data/raw_ne/subjects/hmg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/honr/",
+    "path": "data/raw_ne/subjects/honr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hrm/",
+    "path": "data/raw_ne/subjects/hrm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hrmg/",
+    "path": "data/raw_ne/subjects/hrmg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hsc/",
+    "path": "data/raw_ne/subjects/hsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hsci/",
+    "path": "data/raw_ne/subjects/hsci.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hst/",
+    "path": "data/raw_ne/subjects/hst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hsty/",
+    "path": "data/raw_ne/subjects/hsty.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/hsv/",
+    "path": "data/raw_ne/subjects/hsv.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/husv/",
+    "path": "data/raw_ne/subjects/husv.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ie/",
+    "path": "data/raw_ne/subjects/ie.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/inam/",
+    "path": "data/raw_ne/subjects/inam.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/info/",
+    "path": "data/raw_ne/subjects/info.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/inmi/",
+    "path": "data/raw_ne/subjects/inmi.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/inno/",
+    "path": "data/raw_ne/subjects/inno.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/inpr/",
+    "path": "data/raw_ne/subjects/inpr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ins/",
+    "path": "data/raw_ne/subjects/ins.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/insc/",
+    "path": "data/raw_ne/subjects/insc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/insh/",
+    "path": "data/raw_ne/subjects/insh.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/int/",
+    "path": "data/raw_ne/subjects/int.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/intb/",
+    "path": "data/raw_ne/subjects/intb.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/intl/",
+    "path": "data/raw_ne/subjects/intl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/intp/",
+    "path": "data/raw_ne/subjects/intp.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/is/",
+    "path": "data/raw_ne/subjects/is.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/itc/",
+    "path": "data/raw_ne/subjects/itc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/itln/",
+    "path": "data/raw_ne/subjects/itln.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/jpns/",
+    "path": "data/raw_ne/subjects/jpns.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/jrnl/",
+    "path": "data/raw_ne/subjects/jrnl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/jwss/",
+    "path": "data/raw_ne/subjects/jwss.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/kore/",
+    "path": "data/raw_ne/subjects/kore.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lacs/",
+    "path": "data/raw_ne/subjects/lacs.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lang/",
+    "path": "data/raw_ne/subjects/lang.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/larc/",
+    "path": "data/raw_ne/subjects/larc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/law/",
+    "path": "data/raw_ne/subjects/law.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ldr/",
+    "path": "data/raw_ne/subjects/ldr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ling/",
+    "path": "data/raw_ne/subjects/ling.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lpsc/",
+    "path": "data/raw_ne/subjects/lpsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ls/",
+    "path": "data/raw_ne/subjects/ls.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lst/",
+    "path": "data/raw_ne/subjects/lst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lw/",
+    "path": "data/raw_ne/subjects/lw.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/lwp/",
+    "path": "data/raw_ne/subjects/lwp.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/math/",
+    "path": "data/raw_ne/subjects/math.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/matl/",
+    "path": "data/raw_ne/subjects/matl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/matm/",
+    "path": "data/raw_ne/subjects/matm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/me/",
+    "path": "data/raw_ne/subjects/me.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mecn/",
+    "path": "data/raw_ne/subjects/mecn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/meie/",
+    "path": "data/raw_ne/subjects/meie.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/met/",
+    "path": "data/raw_ne/subjects/met.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mgmt/",
+    "path": "data/raw_ne/subjects/mgmt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mgsc/",
+    "path": "data/raw_ne/subjects/mgsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mgt/",
+    "path": "data/raw_ne/subjects/mgt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mism/",
+    "path": "data/raw_ne/subjects/mism.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mkt/",
+    "path": "data/raw_ne/subjects/mkt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mktg/",
+    "path": "data/raw_ne/subjects/mktg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/msci/",
+    "path": "data/raw_ne/subjects/msci.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mscr/",
+    "path": "data/raw_ne/subjects/mscr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mth/",
+    "path": "data/raw_ne/subjects/mth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/mus/",
+    "path": "data/raw_ne/subjects/mus.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/musc/",
+    "path": "data/raw_ne/subjects/musc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/musi/",
+    "path": "data/raw_ne/subjects/musi.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/must/",
+    "path": "data/raw_ne/subjects/must.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/nets/",
+    "path": "data/raw_ne/subjects/nets.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/nnmd/",
+    "path": "data/raw_ne/subjects/nnmd.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/npm/",
+    "path": "data/raw_ne/subjects/npm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/nrsg/",
+    "path": "data/raw_ne/subjects/nrsg.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ntr/",
+    "path": "data/raw_ne/subjects/ntr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/or/",
+    "path": "data/raw_ne/subjects/or.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/orgb/",
+    "path": "data/raw_ne/subjects/orgb.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pa/",
+    "path": "data/raw_ne/subjects/pa.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pbr/",
+    "path": "data/raw_ne/subjects/pbr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pdm/",
+    "path": "data/raw_ne/subjects/pdm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phdl/",
+    "path": "data/raw_ne/subjects/phdl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phil/",
+    "path": "data/raw_ne/subjects/phil.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phl/",
+    "path": "data/raw_ne/subjects/phl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phls/",
+    "path": "data/raw_ne/subjects/phls.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phmd/",
+    "path": "data/raw_ne/subjects/phmd.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phsc/",
+    "path": "data/raw_ne/subjects/phsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phth/",
+    "path": "data/raw_ne/subjects/phth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phy/",
+    "path": "data/raw_ne/subjects/phy.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/phys/",
+    "path": "data/raw_ne/subjects/phys.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pjm/",
+    "path": "data/raw_ne/subjects/pjm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/plsc/",
+    "path": "data/raw_ne/subjects/plsc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pmcl/",
+    "path": "data/raw_ne/subjects/pmcl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pmst/",
+    "path": "data/raw_ne/subjects/pmst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pol/",
+    "path": "data/raw_ne/subjects/pol.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pols/",
+    "path": "data/raw_ne/subjects/pols.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/port/",
+    "path": "data/raw_ne/subjects/port.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/ppua/",
+    "path": "data/raw_ne/subjects/ppua.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/prel/",
+    "path": "data/raw_ne/subjects/prel.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pst/",
+    "path": "data/raw_ne/subjects/pst.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/psy/",
+    "path": "data/raw_ne/subjects/psy.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/psyc/",
+    "path": "data/raw_ne/subjects/psyc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pt/",
+    "path": "data/raw_ne/subjects/pt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/pth/",
+    "path": "data/raw_ne/subjects/pth.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/rfa/",
+    "path": "data/raw_ne/subjects/rfa.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/rga/",
+    "path": "data/raw_ne/subjects/rga.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/rms/",
+    "path": "data/raw_ne/subjects/rms.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/rpt/",
+    "path": "data/raw_ne/subjects/rpt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/rssn/",
+    "path": "data/raw_ne/subjects/rssn.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/sbsy/",
+    "path": "data/raw_ne/subjects/sbsy.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/schm/",
+    "path": "data/raw_ne/subjects/schm.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/scly/",
+    "path": "data/raw_ne/subjects/scly.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/sia/",
+    "path": "data/raw_ne/subjects/sia.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/slpa/",
+    "path": "data/raw_ne/subjects/slpa.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/smfa/",
+    "path": "data/raw_ne/subjects/smfa.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/smt/",
+    "path": "data/raw_ne/subjects/smt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/soc/",
+    "path": "data/raw_ne/subjects/soc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/socl/",
+    "path": "data/raw_ne/subjects/socl.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/spns/",
+    "path": "data/raw_ne/subjects/spns.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/strt/",
+    "path": "data/raw_ne/subjects/strt.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/suen/",
+    "path": "data/raw_ne/subjects/suen.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/tcc/",
+    "path": "data/raw_ne/subjects/tcc.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/tele/",
+    "path": "data/raw_ne/subjects/tele.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/telr/",
+    "path": "data/raw_ne/subjects/telr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/thtr/",
+    "path": "data/raw_ne/subjects/thtr.html",
+    "kind": "subject"
+  },
+  {
+    "url": "https://catalog.northeastern.edu/course-descriptions/wmns/",
+    "path": "data/raw_ne/subjects/wmns.html",
+    "kind": "subject"
+  }
+]
