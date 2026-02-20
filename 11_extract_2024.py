@@ -65,8 +65,8 @@ def clean_text(s: str) -> str:
 
 def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], Optional[str]]:
     """
-    Extract embedded prereq / level-term / units from a mixed description line.
-    Also remove common catalog prefixes like 'Subject meets with ...'.
+    Extract embedded prereq / level-term / units from mixed text.
+    Then remove 'Subject meets with ...' prefix if it remains.
     Returns: (clean_description, prereq, level_term, units)
     """
     s = clean_text(text)
@@ -75,12 +75,7 @@ def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], 
     level_term = None
     units = None
 
-    # Remove leading "Subject meets with ..." (often before the real description)
-    # Example: "Subject meets with 1.001 U (Spring) . Presents ..."
-    s = re.sub(r"^\s*Subject meets with\b.*?(?=\bPresents\b|\bIntroduces\b|\bProvides\b|\bCovers\b|\bExplores\b|\bDevelops\b|\bFocuses\b|\bExamines\b)", "", s, flags=re.I)
-    s = clean_text(s)
-
-    # Prereq: capture until next known token or end
+    # 1) Extract Prereq first (before removing any prefix)
     m = re.search(
         r"\bPrereq:\s*(.+?)(?=(\b[UG]\s*\(|\b\d+\s*-\s*\d+\s*-\s*\d+\s*units\b|\b\d+\s*units\b|$))",
         s,
@@ -90,20 +85,29 @@ def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], 
         prereq = clean_text(m.group(1))
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Level/term: capture U(...) or G(...)
-    # Accepts forms like "U (Spring)", "G (Fall, Spring)", etc.
+    # 2) Extract level/term like "U (Spring)" or "G (Fall, Spring)"
     m = re.search(r"\b([UG])\s*\(([^)]+)\)\b", s)
     if m:
         level_term = clean_text(f"{m.group(1)} ({m.group(2)})")
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Units: "3-2-7 units" or "12 units"
+    # 3) Extract units like "3-2-7 units" or "12 units"
     m = re.search(r"\b(\d+\s*-\s*\d+\s*-\s*\d+\s*units|\d+\s*units)\b", s, flags=re.I)
     if m:
         units = clean_text(m.group(1))
         s = clean_text(s[:m.start()] + " " + s[m.end():])
 
-    # Remove stray punctuation artifacts like " . " after deletions
+    # 4) Now remove leading "Subject meets with ..." if present.
+    # We remove up to the first strong narrative verb to avoid eating real content.
+    s = re.sub(
+        r"^\s*Subject meets with\b.*?(?=\b(Presents|Introduces|Provides|Covers|Explores|Develops|Focuses|Examines|Studies|Designs|Addresses)\b)",
+        "",
+        s,
+        flags=re.I,
+    )
+    s = clean_text(s)
+
+    # 5) Clean punctuation artifacts after deletions
     s = re.sub(r"\s+\.\s+", " ", s)
     s = clean_text(s)
 
