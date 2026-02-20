@@ -63,6 +63,47 @@ def clean_text(s: str) -> str:
     return s
 
 
+def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], Optional[str]]:
+    """
+    Some catalog pages embed prereq / level-term / units in the same text line.
+    Try to extract them and return:
+      (clean_description, prereq, level_term, units)
+    """
+    s = clean_text(text)
+
+    prereq = None
+    level_term = None
+    units = None
+
+    # Extract "Prereq: ...." up to either " U (" or " G (" or " units" or end.
+    m = re.search(
+        r"\bPrereq:\s*(.+?)(?=(\b[UG]\s*\(|\b\d+\s*-\s*\d+\s*-\s*\d+\s*units\b|\b\d+\s*units\b|$))",
+        s,
+        flags=re.I,
+    )
+    if m:
+        prereq = clean_text(m.group(1))
+        s = clean_text(s[:m.start()] + " " + s[m.end():])
+
+    # Extract level/term like "U (Spring)" or "G (Fall, Spring)"
+    m = re.search(r"\b([UG]\s*\([^)]+\))\b", s)
+    if m:
+        level_term = clean_text(m.group(1))
+        s = clean_text(s[:m.start()] + " " + s[m.end():])
+
+    # Extract units like "3-2-7 units" or "12 units"
+    m = re.search(r"\b(\d+\s*-\s*\d+\s*-\s*\d+\s*units|\d+\s*units)\b", s, flags=re.I)
+    if m:
+        units = clean_text(m.group(1))
+        s = clean_text(s[:m.start()] + " " + s[m.end():])
+
+    # Optional: remove common non-description tags that sometimes appear (REST, CI-H, HASS, etc.)
+    s = re.sub(r"\b(REST|CI-H|CI-M|HASS-[A-Z]+|GIR)\b", "", s)
+    s = clean_text(s)
+
+    return s, prereq, level_term, units
+
+
 def extract_subject_urls(index_html: str) -> List[str]:
     soup = BeautifulSoup(index_html, "html.parser")
     urls: List[str] = []
@@ -131,7 +172,18 @@ def parse_course_page(url: str) -> List[MITCourse]:
         nonlocal current, desc_lines
         if not current:
             return
-        description = clean_text(" ".join(desc_lines))
+        description_raw = clean_text(" ".join(desc_lines))
+        description_clean, prereq2, level2, units2 = peel_embedded_fields(description_raw)
+
+        # Only fill fields if not already captured
+        if current.get("prereq") is None and prereq2:
+            current["prereq"] = prereq2
+        if current.get("level_term") is None and level2:
+            current["level_term"] = level2
+        if current.get("units") is None and units2:
+            current["units"] = units2
+
+        description = description_clean
         courses.append(
             MITCourse(
                 course_id=current["course_id"],
