@@ -1,0 +1,143 @@
+Department of Civil and Environmental Engineering Course 1
+1.44 Law and the Construction Industry
+Prereq.: -
+G (Fall)
+2-0-7 H-LEVEL Grad Credit
+Practical focus on key legal principles applicable to construction. Provides sufficient understanding to manage legal aspects, instead
+of being managed by them. Contractual
+relationships, contract performance, avoiding/resolving disputes, designing procurement
+systems, and legal aspects of contract
+strategies. Case study applications. Topics include forms of organization, changes, differing
+site conditions, designer liability, risk management, public construction, surety bonds, liens,
+E&O insurance, site safety, arbitration, ADR,
+partnering. Invited industry speakers, in-class
+arbitration.
+J. B. Miller
+1.441 Public Infrastructure Development
+Systems
+(New)
+Prereq.: 1.44 or permission of instructor
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Examination of new procurement and project
+management strategies based on financeable
+advances in technology from the private sector. Design of project delivery systems to create and encourage viable projects, new
+technology, private sector capital investment,
+competition, and best value. Systematic
+analysis for aligning technology, revenue, and
+financing opportunities with public infrastructure funding and needs. Case study development for air traffic control, waste water
+treatment, automatic toll collection, and multimodal port development. Invited industry
+speakers.
+J. B. Miller
+1.45 Construction Finance
+Prereq.: -
+1.46 Strategic Management in the Design
+and Construction Value Chain
+Prereq.: Permission of instructor
+G (Spring)
+2-0-7 H-LEVEL Grad Credit
+Examines the fundamental concepts of
+strategic planning and management in the context of the engineering and construction industry. Discusses the basic business
+relationships among firms in the design and
+construction value chain. Specific topics include: industry analysis; strategic planning
+models; human resource strategy; technology
+strategy; strategy in fragmented industries;
+and resource allocation. Case method of instruction is used, supplemented by extensive
+readings.
+J. Macomber
+1.461 Corporate Organization For the Future
+Prereq.: Permission of instructor
+G (Spring)
+2-0-4 H-LEVEL Grad Credit
+Exploration of emerging trends which are
+changing the nature of the engineering and
+construction market and the implications of
+these changes on corporate organization and
+management in the engineering and construction industry. Case study of an actual corporate reorganization is used to illustrate and
+analyze: strategic management documents;
+growth strategies; executive level management roles and responsibilities; and critical
+operational and financial control requirements.
+R. W. Page
+1.462 Marketing Client-Oriented Services
+Prereq.: Permission of instructor
+G (Fall)
+2-0-4 H-LEVEL Grad Credit
+Investigates the design, construction and
+management needs of building sector clients
+in the 1990s. The basic strategic marketing
+program, its interrelationship with the
+G (Fall)
+remainder of the organization, and its essential
+3-0-6 H-LEVEL Grad Credit
+role in the design and construction industry are
+Examination of financing methods and struc- discussed. Subject includes guest lectures by
+ture, project financial evaluation, and financial construction owners, designers, and contracmanagement in the domestic and international tors and a team project to develop business
+construction industry. Analytical concepts and and marketing plans for providing and immethodologies from modern finance theory plementing services in various project stages.
+and practice presented in lecture/discussions J. F. Kennedy
+and applied to case analyses including
+problems in cash flow analysis, corporate finan- 1.471 Management of Large-Scale Systems
+cial structure, project finance, and foreign exchange exposure. Innovative financial Prereq.:
+securities, such as options, and methods such
+as privatization and sale-leaseback are examined. Prior subjects in microeconomics, accounting, and/or corporate finance desirable
+but not required.
+M. V. Samii
+-
+1.472 Innovative Contract Strategies in the
+Public and Private Sectors
+Prereq.: Permission of instructor
+G (Spring)
+2-0-4 H-LEVEL Grad Credit
+Examines the compatibility of various construction contracting methods, consisting of organizations, contracts, and award methods,
+with certain types of projects and owners. Six
+methods are examined: (1) traditional general
+contracting; (2) construction management; (3)
+multiple primes; (4) design-build; (5) turnkey;
+and (6) build-operate-transfer. Subject includes lectures, case studies, guest speakers,
+and a team project to analyze an actual case
+example.
+C. M. Gordon
+1.481 Research Seminar in Construction
+Engineering and Management
+Prereq.:
+G (Spring)
+2-0-4
+Provides an overview of current practices and
+methods for managing the engineering,
+procurement and construction of large-scale infrastructure project. Each year an engineering
+firm, construction firm, government owner, or
+private owner is invited to present a series of
+lectures on actual case examples. For the past
+several years, Boston's Central Artery/Tunnel
+Project has been the topic of the subject.
+Information: C. H. Helliwell.
+-
+G (Fall, Spring)
+1-0-2 [P/D/F]
+Can be repeated for credit
+Seminar intended mainly for master's and doctoral candidates in the Center for Construction
+Research and Education. Oral and written
+presentation by students on thesis activities
+and by faculty on research topics.
+C. H. Helliwell
+1.482 Studies in Construction Engineering
+and Management
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Individual study of an advanced topic in construction engineering and management,
+selected with approval of faculty supervisor.
+F. Moavenzadeh
+Materials and Structures
+1.50 Structural Engineering
+Prereq.: 1.04
+U (Fall)
+3-2-7
+Introduces students to methods for the
+analysis of statically determinate and indeterminate trusses, beams, and frames. Examples
+are: method of sections; conjugate beam
+method; moment distribution; etc. Determination of member forces and structural deformations (displacements); approximate methods;
+structural stability; energy methods (virtual
+force method); introduction to matrix methods.
+E. Kausel
+Descriptions of Subjects 307

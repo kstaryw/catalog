@@ -1,0 +1,60 @@
+Department of Electrical Engineering and Computer Science Course 6
+6.673 Introduction to Numerical Simulation 6.686 Advanced Power Systems I Solid-State Materials and Devices
+in Electrical Engineering
+Prereq.: 6.002 or equivalent
+Prereq.: 6.012 or 6.013 Acad Year 1996-97: G (Fall) 6.720 Integrated Microelectronic Devices
+Acad Year 1996-97: Not offered Acad Year 1997-98: Not offered
+Acad Year 1997-98: G (Spring) 3-0-9 H-LEVEL Grad Credit Prereq.: 6.012 or equivalent
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Basic components of power systems and func- 4-0-8
+Selection of a simulation model and physical tion in interconnected systems: fast dynamics
+approximations. Solution of nonlinear coupled (synchronous generators and their voltage The physics of semiconductor devices for
+PDEs in 1-D through finite difference and finite regulation); slow-speed dynamics (turbines silicon integrated circuit applications. Topics:
+element methods, Newton's method, and and their governor control); networks and con- semiconductor fundamentals, p-n junction,
+variants. Finite difference and finite element sumers; long-term dynamics (boilers, nuclear metal-oxide semiconductor structure, metalmethods in 2-D and sparse matrix methods reactors, and local control). Principles of real- semiconductor junction, MOS field-effect tranemphasizing conjugate gradient algorithms. time monitoring and control of the intercon- sistor, and bipolar junction transistor.
+Semiconductor devices used as primary ex- nected system: automatic generation control Emphasis on building professional device
+amples; additional examples drawn from E&M and reactive flow control. Leads to research models and developing physical intuition
+modeling, nonlinear pulse propagation, and opportunities. Recommended corequisite: through the use of energy band diagrams.
+laser physics. Alternate years. 6.241. Alternate years. First- and second-order effects discussed. IsP. L. Hagelstein M. D. Iic sues in modern device scaling outlined. 2 Engineering Design points.
+J. A. del Alamo
+6.683J Operation and Planning of Electric 6.688J Strategic Analysis for
+Power Environmental Policy Planning, Design,
+and Implementation 6.728 Applied Quantum and Statistical
+(Same subject as TPP.61J) Physics
+Prereq.: 6.061 or 6.013; 15.011 (Same subject as 1.141J, 3.563J, 11.385J, (Revised Units)
+Acad Year 1996-97: Not cffered 22.822J, TPP.121J)
+Acad Year 1997-98: G (Fall) Prereq.: 1.146 or 2.192 or 3.56 or 13.62 or Prereq.: 6.003, 18.06
+3-0-9 H-LEVEL Grad Credit 16.861 or TPP.21 or 11.200 or 11.205 G (Fall)
+G (Spring) 4-0-8
+Focus on worldwide changes in power systems from generation technology to network 3-0-6 H-LEVEL Grad Credit Elementary quantum mechanics and statistical
+operation, including significant customer and See description under subject 1.141J. physics. Introduces applied quantum physics.
+private generation. Topics include evaluation D. H. Marks, R. de Neufville, J. Clark, Emphasizes experimental basis for quantum
+of new technologies in system control; conser- R. Gakenheimer, M. W Golay, D. Sadoway, mechanics. Applies Schrodinger's equation to
+vation and load management; supply; system R. D. Tabors the free particle, tunneling, the harmonic oscileconomics; rate setting; deregulation; cus- lator, and hydrogen atom. Variational
+tomer response to new rates. Electrical and 6.689 Seminar on Power System Modeling, methods. Elementary statistical physics; Fermieconomic analysis of power transfers: wheel- Dynamics, and Control Dirac, Bose-Einstein, and Boltzmann distribuing. Alternate years. (New) tion functions. Simple models for metals,
+M. D. I/ic, R. D. Tabors semiconductors, and devices such as electron
+Prereq.: 6.241 or permission of instructor microscopes, scanning tunneling microscope,
+G (Spring) thermonic emitters, atomic force microscope,
+6.685 Electric Machines
+3-0-9 H-LEVEL Grad Credit more.
+Prereq.: 6.013 and permission of instructor Can be repeated for credit S. D. Senturia, P. L. Hagelstein
+Acad Year 1996-97: G (Spring)
+Seminar on advanced topics in power sysAcad Year 1997-98: Not offered tems. Content varies by semester. Possible 6.730 Physics for Solid-State
+3-0-9 H-LEVEL Grad Credit topics: control and coordination of large-scale Applications
+Treatment of transformers, electromechanical electric power systems with physical and Prereq.: 6.013 or 6.014, 6.728
+transducers, rotating and linear electric economic constraints imposed by a competi- G (Spring)
+machines. Lumped-parameter tive industry; estimation and control of electri- 5-0-7 H-LEVEL Grad Credit
+electromechanics of interaction. Consideration cal machine systems; application of
+of the basic machine types: dc, induction, techniques for nonlinear system analysis to Classical and quantum models of electrons
+synchronous. Development of device charac- study dynamics occurring in electrical energy and lattice vibrations in solids, emphasizing
+teristics: energy conversion density, efficiency; systems. See instructor for details concerning physical models for electronic transport and
+and of system interaction characteristics: material for a particular semester. heat capacity. Crystal lattices, energy band
+regulation, stability, controllability, and M. D. Ilic, B. C. Lesieutre, G. C. Verghese structures in 3D, calculation of 1 D and 2D
+response. Problems taken from current re- band structures, effective mass theorem, semisearch. Alternate years. classical equations of motion, and impurity
+J. L. Kirtley, Jr. states in semiconductors. Band structure and
+transport properties of selected semiconductors. Connection of quantum theory of solids
+with quasifermi levels and Boltzmann transport
+used in device modeling.
+T. P. Orlando, S. D. Senturia
+Descriptions of Subjects 359

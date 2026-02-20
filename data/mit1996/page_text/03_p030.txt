@@ -1,0 +1,109 @@
+Department of Chemical Engineering Course 10
+10.981 Seminar in Colloid and 10.985 Seminar in Combustion Chemistry 10.989 Special Topics in Biotechnology
+Interface Science
+Prereq.: Permission of instructor Prereq.: Permission of instructor
+Prereq.: Permission of instructor G (Fall, Spring) G (Fall, Spring)
+G (Fall, Spring) 2-0-4 [P/D/F] 2-0-4 [P/D/F]
+2-0-4 [P/D/F] Can be repeated for credit Can be repeated for credit
+Can be repeated for credit Readings, presentations, and discussions of Research seminars, presented by graduate
+Review of current topics in colloid and inter- selected, currently active research topics in students and visitors from industry and
+face science. Topics include statistical combustion chemistry. Examples include academia, covering a broad range of topics of
+mechanics and thermodynamics of micellar chemistry and structure of flames, ther- current interest in biotechnology. Discussion
+solutions, self-assembling systems, and mochemical kinetics methods and calculations, focuses on generic questions with potential
+microemulsions; solubilization of simple ions, mathematical modeling and computer analysis biotechnological applications and the quest for
+amino acids, and proteins in reversed micelles; of reaction networks, experimental methods, in- solutions through a coordinated interdisciplienzymatic reactions in reversed micelles; teractions of chemistry with transport and fluid nary approach.
+phase equilibria in colloidal systems; interfacial mechanics. Gr. Stephanopoulos
+phenomena in colloidal systems; biomedical J. B. Howard
+aspects of colloidal systems. 10.990 Introduction to Chemical
+D. Blankschtein, T. A. Hatton, P. E. Laibinis 10.986 Gas-Solid Reactions Engineering Research
+Prereq.: Permission of instructor Prereq.:
+10.982 Special Topics in Experimental
+G (Fall, Spring)
+Colloid and Surface Science
+2-0-4 [P/D/F]
+(Revised Content)
+Can be repeated for credit
+Prereq.: Permission of instructor
+Review of current literature and research on
+G (Fall, Spring)
+gas-solid reactions, with particular emphasis
+2-0-4 [PlO/F]
+on combustion, gasification, and gas absorpCan be repeated for credit
+tion at high temperatures. Includes the
+In-depth discussion of fundamental physical mechanisms and kinetics of gas-solid reacrelationships underlying techniques commonly tions, the characterization of the structure and
+used in the study of colloids and surfaces with modeling of diffusion in porous solids, aerosol
+a focus on recent advances and experimental formation, and growth.
+applications. Topics have included the applica- M. Flytzani-Stephanopoulos, A. F. Sarofim
+tion of steady-state and time-resolved fluorescence spectroscopies, infrared spectroscopy, 10.987 Solid Thin Films and Interfaces
+and scanning probe microscopies.
+T. A. Hatton, P. E. Laibinis Prereq.: Permission of instructor
+G (Fall, Spring)
+2-0-4 [PIDIF]
+10.983 Reactive Processing of Materials Can be repeated for credit
+Prereq.: Permission of instructor
+Current research topics and fundamental isG (Fall, Spring)
+2-0-4 [PIDIF] sues relating the structure and properties of
+solid thin films and interfaces to processing hisCan be repeated for credit
+tory. Emphasis on applying analytical techniAdvanced topics in synthesis of materials ques, such as solid-state NMR, to explore the
+through processes involving transport thermodynamics and kinetics of growth, defect
+phenomena and chemical reactions. Chemical formation, and structural modification incurred
+vapor deposition, plasma processing, and during microelectronics fabrication.
+chemical vapor infiltration, modeling and ex- K. K. Gleason
+perimental approaches to kinetics of gas
+phase and surface reactions, transport 10.988 Synthesis and Surface Chemistry of
+phenomena in complex systems, materials syn- Materials
+thesis, and materials characterization. Seminars by graduate students, postdoctoral Prereq.: Permission of instructor
+associates, participating faculty, and visiting G (Fall, Spring)
+lecturers. 2-0-4 [P/D/F]
+K. F. Jensen Can be repeated for credit
+Lectures, readings, and discussions of novel
+10.984 Biomedical Applications of synthesis of advanced ceramic, catalytic,
+Chemical Engineering electronic, and optical materials by physical
+and chemical routes. Examines surface-strucPrereq.: Permission of instructor
+ture-property relationships of ultrafine
+G (Fall, Spring)
+materials. Utilizes process variables and spe-
+2-0-4 [P/D/F]
+cialized surface characterization techniques to
+Can be repeated for credit
+approach structure tailoring of materials. Open
+Weekly seminar with lectures on current re- to undergraduate students and UROP stusearch by graduate students, postdoctoral fel- dents interested in these selected research
+lows, and visiting scientists on topics related to topics.
+biomedical applications of chemical engineer- J. Y. Ying
+ing. Specific topics include polymeric controlled release technology, extracorporal reactor
+design, biomedical polymers, bioengineering
+aspects of pharmaceuticals, and
+biomaterials/tissue and cell interactions.
+R. S. Langer, L. G. Cima
+-
+G (Fall)
+3-0-3 [P/Of F]
+Can be repeated for credit
+Introduction to research in chemical engineering by faculty of chemical engineering department. Focus is on recent developments and
+research projects available to new graduate
+students.
+P. A. Brown
+10.991 Seminar in Chemical
+Engineering
+Prereq.: Permission of instructor
+G (Fall)
+2-0-4 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+10.992 Seminar in Chemical
+Engineering
+Prereq.: Permission of instructor
+G (Spring)
+2-0-4 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+For students working on doctoral theses.
+R. A. Brown
+10.ThG Graduate Thesis
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of an S.M., Chem.E., Ph.D., or Sc.D.
+thesis; to be arranged by the student and appropriate MIT faculty member.
+R. E. Cohen
+Descriptions of Subjects 393

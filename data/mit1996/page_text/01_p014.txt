@@ -1,0 +1,80 @@
+School of Engineering
+Hydrology and Water Resource 1.713J Land-Atmosphere Interaction 1.721 Advanced Subsurface Hydrology
+Systems (Same subject as 12.826J) Prereq.: 1.72, 18.075, permission of instructor
+Prereq.: 1.71J or 1.714 or permission of in- Acad Year 1996-97: G (Spring)
+structor Acad Year 1997-98: Not offered
+1.70 Environmental Engineering Clinic Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+Prereq.: Permission of instructor Acad Year 1997-98: G (Spring)
+Advanced treatment of flow in natural porous
+U (Spring) 3-0-9 H-LEVEL Grad Credit
+media with applications to resource develop-
+2-8-2
+Exchange of mass, heat, and momentum be- ment and environmental protection. Fluid
+Can be repeated for credit
+tween the soil, vegetation, or water surface transport processes in deformable media,
+Designed to expose students to real-world en- and the overlying atmosphere; flux and boundary conditions, and problem formulation.
+vironmental engineering projects and potential transport in the turbulent boundary layer; Stochastic treatment of temporal and spatial
+employment opportunities. A list of clinic coupled balance of moisture and energy. variability. Contaminant transport, macrodisperprojects - encompassing physical, chemical, Hydrothermal flux and storage in unsaturated sion, tracer tests, salt water intrusion, heat
+and biological aspects of environmental en- porous media. Evapotranspiration, infiltration, transport, unsaturated flow and solute
+gineering - has been developed in consult- and hillslope processes. Diagnostics of global transport, flow and transport in fractured rocks.
+ation with private and public "sponsors" (local cycle of water and energy. Remote sensing Large-scale behavior of heterogeneous media
+consulting firms, state agencies, etc.). Stu- techniques and in situ observation techniques. and uncertainty in model predictions.
+dents select a project, and work jointly with an Introduction to numerical models of coupled at- L. W. Geihar
+individual from the sponsoring firm and an MIT mospheric and hydrologic processes at local,
+faculty member. Requires comprehensive writ- regional, and global scales. 1.723 Groundwater Quality and Remediation
+ten report and oral presentation. D. Entekhabi (Revised Content)
+E. E. Adams
+Prereq.: 1.72
+1.714 Surface Hydrology
+Acad Year 1996-97: Not offered
+1.71J Introduction to Hydrology Prereq.: 1.71J or equivalent Acad Year 1997-98: G (Spring)
+(Same subject as 12.320J) G (Spring) 3-0-9 H-LEVEL Grad Credit
+Prereq.: 1.03, 1.05, or equivalents 3-0-9 H-LEVEL Grad Credit
+Principles and applications of contaminant
+U (Fall)
+Covers observations and theory of the physical transport and transformation processes relat-
+3-0-9
+processes involved in the hydrologic cycle. ing to subsurface water as a natural resource;
+The hydrologic cycle and relevant atmospheric Processes considered include atmospheric sources of contamination, drinking water standprocesses; water and energy balance; radia- radiation and transport, rainfall, infiltration, ards and risk, advection, dispersion, transfortion; precipitation formation; evaporation; runoff generation, stream flow, evaporation, mation, retardation and attenuation of solutes;
+transpiration by vegetation; infiltration and transpiration, rainfall interception, and snow vadose zone transport, multiphase flows,
+storm runoff processes. Groundwater flow and processes. Problem sets, a short term paper, NAPL transport, colloidal transport, sorption,
+the hydraulics of wells. Routing of runoff and and a final examination. volatilization, chemical equilibrium reactions,
+flood water. Probabilistic analysis and extreme- E. A. B. Eltahir and biodegradation; simulation of reactive
+value theory for determination of flood hazard. transport, field-scale processes and
+Data analysis and design in water resource en- 1.715 Environmental Data Analysis heterogeneity, site characterization and disgineering. posal risk assessment models. Alternate years.
+D. Entekhabi Prereq.: 1.03 or equivalent L. W. Geihar
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+1.711 Engineering Hydrology 1.724 Groundwater Modeling
+Covers probabilistic concepts and techniques
+Prereq.: 1.03,1 05, 1.71J Prereq.: 1.72, 18.03 or equivalent
+that are useful for environmental data analysis.
+Acad Year 1996-97: Not offered Acad Year 1996-97: G (Fall)
+The topics include: random variables;
+Acad Year 1997-98: G (Fall) Acad Year 1997-98: Not offered
+hypothesis testing; linear regression, analysis
+3-0-6 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+of trends; space/time domain analysis; frequenModels of hydrologic processes for selected cy domain analysis; simulation of random Fundamentals and applications of numerical
+engineering applications. Rainfall-runoff fields; Markovian processes; derived distribu- modeling to groundwater systems.
+models, flood routing, urban hydrology, tions; and stochastic differential equations. Groundwater modling is presented as a
+flood/drought frequency analysis, loss estima- Problem sets emphasize environmental ap- process in which numerical solutions of the
+tion, groundwater models, and storage plications. governing groundwater flow and contaminant
+analysis. Data sources for hydrologic models: E. A. B. Eltahir transport equations are developed as part of
+instrumentation, measurement systems, an integrated approach that incorporates isremote sensing. Model limitations and the re- 1.72 Groundwater Hydrology sues such as data requirements, natural
+search-practice gap. heterogeneities, and interpretation of modeling
+Consult D. McLaughlin. Prereq.: 1.60 results. Discretization techniques, different
+G (Fall) numerical methods and reactive contaminant
+3-1-8 H-LEVEL Grad Credit transport, calibration targets, sensitivity
+Introduces subsurface flow theory and applica- analysis, and modeling limitations. Alternate
+tions; storage properties, Darcy equation, flow years.
+nets, mass conservation, the aquifer flow equa- D. McLaughlin
+tion, heterogeneity and anisotropy, regional
+vertical circulation, unsaturated flow, and
+recharge. Well hydraulics, stream-aquifer interaction, distributed- and lumped-parameter
+numerical models. Groundwater quality, mixing
+cell models, contaminant transport processes,
+dispersion, decay and adsorption; pollution
+sources. Includes laboratory and computer
+demonstrations. Core requirement for Environmental and Geoenvironmental M.Eng. program.
+L. W. Gelhar
+310 Chapter Vill

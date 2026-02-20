@@ -1,0 +1,121 @@
+Department of Civil and Environmental Engineering Course 1
+1.281 Transportation Economics Geoenvironmental and
+Prereq.: 14.01 Geotechnical Engineering
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+1.30 Introduction to Geotechnical
+Introduction to the economic analysis of Engineering
+transportation markets: urban and intercity,
+Prereq.: 1.04
+passenger and freight, national and internationU (Fall)
+al. Utility theory and its application to transport
+3-2-7
+demand. Production theory and the analysis of
+transport costs. Market structures and Fundamentals of soil mechanics taught in contransport pricing. Externalities. Public goods. text of three to four design exercises. Phase
+The role of government in regulating transport relationships; geostatic stresses: friction
+and providing infrastructure. angles; Rankine and Coulomb earth presInformation: N. H. M. Wilson. sures; effective stress; Darcy's law; heads;
+seepage force; flow nets; compression and
+1.283J The Economics of Cities and swell of clays; consolidation and settlement;
+Regions drained and undrained strength of simple clay;
+effective and total stress paths. Design exer-
+(Same subject as 14.573J, 11.41 0J) cises such as retaining walls with and without
+Prereq.: 14.03 or 14.04 seepage, controlling settlements, and safe conG (Fall) struction of embankments.
+3-0-9 H-LEVEL Grad Credit P. J. Culligan-Hensley
+See description under subject 14.573J.
+W. Wheaton 1.32 Introduction to Engineering Geology
+Prereq.:
+1.284J Regional Economic Theories,
+Accounts, and Techniques
+(Same subject as 11.481 J)
+Prereq.: 14.03, 14.04
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 11.481J.
+K. R. Polenske
+1.285J Regional Socioeconomic Impact
+Analyses and Modeling
+(Same subject as 11.482J)
+Prereq.: 11.481J or permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 11.482J.
+K. R. Polenske
+1.286 Freight Transportation
+Management
+Prereq.: 1.201, 1.03
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Methods for analysis of freight systems, with
+emphasis on rail and motor carrier operations
+and management of carrier assets. Study of
+competitive transportation companies and the
+environment in which they operate. Market issues, organizational structure, information systems, and decisionmaking processes for fleet
+management, facility operations, maintenance,
+and operations/service planning. Case studies
+illustrate effects of regulation, technology,
+labor relations, and competition on carrier
+strategies. Alternate years.
+C. D. Martland
+-
+1.34 Waste Containment and Remediation
+Technology
+Prereq.: 1 .30, permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Focuses on the geotechnical aspects of hazardous waste management, with specific emphasis on the design of land-based waste
+containment structures and hazardous waste
+remediation. Introduction to hazardous waste;
+definition of hazardous waste, regulatory requirements, waste characteristics,
+geochemistry, and contaminant transport. The
+design and operation of waste containment
+structures; landfills, impoundments, and minewaste disposal. The characterization and
+remediation of contaminated sites: the superfund law, preliminary site assessment, site investigation techniques, and remediation
+technologies. Monitoring requirements.
+P. J. Culligan-Hensley
+1.351 Theoretical Soil Mechanics
+Prereq.: 1.361
+Acad Year 1996-97: Not offered
+U (Spring) Acad Year 1997-98: G (Spring)
+3-3-6 REST 3-0-9 H-LEVEL Grad Credit
+Basic principles of physical geology, emphasiz- Presentation of fundamental theories in soil
+ing topics pertinent to environmental and civil mechanics: field equations of linear elasticity,
+engineering. Identification of minerals; ig- solutions of boundary value problems. Introneous, metamorphic, and sedimentary rocks. duction to finite element method. Steady and
+Alluvial, glacial, eolian, lacustrine, marine, and transient flow in porous media; applications in
+colluvial sediments. Weathering. Faults and confined and unconfined seepage, one dimenfractures. Air photos and geologic maps. Field sional consolidation. Introduction to poro-elastrips. Term paper; can be used for Phase 2 of ticity. Yielding and failure of soils, plasticity
+the Writing Requirement. theory and limit analyses; with examples for
+H. H. Einstein bearing capacity and slope stability. Cam Clay
+models and critical state theory of soil behavior.
+A. J. Whittle
+1.322 Soil Behavior
+Prereq.: 1.361 1.361 Advanced Soil Mechanics
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring) Prereq.: 1.30
+3-1-8 H-LEVEL Grad Credit G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Detailed study of soil properties with emphasis
+on interpretation of field and laboratory test Consideration of the following fundamentals of
+data and their use in soft-ground construction soil mechanics: the nature of soil; the effective
+engineering. Includes: consolidation and stress principle; permeability and seepage;
+secondary compression; basic strength prin- stress-strain-strength behavior of cohesionless
+ciples; stress-strain strength behavior of clays, and cohesive soil; lateral earth stresses; bearemphasizing effects of sample disturbance, ing capacity and slope stability; consolidation
+anisotropy and strain rate; strength and com- theory; settlement analyses. Core requirement
+pression of granular soils; engineering proper- for Geoenvironmental M.Eng. program.
+ties of compacted soils. Some knowledge of C. C. Ladd
+field and laboratory testing assumed; 1.37
+desirable. Alternate years. 1.364 Advanced Geotechnical Engineering
+C. C. Ladd Prereq.: 1.30, 1.361
+G (Fall)
+1.331 Soil Dynamics 3-0-9 H-LEVEL Grad Credit
+Prereq.: 1.361
+Site characterization and geotechnical aspects G (Spring)
+of the design and construction of foundation
+3-0-6 H-LEVEL Grad Credit
+systems. Topics include site investigation (with
+Stress-strain behavior during transient and emphasis on in situ testing), shallow (footings
+repeated loadings, relation to wave velocity. and raftings) and deep (piles and caissons)
+Strength degradation and liquefaction. foundations, excavation support systems,
+Analysis of foundations subjected to dynamic groundwater control, slope stability, soil imloadings; effect of soils upon seismic motions; provement (compaction, soil reinforcement,
+earth dams and retaining walls during etc.), and construction monitoring. Core reearthquakes; other selected applications. Alter- quirement for Geoenvironmental M.Eng. pronate years. gram.
+Staff A. J. Whittle
+Descriptions of Subjects 305

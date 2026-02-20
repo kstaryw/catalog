@@ -1,0 +1,81 @@
+Department of Mathematics Course 18
+18.575 Model Theory 18.703 Modern Algebra 18.725 Algebraic Geometry
+Prereq.: Permission of instructor Prereq.: 18.02 or 18.023 or 18.024 Prereq.: 18.705
+Acad Year 1996-97: Not offered U (Spring) Acad Year 1996-97: G (Fall)
+Acad Year 1997-98: G (Spring) 3-0-9 Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+A one-term treatment, covering the traditional
+Topics in model theory chosen from stability algebra topics that have found greatest ap- Introduces the basic notions and techniques of
+theory, O-minimal structures, model-theoretic plication in science and engineering as well as modern algebraic geometry: schemes, maps,
+algebra, models of arithmetic. in mathematics: group theory, emphasizing products, representable functors, and sheaf
+Information: S. D. Friedman. finite groups; ring theory, including ideals, cohomology.
+unique factorization in polynomial and S. Kovacs
+18.585 Set Theory Euclidean rings; field theory, including properties and applications of finite fields. 18.700 and 18.727 Topics in Algebraic Geometry
+Prereq.: Permission of instructor 18.703 together form a standard algebra seG (Spring) quence. Prereq.: 18.725
+3-0-9 H-LEVEL Grad Credit G. Lusztig Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+Topics in set theory chosen from large car-
+3-0-9 H-LEVEL Grad Credit
+dinals, combinatorial set theory, forcing, 18.704 Seminar in Algebra and Number
+Can be repeated for credit
+descriptive set theory, fine structure theory. Theory
+S. D. Friedman Topics vary from year to year. Topic for 1996-
+Prereq.: One subject in linear algebra and
+97: Higher dimensional complex geometry.
+some experience with proofs
+Birational geometry of threefolds, Mori's
+Acad Year 1996-97: Not offered
+theory, basic theorems of the Minimai Model
+Acad Year 1997-98: U (Fall)
+Program, analogy with the classification of surAlgebra and Number 3-0-9 faces.
+Theory Seminar for mathematics majors. Students S. Kovacs
+present and discuss the subject matter, taken
+from current journals or books. Topics may 18.735 Topics in Algebra
+18.700 Linear Algebra vary from year to year.
+Information: D. A. Vogan. Prereq.: 18.702 or 18.703
+Prereq.: 18.02 or 18.02A or 18.023 or 18.024 Acad Year 1996-97: Not offered
+U (Fall) Acad Year 1997-98: G (Spring)
+18.705 Commutative Algebra
+3-0-9 REST 3-0-9 H-LEVEL Grad Credit
+Credit cannot also be received for 18.06 Prereq.: 18.701-18.702 or 18.700-18.703 Can be repeated for credit
+G (Fall)
+A rigorous treatment of linear algebra, includ- Topics vary from year to year.
+3-0-9 H-LEVEL Grad Credit
+ing vector spaces, systems of linear equations, Information: D. A. Vogan.
+bases, linear independence, matrices, deter- Basic topics in commutative algebra: localizaminants, eigenvalues, inner products, quad- tion, primary decomposition, integral depend- 18.737 Quantum Groups
+ratic forms, and canonical forms of matrices. ence, filtrations, flatness, completions, and
+Compared with 18.06, more emphasis on dimension theory. Prereq.: 18.705
+theory and proofs. G. Lusztig Acad Year 1996-97: Not offered
+T. Pantev Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+18.706 Noncommutative Algebra
+18.701 Algebra I Main objective is the construction of semiPrereq.: 18.705
+simple groups and their generalization, the
+Prereq.: 18.700 or 18.100B or permission of in- Acad Year 1996-97: Not offered
+quantum groups, via the theory of quivers. No
+structor Acad Year 1997-98: G (Spring)
+preliminaries in Lie groups or Lie algebras reU (Fall) 3-0-9 H-LEVEL Grad Credit
+quired. Good background in abstract algebra
+3-0-9
+Wedderburn theory, Artinian algebras, tensor useful.
+18.702 Algebra I1 products, cohomology, central simple al- Information: G. Lusztig.
+gebras, Jacobson density theorem, double
+Prereq.: 18.701
+U (Spring) centralizer theorem, Noether-Skolem theorem, 18.739 Theory of Invariants
+Brauer groups, Galois cohomology, crossed
+3-0-9 product algebras, division algebras over local Prereq.: 18.705
+More extensive and theoretical than the fields. Acad Year 1996-97: Not offered
+18.700-18.703 sequence. Experience with Information: G. Lusztig. Acad Year 1997-98: G (Fall)
+proofs helpful. First term: group theory, 3-0-9 H-LEVEL Grad Credit
+geometry, and linear algebra. Second term: 18.715 Topics in Homological Algebra Hilbert's finiteness theorem for reductive
+rings and fields - ideals, polynomial rings, fac- groups. Properties of the orbits and the orbit
+torization, modules, Jordan form for matrices, Prereq.: 18.705 or 18.905 space. Classical invariants theory. Hilbertextension fields, Galois theory. Acad Year 1996-97: G (Fall) Mumford-Richardson theorem. Rosenlicht's
+D. A. Vogan Acad Year 1997-98: Not offered theorem on the existence of invariants. Mat-
+3-0-9 H-LEVEL Grad Credit
+sushima criterion. Richardson's theorem on
+Can be repeated for credit
+the principal stabilizer. Chevalley-LunaTopics vary from year to year. Topic for 1996- Richardson theorem. Linear actions with a non-
+97: Topological cyclic homology. trivial stabilizer. Nice representations. Methods
+L. Hesselholt of the orbit classification. Applications to classical problems of linear algebra. Other topics.
+Information: D. A. Vogan.
+Descriptions of Subjects 483

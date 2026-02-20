@@ -1,0 +1,135 @@
+Sloan School of Management
+15.577 Software Engineering 15.582J Information and Communications:
+Management Technology and Policy
+Prereq.: Permission of instructor (Same subject as TPP.71J)
+Acad Year 1996-97: Not offered Prereq.: Permission of instructor
+Acad Year 1997-98: G (Fall) G (Spring)
+3-0-6 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Focuses on managing and improving the See description under subject TPP.71J.
+delivery of software in organizations, especial- L. McKnight
+ly the management of projects that have been
+described as "programming-in-the-large." 15.599 Workshop in Information Technology
+Through case studies, students are exposed
+to the tools and techniques used on commer- Prereq.: Permission of instructor
+cial systems, and present research results on G (Fall, Spring)
+the state of the art in how best to manage Units arranged
+these projects. Subject places particular em- Can be repeated for credit
+phasis on measurement tools for effective Presentations by faculty, doctoral students,
+managerial planning and control. and guest speakers of ongoing research relatInformation: S. E. Madnick. ing to current issues in information technology,
+as well as discussions of key research papers
+15.578 Communications and Connectivity in the field. Specific topics determined by the
+Among Information Systems interest of participants and by new and important directions in information technology. BackPrereq.: 15.561 or equivalent
+ground readings and active participation by
+G (Spring)
+students expected. Primarily for doctoral stu-
+3-0-6 H-LEVEL Grad Credit
+dents.
+Explores critical issues of communications and E. Brynjolfsson
+connectivity among information systems from
+strategic, organizational, and technical
+perspectives. Strategic connectivity: competitive forces, interlinked value chains, motivating
+Law strategic alliances. Physical connectivity:
+software, hardware, protocols of local-area
+and wide-area communications networks. Logical connectivity: distributed databases, object- 15.601 The American Legal System
+oriented systems, semantic reconciliation. (Subject meets with 15.611)
+Organizational connectivity: loosely coupled or- Prereq.: 14.01 or 14.02 or equivalent
+ganizations, development of standards. U (Fall)
+S. E. Madnick 3-0-6 HASS
+15.611 The American Legal System
+15.579-15.580 Special Seminar in
+Information Technology (Subject meets with 15.601)
+Prereq.: 14.01 or 14.02 or equivalent
+Prereq.: 15.561 or 15.564
+G (Fall)
+G (Fall, Spring)
+3-0-6 H-LEVEL Grad Credit
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit General intensive introduction to law and the
+American legal system. Analyzes components
+Opportunity for group study by graduate stuand operation of the legal process in context of
+dents on current topics related to information
+specific legal problems. Examines judicial
+technology not otherwise included in cur- reasoning and development of legal doctrine.
+riculum. Topics: torts, contracts, criminal and constituS. E. Madnick, T. W. Malone
+tional law, trial procedure and evidence, administrative law, scope of the judicial process,
+15.581 Information Systems and Law
+and the relationships between state and
+Prereq.: Permission of instructor Federal law. Extensive reading of case law.
+Acad Year 1996-97: G (Spring) Participation in class discussion required. No
+Acad Year 1997-98: Not offered listeners.
+3-0-6 H-LEVEL Grad Credit J. A. Meldman
+Examines interlocking technological and legal 15.615 The Manager's Legal Function
+issues that arise in the operation of computerbased information systems in society. Em- Prereq.:
+phasizes, in class discussions and in term
+projects, interdisciplinary definition, analysis,
+and solution of specific problems. Continuing
+effort toward improving and integrating technical, social, and legal concepts of information.
+Topics: protection of personal privacy,
+proprietary rights in software, computer crime,
+computer ethics. No listeners. Alternate years.
+J. A. Meldman
+-
+15.635 Law and International Business
+Prereq.:
+G (Fall, Spring)
+3-0-9 H-LEVEL Grad Credit
+Provides a basic understanding of legal issues
+that corporations meet during their existence.
+Follows one firm throughout its life - from
+birth to bankruptcy, first as a breakaway from
+an established high-tech firm, then proceeding
+through initial funding efforts, establishment of
+its capital and corporate structure, and through
+problems in labor, trade secrets, contracts and
+antitrust, product liability, and resolution of
+transnational and domestic business disputes.
+J. D. Nyhart
+-
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+A management-oriented understanding of international business from a legal perspective. Emphasis on East Asia, Europe, and the US. The
+international, regional, and national law
+frameworks of: trade regulation and import
+competition; transnational contracts and corporations; responsibility to employees, consumers and the environment; regulation of
+competition and collaboration: intellectual
+property and licensing; and law-sensitive transactions such as joint R&D, M&A, financial services, and privatization.
+J. Akula
+15.645 Government and the Management of
+Technology
+Prereq.: -
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+The changing role of government in shaping
+and directing the management of technology
+in the civilian sector of the economy. Principal
+themes: rationales, processes, and
+mechanisms of government involvement;
+promotion and regulation of technological
+development and use by government; and industrial policy in the US and other countries. Illustrative case studies: protection of individual
+property, R&D policy, environmental regulation, administrative law.
+J. D. Nyhart
+15.647-15.649 Special Seminar in Law
+Prereq.: -
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Opportunity for group study by graduate students on current topics related to law not otherwise included in curriculum.
+J. D. Nyhart
+15.655J Law, Technology, and Public
+Policy
+(Same subject as TPP.32J)
+Prereq.: -
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+See description under subject TPP.32J.
+N. A. Ashford, C. C. Caldart
+15.656J Technology, Law, and the Working
+Environment
+(Same subject as 10.805J, TPP.35J)
+Prereq.: -
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 10.805J.
+N. A. Ashford, C. C. Caldart
+446 Chapter Vill

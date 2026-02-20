@@ -1,0 +1,65 @@
+School of Science
+7.15 Experimental Molecular Biology: 7.20 Human Physiology 7.27 Principles of Human Disease
+Biotechnology I (New)
+Prereq.: 7.05
+Prereq.: 7.02, 7.03, 7.05 U (Fall) Prereq.: 7.03, 7.05, 7.06
+U (Fall) 5-0-7 U (Spring)
+2-16-6 4-0-8
+Comprehensive subject in human physiology,
+Molecular genetic technology applied to a con- emphasizing the molecular basis and applied Covers current understanding of and modern
+temporary biomedical research problem in the aspects of organ function and regulation in approaches to human disease, emphasizing
+laboratory. Emphasis on recombinant DNA health and disease. Material covered includes the molecular and cellular basis of both infectechniques and interpretation and communica- a review of cell structure and function, as well tious and inheritable diseases. Specific topics
+tion of experimental results. Recombinant as the mechanisms by which the endocrine include the roles of oncogenes and tumor supDNA methods include PCR, gene cloning, and and nervous systems integrate cellular metabo- pressors in signal transduction, cell cycle conDNA sequencing. lism. Special emphasis on examining the car- trol, and apoptosis; predisposition to cancer
+P. W. Robbins, Staff diovascular, pulmonary, gastrointestinal, and and other genetic diseases; karyoptic analysis
+renal systems. and positional cloning; histopathology; animal
+7.16 Experimental Molecular Biology: R. D. Rosenberg, M. Krieger models of human disease; and disease inducBiotechnology 11 tion by viral and other pathogenic agents.
+7.21 Microbial Physiology T. Jacks, J. A. Lees
+Prereq.: 7.02, 7.03, 7.05
+U (Spring) Prereq.: 7.05, 7.03
+7.29J Cellular Neurobiology
+2-16-6 U (Fall)
+4-0-8 (Same subject as 9.09J)
+Laboratory methodology and theoretical basis
+Prereq.: 7.05
+for cloning and manipulation of genes in Biochemical properties of bacteria and other
+U (Spring)
+eukaryotic organisms. Mammalian cell culture, microorganisms that enable them to grow
+4-0-8
+biological assays with mammalian cells, isola- under a variety of conditions. Interaction betion of hybridomas that secrete monoclonal an- tween bacteria and bacteriophages. Genetic An introduction to the structure and function of
+tibodies, and cloning and expression of genes and metabolic regulation of enzyme action and the nervous system. Emphasis placed on the
+in eukaryotic organisms. enzyme formation. cellular properties of neurons and other exD. Housman, J. Chen G. C. Walker, B. Magasanik citable cells. Includes the structure and
+biophysical properties of excitable cells, synap-
+7.17 Experimental Molecular Biology: 7.22 Developmental Biology tic transmission, neurochemistry,
+Biotechnology Ill neurodevelopment, and integration of informaPrereq.: 7.08 tion in simple systems and the visual system.
+Prereq.: 7.02, 7.03, 7.05 U (Spring) W. G. Quinn
+U (Spring) 4-0-8
+2-16-6
+Principles of embryology and development 7.341-7.346 Advanced Undergraduate
+Molecular genetic technology applied to the with emphasis on vertebrates. The experimen- Seminars
+study of cell biology problems including regula- tal approaches discussed include: genetic
+Prereq.: 7.03, 7.05, 7.06, or 7.08
+tion of the cell cycle and the cytoskeleton. manipulation of vertebrates by transgenic,
+U (Fall, Spring)
+Laboratory emphasizes techniques for cloning micromanipulative, and molecular techniques.
+2-0-4 [P/DIF]
+and sequencing genes from yeast and study- R. Jaenisch, H. Sive
+Can be repeated for credit
+ing the function of normal and mutant human
+genes in yeast. 7.23 General Immunology Seminars covering topics of current interest in
+P. Matsudaira, M. L. Pardue biology. Includes reading and analysis of rePrereq.: 7.05 search papers and student presentations. Fall
+U (Fall)
+7.19 Experimental Cellular Structure 1996-97: 7.341: Development and Evolution
+4-0-8 of the Immune System: 7.342: Regulatory
+Prereq.: 7.06 or 7.08 A comprehensive survey of immunology. In- Gene Transcription; 7.343: Unravelling the
+U (Fall)
+cludes antigen-antibody reactions, im- Mechanisms of DNA Repair by Studying
+2-6-4 munoglooulin structure, organization and Human Disease. Spring 1996-97: 7.344:
+Electron microscopic and related techniques expression of immunoglobulin genes, cells and Human Gene Hunting; 7.345: Tumor Suppresfor investigating the structure of cells and tis- tissues of the immune system, major histocom- sor Genes; 7.346: T-cell Recognition and
+sues with a focus on developmental and patibility complex (MHC), genes encoding Development. Contact Biology Student Office.
+neurobiological problems. Operation of the MHC proteins and T-cell antigen-specific Staff
+transmission and scanning electron micro- receptors, antibody formation, cell-mediated
+scopes and confocal light microscopes. Fixa- immunity, complement, hypersensitivity, imtion, embedding, sectioning, and munodeficiencies, graft rejection.
+immunostaining of cells, embryos, and mature L. Steiner, H. Ploegh, J. Chen
+organs such as eye and muscle.
+S. Penman, P. Reilly
+366 Chapter Vill

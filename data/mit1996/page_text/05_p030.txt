@@ -1,0 +1,110 @@
+Department of Aeronautics and Astronautics Course 16
+Flight Transportation
+16.72 Air Traffic Control
+Prereq.: Permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Introduces the various aspects of present and
+future Air Traffic Control systems. Descriptions
+of the present system: systems-analysis approach to problems of capacity and safety; surveillance, including NAS and ARTS; navigation
+subsystem technology; aircraft guidance and
+control; communications; collision avoidance
+systems; sequencing and spacing in terminal
+areas; future directions and development; critical discussion of past proposals and of probable future problem areas. Requires term
+paper.
+R. J. Hansman
+16.73J Seminar in Air Transportation
+Analysis and Planning
+(Same subject as 1.233J)
+Prereq.: -
+G (Fall)
+1-0-5
+A review of current issues facing the airline industry in operational, economic, financial,
+regulatory, and institutional areas. Seminars
+are presented on alternate weeks by leading
+speakers from airlines, aircraft manufacturers,
+major airports, regulatory agencies, and national and international aviation organizations.
+Preparatory lectures precede each seminar.
+Opportunity for students to conduct studies on
+particular topics, with readings guided by staff.
+Term paper required.
+A. R. Odoni, P. P. Belobaba
+16.74 Air Transportation Economics
+Prereq.: -
+16.76J Logistical and Transportation 16.82 Flight Vehicle Engineering
+Planning Methods
+Prereq.: Permission of department
+(Same subject as 1.203J, 6.281J, 11.526J, U (Spring)
+13.665J, 15.073J) 2-3-7
+Prereq.: 6.431, 15.075
+Design of an atmospheric flight vehicle to satis- G (Fall)
+fy stated performance, stability, and control re- 3-0-9 H-LEVEL Grad Credit
+quirements. Emphasizes individual initiative,
+See description under subject 1.203J. application of fundamental principles, and the
+A. R. Odoni, A. 1. Bamett, R. C. Larson compromises inherent in the engineering
+design process. Enrollment restricted to
+16.77 Flight Transportation Operations seniors in Course XVI who have satisfactorily
+Analysis completed all other Departmental requirements for the S.B. degree, or by permission of
+Prereq.: 15.081J instructor.
+G (Spring) M. Drela, R. J. Hansman
+3-0-6 H-LEVEL Grad Credit
+Studies application of linear programming and 16.83 Space Systems Engineering
+network flow theory to operational problems in
+Prereq.: Permission of department
+flight transportation systems. Reviews graph
+U (Spring)
+theory. Network flow theory. Integer program-
+4-1-7
+ming and branch and bound methods.
+Dynamic programming. Reviews implementa- Design of a complete space system, including
+tion of computerized mathematical program- systems analysis, trajectory analysis, entry
+ming systems. Applies the theory to dynamics, propulsion and power systems,
+scheduling, aircraft and crew routing, timetable structural design, avionics, thermal and enoptimization, passenger traffic flow, flight plan- vironmental control, human factors, support
+ning, etc. Students use computer to solve systems, weight and cost estimates. Students
+large-scale problems and for term project. participate in teams, each responsible for an inStaff tegrated vehicle design, providing experience
+in project organization and interaction between
+16.781J Planning and Design of Airport disciplines. Enrollment is restricted to seniors
+Systems in Course XVI who have satisfactorily completed all other Departmental requirements for
+(Same subject as 1.231J) the S.B. degree, or by permission of instructor.
+Prereq.: Permission of instructor D. E. Hastings
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+16.840 Real-Time Systems for Aerospace
+3-0-6 H-LEVEL Grad Credit
+Vehicles
+See description under subject 1.231 J.
+Prereq.: 16.060, 6.041
+A. R. Odoni, R. de Neutvlie
+G (Spring)
+3-0-9
+Systems engineering concepts and methods
+G (Fall) for aircraft and spacecraft avionics and flight
+3-0-6 H-LEVEL Grad Credit Aeronautical and Astronautical controls. System architectures and interconnection approaches for critical applications.
+Introduces fundamental concepts for the Systems Real-time computer systems, software
+economic analysis of airline systems. Con- development, and communication buses and
+trasts basic models of the operation of air networks. Analysis of redundant systems with
+transport markets with neoclassical 16.800J Aerospace Economics examples from modern aircraft and spacecraft
+microeconomic models. Defines market sys- (Same subject as 14.25J) systems. Probabilistic methods and modeling
+tems for air transport service, and develops a Prereq.: 14.01 for synthesis and evaluation of system architectheory for pricing, demand, costs, and supply U (Fall) tures including covariance analysis, hypothesis
+for regulated and unregulated, domestic and in- 3-0-9 HASS testing, and Markov models.
+ternational markets. Presents market models J. J. Deyst
+for equilibria in isolated markets and over a net- Applies basic microeconomic theory to
+work of markets. aerospace industries and markets, including
+P. P. Belobaba aircraft manufacturing, air transportation sys- 16.851 Satellite Engineering
+tems, and commercial space ventures. Prereq.: Permission of instructor
+16.75 Airline Management Focuses on industry structure and firm be- Acad Year 1996-97: G (Fall)
+havior, measures of concentration, regulation, Acad Year 1997-98: Not offered
+Prereq.: 16.74 and government subsidy issues, as well as 3-0-9 H-LEVEL Grad Credit
+G (Spring) cost/benefit analysis. Specific topics include
+3-0-6 H-LEVEL Grad Credit competition among aircraft manufacturers, im- Fundamentals of satellite engineering design.
+pacts of airline deregulation, and evaluation of Studies orbital environment. Analyzes
+Overview of airline management problems large-scale space projects. problems of station keeping, attitude control,
+focusing on current issues. Development of P. P. Belobaba communications, power generation, structural
+planning models and data analysis tools, with design, thermal balance, and subsystem inemphasis on the interactions between diverse tegration. Considers trade-offs among weight,
+components of airline operations, including efficiency, cost, and reliability. Discusses
+fleet planning, demand forecasting, overbook- choice of design parameters, such as size,
+ing, yield management, scheduling, and route weight, power levels, temperature limits, frenetwork design. Students participate in a com- quency, bandwidth. Examples taken from curpetitive airline management simulation game
+rent satellite systems.
+as part of the subject requirements. W. M. Hollister
+P. P. Belobaba
+Descriptions of Subjects 461

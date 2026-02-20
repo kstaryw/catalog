@@ -1,0 +1,114 @@
+Physics
+For degree requirements, see listing in
+Chapter VII under the School of Science.
+General Undergraduate
+Subjects
+8.UR Undergraduate Research
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+Undergraduate research opportunities in
+physics. For further information, contact the
+Departmental UROP Coordinator.
+D. E. Pritchard
+8.01 Physics I
+Prereq.: -
+U (Fall, Spring)
+5-0-7 PHYSICS I
+Credit cannot also be received for 8.012 or
+8.01 X
+Introduces classical mechanics. Space and
+time: straight-line kinematics; motion in a
+plane; forces and equilibrium; experimental
+basis of Newton's laws; particle dynamics;
+universal gravitation; collisions and conservation laws; work and potential energy; vibrational motion; conservative forces; inertial forces
+and non-inertial frames; central force motions;
+rigid bodies and rotational dynamics.
+Fall Term: W. Busza and Staff
+Spring Term: B. Wyslouch
+8.012 Physics I
+Prereq.: -
+8.01X Physics I
+Prereq.:
+U (Fall)
+5-0-7 PHYSICS I
+Credit cannot also be received for 8.01 or
+8.01X
+Elementary mechanics, presented at greater
+depth than in 8.01. Newton's laws, concepts of
+momentum, energy, angular momentum, rigid body motion, non-inertial systems. Uses
+elementary calculus freely. Concurrent registration in a math subject more advanced than
+18.01 is recommended. In addition to the
+theoretical subject matter, several experiments
+in classical mechanics are performed by the
+students in the laboratory.
+W. Ketterle
+-
+U (Fall)
+5-0-7 PHYSICS I
+Credit cannot also be received for 8.01 or
+8.012
+An introduction to basic topics in physics, supported by take-home experiments. The sequence of topics includes space and time;
+force, work, and mechanical energy; heat and
+mechanical/thermal energy conversions;
+electrical and chemical energy; atomicity and
+kinetic theory of gases; introduction to wave
+motion; Newtonian mechanics and gravitation;
+simple harmonic motion in mechanical systems. Kits of equipment are provided for the
+performance of a relevant take-home experiment as part of the homework each week.
+Many of the experiments involve simple electrical and electronic instrumentation.
+P. Dourmashkin, H. V. Bradt
+8.01 L Physics I
+Prereq.: -
+Department of Physics Course 8
+Course 8
+8.02 Physics I
+Prereq.: 8.01 or 8.01X or 8.01L or 8.012; 18.01
+U (Fall, Spring)
+5-0-7 PHYSICS 11
+Credit cannot also be received for 8.022
+Introduction to electromagnetism and electrostatics: electric charge, Coulomb's law, electric
+structure of matter; conductors and dielectrics.
+Concepts of electrostatic field and potential,
+electrostatic energy. Electric currents, magnetic fields and Ampere's law. Magnetic
+materials. Time-varying fields and Faraday's
+law of induction. Basic electric circuits.
+Electromagnetic waves and Maxwell's equations. Credit cannot also be received for 8.02X.
+Fall Term: D. Kleppner
+Spring Term: J. L. Tonry
+8.022 Physics 11
+Prereq.: 8.012, 18.02
+U (Fall, Spring)
+5-0-7 PHYSICS 11
+Credit cannot also be received for 8.02
+Parallel to 8.02, but more advanced mathe- U (Fall)
+matically. Some knowledge of vector calculus 3-0-9 PHYSICS I
+assumed. Maxwell's equations, in both difIntroduction to classical mechanics (see ferential and integral form. Electrostatic and
+description under 8.01). Material is covered magnetic vector potential. Properties of
+over a Longer interval, so that the subject is dielectrics and magnetic materials. In addition
+completed by the end of the Independent Ac- to the theoretical subject matter, several experitivities Period. During the first month of clas- ments in electricity and magnetism are perses, substantial emphasis is given to reviewing formed by the students in the laboratory.
+and strengthening pre-calculus mathematics, Credit cannot also be received for 8.02X.
+basic physics concepts, and problem-solving Fall Term: R. Ashoori
+skills. Delay in the use of calculus permits stu- Spring Term: P. Fisher
+dents more exposure to 18.01 before the
+material is used in the physics. Overall con- 8.02X Physics 11
+tent, depth, and difficulty is otherwise identical
+to that of 8.01. Enrollment is limited to 100 Prereq.: 8.01, 8.01 X, or 8.012
+freshmen. Students receive credit for 8.01 on U (Spring)
+their transcripts. Credit cannot also be 5-0-7 PHYSICS 11
+received for 8.012 or 8.01 X. Designed as a sequel to 8.01X, which is the G. Stephans recommended but not required prerequisite.
+Main emphasis on electricity and magnetism.
+Topics include currents and DC circuits;
+capacitance, resistance, and nonsteady currents; Coulomb's Law and electrostatic fields;
+Gauss's Law; electric potential; magnetic fields
+of currents; electromagnetic induction; magnetism and matter; AC circuits and resonance;
+Maxwell's equations; electromagnetic fields in
+space; electromagnetism and relativity;
+electromagnetic radiation as waves and
+photons. Kits of equipment are provided for
+the performance of a relevant take-home experiment as part of the homework each week.
+Credit cannot also be received for 8.02 or
+8.022.
+J. L. Matthews
+Descriptions of Subjects 371

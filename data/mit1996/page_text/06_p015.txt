@@ -1,0 +1,87 @@
+School of Science
+18.354 Fluid Mechanics 18.385 Nonlinear Dynamics and Chaos Theoretical Computer
+Prereq.: 18.04 or 18.075 Prereq.: 18.03 or 18.034 Science
+U (Fall) G (Fall)
+3-0-9 (H except XVIII) 3-0-9 H-LEVEL Grad Credit
+18.400J Automata, Computability, and
+Study of the basic concepts and laws of fluid Introduces nonlinear dynamics with applicaComplexity
+motion as illustrated by a variety of readily ob- tions to physics, engineering, and biology, emservable phenomena and applications in phasizes analytical methods, examples, and (Same subject as 6.045J)
+science and technology: viscosity, vortices, geometric thinking. Topics: One- and two- Prereq.: 6.046J
+waves, boundary layers, instability. dimensional flows and their bifurcations. Non- U (Spring)
+H. P. Greenspan linear oscillators. Chaos. Lorenz equations. 4-0-8
+Iterated maps. Period doubling and renorSee description under subject 6.045J.
+18.355 Fluid Mechanics malization. Fractals. N. A. Lynch
+R. R. Rosales
+Prereq.: 18.354, 12.800, 2.25, 16.121 or
+equivalent 18.404J Theory of Computation
+18.386 Advanced Nonlinear Dynamics and
+G (Spring)
+Chaos (Same subject as 6.840J)
+3-0-9 H-LEVEL Grad Credit
+Prereq.: 18.310 or 18.063
+Prereq.. 18.385 or a solid background in nonCompact reviews of linear theories in fluid G (Fall)
+linear dynamics
+dynamics: boundary layers; instability; wave 4-0-8 (H except XVIII)
+Acad Year 1996-97: G (Spring)
+theory; and hydromagnetics. Foundations of
+Acad Year 1997-98: Not offered A more extensive and theoretical treatment of
+non-linear studies in shear flow, convection,
+3-0-9 H-LEVEL Grad Credit the material in 6.045J/18.400J, emphasizing
+and vortex waves. Preparation for the more
+computability and computational complexity
+specialized fluids subjects 18.308, 18.356, and Topics: Melnikov's method. Conservative
+theory. Regular and context-free languages.
+18.358. dynamical systems: Kam theorem; averaging.
+Decidable and undecidable problems,
+W. V. R. Malkus Applications to biology and physics.
+reducibility, recursive function theory. Time
+M. Brenner
+and space measures on computation, com-
+18.356 Rotating Fluids pleteness, hierarchy theorems, inherently comPrereq.: 18.305, 18.354 18.395 Group Theory with Applications to plex problems, probabilistic and quantum
+G (Spring) Physics computation, interactive proof systems.
+3-0-9 H-LEVEL Grad Credit Prereq.: 8.321 M. Sipser
+Acad Year 1996-97: Not offered
+General theory of rotating fluids; transient
+Acad Year 1997-98: G (Fall) 18.405J Advanced Complexity Theory
+flows; boundary layers, nonlinear interactions;
+3-0-9 H-LEVEL Grad Credit
+wave motion, stability theory. Application to (Same subject as 6.841J)
+technological and geophysical problems. Selection of topics from the theory of finite Prereq.: 6.840J/18.404J
+H. P. Greenspan groups, Lie groups, and group repre- G (Spring)
+sentations, motivated by quantum mechanics 3-0-9 H-LEVEL Grad Credit
+18.357 Seminar in Fluid Dynamics and particle physics. 8.322 and 8.323 helpful. Current research topics in computational comInformation: D. Z. Freedman.
+Prereq.: 18.354 plexity theory. Nondeterministic, alternating,
+Acad Year 1996-97: Not offered probabilistic, and parallel computation models.
+Acad Year 1997-98: G (Spring) 18.396J Supersymmetric Quantum Field Boolean circuits. Complexity classes and com-
+3-0-9 H-LEVEL Grad Credit Theories plete sets. The polynomial-time hierarchy. InCan be repeated for credit (Same subject as 8.896J) teractive proof systems. Relativization.
+Prereq.: 8.323 Definitions of randomness. Interactive proof
+Current developments in the theory and prac- Acad Year 1996-97: Not offered systems and probabilistically checkable proofs.
+tice of the centrifugal separation of mixtures Acad Year 1997-98: G (Fall) Approaches to the P = NP? and related quesare discussed following a presentation of the 3-0-9 H-LEVEL Grad Credit tions.
+relevant theory of rotating fluids. A seminar for- Can be repeated for credit D. Spielman
+mat with readings of published research complemented by laboratory demonstrations. Topics selected from the following: 1) SUSY al-
+18.409 Topics in Theoretical Computer
+Information: H. P. Greenspan. gebras and their particle representations, 2)
+Science
+Weyl and Majorana spinors, 3) Lagrangians of
+18.358 Hydrodynamic Stability and basic 4-dimensional SUSY theories, both rigid Prereq.: Permission of instructor
+Turbulence SUSY and supergravity, 4) supermultiplets of G (Fall)
+fields and superspace methods, 5) renor- 3-0-9 H-LEVEL Grad Credit
+Prereq.: 18.354 malization properties, and the non-renormaliza- Can be repeated for credit
+Acad Year 1996-97: G (Spring) tion theorem, 6) spontaneous breakdown of
+Acad Year 1997-98: Not offered SUSY, 7) phenomenological SUSY theories. Study of an area of current interest in theoreti-
+3-0-9 H-LEVEL Grad Credit Some prior knowledge of Noether's theorem, c to a l t e c r o m m . p T u o te p r ic s f c o ie r n 1 c 9 e 9 . 6 T -9 o 7 p : ic A v lg a o ri r e it s h m fro ic m term
+Dispersive waves in fluids and instability of derivation and use of Feynman rules, I-loop aspects of computational molecular biology.
+shear flows. Emphasis on nonlinear effects. renormalization, and gauge theories is essen- B. Berger
+Surface waves, internal waves, inertial waves, tial.
+waves on thin films. Resonant and long-short Information: D. Z. Freedman.
+18.410J Introduction to Algorithms
+interactions. Solitons and nonelastic solitary
+wave interactions. Wave turbulence. In- (Same subject as 6.046J)
+stabilities, bifurcations and generic self-sustain- Prereq.: 6.001; 6.042J
+ing process in shear flows. Characteristics of U (Fall, Spring)
+turbulent boundary layers. 4-0-8
+F. Waleffe
+See description under subject 6.046J.
+Fall Term: C. E. Leiserson
+Spring Term: M. Goemans
+480 Chapter VIII

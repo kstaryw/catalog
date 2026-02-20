@@ -1,0 +1,75 @@
+School of Engineering
+Manufacturing 2.82 Introduction to Manufacturing System 2.852 Manufacturing Systems Analysis
+Design
+Prereq.: 6.041, permission of instructor
+(New)
+2.800 Tribology G (Spring)
+Prereq.: 2.008 3-0-9 H-LEVEL Grad Credit
+Prereq.: Permission of instructor U (Spring)
+G (Fall) 3-6-3 Institute LAB Models of manufacturing systems, including
+3-0-9 H-LEVEL Grad Credit transfer lines and flexible manufacturing sysConcentrates on the design of manufacturing tems. Calculation of performance measures, inGeometric, chemical, and physical charac- systems. Goal is to design a lean manufactur- cluding throughput, in-process inventory, and
+terization of surfaces. Various theories of fric- ing system. By designing an actual manufactur- meeting production commitments. Real-time
+tion and wear of metals, polymers, and ing system, students understand the control of scheduling. Effects of machine
+ceramics. Special emphasis on delamination engineering design principles necessary to failure, set-ups, and other disruptions on systheory, discussion of erosion, boundary lubrica- enable the implementation and advancement tem performance.
+tion and solid-film lubrication. Rolling contact of manufacturing system design. Design areas S. B. Gershwin
+problems. Tribological problems in magnetic include factory design, the formation of
+recording and electrical contacts. Monitoring manufacturing cells (manned and automated), 2.870 Total Quality Development
+and diagnosis of friction and wear. Case machine and setup design for manufacturing
+studies. flexibility, and the use of information to control Prereq.: Permission of instructor required for
+N. P. Suh, N. Saka manufacturing systems. Elective unit distribu- undergraduates
+tion: Advanced disciplinary 6, design 3, lab 3. G (Fall)
+2.810 Fundamentals of Manufacturing D. Cochran 3-3-6 H-LEVEL Grad Credit
+Processes Total development process that begins with
+Prereq.: 2.001, 2.006, 2.008, or equivalents 2.822 Design and Manufacture with strategic needs and voice of customer and conG (Fall) Composite Materials cludes with new product in production. Topics
+3-3-6 H-LEVEL Grad Credit Prereq.: 2.001, 2.006, 2.30, or equivalent include House of Quality, Pugh Concept Selection, Extended and Enhanced QFD, robustG (Spring)
+Introduction to manufacturing processes includ- ness optimization (Taguchi), on-line QC, and
+ing machining, injection molding, casting, com- 3-0-9 H-LEVEL Grad Credit holistic management. All topics are integrated
+posites, assembly, and others. Emphasis on Theory and practice of how structures are into world-class concurrent engineering, an inthe physics and the stochastic nature of the designed and built out of composite materials. depth enhancement of basic TOM. Emphasis
+processes, and how these control the quality, Principles introduced through case studies and is on recent improvements in industrial pracrate, cost, and flexibility. Engineering analysis laboratory demonstrations include: solid tice.
+and probabilistic treatment include such topics mechanics, anisotropy, differential geometry, D. Clausing
+as shrinkage and positioning errors, heat trans- consolidation and flow through porous media,
+fer, physical rate limits, information theory, and forming, automation, assembly, and 2.882 Principles of Axiomatic Design
+design for manufacture. Group project requires economics. Future developments in composite
+fabrication of a product using several proces- materials, markets, and processes discussed. Prereq.: 2.001, 2.006, 2.30, 2.005
+ses, usually including CNC machining, injec- T. G. Gutowski G (Spring)
+tion molding, casting, and others. Discussion 3-0-9 H-LEVEL Grad Credit
+of new process development and potential 2.830 Control of Manufacturing Introduction to design and design processes
+competitive advantages.
+Processes for products, processes, and systems; introducT. G. Gutowski, J.-H. Chun
+tion to design axioms, corollaries, and
+Prereq.: 2.010 or 15.075 or equivalent
+theorems; mathematical representation of
+G (Spring)
+2.812 The Design and Control of design; formulation of design matrix; analysis
+Manufacturing Systems 3-0-9 H-LEVEL Grad Credit of functional independence; graphical repre-
+(New) Process control in manufacturing processes. sentation of functional independence; measure
+Prereq.: 2.810 or permission of instructor Discrete system feedback control theory, em- of information content; application to process
+G (Spring) pirical/adaptive modeling, and basic process planning; case studies involving real industrial
+3-6-3 H-LEVEL Grad Credit physics understanding. A general framework problems; robust design; optimization of
+for modeling and control of manufacturing designs. Design of Thinking Design Machine.
+Focuses on the history, development, and processes is developed. Various existing N. P. Suh
+design of manufacturing systems. Project em- forms of process control are studied, including
+phasis on designing a lean production system. off-line optimization, statistical process control, 2.890J Proseminar in Manufacturing
+Covers factory design, the design and forma- and real-time machine and process control.
+tion of manufacturing cells (manned and The control approach to process physics is ex- (Same subject as 15.792J, 3.80J, 10.792J,
+automated), machine and setup design for amined in the context of specific manufactur- 16.985J)
+manufacturing flexibility, and the use of infor- ing processes. Prereq.:
+mation to control manufacturing systems. D. E. Hardt
+Relationships with area manufacturers have
+been established so that actual manufacturing 2.851J System Optimization and Analysis
+system design problems are examined and for Manufacturing
+solved in conjunction with the term project.
+D. Cochran (Same subject as 15.066J, 3.83,J)
+Prereq.: 18.02
+G (Summer)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 15.066J.
+S. C. Graves, J. P. Clark
+-
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+See description under subject 15.792J.
+Fall Term: D. B. Rosenfield
+Spring Term: J. Carroll
+322 Chapter Vill

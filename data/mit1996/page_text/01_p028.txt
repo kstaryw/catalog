@@ -1,0 +1,108 @@
+School of Engineering
+2.97, 2.971 Independent Activities
+Prereq.: -
+2.990-2.991 Advanced Topics in Fluid and
+Thermal Sciences
+U (IAP) Prereq.: 2.25, 2.451, 2.55
+Units arranged G (Spring)
+Can be repeated for credit 2-0-4 H-LEVEL Grad Credit
+Can be repeated for credit
+For undergraduates desiring to carry on independent or group studies during the January Advanced subjects in transport phenomena
+Independent Activities Period. Each student taught for six weeks. Spring 1997: Microscale
+will carry on a program of his or her own choos- Laser Diagnostics and Processing. Principles
+ing, either as an independent worker, or as a of laser-material interactions: electronic strucsmember of a team or class. Special lectures, tures of materials and light absorption/emisseminars, and laboratory projects arranged sion by gas molecules, small particles, and
+when appropriate. Programs arranged on an solids. Microscale energy transfer in laser diagindividual basis in consultation with the instruc- nostics and processing. Optical detection and
+tor. Credit arranged with D. Rowell. 2.971 is imaging. Applications of laser spectroscopy in
+graded P/D/F. combustion, fluid flow, heat transfer, and bioengineering. Laser microfabrication. Extremes
+of laser technology.
+M. Johnson, T. Q. Qiu
+Graduate Seminars in
+2.993-2.995 Special Topics in Mechanical
+Mechanical Engineering Engineering
+Prereq.:
+Check with our Department graduate office
+prior to the beginning of each term for
+other proposed listings.
+2.981 Low-Temperature Refrigeration
+Prereq.: 2.005
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-3-6 H-LEVEL Grad Credit
+Thermodynamic processes for producing lowtemperature refrigeration. Problems of heat exchangers, insulation, and rectification.
+Applications of low-level refrigeration to liquefaction of helium and to application of superconductors. Laboratory projects on related
+topics according to individual interests.
+J. L. Smith, Jr.
+2.982 Microscale Heat Transfer
+Prereq.: 2.51 or equivalent
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Sub-micron structures are the hallmark of
+electronic and biological systems. Microscale
+transport phenomena differ from those in the
+macroscopic realm if a geometric dimension,
+e.g., film thickness, becomes of the order of a
+phenomenological length-scale, e.g., radiation
+wavelength. This seminar introduces the breakdown limits of continuum analyses for radiation, conduction, convection, and phase
+change heat transfer. Participants present
+technical case studies in areas of their interest,
+such as electronic packaging or biological tissues.
+E. Cravalho
+-
+U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+For undergraduates desiring to carry on substantial projects of own choice, under faculty
+supervision, in mechanical engineering. Work
+may be of experimental, theoretical, or design
+nature. Projects may be arranged individually
+in most fields of department interest, i.e., in
+mechanics and materials, thermal and fluid
+sciences, systems and design, and biomedical
+engineering.
+Coordinator: D. Rowell.
+2.996-2.998 Advanced Topics in
+Mechanical Engineering
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Assigned reading and special problems or research in special areas, either theoretical or experimental, or design. Arranged on individual
+basis with instructor in the following areas:
+mechanics and materials, thermal and fluid
+sciences, systems and design, and biomedical
+engineering. Coordinator: A. A. Sonin.
+2.999 Engineer's Degree Thesis Proposal
+Preparation
+Prereq.: -
+2.ThG Graduate Thesis
+Prereq.:
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+For students who must do additional work to
+convert an S.M. Thesis to an M.E. Thesis, or
+for students who do an M.E. Thesis after
+having received an S.M. degree.
+A. A. Sonin
+-
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of an S.M., Ph.D., or Sc.D. thesis; to be
+arranged by the student and an appropriate
+MIT faculty member.
+Consult Department Headquarters.
+2.THU Undergraduate Independent Study
+or Thesis
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Individual self-motivated study, research, or
+design project under faculty supervision.
+Departmental program requirement: Minimum
+of 6 units.
+D. Rowell
+324 Chapter Vill

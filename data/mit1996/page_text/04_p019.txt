@@ -1,0 +1,71 @@
+School of Science
+12.745 Ore Deposition at Submarine Ridge 12.751-12.759 Seminar in Oceanography at 12.802 Wave Motions in the Ocean and
+Axes Woods Hole Atmosphere
+Prereq.: Permission of instructor Prereq.: Permission of instructor (Subject meets with 12.332)
+G (Fall) G (Fall, Spring) Prereq.: 12.800 or equivalent
+3-0-6 H-LEVEL Grad Credit Units arranged [P/D/F] H-LEVEL Grad Credit G (Spring)
+Ridge crest hot springs; description of current- Can be repeated for credit 3-0-9 H-LEVEL Grad Credit
+ly active systems. Geologic and tectonic set- Topics in marine geology and geophysics, Basic ideas of geophysical wave motion in
+ting and exploration strategies. Hydrothermal physical, dynamical, and chemical oceanog- rotating, stratified, and rotating-stratified fluids,
+chemistry of sediment-starved and sediment- raphy. Content varies from term to term. with a theoretical focus but with coverage of
+covered spreading centers and seamounts. 12.755 is letter-graded. salient observations. Begins with general wave
+Thermodynamic modeling of water-rock inter- (Woods Hole Staff) concepts, including the dynamics and
+actions using EQ3/6. Description and clas- kinematics of gravity waves: dispersion, enersification of ore deposits formed on the sea 12.760-12.761 Seminar in Marine Geology gy flux, initial value problems, etc. This foundafloor. Chemical and physical mechanisms of and Geophysics at MIT tion is then used to study internal and inertial
+ore localization. Formation of metalliferous waves, Kelvin, Poincare, and Rossby waves in
+sediments. Prereq.: Permission of instructor homogeneous and stratified fluids. Laplace
+J. M. Edmond G (Fall, Spring) tidal equations are used generically, and apUnits arranged [P/D/F] H-LEVEL Grad Credit plied to actual tides. Other topics include
+12.746 Marine Organic Geochemistry Can be repeated for credit resonant interactions, potential vorticity, waveTopics in marine geology and geophysics mean flow interactions, etc.
+Prereq.: Permission of instructor taught at MIT. Content varies from term to C. Wunsch
+Acad Year 1996-97: G (Spring)
+term. 12.760 is letter-graded.
+Acad Year 1997-98: Not offered
+Marine Geology and Geophysics Staff 12.803 Quasi-balanced Circulations in
+3-0-6 H-LEVEL Grad Credit
+Oceans and Atmospheres
+Provides an understanding of the distribution 12.770-12.771 Seminar in Chemical Prereq.: 12.800, 12.804
+of organic carbon (OC) in marine sediments Oceanography at MIT G (Fall)
+from a global and molecular-level perspective.
+Surveys the mineralization and preservation of Prereq.: Permission of instructor 3-0-9 H-LEVEL Grad Credit
+OC in the water column and within anoxic and G (Fall, Spring) Dynamics of large-scale circulations in oceans
+oxic marine sediments. Topics include OC Units arranged [P/D/F] H-LEVEL Grad Credit and atmospheres, taken concurrently with the
+composition, reactivity and budgets within, and Can be repeated for credit laboratory subject 12.804. Conservation and
+fluxes through, major reservoirs; microbial recy- Topics in chemical oceanography taught at balance principles for large-scale flows;
+cling pathways for OC; models for OC MIT. Content varies from term to term. 12.770 geostrophic adjustment, potential vorticity and
+degradation and preservation; role of anozia in is letter-graded. invertibility; shallow water equations, quasiOC burial; relationships between dissolved Chemical Oceanography Staff geostrophy; nonlinear balance equations. Disand particulate (sinking and suspended) OC; persion and propagation of Rossby waves;
+methods for characterization of sedimentary or- topographic waves. Generation and dissipaganic matter; application of biological markers tion of large-scale eddies, including baroclinic
+as tools in oceanography. Both structural and and barotropic instability as described by
+isotopic aspects are covered. Eady, Charney, and two-layer models; the
+Meteorology and Oceanography
+(Woods Hole Staff): D. Repeta, W. R. Martin Rayleigh, Fjortoft, Charney-Stern, and Arnol'd
+theorems; effects of surface friction and phase
+12.747 Modeling, Data Analysis, and 12.800 Fluid Dynamics of the Atmosphere change of water; the superposition principle;
+Numerical Techniques for Geochemistry and Ocean quasi-geostrophic turbulence, fronts and fron-
+(New) togenesis.
+(Subject meets with 12.331) G. Flier, P. Rizzoli, E. Chang
+Prereq.: Permission of instructor Prereq.: 8.03, 18.04
+Acad Year 1996-97: G (Fall) G (Fall) 12.804 Large-scale Flow Dynamics
+Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit Laboratory
+3-0-9 H-LEVEL Grad Credit
+Introductory subject for first-year graduate stu- Prereq.: 12.800, 12.803
+Emphasizes the basic skills needed for han- dents in meteorology and oceanography. G (Fall)
+dling and assimilating data as well as the basic Eulerian and Lagrangian kinematics. Equa- 0-3-6 H-LEVEL Grad Credit
+tool-set for numerical modeling. Uses MATLAB tions of mass, momentum, and energy in
+as its computation engine; begins with an intro- Eulerian form in rotating trame of reference. Laboratory component of subject 12.803.
+duction to MATLAB to ensure familiarity with Vorticity and divergence. Scaling and Analysis of observations of oceanic and atmossoftware. Topics include: probability distribu- geostrophic approximation. Potential vorticity. pheric quasi-balanced flows, computational
+tions, error propagation, least squares and Rossby waves. Ekman layers. Wave motion models, and rotating tank experiments. Ilregression techniques, principle component and instability. Vortex motion. lustrates the basic principles of potential vorand factor analysis, objective mapping, Fourier J. Marshall ticity conservation and inversion, Rossby wave
+and spectral analysis, numerical solutions to propagation, baroclinic instability, and the beODEs and PDEs, finite difference techniques, 12.801 Steady Circulation of the Oceans havior of isolated vortices.
+inverse models, and scientific visualization. L. Illari, G. Flierd, P. Rizzoli, E. Chang
+(Woods Hole Staff): D. Glover, W. Jenkins Prereq.: 12.800
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Fundamental principles in modeling steady
+flows in the ocean and their analogues in the
+atmosphere. Illustrates general methods that
+apply to either fluid and the contrasts between
+them. Includes quasi-geostrophy on the beta
+plane and sphere, Ekman pumping, wind- and
+thermally driven ocean circulation models,
+western-boundary current dynamics, upwelling
+systems.
+(Woods Hole Staff): J. Pedlosky
+416 Chapter VIII

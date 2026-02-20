@@ -1,0 +1,146 @@
+School of Engineering
+6.061 Introduction to Electric Power
+Systems
+Prereq.: 6.002, 6.013
+U (Spring)
+3-0-9
+Fundamentals of energy-handling electric circuits and electromechanical apparatus. Modeling of magnetic field devices and description of
+their behavior using appropriate models.
+Simplification of problems using transformation
+techniques. Power electric circuits, magnetic
+circuits, lumped parameter electromechanics,
+elements of linear and rotating electric
+machinery. Modeling of synchronous, induction, and dc machinery.
+J. L. Kirtley, Jr.
+6.070J Electronics Project Laboratory
+(Same subject as SP.705J)
+Prereq.: -
+U (IAP, Spring)
+2-2-2
+Introduction to electronics test equipment such
+as oscilloscopes, meters (voltage, resistance
+inductance, capacitance, etc.), and signal generators. Hands-on format emphasizes individual instruction and development of skills,
+such as soldering, assembly, and troubleshooting. Students build and keep an electronics kit,
+such as AM-FM superhetrodyne radio, to
+serve as the vehicle for learning about
+electronics test and measurement equipment.
+No previous background in electronics required.
+J. K. Vandiver, B. D. Wedlock
+6.071 Introduction to Electronics
+Prereq.: 18.01, 8.02
+U (Fall)
+4-2-6 REST
+Introductory subject suitable for students with
+little or no previous background in electronics.
+Elementary network theory, diode and transistor circuits, analysis and design of analog and
+digital circuits. Examples emphasize uses of
+electronics in experimental science. Alternate
+week laboratory. 4 Engineering Design Points.
+L. D. Braida, B. D. Wedlock
+6.080J Practicum in Engineering Writing
+and Oral Presentation-Quantitative
+Physiology: Cells and Tissues
+(Same subject as 21W.802J)
+Prereq.: -
+6.090-6.094 Special Subjects in Electrical
+Engineering and Computer Science
+Prereq.:
+U (Fall)
+2-0-4
+See description under subject 21 W.802J.
+T. F. Weiss, E. Barrett, D. M. Freeman
+-
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+6.095-6.099 Special Subjects in Electrical
+Engineering and Computer Science
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+Basic undergraduate subjects not offered in
+the regular curriculum. Consult Department to
+learn of offerings for a particular term. Registration by permission of instructor.
+A. C. Smith
+Undergraduate Laboratory
+Subjects
+6.100 Electrical Engineering and Computer
+Science Laboratory
+Prereq.: -
+6.111 Introductory Digital Systems
+Laboratory
+Prereq.: 6.002 or 6.071 or 16.040
+U (Fall, Spring)
+3-7-2 Institute LAB
+Lectures and labs on digital logic, flipflops,
+PALs, counters, timing, synchronization, finitestate machines and microprogrammed systems prepare students for the design and
+implementation of a final project of their
+choice, e.g., games, music, digital filters,
+graphics, etc. Possible use of lab report for
+Phase I of the Writing Requirement. Six extra
+units possible via adding 6.919 after project
+proposal. 12 Engineering Design Points.
+J. L. Kirtley, Jr., D. E. Troxel
+6.115 Microcomputer Project Laboratory
+Prereq.: 6.111 or 6.004
+U (Fall)
+3-6-3
+Students complete three projects involving
+microprocessors. The first introduces basic
+hardware, software, and development tools
+and provides experience with interrupts, A/D
+converters, communication, digital signal
+processing and control. The second emphasizes planning, testing, and achieving
+specific goals and involves a team effort to
+U (Fall, Spring, Summer)
+build a microprocessor system. The third, of
+Units arranged
+the student's choice, emphasizes creativity
+Can be repeated for credit
+and uniqueness. Lectures accompany the first
+Individual experimental work related to electri- two projects and cover related material. 12 Encal engineering and computer science not gineering Design Points.
+covered by other subjects. Student must make R. D. Thornton
+arrangements with a project supervisor and file
+a proposal endorsed by the supervisor. 6.121J Bioelectronics Project Laboratory
+Departmental approval required. Written report
+(Same subject as HST.575J)
+to be submitted upon completion of work. If
+Prereq.: 6.002 or 6.071
+6.100 is used to satisfy Departmental
+U (Spring)
+Laboratory Requirement, student must register
+2-8-2 Institute LAB
+for 12 units of laboratory credit in the term the
+work is done. Consult Department Under- Project Laboratory in electronic instrumentagraduate Office early in the term. tion, interfacing the analog and digital world.
+A. C. Smith Students specify design, implement, and
+evaluate biomedical instruments, including
+6.101 Introductory Analog Electronics several interrelated analog and digital subsysLaboratory tems. Extensive use of integrated analog circuits and a microprocessor. Classroom
+Prereq.: 6.002 or 6.071
+development of analytic models for complex
+U (Fall, Spring)
+functional components and the measurement
+2-9-1 Institute LAB
+process in the context of a longitudinal
+Introductory experimental laboratory focusing laboratory project. Written report will meet the
+on the design and construction of analog requirements of Phase II writing. 12 Engineerelectronic circuits. Initial lectures and ing Design Points.
+laboratory projects investigate the perfor- S. K. Bums, R. G. Mark
+mance and characteristics of discrete and integrated-circuit components. Design and 6.151 Semiconductor Devices Project
+implementation of independent project. Laboratory
+Provides opportunity to focus on real-world
+Prereq.: 6.152J
+problems with complex objectives and soluU (Spring)
+tions that involve tradeoffs and the use of en-
+0-12-0 Institute LAB
+gineering judgement. 12 Engineering Design
+Points. Student use of the Microelectronics Laboratory
+B. M. Roscoe facilities for individual or team projects in the
+area of design, fabrication, modeling, and characterization of individual MOS or bipolar
+devices, microsensors or microactuators, and
+integrated circuits using these devices. Each
+term, the project topics are selected to fit the
+general areas of development in the
+Laboratory. Enrollment limited. 12 Engineering
+Design Points.
+M. A. Schmidt, C. G. Sodini
+352 Chapter Vill

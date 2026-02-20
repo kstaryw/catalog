@@ -1,0 +1,132 @@
+School of Science
+8.276 Nuclear and Particle Physics 8.287J Observational Techniques of
+Prereq.: 8.05 Optical Astronomy
+Acad Year 1996-97: Not offered (Same subject as 12.410J)
+Acad Year 1997-98: U (Spring) Prereq.: One subject in Astronomy or
+4-0-8 Astrophysics
+U (Fall)
+A modern view of the fundamental structure of 2-4-6 Institute LAB
+matter. Starting from a model that views
+"quarks" as basic building blocks of mesons See description under subject 12.410J.
+and baryons, the properties and interactions of J. L. Elliot
+these particles are established. Quantum numbers and multiplet structure of particle families. 8.289 Techniques of Radio Astronomy
+Nuclei as multibaryon systems: stability, (New)
+radioactive decay, reactions. Current topics in
+nuclear and particle physics research at MIT. Prereq.: 8.04, 8.044
+J. L. Matthews U (IAP)
+1-3-2
+8.282 Introduction to Astrophysics and Instruments and data analysis methods used
+Astronomy in radio astronomy: including antennas,
+receivers, calibration, signal processing, and
+Prereq.: 8.01
+image processing. Emphasis on relating radio
+U (Spring) measurements to the study of astrophysical
+3-0-6 REST phenomena. Includes a project to be carried
+Quantitative introduction to physics of the out with Haystack Observatory's 37-meter
+galaxy and the universe, as determined from a radio telescope.
+variety of astronomical observations and from J. N. Hewitt, Haystack Observatory staff
+cosmic ray and neutrino experiments. Topics:
+the sun and "normal" stars, supernovae, pul- 8.292J Fluid Physics
+sars, globular clusters, compact objects (white
+dwarfs, neutron stars, black holes), optical and (Same subject as 12.330J)
+X-ray stellar binary systems, interstellar Prereq.: 8.044 or 5.60 or permission of instrucmedium and star formation, galaxies, quasars, tor
+and cosmology. Prior knowledge of astronomy U (Spring)
+not necessary. Not usable as a restricted elec- 3-0-9
+tive by physics majors. A physics-based introduction to the properties
+B. F Burke of fluids and fluid systems, with examples
+drawn from a broad range of sciences. Defini-
+8.284 Modern Astrophysics tions of fluids and the notion of continuum.
+Equations of state and continuity; conservation
+Prereq.: 8.04, 8.05 of momentum; the stress tensor; ideal fluids
+U (Fall)
+3-0-9 and Euler's equation; viscosity and NavierStokes equation. Hydrostatics and magApplications of physics (Newtonian, statistical, netohydrodynamics. Energy considerations,
+and quantum mechanics) to fundamental fluid thermodynamics, and isentropic flow.
+processes that occur in celestial objects. In- Compressible vs incompressible and rotational
+cludes main-sequence stars, collapsed stars vs irrotational flow; Bernoulli's theorem; steady
+(white dwarfs, neutron stars, and black holes), flow and streamlines. Circulation and vorticity.
+pulsars, supernovae, the interstellar medium, Thomson's theorem. Boundary layers. Fluid
+galaxies, and as time permits, active galaxies, waves and instabilities. See description under
+quasars, and cosmology. Observational data subject 12.330J.
+discussed. No prior knowledge of astronomy is K. Emanuel, P. Joss
+required.
+P. Schechter 8.299 Physics Teaching
+Prereq.: 8.286 The Early Universe
+Prereq.: 18.03, 8.02
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-0-9 REST
+Introduction to modern cosmology. First half
+deals with the development of the big-bang
+theory from 1915 to 1980, and latter half with
+recent impact of particle theory. Topics: special relativity and the Doppler effect, Newtonian cosmological models, introduction to
+non-Euclidean spaces, thermal radiation and
+early history of the universe, big-bang
+nucleosynthesis, introduction to grand unified
+theories and other recent developments in particle theory, baryogenesis, the inflationary
+universe model, and the evolution of galactic
+structure.
+A. H. Guth
+-
+U (Fall, Spring)
+Units arranged [P/D/F
+Can be repeated for credit
+For qualified undergraduate students interested in gaining some experience in teaching.
+Laboratory, tutorial, or classroom teaching
+under the supervision of a faculty member. Students selected by interview.
+Information: J. W. Belcher.
+8.ThU Undergraduate Physics Thesis
+Prereq.: -
+Graduate Subjects
+General and Mathematical
+Physics
+8.311 Electromagnetic Theory
+Prereq.: 8.07
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+Basic principles of electromagnetism: experimental basis, electrostatics, magnetic
+fields of steady currents, motional e.m.f. and
+electromagnetic induction, Maxwell's equations, propagation and radiation of electromagnetic waves, electric and magnetic properties
+of matter, conservation laws. This is a
+graduate level subject which uses appropriate
+mathematics but whose emphasis is on physical phenomena and principles.
+L. Levitov
+8.312 Electromagnetic Theory
+Prereq.: 8.311
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+Continuation of 8.311 followed by an introduction to classical field theory. Special relativity
+Li6nard-Wiechert potentials, special topics
+(may include bremsstrahlung, virtual photons,
+Cerenkov radiation, multipole radiation, etc.).
+Lagrangian and Hamiltonian field theory: a
+choice among the electromagnetic field, the
+gravitational field (general relativity), nonAbelian gauge fields, and the Dirac electron
+field.
+L. Levitov
+8.321 Quantum Theory I
+Prereq.: 8.05, 8.21
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+8.322 Quantum Theory 1I
+Prereq.: 8.07, 8.321
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+A two-semester subject on quantum theory,
+stressing principles: uncertainty relation, observables, eigenstates, eigenvalues, probabilities of the results of measurement,
+transformation theory, equations of motion,
+constants of motion. Symmetry in quantum
+mechanics, representations of symmetry
+groups. Variational and perturbation approximations. Systems of identical particles
+and applications. Time-dependent perturbation
+theory. Scattering theory: phase shifts, Born
+approximation. The quantum theory of radiation. Second quantization and many-body
+theory. Relativistic quantum mechanics of one
+electron.
+U (Fall, Spring, Summer) J. Negele
+Units arranged
+Can be repeated for credit
+Program of undergraduate research, leading
+to the writing of an S.B. thesis; to be arranged
+by the student under approved supervision.
+J. L. Matthews
+374 Chapter Vill

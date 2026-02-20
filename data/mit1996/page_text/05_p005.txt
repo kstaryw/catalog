@@ -1,0 +1,84 @@
+Sloan School of Management
+15.067 Competitive Decision Making and
+Negotiation
+(Revised Units)
+Prereq.: -
+15.072 Queues: Theory and 15.076 Statistical Methodology
+Applications
+Prereq.: Permission of instructor
+Prereq.: 6.262 or 6.432 G (Spring)
+Acad Year 1996-97: G (Spring) 3-0-9 H-LEVEL Grad Credit
+G (Fall, Spring) Acad Year 1997-98: Not offered
+Designed for Ph.D. students in all disciplines
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+with a strong mathematical background. EmProblems of decision making in competitive Modeling and analysis of queueing systems, phasis on the basic concepts of mathematical
+and conflict situations when behavior of com- with applications in communications, manufac- statistics indicating the relation of theory to
+petitors or adversaries affects decisions. Par- turing, operations research, computers, ser- practice. Topics covered: random variables,
+ticipation in about twenty-two negotiation vice industries, transportation, and urban probability, estimation, hypothesis testing,
+exercises that simulate competitive business systems. Simple Markovian queues, networks regression analysis, and nonparametric statissituations characterized by a high degree of of queues, non-Markovian single and multi- tics. Differs from 15.075 in emphasis on derivauncertainty and sophisticated competitors server queues, priority queues, bounds and ap- tion of the major "elementary" results and
+provides experience in making rapid but calcu- proximations, statistical inference. Leads to theory needed to perform statistical analysis in
+lated decisions. Topics covered are distributive research opportunities. students' own research.
+and integrative bargaining with two or more L. Wein, D. Bertsimas B. Zhou
+parties, auctions, fair division, and coalition formation. Discussion of ethical dilemmas in 15.073J Logistical and Transportation 15.078 Quality Improvement Via Statistics
+negotiation. Planning Methods
+G. M. Kaufman Prereq.: 15.060
+(Same subject as 1.203J, 6.281J, 11.526J, Acad Year 1996-97: Not offered
+13.665J, 16.76J) Acad Year 1997-98: G (Spring)
+15.068 Advanced Statistics
+Prereq.: 6.431, 15.075 3-0-9 H-LEVEL Grad Credit
+Prereq.: 15.061 or equivalent G (Fall)
+Develops students' ability to employ statistical
+G (Spring) 3-0-9 H-LEVEL Grad Credit
+process control and experimental design in pur-
+2-0-4 H-LEVEL Grad Credit
+See description under subject 1.203J. suit of quality improvement. Emphasis is on unFollow-on subject to 15.061. Applied treatment A. I. Barnett, R. C. Larson, A. R. Odoni derstanding the structure of statistical quality
+of analysis of variance, nonparametric control methods and on when and how to
+methods, forecasting, and "reductionist" techni- 15.074 Mathematical Models and Policy deploy them. Managerial issues that arise in
+ques like factor analysis. Analysis the implementation of statistical quality control
+A. /. Bamett are explored via case studies. Students apply
+Prereq.: 15.061 or 15.075 process control charts, experimental designs,
+15.069 Experimental Design and Taguchi G (Spring) and response surface methods to data. Project
+Methods 2-0-4 H-LEVEL Grad Credit required.
+Case-study method exploring strengths and G. M. Kaufman
+Prereq.: 15.064J or 6.430J or equivalent
+weaknesses of mathematical models (especialAcad Year 1996-97: Not offered
+ly those related to data analysis) that affect 15.079 Applied Multivariate Methods
+Acad Year 1997-98: G (Spring)
+decision making of legislatures, corporations,
+2-0-4 H-LEVEL Grad Credit Prereq.: 18.06, 15.075 or 18.441 or 18.443
+courts, and regulatory agencies. Topics: carAcad Year 1996-97: Not offered
+Provides greater depth in statistics and its ap- cinogenic hazards of various substances,
+Acad Year 1997-98: G (Spring)
+plications for first- and second-year Leaders deterrent effect of criminal sanctions, statistical
+3-0-9 H-LEVEL Grad Credit
+for Manufacturing (LFM) students. Primary evidence in job-discrimination proceedings, effocus is on experimental design, response sur- fective operation of mass-transit systems. Theory and application of commonly used techface optimization and Taguchi methods. Other A. /. Barnett niques involving multivariate data. Attention
+topics depend on class interest. Case studies, devoted to specific applications, and to comoften drawn from LFM internship projects, are 15.075 Applied Statistics putational facilities for applying the methods.
+a part of the subject. Primarily for students in Selects topics from the following: multivariate
+the LFM Program; others by permission of in- Prereq.: 6.041 or 18.440 regression, discriminate analysis, and pattern
+structor. G (Fall, Spring) classification. Cluster analysis, factor analysis,
+R. E. Welsch 3-0-9 H-LEVEL Grad Credit and principal components. Multidimensional
+Introduces statistical data analysis, concentrat- scale analysis. Contingency tables.
+15.070 Advanced Stochastic Processes ing on techniques used in management Information: G. M. Kaufman.
+science, finance, and engineering. Topics:
+Prereq.: 6.262, 18.100, or equivalent
+statistical graphics, estimation, forecasting, 15.081J Introduction to Mathematical
+Acad Year 1996-97: Not offered
+statistical computing; basics of sampling, Programming
+Acad Year 1997-98: G (Spring)
+quality control, design of experiments, regres-
+3-0-9 H-LEVEL Grad Credit (Same subject as 6.251J)
+sion, and diagnostics.
+Prereq.: 18.06
+Covers continuous-time stochastic processes. Information: G. M. Kaufman.
+G (Fall)
+Topics include weak convergence, diffusion
+4-0-8 H-LEVEL Grad Credit
+processes, heavy traffic approximations of
+queueing networks, and stochastic integration, See description under subject 6.251J.
+with a strong emphasis on analysis of D. Bertsimas, J. N. Tsitsiklis
+Brownian motion. Examples from several problem areas, including manufacturing, telecommunications, finance, and electrical
+engineering, are discussed to illustrate and
+motivate the mathematical concepts. Alternate
+years.
+V. Nguyen
+436 Chapter Vill

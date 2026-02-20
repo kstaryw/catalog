@@ -1,0 +1,78 @@
+School of Humanities and Social Science
+14.111J Economics of Project 14.125 General Equilibrium 14.141 Disequilibrium Foundations of
+Evaluation Equilibrium Economics
+Prereq.: 14.04
+(Same subject as 1.148J) Acad Year 1996-97: Not offered Prereq.: 14.122
+Prereq.: 14.03 Acad Year 1997-98: G (Spring) G (Spring)
+Acad Year 1996-97: Not offered 4-0-8 H-LEVEL Grad Credit 2-0-4 H-LEVEL Grad Credit
+Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit Topics include Arrow-Debreu economies, Does a competitive economy, with rational
+general equilibrium economies with incomplete agents taking advantage of disequilibrium opEconomic concepts of costs and benefits: markets, informational asymmetries, increas- portunities for arbitrage, tend to approach equiconsumers' and producers' surplus; shadow ing returns, imperfect competition. Mathemati- librium? Is that equilibrium competitive?
+prices; and valuation of nonmarket costs and cal techniques to study existence, regularity, Importance of the subject for the foundations
+benefits. Investment criteria and the discount welfare properties of equilibria. Applications of usual economic analysis and the theory of
+rate: static and dynamic; treatment of risk and provided with special emphasis on financial value. Historical review and modern theory of
+uncertainty. Pricing policies and investment markets, fiscal policy, and regulation. stability in relation to above questions. Halfrules. Case studies in developed and under- Consult A. Bisin. term subject.
+developed countries. F. Fisher
+Consult P. Joskow. 14.126 Game Theory
+14.191 Independent Research Paper
+Prereq.: 14.122
+14.12 Economic Applications of Game
+G (Spring) Prereq.: Permission of instructor
+Theory
+3-0-9 H-LEVEL Grad Credit G (Fall, Spring)
+Prereq.: 14.01 0-12-0 H-LEVEL Grad Credit
+How should economic agents act when their
+U (Fall) Can be repeated for credit
+optimal decisions depend on what they expect
+4-0-8 HASS
+other agents to do? We study various models Under supervision of a faculty member apAnalysis of strategic behavior in multi-person of equilibrium, which correspond to different proved by Graduate Registration Officer, stueconomic settings. Introduction to Nash equi- ways that the agents might make their dent writes a substantial, probably publishable
+librium and its refinements: subgame-perfect decisions, and various kinds of games - static research paper. Must be completed by the end
+equilibrium and sequential equilibrium. Applica- games, dynamic games, and games of incom- of a student's second year to satisfy the
+tions drawn from labor economics, the plete information. departmental minor requirement.
+economics of organization, industrial organiza- A. Baneree, G. Ellison P. Temin
+tion, international trade, and macroeconomics.
+D. Acemoglu 14.127 Economics of Uncertainty 14.192 Supervised Research
+Prereq.: 14.124 Prereq.: Permission of instructor
+14.121 Microeconomic Theory I
+G (Fall) G (Fall, Spring)
+Prereq.: 14.04 and permission of instructor 3-0-9 H-LEVEL Grad Credit Units arranged [P/D/F] H-LEVEL Grad Credit
+G (Fall) Part 1: Fundamentals of information theory, Can be repeated for credit
+2-0-4 H-LEVEL Grad Credit
+with applications to social learning, individual Student participates in research with an inIndividual choice and production, including experimentation, and search theory. Part 11: dividual faculty member, with approval of
+competitive markets and monopoly. Class size Models of decentralized trading with search, Graduate Registration Officer.
+limited. models of trading with imperfect information. P. Temin
+S. Athey D. Acemoglu, L. Smith
+14.193 Seminar: Topics in Economics
+14.122 Microeconomic Theory 11 14.128 Dynamic Optimization and
+Prereq.: 14.121, 14.451
+Economic Applications
+Prereq.: 14.121 and permission of instructor G (Fall)
+G (Fall) Prereq.: 14.101 Units arranged H-LEVEL Grad Credit
+2-0-4 H-LEVEL Grad Credit Acad Year 1996-97: Not offered Can be repeated for credit
+Acad Year 1997-98: G (Spring)
+Introduction to game theory. Class size limited. 14.194 Seminar: Topics in Economics
+4-0-8 H-LEVEL Grad Credit
+G. Ellison
+Prereq.: 14.121, 14.451
+Deterministic optimization: maximum principle,
+G (Spring)
+14.123 Microeconomic Theory IlIl dynamic programming, calculus of variations, Units arranged H-LEVEL Grad Credit
+optimal control, dynamic games. Stochastic opPrereq.: 14.121, 14.122, and permission of in- timization: stochastic optimal control and Can be repeated for credit
+structor dynamic programming, Markov processes, Ito Reading and discussion of special topics in
+G (Spring) calculus, Markov games. Applications. Dynami- economics. Open to advanced graduate stu-
+2-0-4 H-LEVEL Grad Credit cal systems: local and global analysis and dents by arrangement with individual members
+General equilibrium, capital theory, incomplete chaos. of the staff.
+markets, externalities, public goods. Class size Consult A. Bisin. Consult Department Headquarters.
+limited.
+P. A. Diamond 14.129 Contract Theory 14.195, 14.196 Reading Seminar in
+Economics
+Prereq.: 14.121, 14.451
+14.124 Microeconomic Theory IV G (Fall) Prereq.: 14.121
+Prereq.: 14.123 and permission of instructor 4-0-8 H-LEVEL Grad Credit G (Fall, Spring)
+G (Spring) Recent developments in contract theory. In- Units arranged [P/D/F] H-LEVEL Grad Credit
+2-0-4 H-LEVEL Grad Credit cludes hidden action and hidden information Can be repeated for credit
+Information economics, externalities, public models, dynamic agency issues, incomplete Reading and discussion of special topics in
+goods and incentives. Market equilibria and contracts, and applications of contract theory economics. Open to advanced graduate stucontract design. Class size limited. to theories of the firm and corporate financial dents by arrangement with individual members
+B. Holmstrom structure. of the staff.
+S. Athey, B. Holmstrom Consult Department Headquarters.
+428 Chapter Vill

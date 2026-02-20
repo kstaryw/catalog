@@ -1,0 +1,64 @@
+School of Science
+18.745 Introduction to Lie Algebras 18.758 Representations of Lie Groups 18.785 Analytic Number Theory
+Prereq.: 18.701 or 18.703 Prereq.: 18.757 Prereq.: 18.115
+G (Fall) G (Fall) Acad Year 1996-97: G (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+Emphasizes theory of Lie algebras and al- Introduction to D-module approach to repre- 3-0-9 H-LEVEL Grad Credit
+gebraic aspects of Lie theory. Structure of sentation theory of semi-simple Lie groups. A historical approach to analytic number
+finite-dimensional Lie algebras; Engel and Lie P. Pandzid theory. Riemann hypothesis, Goldbach's contheorems, Cartan subalgebras, Cartan jecture, the k-tuple conjecture, Cramer's concriterion. Structure and classification of semi- 18.769 Topics in Lie Theory jecture, Waring's problem, Lindelof's
+simple Lie algebras. Lie algebra cohomology; hypothesis, the class number problem, Siegel
+Weyl and Levi theorems. Finite-dimensional Prereq.: Permission of instructor zeros, Vinogradov's hypothesis, Artin's conjecrepresentations of semi-simple Lie algebras, Acad Year 1996-97: G (Spring) ture, the Linnik-Selberg conjecture, their inWeyl character formula. Verma modules. Acad Year 1997-98: Not offered fluence on the development of analytic number
+G. Lusztig 3-0-9 H-LEVEL Grad Credit theory.
+Can be repeated for credit
+A. Zaharescu
+18.747 Infinite-dimensional Lie Algebras Topics vary from year to year. Topic for 1996-
+Prereq.: 18.745 97: Tensor categories. 18.786 Topics in Number Theory
+A. Kirillov
+Acad Year 1996-97: Not offered Prereq.: Permission of instructor
+Acad Year 1997-98: G (Spring) Acad Year 1996-97: G (Fall)
+3-0-9 H-LEVEL Grad Credit 18.775 Algebraic Number Theory Acad Year 1997-98: Not offered
+Topics vary from year to year. Representation Prereq.: 18.702 3-0-9 H-LEVEL Grad Credit
+theory of aff ine algebras and superalgebras Acad Year 1996-97: Not offered Can be repeated for credit
+and of superconformal algebras. Modular in- Acad Year 1997-98: G (Fall) Content varies from year to year. Topic for
+variance and fusion rules. Vertex operator al- 3-0-9 H-LEVEL Grad Credit 1996-97: L-functions and motives.
+gebras. 18.776 Algebraic Number Theory A. Goncharov
+Information: D. A. Vogan.
+Prereq.: 18.775
+18.755 Introduction to Lie Groups Acad Year 1996-97: Not offered 18.795 Multilinear Algebra
+Acad Year 1997-98: G (Spring) Prereq.: 18.700 or 18.701 or equivalent
+Prereq.: 18.100, 18.700 3-0-9 H-LEVEL Grad Credit Aca Year 1996-97: Not offered
+G 3- 0 (F -9 a ll) H-LEVEL Grad Credit 18.775: The p-adic numbers. Number fields, 3 A - c 0 a - d 9 Y H e - a L r E V 19 E 9 L 7 - G 98 ra : d G C ( r S e p d r it ing)
+rings of integers, valuations. Ramification, difA general introduction to manifolds and Lie ferent and discriminant. Finiteness of ideal Can be repeated for credit
+groups. The role of Lie groups in mathematics class groups. Zeta-function; units and Dirichlet Intensive introduction to the basic concepts of
+and physics. The exponential mapping. Cor- theorem on regulators. Quadratic reciprocity multilinear algebra that are required for the furrespondence with Lie algebras. Homogeneous law, cyclotomic fields and decomposition laws. ther study of combinatorics, topology, alspaces and transformation groups. Adjoint rep- Computation of class numbers of quadratic gebraic topology, and Lie theory. Tensor
+resentation. Compact Lie groups. Structure fields. 18.776: Division algebras and Brauer algebras, exterior algebra, Clifford algebra, reptheory and elementary representation theory. group. Local and global class field theory, in- resentations of the symmetric and general
+P. Pandze cluding the cohomological approach and Lubin- linear group, finer theory of Young symTate theory. Weil group. Tate's duality. metrizers, basic notions of Hopf algebra, intro-
+18.756 Analysis on Lie Groups Information: A. A. Beilinson. duction to supersymmetric algebra.
+Information: G.-C. Rota.
+Prereq.: Elementary knowledge of Lie groups
+18.781 Theory of Numbers
+and manifold theory
+Acad Year 1996-97: G (Spring) Prereq.: 18.701 or 18.703
+Acad Year 1997-98: Not offered U (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 Topology and Geometry
+The wave equation in Euclidean space with Primes, congruences, quadratic reciprocity,
+geometric and physical interpretation of the and arithmetic functions. Distribution of primes,
+solution. Hadamard's theory of second order Euler's zeta function and its values at even in- 18.901 Introduction to Topology
+hyperbolic equations with emphasis on tegers. Irrationality of e and pi. P-adic num- Prereq.: 18.100
+Huygens' principle and conformal transforma- bers. Diophantine equations, rational U (Fall, Spring)
+tions. Solution in spaces of constant curvature approximations, and continued fractions. 3-0-9 (H except XVII1)
+(Riemannian and Lorentzian) obtained by Kronecker's theorem. The geometry of nummeans of Radon transform and orbital in- bers. Quadratic forms and quadratic number Introduces topology, covering topics fundamentegrals. Hadamard's problem in symmetric fields. tal to modern analysis and geometry. Topologispaces, also for multi-temporal wave equa- A. Goncharov cal spaces, connectedness, compactness,
+tions. continuous functions, separation axioms, funcS. Helgason tion spaces. Metrization theorems, the
+Tychonoff theorem.
+Fall Term: J. R. Munkres
+18.757 Representations of Lie Groups
+Spring Term: F. P. Peterson
+Prereq.: 18.755
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+An introduction to representation theory of locally compact groups, with emphasis on compact groups and abelian groups. Peter-Weyl
+theorem and Cartan-Weyl highest weight
+theory for compact Lie groups.
+Information: D. A. Vogan.
+484 Chapter Vill

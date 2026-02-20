@@ -1,0 +1,64 @@
+School of Engineering
+2.073 Solid Mechanics - Plasticity and 2.094 Finite Element Analysis of Solids and 2.141 Modeling and Simulation of Dynamic
+Inelastic Deformation Fluids Systems
+Prereq.: 2.30 Prereq.: 2.01 or 2.001, 18.075 Prereq.: 2.151
+G (Fall) Acad Year 1996-97: G (Fall) G (Fall)
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Physical basis of plastic/inelastic deformation Mathematical modeling of complex engineerof solids. Continuum constitutive models for Basic principles of continuum mechanics and ing systems at a level of detail compatible with
+small and large deformation of elastic- finite element methods, modern application to the design and implementation of modern con-
+(visco)plastic solids. Analytical and numerical solution of practical problems in solid, struc- trol systems. Wave-like and diffusive energy
+solution of selected boundary value problems. tural, and fluid mechanics, heat and mass transmission systems. Multiport energy storing
+Applications to deformation processing of me- transfer, other field problems. Kinematics of fields and dissipative fields; consequences of
+tals. deformation, strain and stress measures, con- symmetry and asymmetry. Nonlinear
+L. Anand, D. M. Parks, M. C. Boyce stitutive relations, conservation laws, virtual mechanics and canonical transformation
+work, and variational principles. Discretization theory. Examples will include mechanisms,
+2.083 Applied Elasticity of governing equations using finite element electromechanical transducers, electronic sysmethods. Solution of central problems using tems, fluid systems, thermal systems. compresPrereq.: 2.30 or 2.002, 18.03 existing computer programs. sible flow processes, chemical processes.
+G (Fall) K. J. Bathe N. Hogan
+3-0-9 H-LEVEL Grad Credit
+Introduction to the theory and applications of 2.151 Advanced System Dynamics and
+elastic solids. Review strain, stress, and stress- Control
+strain law. Several of the following topics:
+System Dynamics and Prereq.: 2.02 or 2.003, 2.14, 18.06
+Anisotropic material behavior. Piezoelectric
+G (Fall, Spring)
+materials. Effective properties of composites. Control
+3-0-9 H-LEVEL Grad Credit
+Structural mechanics of beams and plates.
+Energy methods for structures. Two-dimen- Analytical and graphical descriptions of statesional problems. Stress concentration at 2.100 Information and Probability determined dynamic physical systems; time
+cavities, concentrated loads, cracks, and dis- (New) and frequency domain representations; syslocations. Variational methods and their ap- tem characteristics - controllability, obserPrereq.: 2.003
+plications; introduction to the finite element vability, stability; linear and nonlinear system
+U (Fall)
+method. Introduction to wave propagation. responses. Modification of system charac-
+3-0-9
+J. H. Williams, Jr., R. Abeyaratne teristics using feedback. State observers, KalRobots, gas turbines, and toasters share a man filters. Modeling/performance trade-offs in
+2.084J Structural Mechanics in Nuclear common feature: they have to get and process control system design. Emphasis on applicaPower Technology information in order to function. Subject tion of techniques to physical systems.
+provides an introduction to information theory K. Youcef-Toumi, N. Hogan, D. Rowell
+(Same subject as 22.314J, 1.56J, 13.14J) as applied to problems in control, design, and
+Prereq.: Permission of instructor manufacturing. Topics treated include prob- 2.152 Nonlinear Control System Design
+Acad Year 1996-97: Not offered ability and statistics, channel capacity and comAcad Year 1997-98: G (Spring) munications, the characterization and control Prereq.: 2.151 or 6.241 or equivalent
+3-0-9 H-LEVEL Grad Credit of noisy systems, the generation and propaga- G (Spring)
+See description under subject 22.314J. tion of errors in manufacturing, and the 3-0-9 H-LEVEL Grad Credit
+J. E. Meyer, 0. Buyukozturk mechanics and design of information-process- Introduction to applied nonlinear control. Noning devices. Elective unit distribution: ad- linear stability theory, Lyapunov analysis,
+2.093 Computer Methods in Dynamics vanced disciplinary, 9; design, 3. Barbalat's lemma. Feedback linearization, inS. Lloyd ternal dynamics. Sliding surfaces. Adaptive
+Prereq.: 2.03J, 18.075 nonlinear control. Stable neural network conG (Spring) 2.101 Computer Models of Physical and trol, multiresolution analysis. Emphasis on ap-
+3-0-9 H-LEVEL Grad Credit Engineering Systems plications to physical systems (robots, aircraft,
+Formulation of finite element methods for Prereq.: 18.03 or 18.034, 1.00 spacecraft, underwater vehicles).
+analysis of dynamic problems in solids, struc- U (Spring) J.-J. E. Slotine
+tures, fluid mechanics, and heat transfer. Com- 3-1-8
+puter calculation of matrices and numerical 2.153 Adaptive Control: Theory and
+solution of equilibrium equations by direct in- Engineering School-Wide Elective Subject. Applications
+tegration and mode superposition. Effective Description given at end of this chapter in
+eigensolution techniques for calculation of fre- SWE section on page 562. Prereq.: 2.151
+quencies and mode shapes. Digital computer F. Penia-Mora G (Fall)
+3-2-7
+coding techniques and use of an existing
+general purpose finite element analysis pro- A graduate subject on the basic principles of
+gram. Modeling of problems and interpretation adaptive controllers. Topics include adaptive
+of numerical results. controllers for first- and second-order systems,
+K. J. Bathe strictly positive real-transfer functions, persistent excitation, stability of general adaptive systems, minimum variance and LO-controllers,
+n-step ahead predictive controllers, robustness
+properties, adaptive control of nonlinear systems, and connections to feedback linearization, gain-scheduling, and neural networks.
+Laboratory exercises pertain to the implementation of adaptive PID controllers in mechanical systems.
+A. M. Annaswamy
+316 Chapter Vill

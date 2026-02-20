@@ -1,0 +1,86 @@
+15.876 Principles of Dynamic Systems
+Prereq.: 15.874
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Continues philosophy and methods of 15.874,
+with purpose of expanding students' ability to
+build computer simulation models and analyze
+behavior arising from complex dynamic feedback systems. Topics: translating qualitative
+observations on real systems into quantitative
+models; methods for relating system structure
+to system behavior; common errors in model
+construction and policy design. Alternate years.
+J. D. Sterman
+15.879 Research Seminar in System
+Dynamics
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Discusses current research problems in system dynamics. Topics vary from term to term.
+Restricted to doctoral students.
+Consult J. D. Sterman.
+Corporate Strategy and
+Policy
+15.930 Strategic Management
+Prereq.: -
+G (Fall)
+2-0-6
+15.931 Strategic Management
+Prereq.: -
+School of Management Course 15
+15.932 Technology Strategy 15.935 Corporate Strategies and Practices
+Prereq.: 15.930 or 15.931 and 15.011 or in Service Industries
+equivalent Prereq.: 15.930 or 15.931 or permission of inG (Fall) structor
+3-0-6 H-LEVEL Grad Credit G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Outlines tools for formulating and evaluating
+technology strategy, including an introduction Focuses on competitive and strategic issues in
+to the economics of technical change, models three service industries: retailing, airlines, and
+of technological evolution, and models of or- commercial banking. Emphasis on how comganizational dynamics and innovation. Topics panies respond to competitive pressures and
+covered include: making money from innova- rapid change, especially when they are under
+tion; competition between technologies and duress. Examples of subjects covered are:
+the selection of standards; optimal licensing competitive positioning and restructuring, orpolicies; joint ventures; and theories of dif- ganizational and management-related issues,
+fusion and adoption. Taught using a combina- business planning processes, etc.
+tion of readings and case studies. M. Segall
+S. Stem
+15.936 Applied Corporate Analysis
+15.933 Advanced Strategic Management Prereq.: 15.410 or 15.415; 15.760, 15.810
+Prereq.: 15.930 or 15.931 or permission of in- Acad Year 1996-97: Not offered
+structor Acad Year 1997-98: G (Fall)
+G (Fall) 3-0-9 H-LEVEL Grad Credit
+3-0-6 H-LEVEL Grad Credit
+Provides practice in identifying important
+Focuses on some important issues in strategic management issues, making reasoned judgmanagement. Builds on foundation provided ments about priorities, and defending choice of
+by the basic subject in strategic management issues and priorities. Students assume roles of
+(15.930 or 15.931) and applies perspectives in managers and board members in class sesnew, relevant, and challenging directions. sions simulating top management and board
+Course emphasizes a technological and global meetings. Visits to operating and corporate exoutlook since this orientation highlights sig- ecutives. Limited to 20.
+nificant emerging trends in strategic manage- W. F. Pounds
+ment.
+A. C. Hax 15.937 Proseminar in Strategic
+Management and Consulting
+15.934 Internal Organization, Strategy, and (New)
+Management
+Prereq.: 15.930
+Prereq.: 15.341 or 15.342J or permission of in- G (Spring)
+structor 2-0-4 H-LEVEL Grad Credit
+Acad Year 1996-97: G (Spring)
+Provides students with a broad exposure to
+Acad Year 1997-98: Not offered
+practical matters that affect strategic manage-
+3-0-6 H-LEVEL Grad Credit
+ment and the consulting industry. To fulfill that
+G (Fall)
+Doctoral seminar on research in corporate objective, the proseminar invites distinguished
+3-0-6 H-LEVEL Grad Credit
+strategy and organization theory explores the executives from business and consulting firms.
+Deals with approaches to strategic manage- structures, strategies, and managerial proces- During a two-hour period the speakers exment problems affecting all facets of the ses in formal organizations. Topics include: al- change concepts, ideas, and methodologies
+enterprise. Discussions, cases, and readings ternative theories of firm behavior; economic, pertaining to strategic management and busitrace strategy practice, methodology, and structural, institutional and technological em- ness consulting practices.
+theory. Focus on both strategic formulation beddedness; resources, routines, and com- A. C. Hax
+and implementation. 15.930 useful as a broad petencies; organizational architectures and
+introduction to the corporate strategy field and attention structures; politics, networks, and sois restricted to Sloan School of Management cial identities; inertia and adaptation; organizagraduate students. 15.931 has sections for tional learning; strategic decisions and
+Sloan Fellows and non-Sloan students. directions. Alternate years.
+15.930: M. A. Cusumano, M. S. Scott Morton Information: D. R. Lessard.
+15.931: A. C. Hax
+Descriptions of Subjects 451

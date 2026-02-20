@@ -1,0 +1,81 @@
+Department of Mechanical Engineering Course 2
+2.156J Dynamics of Nonlinear Systems 2.165 Robotics and Mechatronics 2.183 Biomechanics and Neural Control of
+Movement
+(Same subject as 6.243J, 16.337J) Prereq.: 2.151 and 2.004 or permission of inPrereq.: 18.100, 6.241 structor Prereq.: Permission of instructor
+Acad Year 1996-97: G (Spring) G (Spring) Acad Year 1996-97: Not offered
+Acad Year 1997-98: Not offered 3-2-7 H-LEVEL Grad Credit Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Dynamic analysis, design, and control of
+Alternate years. See description under subject robots and electromechanical systems. Normal and pathological sensory-motor be-
+6.243J. Kinematics and dynamics of multi-input, multi- havior of biological systems emerges from a
+N. Hogan, J. L. Wyatt, Jr., M. Dahleh, R. Ram- output rigid body systems. Inverse kinematics, complex interplay of biomechanical and neural
+nath inverse dynamics, and computed torque con- factors. Experimentally supported theories of
+trol. Adaptive and learning control. Force feed- biological motor control, emphasizing
+2.157J Design and Implementation of back, and visual servoing. Programming, task manipulation and tool use, are critiqued and
+Computer-Aided Engineering Systems strategy planning, and teleoperation. Ac- compared with robotic approaches. Topics intuators, sensors, and component technology. clude hierarchical organization, intermittency,
+(Same subject as 1 .1 27J, 13.471 J) Integrated mechanism/control design; model- optimization theories, kinematic redundancy,
+Prereq.: Permission of instructor ing and control of flexible robots and struc- neuromuscular dynamics and segmental feedG (Fall) tures. Digital implementation of control back, "equilibrium-point" theories, instabilities
+3-2-7 H-LEVEL Grad Credit algorithms; experiments using table-top in contact tasks, co-contraction strategies, and
+Overview of existing CAE systems; architec- robots; term projects; and laboratory impedance control.
+ture of high-performance graphic displays in demonstrations. N. Hogan
+engineering workstations; orthographic and H. Asada, J.-J. E. Slotine, K. Youcef-Toumi
+perspective display transformations; 2.192 Engineering Systems Analysis
+parametric representation of curves and sur- 2.171 Analysis and Design of Digital
+Prereq.: Permission of instructor
+faces; elementary differential geometry; inter- Control Systems
+G (Fall)
+active graphics; bicubic surface patches;
+Prereq.: 2.010, 2.151 3-0-6 H-LEVEL Grad Credit
+image generation; NC tool paths; solid modelG (Spring)
+ing; advanced research topics; project Engineering School-Wide Elective Subject.
+3-3-6 H-LEVEL Grad Credit
+management for software development. Group Description given at end of this chapter in
+projects emphasize CAE system development. A comprehensive introduction to control sys- SWE section on page 562.
+Programming proficiency in C required. tem synthesis in which the digital computer R. de Neufville, J. P. Clark, F. Field
+D. C. Gossard, N. M. Patrikalakis plays a major role, reinforced with hands-on
+laboratory experience. Covers elements of real-
+2.158J Computational Geometry time computer architecture; input-output interfaces and data converters; analysis and
+(Same subject as 13.472J, 1 .128J) synthesis of sampled-data control systems Fluid Mechanics and
+Prereq.: 13.471J/2.157J or 6.837 using classical and modern (state-space) Combustion
+Acad Year 1996-97: Not offered methods; analysis of trade-offs in control algoAcad Year 1997-98: G (Spring) rithms for computation speed and quantization
+3-0-9 H-LEVEL Grad Credit effects. Laboratory projects emphasize practi- 2.25 Advanced Fluid Mechanics
+See description under subject 13.472J. cal digital servo interfacing and implementation
+N. M. Patrikalakis, D. C. Gossard problems with timing, noise, nonlinear devices. Prereq.: 2.006; 18.075 or 18.085
+D. Trumper, D. Rowell G (Fall)
+4-0-8 H-LEVEL Grad Credit
+2.159J Computer Aided Engineering I
+2.181J Human Factors Engineering Survey of principal concepts and methods of
+(Same subject as 1 .124J, 13.470J) fluid dynamics. Mass conservation, momenPrereq.: 1.00 and knowledge of C (Subject meets with 16.453J, 16.400)
+tum and energy equations for continua. SurG (Fall) Prereq.: 2.010 or 16.060
+face tension. Navier-Stokes equations for
+3-3-6 H-LEVEL Grad Credit G (Fall)
+viscous flows. Similarity and dimensional
+3-0-9 H-LEVEL Grad Credit
+See description under subject 1 .124J. analysis. Lubrication theory. Boundary layers
+Jn. R. Williams See description under subject 16.453J. and separation. Circulation and vorticity
+T. B. Sheridan, L. R. Young theorems. Potential flow. Introduction to tur-
+2.160 Intelligent Control and Sensing bulence. Lift and drag.
+2.182J Human Supervisory Control of A. A. Sonin
+Prereq.: 2.151 or equivalent Telerobots and Flight Vehicles
+G (Fall)
+2.273 Turbulent Flow and Transport
+3-2-7 H-LEVEL Grad Credit (Same subject as 16.422J)
+Prereq.: Permission of instructor Prereq.: 2.25
+Introduces techniques of learning, adaptation, G (Spring) G (Spring)
+and high-level control. Neural networks; as- 3-1-8 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+sociative memory, multi-layer neural nets,
+error back propagation, recurrent nets, reinfor- Principles of supervisory control and Turbulent flows, with emphasis on engineering
+cement learning, and function approximation telerobotics. Different levels of automation are methods. Governing equations for momentum,
+using radial basis functions. Introduction to discussed, as well as the allocation of roles energy, and species transfer. Turbulence: its
+fuzzy sets, fuzzy linguistic control, frame- and authority between humans and machines. production, dissipation, and scaling laws.
+based systems, and expert control systems. Human-vehicle interface design in highly Averaged (Reynolds) equations for momenApplications to robots, vehicles, manufacturing automated systems. Decision aiding. tum, energy, and species transfer. Simple
+processes, and various physical plants. Com- Tradeoffs between human control and human closure approaches for free and bounded turputer laboratories and term projects. Program- monitoring. Automated alerting systems and bulent shear flows: jets, pipe and channel
+ming experience is recommended. human intervention in automatic operation. En- flows, boundary layers, buoyant plumes and
+H. Asada, J.-J. E. Slotine hanced human interface technologies such as thermals, dispersion problems, etc., including
+virtual presence. Performance, optimization, heat and species transport as well as flow
+and social implications of the human-automat- fields. Introduction to more complex closure
+ion system. Examples from aerospace, schemes and statistical methods in turbulence.
+ground, and undersea vehicles, robotics, and A. A. Sonin
+industrial systems.
+T. B. Sheridan, R. J. Hansman
+Descriptions of Subjects 317

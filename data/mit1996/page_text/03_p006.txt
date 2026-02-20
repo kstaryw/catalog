@@ -1,0 +1,134 @@
+Department of Biology Course 7
+7.75J Topics in Metabolic Biochemistry 7.81 Frontiers in Modern Plant Biology
+(Same subject as 5.77J) Prereq.: 7.03, 7.05
+Prereq.: 7.05 or 5.07 Acad Year 1996-97: Not offered
+G (Fall) Acad Year 1997-98: G (Fall)
+4-0-8 H-LEVEL Grad Credit 2-0-7 [P/D/F] H-LEVEL Grad Credit
+Special topics include major metabolic path- Intensive analysis of key original literature,
+ways for the biosynthesis of certain cellular both classical and current, with emphasis on
+constituents and oxidative metabolism. Em- experimental approaches and analysis of
+phasis is on enzymology and methods used to primary data. Topics include regulation of cell,
+understand metabolism and enzymatic proces- tissue, and organ growth; control of gene exses. pression; fertility, embryogenesis, and seed
+G. M. Brown, J. Liu development; transformation and transgenic
+plants; transposable elements and genetic
+7.76 Topics in Protein Biochemistry structure; function and genetics of organelles;
+pathogenesis and disease resistance. Student
+Prereq.: Permission of instructor reports and class presentations.
+Acad Year 1996-97: Not offered E. R. Signer, G. R. Fink
+Acad Year 1997-98: G (Fall)
+2-0-7 7.82 Selected Topics of Mammalian
+In-depth analysis and discussion of classic and Development and Genetics
+current literature with emphasis on the relationPrereq.:
+ship between protein structure and function.
+Topics include binding specificity; cooperativity
+and allostery; protein folding, evolution and
+macromolecular assembly- sequence homology and prediction of structure; and protein engineering and design. Undergraduates should
+have taken 7.71 or 5.64.
+P. Kim, R. Sauer
+7.77 Workshop on Nucleic Acids and Their
+Interactions with Proteins
+(Revised Units)
+Prereq.: 7.05 or 7.51
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Interactive discussions, lectures, and student
+presentations, including in-class problem solving. Chemistry, structure, and function of DNA
+and RNA. Biochemical, physical, and genetic
+approaches to understanding nucleic acids.
+Forces stabilizing nucleic acid structures.
+Structural motifs in RNA molecules including
+pseudoknots and tetraloops. Transfer RNAs.
+Prediction of structures of large RNAs. Superhelical and bent DNA and thermodynamic
+analysis of special DNA conformations. Selection system for generating novel RNA and
+DNA structures for ligand interactions.
+Analysis of protein-nucleic acid interactions
+with examples including repressors and activators, nucleosomes, restriction enzymes,
+aminoacyl tRNA synthetases, and RNA binding proteins. Analysis of methods of transcription. RNA and protein evolution in relation to
+the development of peptide synthesis and the
+genetic code.
+P. Schimmel
+-
+G (Fall)
+2-0-4 [P/D/F]
+Seminar covering biological, genetic, and
+molecular approaches to mouse development.
+Topics include preimplantation development;
+postimplantation development; cell lineage
+studies; embryonic stem cells and gene targeting; transgenic technology; genomic imprinting; tissue interactions and induction;
+X-inactivation; sex determination; genetic
+basis of coat color; muscle development.
+R. Jaenisch, D. Page
+7.84 Topics in Bacteriology
+Prereq.: 7.21, permission of instructor
+G (Fall)
+2-0-6 [P/D/F] H-LEVEL Grad Credit
+Recent developments in bacteriology:
+regulatory mechanisms and membrane
+phenomena.
+Consult Biology Student Office.
+7.85 Topics in Cell Biology
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9
+Seminar on aspects of cell cycle regulation -
+7.88J The Protein Folding Problem
+(Same subject as 5.48J, 10.543)
+Prereq.: 5.07 or 7.05 or equivalent
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Seminar analyzing the mechanisms by which
+the amino acid sequence of polypeptide
+chains determines their three-dimensional conformation. Topics include: sequence determinants of secondary structure; folding of
+newly synthesized polypeptide chains within
+cells; unfolding and refolding of proteins in
+vitro; folding intermediates aggregation and
+competing off-pathway reactions; role of
+chaperonins, isomerases, and other helper
+proteins; protein recovery problems in the
+biotechnology industry; diseases associated
+with protein folding defects.
+J. A. King
+7.89J Seminar on Pharmaceutical and
+Biotechnology Industry Management
+(Same subject as 15.138J, 10.940J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Can be repeated for credit
+See description under subject 15.138J.
+T. J. Allen, C. L. Cooney, S. N. Finkelstein,
+A. Sinskey
+7.91 Topics in Genomics
+(New)
+Prereq.: Permission of instructor
+G (Fall)
+2-0-4 H-LEVEL Grad Credit
+Seminars and readings in genomics. Topics
+covered include infomatics, genetic and
+molecular biology strategies and techniques,
+and hardware systems design.
+E. Lander, P. Matsudaira, Staff
+7.92J Neurology, Neuropsychology, and
+Neurobiology of Aging
+(New)
+(Same subject as 9.110J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit mechanisms and control of DNA replication,
+chromosome structure, and chromosome Lectures and discussion explore the clinical,
+segregation - using classic and current litera- behavioral, and molecular aspects of brain
+ture and emphasizing multiple approaches. aging processes in humans. Topics include:
+S. Bell, P. Sorger loss of sensory and motor function and loss of
+memory and other cognitive abilitites in normal
+7.87 X-Ray Crystallography of Proteins and aging; neurodegenerative conditions, such as
+Nucleic Acids Parkinson's, Alzheimer's, and Huntington's diseases, and Down's syndrome. Based on lecPrereq.: 7.71 or permission of instructor tures, readings taken from the primary
+Acad Year 1996-97: Not offered literature, and discussions. Students are exAcad Year 1997-98: G (Spring) pected to present topics based on their read-
+2-0-7 H-LEVEL Grad Credit ings. One written mid-term test and one final
+Overview of the major theoretical and practical paper.
+problems involved in x-ray crystallographic S. Corkin, V. Ingram
+studies of macromolecules. Topics include discussion of basic diffraction theory, crystallization and space group determination, data
+collection, heavy atom derivative methods,
+anomalous scattering, molecular replacement,
+model-building and refinement.
+Staff
+Descriptions of Subjects 369

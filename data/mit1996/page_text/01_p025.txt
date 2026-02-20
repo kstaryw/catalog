@@ -1,0 +1,97 @@
+Department of Mechanical Engineering Course 2
+2.75 Precision Machine Design
+Prereq.: 2.72 or permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Intensive coverage of precision engineering
+theory, heuristics, and applications pertaining
+to the design of systems ranging from consumer products to machine tools. Topics
+covered include: economics, project management, and design philosophy; principles of accuracy, repeatability, and resolution; error
+budgeting; sensors; sensor mounting; systems
+design; bearings; actuators and transmissions.
+Emphasis on developing creative designs
+which are optimized by analytical techniques
+applied via spreadsheets. Many real-world examples are given, and classwork and tests are
+based on mini-design problems.
+A. Slocum
+Biomedical Engineering
+(See also 2.277 and 2.907J.)
+2.761J Principles of Medical Imaging
+(Same subject as 22.56J, HST.561J)
+Prereq.: Permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 22.56J.
+D. Cory, D. Rowell
+2.763J Hyperthermia: Biology, Technology,
+and Cancer Therapy
+(Same subject as HST.532J)
+Prereq.: -
+2.782J Design of Medical Devices and 2.792J Quantitative Physiology: Organ
+Implants Transport Systems
+(Same subject as HST.524J) (Subject meets with 6.022J, 2.796J, 6.522J,
+Prereq.: Permission of instructor HST.542J)
+G (Spring) Prereq.: 2.791J; 2.006 or 6.013
+3-0-9 H-LEVEL Grad Credit U (Spring)
+4-2-6
+See description under subject HST.524J.
+/. Yannas, M. Spector See description under subject 6.022J.
+R. G. Mark, R. D. Kamm
+2.785J Mechanical Forces in Organ
+Development and Remodeling 2.793J Quantitative Physiology: Sensory
+and Motor Systems
+(Same subject as 3.97J, HST.523J)
+Prereq.: 3.091 or 5.11; 2.005 or 5.60; 7.012 or (Same subject as 6.023J, 16.401J, HST.543J)
+7.013 Prereq.: 2.003 or 6.003 or 16.060
+G (Spring) U (Spring)
+3-0-9 H-LEVEL Grad Credit 3-2-7
+Mechanical forces play a decisive role during See description under subject 6.023J.
+development of tissues and organs, during L. S. Frishkopf, L. Young, C. Wall/ /Ill, N. Hogan
+remodeling following injury as well as in normal function. Mechanical forces influence cell 2.794J Quantitative Physiology: Cells and
+function primarily through deformation of the Tissues
+extracellular matrix to which cells are attached.
+The unit cell process paradigm together with (Subject meets with 6.021J, 2.791J, 6.521J,
+topics in connective tissue mechanics form the HST.541J)
+basis for discussions of several topics from cell Prereq.: 2.003 or 6.002 or 6.071 or 10.301;
+biology, physiology, and medicine. 8.02, 18.03
+/. V. Yannas, M. Spector G (Fall)
+5-2-5
+2.79J Biomaterials - Tissue Interactions See description under subject 6.021J.
+T. F. Weiss, D. M. Freeman
+(Same subject as 3.96J, HST.522J)
+Prereq.: 3.091 or 5.11; 2.005 or 5.60; 7.012 or
+7.013 2.795J Fields, Forces, and Flows:
+G (Fall) Background for Physiology
+3-0-9 H-LEVEL Grad Credit (Same subject as 6.561J, HST.544J)
+Principles of materials science and cell biology Prereq.: Permission of instructor
+underlying the design of medical implants and G (Spring)
+artificial organs. Methods for biomaterials sur- 3-0-9 H-LEVEL Grad Credit
+face characterization and analysis of protein See description under subject 6.561J.
+adsorption on biomaterials. Molecular and cel- A. J. Grodzinsky
+G (Spring) lular interactions with biomaterials are
+4-1-7 analyzed in terms of unit cell processes, such 2.796J Quantitative Physiology: Organ
+as matrix synthesis, degradation, and contracCellular and biological effects of hyperthermia; tion. Mechanisms underlying tissue remodeling Transport Systems
+underlying mechanisms. Synergism with radia- following implantation in various organs. (Subject meets with 6.022J, 2.792J, 6.522J,
+tion and chemical injury. Heat generation and Design of implants and prostheses based on HST.542J)
+heat transfer in tissues and organs; bio-heat control of biomaterials-tissue interactions. Prereq.: 2.006 or 6.013; 6.021J
+transfer modeling. Effects on tissue blood per- Comparative analysis of intact, biodegradable, G (Spring)
+fusion and oxygen transport: techniques of and bioreplaceable implants by reference to 4-2-6
+measurement. Ultrasonic and electromagnetic case studies. Criteria for restoration of
+techniques for noninvasive regional and local physiological function for tissues and organs. Meets with 6.022J. Requires the completion of
+hyperthermia. Tissue temperature measure- /. V. Yannas, M. Spector more advanced home problems and/or an adment techniques. Effects on tumor and normal ditional project. See description under subject
+tissue in animals and man. Hyperthermia 6.022J.
+therapy planning. Clinical results. Thermal 2.791J Quantitative Physiology: R. G. Mark, R. Kamm
+Cells and Tissues
+dosimetry. Research areas.
+H. F. Bowman, Staff (Subject meets with 6.021J, 2.794J, 6.521J,
+HST.541J)
+2.781J Biomedical Instrumentation Prereq.: 2.003 or 6.002 or 6.071 or 10.301;
+Electronics 8.02, 18.03
+U (Fall)
+(Same subject as HST.570J, 16.458J) 5-2-5
+Prereq.: Permission of instructor
+G (Summer) For juniors and seniors. Meets with graduate
+6-6-6 subject 6.521J, but assignments differ. 4 Engineering Design Points. See description
+See description under subject HST.570J. under subject 6.021J.
+D. Rowell, S. K. Burns T. F. Weiss, D. M. Freeman
+Descriptions of Subjects 321

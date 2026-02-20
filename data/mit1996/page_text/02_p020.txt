@@ -1,0 +1,141 @@
+5.72 Statistical Mechanics 5.80 Special Topics in Chemical Physics
+Prereq.: 5.70, 5.73, 18.075 Prereq.: 5.73
+G (Spring) Acad Year 1996-97: G (Fall)
+3-0-6 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Principles and methods of statistical
+mechanics. Classical and quantum statistics, Principles of Nuclear Magnetic Resonance,
+grand ensembles, fluctuations, molecular dis- with emphasis on dynamics of spin systems.
+tribution functions, and other topics in equi- Staff
+librium statistical mechanics. Topics in
+thermodynamics and statistical mechanics of ir- 5.89 Special Problems in Chemistry for
+reversible processes. Undergraduates
+C. Garland, /. Oppenheim
+Prereq.:
+5.73 Introductory Quantum Mechanics I
+Prereq.: 5.61, 8.03, 18.03
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Fundamental concepts of quantum mechanics:
+wave properties, uncertainty principles,
+Schrodinger equation, operator and matrix
+methods. Basic applications to: one-dimensional potentials (harmonic oscillator), threedimensional centrosymetric potentials
+(hydrogen atom), angular momentum and
+spin. Approximation methods: WKB method,
+variational principle, perturbation theory.
+M. G. Bawendi
+5.74 Introductory Quantum Mechanics I1
+Prereq.: 5.73, 18.075
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Time-dependent quantum mechanics, with emphasis on molecular spectroscopy. The traditional "eigenstate" picture of spectroscopy; the
+"wavepacket dynamics" pictures. Computer calculation of wavepacket dynamics and spectroscopic observables.
+K. A. Nelson
+5.76 Molecular Spectra and Molecular
+Structure
+Prereq.: 5.61 or 5.73 or 8.05
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Atomic spectra. Rotational, vibrational, and
+electronic spectra of diatomic and polyatomic
+molecules. Assignment of spectra. Structural
+parameters, molecular models, and effective
+Hamiltonian matrices. Breakdown of the BornOppenheimer approximation. Group theory,
+selection rules, normal coordinates. Laser
+spectroscopy.
+R. W. Field
+5.77J Topics in Metabolic Biochemistry
+(Same subject as 7.75J)
+Prereq.: 5.07 or 7.05
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 7.75J.
+G. M. Brown, J. Liu
+-
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Program of study to be arranged by the student and a departmental faculty member. A letter grade is given in this activity.
+K. A. Nelson
+5.891 Special Topics in Chemistry for
+Undergraduates
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Program of study to be arranged by the student and a departmental faculty member.
+Staff
+5.90 Special Problems in Chemistry
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Directed research and study of special chemical problems. For graduate students only.
+D. Seyferth
+5.913 Seminar in Organic Chemistry_
+Prereq.: -
+G (Fall)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+5.914 Seminar in Organic Chemistry
+Prereq.: -
+Department of Chemistry Course 5
+5.92 Seminar in Environmental Chemistry
+Prereq.:
+G (Spring)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Discusses current journal publications in organic chemistry by graduate students and staff
+members.
+R. L. Danheiser
+-
+G (Spring)
+2-0-4 [P/D/F]
+Can be repeated for credit
+A seminar for graduate trainees in the
+"Chemistry of the Environment" program, and
+open to other interested graduate and advanced undergraduate students, which addresses technical, economic, political, and
+environmental issues of chemistry and society.
+Seminar is intended to give trainees participating in individual research groups that address
+widely different aspects of chemistry some
+common ground for thinking about environmental issues, and to develop a wide range of
+views about how society should deal with the
+interactions between chemical technology and
+the environment.
+J. /. Steinfeld
+5.931 Seminar in Physical Chemistry
+Prereq.: -
+G (Fall)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+5.932 Seminar in Physical Chemistry
+Prereq.: -
+G (Spring)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Discusses topics of current interest in physical
+chemistry by staff members and students.
+B. Tidor
+5.941 Seminar in Inorganic Chemistry
+Prereq.: -
+G (Fall)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+5.942 Seminar in Inorganic Chemistry
+Prereq.: -
+G (Spring)
+1-0-2 [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Discusses current research in inorganic
+chemistry by graduate students and staff.
+R. R. Schrock
+5.ThG Graduate Thesis
+Prereq.: -
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of a Ph.D. thesis; to be arranged by the
+student and an appropriate MIT faculty member.
+Descriptions of Subjects 349

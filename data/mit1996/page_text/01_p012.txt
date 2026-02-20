@@ -1,0 +1,98 @@
+School of Engineering
+1.51 Design of Steel Structures 1.543 Planning and Design of Structural 1.583 Nondestructive Evaluation of
+Systems Materials and Structures
+Prereq.: 1.50
+(Revised Units)
+U (Spring) Prereq.: 1.50, 1.51
+3-2-7 Acad Year 1996-97: Not offered Prereq.: Permission of instructor
+Acad Year 1997-98: G (Fall) G (Fall)
+Objective is to develop a solid background in
+3-2-7 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+the design principles of steel structures. Emphasis on contemporary design methods using Concerned with the conceptualization and Overview of principles and applications of the
+load and resistance factor design. Includes preliminary design of structural systems. state-of-the-art NDE methods. Special emdesign of structural members, joint, connec- Topics include: structural loadings; structural phasis on ultrasonics: fundamental wave motions, and structural systems. components; horizontal-span building struc- tion in solids and fluids, transducers, imaging
+S. C. Wooh tures; gravity load systems; lateral load sys- and quantitative measurements, signal
+tems; tall buildings; shell roof systems; processing, and basic instrumentation. Applica-
+1.52 Design of Concrete Structures lightweight structures; bridge systems. tions: flaw detection, materials characJ. J. Connor, Jr. terization, composite materials and structures.
+Prereq.: 1.50 S. C. Wooh
+U (Fall)
+1.56J Structural Mechanics in Nuclear
+3-2-7
+Power Technology 1.589 Studies in Structural Design and
+Objectives are to develop a solid background Analysis
+(Same subject as 22.314J, 2.084J, 13.14J)
+in the design principles of concrete structures.
+Prereq.: Permission of instructor Prereq.: Permission of instructor
+Emphasis on contemporary design methods
+Acad Year 1996-97: Not offered G (Fall, Spring, Summer)
+using ultimate load design concepts. Includes
+Acad Year 1997-98: G (Spring) Units arranged H-LEVEL Grad Credit
+design of reinforced concrete members for
+3-0-9 H-LEVEL Grad Credit Can be repeated for credit
+bending, shear, and axial loads, and structural
+systems. See description under subject 22.314J. Individual study of advanced subjects under
+0. Buyukozturk 0. Buyukozturk, J. E. Meyer staff supervision. Content arranged to suit the
+particular requirements of the student and in-
+1.53 Constructed Facilities Project 1.571 Structural Analysis and Control terested members of the staff.
+Laboratory Information: 0. Buyukozturk.
+Prereq.: 1.51
+Prereq.: 1.59 G (Fall)
+1.59 Mechanics of Construction Materials
+U (Spring) 3-0-9 H-LEVEL Grad Credit
+1-5-6 Institute LAB Prereq.: 1.04
+Computer-based methods for the analysis of
+U (Spring)
+Concepts, techniques, and devices used to large-scale structural systems. Modeling
+3-0-6
+measure engineering properties of materials. strategies for complex structures. Application
+Emphasis placed on measurement of load- to tall buildings, cable-stayed bridges, and ten- Develops an understanding of the mechanical
+deformation characteristics of common con- sion structures. Introduction to the theory of behavior of construction materials. Includes
+struction materials, both natural and structural control. Design and implementation study of elastic, plastic, and time-dependent
+fabricated. Half-semester project devoted to of control algorithms for structural systems sub- behavior. Deterioration and failure
+experimental proof of hypothesis on some jected to quasi-static loading. mechanisms, failure criteria. Applications inaspect of testing or behavior. Emphasis placed J. J. Connor, Jr. clude cementitious materials, steel, timber,
+on approximation of testing errors. polymer, pavement materials, and composites.
+J. T. Germaine 1.573J Introduction to Structural Mechanics Materials selection.
+C. Leung
+(Same subject as 13.1OJ)
+1.541 Behavior of Concrete Structures
+Prereq.: 2.01 or 2.001, 18.03
+1.591J Fracture of Structural Materials
+Prereq.: 1.52 G (Fall)
+G (Fall) 4-0-8 H-LEVEL Grad Credit (Same subject as 3.90J, 13.16J)
+3-0-9 H-LEVEL Grad Credit Prereq.: 2.30 or 3.11 or 13.15
+See description under subject 13. 1OJ.
+G (Fall)
+Strength and deformation of concrete under N. M. Patrikalakis, J. J. Connor, Jr.
+3-0-6 H-LEVEL Grad Credit
+various states of stress; failure criteria. Fundamental behavior of reinforced concrete struc- 1.581 Advanced Structural Dynamics See description under subject 3.90J.
+tures and their members. Basis for design, and F. J. McGarry, K. Masubuchi
+code constraints. High-performance concrete Prereq.: 1.50 or equivalent
+materials and their use in innovative design G (Spring) 1.592 Mechanical Behavior of Construction
+solutions. Slabs: yield line theory. Behavior 3-0-9 H-LEVEL Grad Credit Materials
+models and nonlinear analysis. Complex sys- Comprehensive subject on the analysis of
+tems: bridge structures, concrete shells, and structural systems for dynamic loads. General Prereq.:
+containments. formulation for discrete and continuous sys-
+0. Buyukozturk tems. Free vibrations and normal modes.
+Forced vibrations induced by structural loads
+1.542 Behavior of Steel Structures or by ground motions. Viscous and hysteretic
+damping. Solutions in the time domain: conPrereq.: 1.51
+volution, modal superposition, time-step inG (Spring)
+tegration. Solutions in the frequency domain
+3-0-9 H-LEVEL Grad Credit
+using the fast Fourier transform. Elements of
+Conceptual design of steel structural systems. structural control theory, classical optimal conWind and seismic effects. Design criteria for trol. Discrete time control. Application to buildmembers and systems. P-A effects. Structural ings.
+connections. Structural analysis versus struc- E. Kausel, J. J. Connor, Jr.
+tural design. Inelastic analysis procedures for
+stability and limit states. Computer methods
+for element and system design. Tall-building
+design considerations.
+Information: 0. Buyukozturk.
+-
+G (Spring)
+3-2-7 H-LEVEL Grad Credit
+Develops an understanding of material behavior based on microstructural mechanisms
+of deformation and failure. Includes study of
+elastic, plastic, creep, fracture, and durability
+benavior. Applications to traditional construction materials (steel, concrete, and timber) as
+well as recent developments in high-performance civil engineering materials.
+C. Leung
+308 Chapter Vill

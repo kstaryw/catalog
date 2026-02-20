@@ -1,0 +1,70 @@
+School of Engineering
+6.243J Dynamics of Nonlinear Systems 6.252J Nonlinear Programming 6.291 Seminar in Systems,
+(Same subject as 2.156J, 16.337J) (Same subject as 15.084J) Communications, and Control Research
+Prereq.: 18.100, 6.241 Prereq.: 18.06, 18.100 Prereq.: Permission of instructor
+Acad Year 1996-97: G (Spring) G (Spring) G (Fall, Spring)
+Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit Can be repeated for credit
+A unified analytical and computationai apIntroduction to nonlinear deterministic dynami- proach to nonlinear optimization problems. Un- A seminar dealing with advanced topics in syscal systems. Nonlinear ordinary differential constrained optimization methods include tems, communications, control, and signal
+equations. Planar autonomous systems. Fun- gradient, conjugate direction, Newton, and processing. Selected topics according to studamental theory: Picard iteration, contraction quasi-Newton methods. Constrained optimiza- dent and instructor interest. See instructor for
+mapping theorem, Bellman-Gronwall lemma. tion methods include feasible directions, projec- specific topics to be offered in a particular term
+Stability of equilibria by Lyapunov's first and tion, interior point, and Lagrange multiplier S. K. Mitter
+second methods. Feedback linearization. Ap- methods. Convex analysis, Lagrangian relaxaplication to nonlinear circuits and control sys- tion, nondifferentiable optimization, and aptems. Alternate years. plications in integer programming.
+J. L. Wyatt, Jr., M. Dahleh, R. Ramnath, Comprehensive treatment of duality theory. ApN. Hogan plications drawn from control, communications,
+Electronics, Computers, and
+power systems, and resource allocation
+Systems
+6.245 Multivariable Control Systems problems.
+(Revised Units) D. P. Bertsekas, J. F. Shapiro
+Prereq.: 6.241 or 16.31 6.301 Solid-State Circuits
+6.262 Discrete Stochastic Processes
+G (Spring) Prereq.: 6.012
+3-0-9 H-LEVEL Grad Credit Prereq.: 6.041 or 6.431 or 18.313 G (Spring)
+G (Spring)
+Computer-aided design methodologies for syn- 4-2-6
+3-0-9 H-LEVEL Grad Credit
+thesis of multivariable feedback control sysAnalysis and design of transistor circuits,
+tems. Performance and robustness trade-offs. Review of probability and laws of large num- based directly on the semiconductor physics
+Model-based compensators; separation bers; Poisson counting process and renewal and transistor circuit models developed in
+properties. Linear-quadratic and Kalman filter processes; Markov chains (including Markov 6.012. High-frequency and low-frequency
+designs. Integral control and other dynamic decision theory), branching processes, birth- design calculations and simulation of multiaugmentation. Linear-quadratic-gaussian com- death processes, and semi-Markov processes; stage transistor circuits. Trans-linear circuits.
+pensators; loop transfer recovery. Introduction continuous-time Markov chains and revers- The charge-control model. Introduction to
+to H-- design and mu-synthesis. Model and ibility; random walks, martingales, and large operational-amplifier design and application.
+compensator simplification. Nonlinear effects. deviations; applications from queueing, com- Some previous laboratory experience asComputer-aided design homework using munication, control, and operations research. sumed. 4 Engineering Design Points.
+models of physical processes. R. G. Gallager, R. C. Larson J. K. Roberge, H-S. Lee
+M. Athans
+6.263 Data-Communication Networks 6.302 Feedback Systems
+6.251J Introduction to Mathematical
+Programming Prereq.: 6.041 or 18.313 Prereq.: 6.003 or 2.003 or 16.040
+G (Fall)
+U (Fall)
+(Same subject as 15.081J) 3-0-9 H-LEVEL Grad Credit 4-2-6
+Prereq.: 18.06
+G (Fall) Modeling of the control processes in conven- Introduction to design of feedback systems.
+4-0-8 H-LEVEL Grad Credit tional and high-speed data communication net- Properties and advantages of feedback sysworks. Develops and utilizes elementary
+tems. Time-domain and frequency-domain perIntroduction to linear optimization and its exten- concepts from queueing theory, algorithms, formance measures. Stability and degree of
+sions emphasizing both methodology and the linear and nonlinear programming to study the stability. Nyquist criterion. Frequency-domain
+underlying mathematical structures and problems of line and network protocols, dis- design. Root locus method. Compensation
+geometrical ideas. Covers classical theory of tributed algorithms, quasi-static and dynamic techniques. Application to a wide variety of
+linear programming as well as some recent ad- routing, congestion control, deadlock preven- physical systems. Some previous laboratory
+vances in the field. Topics: simplex method; tion. Treats local and wide-area networks, and experience with electronic systems is assumed
+duality theory; sensitivity analysis; network high-speed electronic and optical networks. (e.g., 6.002 or 6.071 or 16.040). 4 Engineering
+flow problems; decomposition; integer D. P. Bertsekas Design Points.
+programming; interior point algorithms for J. K. Roberge
+linear programming; introduction to com- 6.281J Logistical and Transportation
+binatorical optimization and NP-completeness. Planning Methods 6.312 Acoustics
+J. N. Tsitsiklis, D. Bertsimas
+(Same subject as 1.203J, 11.526J, 13.665J, Prereq.: 6.002
+15.073J, 16.76J) U (Fall)
+Prereq.: 6.431, 15.075 5-0-7
+G (Fall)
+3-0-9 H-LEVEL Grad Credit Sound generation and propagation in elastic
+media. Simple sources and arrays of sources.
+See description under subject 1.203J. Derivation of lumped parameter acoustical eleR. C. Larson, A. I. Bamett, A. R. Odoni ments and circuits from solutions of wave
+equations. Radiation impedance. Conversion
+among acoustical, electrical, and mechanical
+energy. Modeling and analysis of electroacoustical devices such as microphones and
+loudspeakers. Sound in rooms. Interaction of
+sound and humans.
+A. G. Bose
+354 Chapter VIII

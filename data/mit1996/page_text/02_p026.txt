@@ -1,0 +1,87 @@
+Department of Electrical Engineering and Computer Science Course 6
+6.313 Contemporary Computer Design 6.335 Fundamental Theory of Nonlinear 6.341 Discrete-Time Signal Processing
+Networks
+Prereq.: 6.004 Prereq.: 6.011; 18.075 or 18.04
+U (Fall) Prereq.: 6.011, 6.012 G (Fall, Spring)
+3-0-9 G (Fall) 4-0-8 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Computer arithmetic; high-speed logic design Representation, analysis, and design of disand packaging; clocking strategies; pipelined Rigorous basis for circuit theory and relation to crete time signals and systems. Review of Zcomputer techniques; microprogramming vs engineering intuition. Network topology: graph transforms, discrete-time Fourier transforms,
+simple instruction sets; cache and paging theory, Tellegen's theorem, colored branch difference equations. All-pass and minimum
+design; datatyping, hardware support for gar- theorem. Linear networks: impedance match- phase systems. Effects of group delay. DT
+bage collection; MIMD/SIMD parallel com- ing, reciprocity, natural frequencies, sensitivity processing of continuous-time signals. Decimaputers; interprocessor communications to element values. Nonlinear resistive net- tion and interpolation. Flowgraph structures for
+technologies. 2 Engineering Design Points. works: linearization, passivity, reciprocity, Gil- DT systems. Time- and frequency-domain
+T. F. Knight, Jr. bert translinear principle. Nonlinear dynamic design techniques for recursive (IIR) and nonnetworks: phase-plane analysis, nonlinear dif- recursive (FIR) filters, discrete Fourier trans-
+6.331 Advanced Circuit Techniques_ ferential equations, multiple time scales. Ap- form, FFT algorithm, Hilbert transforms,
+plication to analog circuits for machine vision. various applications.
+Prereq.: 6.301, 6.302 Alternate years. A. V. Oppenheim
+Acad Year 1996-97: Not offered J. L. Wyatt, Jr.
+Acad Year 1997-98: G (Spring)
+6.343 Digital Speech Processing
+3-2-7 H-LEVEL Grad Credit
+6.336J Introduction to Numerical
+Prereq.: 6.341
+Following a brief classroom discussion of Algorithms
+Acad Year 1996-97: G (Fall)
+relevant principles, each student completes
+(Same subject as 18.338J) Acad Year 1997-98: Not offered
+the paper design of several advanced circuits
+Prereq.: 18.03, 18.06 or equivalents 4-0-8 H-LEVEL Grad Credit
+such as multiplexers, sample-and-holds, gainAcad Year 1996-97: G (Fall)
+controlled amplifiers, analog multipliers, digital- Application of digital signal processing to
+Acad Year 1997-98: Not offered
+to-analog or analog-to-digital converters, and speech signals. Acoustic theories of speech
+3-0-9 H-LEVEL Grad Credit
+power amplifiers. One of each student's production leading to time- and frequencydesigns may be presented to the class, and Introduction to theoretical and practical domain models. Speech analysis-synthesis
+one may be built and evaluated. Associated aspects of numerical algorithms, emphasizing techniques based on the spectrogram, linear
+laboratory emphasizing the use of modern broadly applicable techniques. Application ex- prediction, homomorphic, filter bank, and
+analog building blocks. Enrollment limited. Per- amples: problems in circuit analysis; electros- sinusoidal representations. Speech coding
+mission of instructor required. Alternate years. tatics; mechanical elastostatics. Topics: using scalar and vector quantization. Time-
+12 Engineering Design Points. equation formulation approaches; linear sys- scale and pitch modification; speech restoraJ. K. Roberge tem solution by sparse direct factorization; non- tion; speaker separation. Pitch estimation;
+linear equation solution; Newton's method; frequency modulation models; constant-Q
+6.333 Electronic Circuits issues of A-stability; local and global error analysis. Application to music analysis-synanalysis; solution of elliptic differential and in- thesis. Alternate years.
+Prereq.: 6.003, 6.012 tegral equations; FFT and multipole-ac- T. F. Quatieri
+Acad Year 1996-97: G (Spring) celerated algorithms, more. Alternate years.
+Acad Year 1997-98: Not offered J. K. White, A. Edelman 6.344 Two-Dimensional Signal and
+3-0-9 H-LEVEL Grad Credit
+Image Processing
+Design, analysis, and simulation of linear and 6.337J Numerical Methods of Applied
+Prereq.: 6.341
+nonlinear circuits including application of circuit Mathematics I
+G (Spring)
+methods to modeling and analysis of physical (New)
+3-0-9 H-LEVEL Grad Credit
+systems. Topics: direct, recursive, and iterative
+(Same subject as 18.335J)
+analysis of lumped and distributed circuits; Representation, analysis, and design of twoPrereq.: 18.03, 18.06 or equivalent
+computer modeling and simulation of dimensional signals and systems. Two-dimenG (Fall)
+electromagnetic fields and forces; analog and sional Fourier transform, z-transform, discrete
+3-0-9 H-LEVEL Grad Credit
+digital signal processing; power electronic sys- Fourier transform, and fast Fourier transform
+tems; feedback control of nonlinear and un- IEEE-standard, iterative and direct linear sys- algorithms. Image processing basics. Image
+stable systems; oscillatory and chaotic circuits; tem solution methods, eigendecomposition enhancement. Image restoration. Image
+sensitivity and noise. Emphasis on developing and model-order reduction, fast Fourier trans- coding. Advanced television systems.
+circuit intuition. Alternate years. forms, multigrid, wavelets and other multi- J. S. Lim
+R. D. Thornton resolution methods, matrix sparsification.
+J. K. White, A. Edelman 6.345 Automatic Speech Recognition
+6.334 Power Electronics
+Prereq.: 6.341; 6.041 or 6.431
+6.338J Parallel Scientific Computing
+Prereq.: 6.012, 6.013 G (Spring)
+(New)
+G (Spring) 3-1-8 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit (Same subject as 18.337J)
+Graduate-level introduction to automatic
+Prereq.: 18.06 or equivalent
+The application of electronics to energy conver- speech recognition. Provides relevant backG (Spring)
+sion and control; phase-controlled rectifier/in- ground in acoustic theory of speech produc-
+3-0-9 H-LEVEL Grad Credit
+verter circuits, dc/dc converters, high tion, properties of speech sounds, signal
+frequency inverters, and motion control sys- Advanced interdisciplinary introduction to representation, acoustic modeling, pattern clastems. Characteristics of power semiconductor modern scientific computing on parallel super- sification, search algorithms, stochastic modeldevices: diodes, bipolar and field effect transis- computers. Numerical topics include dense ing techniques (including hidden Markov
+tors, and thyristors. Modeling, analysis, and and sparse linear algebra, N-body problems, modeling), and language modeling. Examines
+control techniques. Magnetic circuits. and Fourier transforms. Geometrical topics in- approaches of state-of-the-art speech recogniNumerous application examples. clude partitioning and mesh generation. Other tion systems. Enrollment limited. Alternate
+J. G. Kassakian, M. F. Schlecht topics include architectures and software sys- years. 4 Engineering Design Points.
+tems with hands-on emphasis on under- V. W. Zue, J. R. Glass
+standing the realities and myths of what is
+possible on the world's fastest machines.
+J. K. White, A. Edelman
+Descriptions of Subjects 355

@@ -1,0 +1,96 @@
+Sloan School of Management
+15.820 Advanced Marketing 15.828 New Product Development 15.838 Research Seminar in Marketing
+Management
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814 Prereq.: 15.810 or 15.811 or 15.812 or 15.814
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814 G (Spring) G (Fall, Spring)
+G (Spring) 3-0-6 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit
+2-0-4 H-LEVEL Grad Credit Can be repeated for credit
+Identifies new market opportunities. Designs
+Concentrates on advanced topics in market- "core benefits" of a new product having high Seminar on current marketing literature and
+ing. Guest speakers, projects, and team par- potential. Designs physical product and market- current research interests of faculty and stuticipation in a marketing strategy game. ing mix to fulfill the "core benefits." Testing, dents. Topics such as the game theory, comPrimarily for Sloan School of Management launching, and managing the new product. petitive strategy, marketing experimentation,
+graduate students; others admitted by permis- Develops theory, measurement, and models to consumer behavior, and the development of
+sion of instructor. manage this process. Requires term project. marketing models. Restricted to doctoral stuW. J. Qualls D. Prelec dents.
+D. Prelec
+15.824 Advertising, Promotion, and 15.829 International Marketing
+Marketing Communications (New) 15.839 Workshop in Marketing
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814 Prereq.: 15.810 or 15.811 or 15.812 or 15.814 Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered G (Fall) G (Fall, Spring)
+Acad Year 1997-98: G (Fall) 3-0-6 H-LEVEL Grad Credit Units arranged [P/D/F]
+3-0-6 H-LEVEL Grad Credit Can be repeated for credit
+Enables students to identify, analyze, and
+Focuses on issues involved in the manage- resolve strategic international marketing Presentations by faculty, doctoral students,
+ment of advertising and promotion strategy. problems; and formulate, implement, and and guest speakers of ongoing research relatFamiliarizes students with concepts and techni- evaluate international marketing strategies at ing to current issues in marketing. Topics:
+ques relevant to the planning and control of the level of the business unit for international reports of research projects (proposed or in
+marketing communication campaigns. Lec- market entry, expansion and global rationaliza- progress) and informal discussions of recent
+tures, guest speakers, case discussions, tion. Specific topics range from the effect of cul- literature dealing with subjects of special interprojects. ture on the decision to standardize or adapt est to participants. Primarily for doctoral stuN. T. Tavassoli marketing programs, to international branding, dents.
+communication, distribution, and pricing is- W. J. Qualls, D. Prelec
+15.825 Marketing Decision Support sues, to analyzing organizational structures for
+international marketing effectiveness.
+Prereq.: 15.810 or 15.812 or permission of in- N. T. Tavassoli
+structor
+G (Fall) System Dynamics
+15.832 Measurement for Management
+3-0-6 H-LEVEL Grad Credit
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814
+Modern databases and computer models for
+G (Spring) 15.874 System Dynamics for Business
+supporting tactical and strategic decisions in
+3-0-6 H-LEVEL Grad Credit Policy
+marketing. Basic modeling approaches. Scanner data. Multinomial logit and other discrete Familiarizes students with methods for collect- Prereq.:
+choice models. Database marketing. Models ing, analyzing, and interpreting data relevant
+for specific decision areas, including price, to the managerial decision-making process.
+promotion, advertising, distribution, and sales Surveys design, sampling, questionnaire
+force. Integrative models for the marketing mix. design, focus groups, experimentation, scalJ. D. C. Little ing, and data analysis. Focuses on measurement of perceptions, attitudes, and
+15.826 Channels of Distribution preferences. Lectures, guest speakers,
+projects.
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814 D. Prelec
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+15.834 Marketing Strategy
+Examines the elements and management of Prereq.: 15.810 or 15.811 or 15.812 or 15.814
+marketing channels - interorganizational sys- G (Spring)
+tems involved in the task of making products 3-0-6 H-LEVEL Grad Credit
+and services available for consumption. Emphasis is on channel strategy design and selec- Examines strategic marketing. Strong emtion, and the ongoing management of phasis on customer analysis as the foundarelationships between system participants tion, with decisions about product, price,
+such as retailers, wholesalers, and the distribution and communication based on that
+marketplace. customer foundation. Includes current trends
+S. Jap and issues in marketing.
+B. E. Bund
+15.827 Consumer Marketing
+15.837 Special Seminar in Marketing
+Prereq.: 15.810 or 15.811 or 15.812 or 15.814
+or permission of instructor Prereq.: 15.810 or 15.811 or 15.812 or 15.814
+G (Spring) G (Spring)
+3-0-6 H-LEVEL Grad Credit Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Provides a comprehensive framework and a
+variety of concepts to analyze and understand Opportunity for group study by graduate stuthe consumer in order to develop better dents on current topics related to marketing
+marketing strategies. Lectures, guest not otherwise included in curriculum.
+speakers, case discussions, projects. D. Prelec
+N. T. Tavassoli
+-
+G (Fall, Spring)
+3-0-9 H-LEVEL Grad Credit
+Why do so many business strategies fail? Introduction to system dynamics modeling applied
+to corporate strategy. Uses a mixture of simulation models, role-playing games, and case
+studies to develop principles for successful
+management of complex strategies in a
+dynamic world. Case studies of successful
+strategy design using system dynamics. Considers strategic issues such as business
+cycles, market growth and stagnation, the diffusion of new technologies, the misuse of
+forecasts, and the rationality of managerial
+decision making.
+J. D. Sterman
+15.875 Applications of System
+Dynamics
+Prereq.: 15.874
+Acad Year 1996-97: G (Fall, Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Project-based subject, applying methods of
+system dynamics to real corporate problems.
+Class divided into groups that act as consultants to local corporations. Meetings with corporate managers and staff to obtain
+information for model construction; instructor
+provides advice and guidance on model formulation and testing. Final report on work
+done and recommendations. Alternate years.
+J. D. Sterman
+450 Chapter Vill

@@ -1,0 +1,128 @@
+Department of Linguistics and Philosophy Course 24
+24.212 Varieties of Skepticism
+Prereq.: -
+24.241 Logic I
+Prereq.:
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-0-9 HASS
+Can we know anything at all, and if so, how do
+we do it? How much of what we ordinarily take
+to be our knowledge really deserves the
+name? Exploration of these central epistemological issues via examination of a range
+of philosophically significant skeptical arguments, focusing on arguments due to Descartes, Hume, Goodman, and Kripke/Wittgenstein. Emphasis on the role of underdetermination of theory by data in motivating skeptical positions, philosophical themes which unify
+these positions, importance of skepticism in
+guiding philosophical inquiry.
+E. Hall
+24.221 Metaphysics
+Prereq.: One Philosophy subject
+U (Spring)
+3-0-9 HASS
+Study of basic metaphysical issues concerning
+existence, the mind-body problem, personal
+identity, causation and its implications for
+freedom. Classical as well as contemporary
+readings.
+J. Thomson
+24.231 Ethics
+Prereq.: One Philosophy subject
+U (Fall)
+3-0-9 HASS
+Systematic study of central theories in ethics,
+including egoism, act and rule utilitarianism, intuitionism, emotivism, rights theories, and contractualism. Discussion and readings also
+focus on problems associated with moral conflicts, justice, the relationship between rightness and goodness, objective vs subjective
+moral judgments, moral truth and relativism.
+R. Wedgwood
+24.233J Political Philosophy
+(Same subject as 17.105J)
+Prereq.: One Philosophy subject
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-0-9 HASS
+See description under subject 17.105J.
+J. Cohen
+24.235J Philosophy of Law
+(Same subject as 17.109J)
+Prereq.: One Philosophy subject
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-0-9 HASS
+Examination of fundamental issues in
+philosophy of law, such as the nature and
+limits of law and a legal system, and the relation of law to morality, with particular emphasis
+on the philosophical issues and problems associated with privacy, liberty, justice, punishment, and responsibility. Historical and
+contemporary readings, including court cases.
+Permission of instructor required for students
+without the above prerequisite.
+J. Cohen
+-
+24.280 Foundations of Probability
+Prereq.: One philosophy subject or one subject
+U (Fall) on probability
+3-0-9 HASS Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+Introduction to the aims and techniques of for-
+3-0-9 HASS
+mal logic. The logic of truth functions and quantifiers. The concepts of validity and truth and Topics include: probability puzzles; common
+their relation to formal deduction. Applications fallacies in probabilistic reasoning; defenses
+of logic and the place of logic in philosophy. and criticisms of Kolmogorov's axiomatization;
+M. Glanzberg interpretations of probability (including the frequency, logical, propensity, and various subjec-
+24.242 Logic 11 tivist interpretations); the relation of objective
+chance to rational subjective credence; condiPrereq.: 24.241 tional probability; rules for updating probability;
+U (Spring) proposals for supplementing the probability cal-
+3-0-9 HASS culus with further principles.
+The central results of modern logic: the com- Staff
+pleteness of predicate logic, recursive functions, the incompleteness of arithmetic, the 24.292 Special Topics in Philosophy
+unprovability of consistency, the indefinability
+Prereq.: Any two subjects in Philosophy
+of truth, Skolem-L~wenheim theorems, nonU (Fall)
+standard models. Permission of instructor reUnits arranged
+quired for students without the above
+prerequisite. Open to qualified students who wish to pursue
+M. Glanzberg special studies or projects. Students electing
+this subject must consult the Department Head.
+24.243 Classical Set Theory
+24.293 Special Topics in Philosophy
+Prereq.: 24.241 or the equivalent
+Acad Year 1996-97: Not offered Prereq.: Any two subjects in Philosophy
+Acad Year 1997-98: U (Fall) U (Spring)
+3-0-9 HASS Units arranged
+Introduction to the basic concepts and results Open to qualified students who wish to pursue
+of standard, i.e., Zermelo-Fraenkel, set theory: special studies or projects. Students electing
+the axioms of ZF, ordinal and cardinal arith- this subject must consult the Department Head.
+metic, the structure of the set-theoretic
+universe, the axiom of choice, the (general- 24.400 Proseminar in Philosophy I
+ized) continuum hypothesis, inaccessibles and
+Prereq.: Permission of instructor beyond.
+G. S. Boolos G (Fall)
+6-0-18 H-LEVEL Grad Credit
+24.244 Modal Logic 24.401 Proseminar in Philosophy 11
+Prereq.: 24.241 Prereq.: Permission of instructor
+U (Fall) G (Spring)
+3-0-9 HASS 6-0-18 H-LEVEL Grad Credit
+Sentential and quantified modal logic, with em- Advanced study of the basic problems of
+phasis on the model theory ("possible worlds philosophy. Intended for first-year graduate stusemantics"). Soundness, completeness, and dents in philosophy.
+characterization results for alternative sys- 24.400: A. Byrne
+tems. Tense and dynamic logics, epistemic 24.401: R. Stalnaker, J. Thomson
+logics, as well as logics of necessity and possibility. Applications in philosophy, theoretical 24.408 Kant
+computer science, and linguistics.
+V. McGee (Subject meets with 24.208)
+Prereq.:
+24.260 Topics in Philosophy
+Prereq.: Two subjects in Philosophy
+U (Spring)
+3-0-9 HASS
+Close examination of a single book, or group
+of related essays, of major significance in
+recent philosophy. Subject matter varies from
+year to year. Intended primarily for majors and
+minors in philosophy.
+R. Wedgwood
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9
+Meets with undergraduate subject 24.208, but
+assignments differ. See description under subject 24.208.
+Staff
+Descriptions of Subjects 533

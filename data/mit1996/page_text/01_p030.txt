@@ -1,0 +1,167 @@
+School of Engineering
+3.069 Ceramics Processing
+Prereq.: 3.185
+U (Spring)
+3-0-9
+In-depth study of the unit operations in
+processing technical ceramics and the effect of
+these operations on the properties of the
+sintered material. Topics include powder
+production and conditioning, drying, forming,
+sintering, and microstructure development.
+Relevant aspects of transport phenomena, colloid science, and chemistry are discussed, as
+well as contemporary issues in ceramic composite processing. Case studies involving both
+electronic and structural ceramics are
+reviewed.
+M. J. Cima
+3.07 Introduction to Ceramics
+Prereq.: 3.01, 3.13
+U (Fall)
+4-0-8
+Discusses structure-property relationships in
+ceramic materials. Includes hierarchy of structures from the atomic to microstructural levels.
+Defects, atom mobility, solid-state
+electrochemical processes, phase equilibria,
+and phase transformations are discussed in
+the context of controlling properties for structural and electronic applications of ceramics.
+Numerous examples from current technology.
+Y.-M. Chiang
+3.070J Materials for Nuclear Applications
+(Subject meets with 22.70J, 3.711J, 22.070J)
+Prereq.: 3.091
+U (Spring)
+3-0-9
+See description under subject 22.70J.
+K. C. Russell
+3.08J Industrial Competition in the US and
+Asia
+(Same subject as 21H.541J, TPP.03J)
+Prereq.: -
+3.081 Materials Structure Laboratory
+Prereq.: 3.13 or permission of instructor
+U (Fall, Spring)
+1-6-5 Institute LAB
+Structure, structural transitions, and their influence on materials properties are examined
+by classical characterization methods (optical
+and electron microscopy, X-ray diffraction, UV
+and IR spectroscopy, TGA, DSC) and by more
+recently developed tools (AFM, Auger
+spectroscopy, molecular simulation). Investigations address four central themes: electronic
+and chemical structure, order and disorder, surfaces and interfaces, nucleation and growth.
+Unknown materials determination and
+materials design for the environment.
+Fall Term: A. M. Mayes
+Spring Term: L. W. Hobbs
+3.082 Materials Processing Laboratory
+Prereq.: 3.01, 3.081, 3.13
+U (Fall, Spring)
+1-6-5
+A unified laboratory teaching students how to
+tailor the properties and performance of a
+material by modifications in its composition
+and microstructure through synthesis and
+processing. Students process materials from
+different classes (metals, ceramics, polymers,
+and electronic materials). Design is an integral
+part of this subject, which consists of two sixweek project modules. Examples include
+solidification processing, powder processing,
+and thin-film processing of materials for magnetic, electronic, optical, and structural applications.
+Y.-M. Chiang, D. C. Dunand, J. S. Haggerty,
+M. F. Rubner, C. E. Scott
+3.091 Introduction to Solid-State Chemistry
+Prereq.:
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+2-0-7 HASS
+Examines causes of economic efficiency and
+international competitiveness in the US and
+Asia, considering relative importance of technological, economical, social, and historical factors. Countries discussed include modern
+China (mainland, Taiwan, and Hong Kong),
+South Korea, and Japan. Topics include costs
+of production, product quality, organizational
+structures, labor relations, and the educational
+system. Case studies of selected industries
+such as automotive, steel, electronics, computers, and biotechnology.
+J. P. Clark, P. C. Perdue
+-
+U (Fall, Spring)
+5-0-7 CHEMISTRY
+Introduction to the basic principles of chemistry
+and their application to the solid state.
+Development of relationships between
+electronic structure of elements, chemical
+bonding, and crystal structure. Characterization of atomic and molecular arrangements in crystalline and amorphous solids.
+Chemical kinetics. Phase diagrams. Examples
+from contemporary industrial pratice (including
+the environmental impacts of processes and
+products) and from emerging technologies,
+e.g., biomaterials.
+Fall Term: D. R. Sadoway
+Spring Term: R. M. Latanision
+3.092 Perspectives in Materials Science
+Prereq.: -
+3.093 Hotter, Faster, Stronger, Cheaper:
+Materials at the Frontiers of Engineering
+Prereq.:
+U (Spring)
+2-0-4 [P/D/F]
+Surveys, in some depth, materials science and
+its applications at levels suitable for those with
+no prior experience in the field. Lectures by
+MIT staff and guests form a series of integrated seminars on important aspects of the
+field.
+A. F. Witt
+-
+U (IAP)
+1-0-2 [P/D/F]
+Illustrates the physical and economic limits to
+performance of engineering systems imposed
+by properties and costs of currently available
+materials in a series of case-study lectures by
+MIT staff and guests. Explores how and why
+materials behave as they do, as well as
+prospects and opportunities for the development of new materials. Suitable for those with
+no prior experience in materials science.
+J. P. Clark
+3.10 Chemical Physics of Materials
+Prereq.: 3.091 or 5.11; 8.02, 18.03
+U (Spring)
+4-0-8 REST
+Introduction to the physics of the chemical
+bond in molecules and solids; electrons and
+energy bands in solids; electrical, optical, magnetic, and thermal properties.
+E. A. Fitzgerald, J. D. Livingston
+3.11 Mechanics of Materials
+Prereq.: 3.01, 3.13
+U (Spring)
+4-0-8
+Overview of mechanical properties of
+ceramics, metals, and polymers, emphasizing
+the role of processing and microstructure in
+controlling these properties. Introduction to
+continuum concepts of stress and strain, and
+design of engineering structures from a
+materials point of view.
+S. Suresh, D. K. Roylance
+3.13 Structure of Materials
+Prereq.: 3.091 or 5.11; 8.02, 18.02
+U (Fall)
+4-0-8 REST
+Provides fundamental basis for understanding
+structure and its relationship to physical properties. Symmetry theory for the description of the
+atomic and molecular arrangements in crystals. Principles of space groups and use of International Tables for Crystallography for
+specifying crystal structure. Point, line, and
+planar imperfections in ordered media. Quantitative description of noncrystalline materials.
+Liquid crystals. Fractals. Structural hierarchies.
+Influence of processing on microstructure;
+structure-property relations.
+S. M. Allen, E. L. Thomas
+3.14 Physical Metallurgy
+Prereq.: 3.01; 3.11; 3.13
+U (Fall)
+3-0-9
+Treats phase transformation and strengthening mechanisms in metals and alloys. Also
+provides an introduction to processing, microstructures, and properties of alloy systems of
+major engineering significance.
+A. Mortensen
+326 Chapter VIII

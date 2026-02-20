@@ -1,0 +1,84 @@
+School of Engineering
+Engineering Analysis Methods Engineering Systems, 1.147 Design for Product Realization
+Economics, and Management
+Prereq.: Permission of instructor
+1.131 Mathematical Techniques and G (Spring)
+Engineering Applications 3-0-6 H-LEVEL Grad Credit
+1.141J Strategic Analysis for
+Prereq.: 18.03 Environmental Policy Planning, Design, Concerned with the process by which a conG (Fall) and Implementation cept for a product is formulated and trans-
+4-0-8 H-LEVEL Grad Credit formed into an actual artifact. Focuses on the
+(Same subject as 3.563J, 6.688J, 11.385J, design and manufacture of large-scale comA utilitarian survey of elementary and inter- 22.822J, TPP.121J) plex engineered projects. Methodologies and
+mediate analytical techniques, and their ap- Prereq.: 1.146 or 2.192 or 3.56 or 13.62 or tools of system engineering are introduced to
+plications in physical systems important to 16.861 or TPP.21 or 11.200 or 11.205 develop models of the product and process,
+engineering. Linear partial differential equa- G (Spring)
+and analyze the relationships between critical
+tions. Separation of variables. Green's func- 3-0-6 H-LEVEL Grad Credit
+design and production features. Topics include
+tions. Fourier transforms. Bessel functions. Gives participants practical understanding of interaction matrices, program planning, sysApplications to seepage, traffic flows, statics the procedures for successfully designing com- tems modeling and analysis, control algoand vibration of elastic structures, soil con- plex technical systems that must perform well rithms, axiomatic design principles, concurrent
+solidation, and diffusion of heat or pollutants.
+in a social context. Student teams work with engineering processes, and computational
+Additional topics may include complex funccomputer-based models to examine the effect design infrastructure. Core requirement for Intions or perturbation techniques. Formulation of alternative strategies; then define the formation Technology M.Eng. program.
+of physical problems and analysis of mathe- tradeoffs between energy use, environmental J. J. Connor, Jr.
+matical solutions are emphasized.
+quality, and costs, so as to develop a policy
+C. C. Mei
+which is consistent with the social, economic, 1.148J Economics of Project Evaluation
+political and historical context of the region.
+1.133 M.Eng. Concepts of Engineering The example treated is the proposed policy of (Same subject as 14.11 1J)
+Practice requiring the introduction of personal electric Prereq.: 14.03
+(Revised Units) cars in the Los Angeles region, as a means of Acad Year 1996-97: Not offered
+reducing pollution. Acad Year 1997-98: G (Spring)
+G P re (F re a q ll) .: Limited to Course 1 M.Eng.students D. H. Marks, R. de Neuhlille, J. Clark, 3-0-6 H-LEVEL Grad Credit
+3-0-6 H-LEVEL Grad Credit R. Gakenheimer, M. W. Golay, D. Sadoway, See description under subject 14.111J.
+R. D. Tabors Consult P. Joskow.
+This core requirement for the M.Eng. program
+is designed to teach students about the roles
+1.142 Civil Engineering Clinic
+of today's professional engineer and expose
+them to team-building skills through lectures, Prereq.: Permission of instructor See also 1.202, 1.203J, 1.207, 1.281, 1.283J,
+team workshops and seminars. Topics include U (Spring) 1.70, 1.731. For management of engineerregulations, negotiations, risk analysis and risk 1-10-1 ing systems, see also 1.40-1.482.
+management, information systems, ethics, Designed to expose students to real-world civil
+managing public information, project evaluaengineering projects and potential employment
+tion, and project management. Draws on a opportunities. A list of clinic subjects - encomrelevant large-scale project to illustrate each
+component of the subject. Grading is based on p tio a n ss , i a n n g d s c tr o u n c s tu tr r u a c l, t i g o e n o e te n c g h in n e ic e a ri l n , g tr a - ns h p a o s rt a b - een Engineering Risk Assessment
+both individual and team exercises along with developed in consultation with private and and Probabilistic Analysis
+oral and written presentations. public "sponsors" (local consulting and conD. H. Marks
+tracting firms, government agencies, etc.). Stu-
+1.151 Probability and Statistics in
+dents select a project and work jointly with an
+Engineering
+individual from the sponsoring firms and an
+MIT faculty member. Requires comprehensive Prereq.:
+See also 1.351, 1.541, 1.56J, 1.571, 1.63, written report and oral presentation.
+1.691.
+L. J. Gibson
+1.146 Engineering Systems Analysis
+Prereq.: Permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+R. de Neufville, J. P. Clark, F. Field
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Quantitative analysis of uncertainty in planning, design, construction, and operation of engineered facilities. Fundamentals of
+probability, random processes, statistics, and
+decision analysis. Random variables and vectors and their transformations, second-moment
+analysis. Bayesian analysis and risk-based
+decision. Point and interval estimation,
+hypothesis testing, simple and multiple linear
+regression. Poisson and Markov processes.
+D. Veneziano
+1.155 Engineering Risk-Benefit Analysis
+Prereq.: 18.02
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+G. Apostolakis, A. W. Drake, A. P. Odoni
+See also 1.203J, 1.711,1.732.
+302 Chapter Vill

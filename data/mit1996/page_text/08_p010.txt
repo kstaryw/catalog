@@ -1,0 +1,107 @@
+Division of Health Sciences and Technology HST
+HST.599 Special Topics in Medical HST.720 Physiology of the Ear HST.780-789 Special Subjects in the
+Engineering and Medical Physics Speech and Hearing Sciences
+Prereq.: HST.718, HST.714J
+(New)
+Prereq.: Permission of instructor G (Spring)
+G (Fall, Spring, Summer) 4-0-8 H-LEVEL Grad Credit Prereq.: Permission of instructor
+Units arranged H-LEVEL Grad Credit G (Fall, IAP, Spring, Summer)
+Physiological mechanisms underlying the
+Can be repeated for credit Units arranged H-LEVEL Grad Credit
+transmission and processing of signals in the
+Can be repeated for credit
+Assigned reading or research on special topics auditory periphery. Topics include comparative
+in theoretical, experimental, or clinical aspects anatomy; acoustics, mechanics, and Opportunity for group study of advanced subof medical engineering and medical physics. hydrodynamics of sound transmission; physiol- jects related to the Speech and Hearing ScienArranged on individual basis with instructor. A ogy of transduction and synaptic transmission; ces not otherwise included in the curriculum.
+project proposal is required at time of registra- neural coding of simple and complex sounds; Offerings initiated by members of the SHS
+tion. Approval of coordinator required. feedback control; and the physiological bases faculty on an ad hoc basis subject to program
+Coordinator: M. L. Gray. for hearing disorders. Emphasis on experimen- approval. Prerequisites may vary by topic; contal observations, theories, quantitative models, sult faculty at time of offering.
+HST.710J Speech Communication and clinical relevance. L. D. Braida
+M. C. Liberman, D. Freeman, Staff
+(Same subject as 6.541J, 24.968J)
+HST.790 Research Approaches to Speech
+Prereq.: Permission of instructor
+HST.722 Brain Mechanisms for Hearing and and Hearing
+G (Spring)
+Speech
+3-1-8 H-LEVEL Grad Credit Prereq.: 6.021J or 6.501 or 7.20 or 9.00
+Prereq.: HST.720 G (Spring)
+See description under subject 6.541J.
+G (Fall) 6-0-6 H-LEVEL Grad Credit
+K. N. Stevens, S. J. Keyser 4-0-8 H-LEVEL Grad Credit
+Methods and ideas in research on speech and
+HST.712J Laboratory on the Physiology, The anatomy and physiology of the central hearing. Approaches and techniques of
+Acoustics, and Perception of Speech nervous system relevant to speech and hear- various research groups are analyzed. Reading. Specific topics include: the anatomy, con- ings and discussions illustrate how knowledge
+(Same subject as 6.542J, 24.966J) nections, neurochemistry and single-neuron has been gained in the speech and hearing
+Prereq.: Permission of instructor physiology of the brainstem auditory system in- sciences. Professional responsibilities of scienAcad Year 1996-97: Not offered cluding the feedback control systems; the tists and issues such as standards for conductAcad Year 1997-98: G (Fall) midbrain and forebrain auditory system; ing research, integrity in science, criteria for
+2-2-8 H-LEVEL Grad Credit auditory evoked potentials; motor control and human and animal studies are examined in
+See description under subject 6.542J. the control of the muscles of speech; cortical detail. A written research proposal is required
+K. N. Stevens, J. S. Perkell, S. Shattuck-Huf- representation of speech and language func- of each student.
+nagel tion. N. Y. S. Kiang, Staff
+J. J. Guinan, Jr., M. C. Brown
+HST.714J Acoustics of Speech and HST.791 Speech and Hearing Laboratory
+Hearing HST.724 Clinical Aspects of Speech and Visits
+Hearing
+(Same subject as 6.551J) Prereq.:
+Prereq.: 8.03 and 6.003 or permission of in- Prereq.: HST.714J, HST.718, HST.720, and
+structor HST.722
+G (Fall) G (Spring)
+4-2-6 H-LEVEL Grad Credit 12-0-12 H-LEVEL Grad Credit
+See description under subject 6.551J. Clinical approaches to speech and hearing
+W T. Peake, J. J. Rosowski, problems. Lectures, discussion sessions, and
+W. M. Rabinowitz, K. N. Stevens presentations of patients by otolaryngologists,
+audiologists, speech clinicians, pathologists,
+rehabilitation specialists, and bioengineers.
+HST.716J Signal Processing by the Auditory
+Principles of clinical research.
+System: Perception
+J. B. Nadol, Staff
+(Same subject as 6.552J)
+Prereq.: 6.003; 6.041 or 6.431 and permission HST.730 Molecular Biology of the Auditory
+of instructor System
+G (Fall)
+3-0-9 H-LEVEL Grad Credit Prereq.: 7.012 or 7.013 or 7.014 or equivalent
+G (Fall)
+See description under subject 6.552J. 3-0-9 H-LEVEL Grad Credit
+L. D. Braida
+An introductory tutorial-based approach to the
+auditory system. First half focuses on human
+HST.718 Anatomy of Speech and
+genetics and molecular biology, covering funHearing
+damentals of pedigree analysis, linkage
+Prereq.: 7.012 or 7.013 or 7.014 analysis, molecular cloning, and gene analysis
+G (Fall) as well as ethical/legal issues, all in the con-
+3-3-6 H-LEVEL Grad Credit text of an auditory disorder. Second half emphasizes molecular approaches to function
+The anatomical structures that are key to
+speech production and hearing are presented. and dysfunction of the cochlea, and is based
+on readings and discussion of research literaLaboratory exercises provide students with disture.
+section experience and study of microscopic
+C. C. Morton, W. F Sewell
+specimens. Topics include gross anatomy of
+head and neck structures, cranial nerves, and
+the central nervous system. Special techniques such as chemical markers, imaging, and
+electron microscopy are demonstrated.
+J. C. Adams, J. B. Kobler, P. Janfaza,
+B. C. Fullerton
+-
+G (Fall, Spring)
+0-1-0 [P/D/F]
+A weekly meeting to acquaint first-year students in the Speech and Hearing Sciences
+wtih research opportunities. Meetings at different laboratories are hosted by faculty members of the program. These informal,
+introductory visits are designed to acquaint students with the kinds of work done in each
+laboratory.
+N. Y. S. Kiang
+HST.799 Special Topics in Speech and
+Hearing
+Prereq.: Permission of Instructor
+G (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Assigned reading or research on special topics
+in theoretical, experimental, or clinical aspects
+of speech and hearing science. Arranged on individual basis with a research supervisor. At
+time of registration, a project proposal is required and a concise written progress report
+endorsed by the supervisor must be submitted
+to the instructor in charge at the end of each
+term.
+W. T. Peake
+Descriptions of Subjects 543

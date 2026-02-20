@@ -1,0 +1,141 @@
+School of Engineering
+1.811J Environmental Law: Pollution 1.83 Environmental Organic Chemistry
+Control
+Prereq.: 5.12, 5.60
+(Same subject as TPP.33J) G (Spring)
+Prereq.: Permission of instructor 3-0-9 H-LEVEL Grad Credit
+G (Fall)
+Focuses on the processes affecting
+3-0-9 H-LEVEL Grad Credit
+anthropogenic organic compounds in the enReviews and analyzes Federal and state vironment. Uses physical chemical properties
+regulation of air and water pollution and haz- to predict chemical transfers between
+ardous wastes. Emphasizes use of legal environmental compartments (air, water, sedimechanisms and alternative approaches (such ments, biota). Uses molecular structure-reacas economic incentives) to control pollution tivity relationships to estimate chemical,
+and encourage chemical accident and pollu- photochemical, and biochemical transformation prevention. Focuses on the major Federal tion rates. Resulting process models are comlegislation, the underlying administrative sys- bined to predict environmental concentrations
+tem, and the common law in analyzing the (and related biological exposures) of hazardgoals of pollution control and pollution preven- ous and natural organic compounds.
+tion, economic consequences, and the role of P. M. Gschwend
+the courts. Discusses both classical pollutants
+and toxic industrial chemicals. Also provides 1.85 Wastewater Treatment Engineering
+an introduction to basic legal skills.
+N. A. Ashford, C. C. Caldart Prereq.: 1.05 or 1.80
+G (Spring)
+3-0-6 1.812J Regulation of Chemicals, Radiation,
+and Biotechnology Theory and design of systems for treating
+municipal wastewater. Methods for charac-
+(Same subject as TPP.34J)
+terizing wastewater properties. Physical,
+Prereq.: Permission of instructor
+chemical, and biological processes, including
+G (Spring)
+primary treatment, and suspended growth and
+3-0-9 H-LEVEL Grad Credit
+fixed-film methods for secondary treatment.
+Focuses on policy design and evaluation in the Nutrient removal. Reactor design and process
+regulation of hazardous substances and kinetics. State-of-the-art processes. Sludge
+processes. Includes risk assessment, hazard- processing and disposal. Field trip to local wasous chemical wastes, toxic air and water pol- tewater treatment plant.
+lutants, pesticides, food additives, A. Pincince
+pharmaceuticals, radiation and radioactive
+wastes, product safety, the Toxic Substances 1.89 Environmental Microbiology
+Control Act, workplace hazards, indoor air pollution, biotechnology, and victims' compensa- Prereq.:
+tion. Both health and economic consequences
+of regulation discussed.
+N. A. Ashford, C. C. Caldart
+1.814J Industrial Ecology
+(Same subject as TPP.1 23J, 3.560J)
+Prereq.: TPP. 11 or 3.56
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+See description under subject TPP.123J.
+J. Clark, F. Field, R. de Neufville
+1.82 Problems in Aquatic Biology and
+Chemistry
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Advanced topics in fields of aquatic chemistry,
+aquatic biology, and oceanography. Choice of
+independent study, seminar, laboratory, or
+field studies. Typical topics include nutrient
+and trace-metal interactions with aquatic biota,
+biogeochemical cycles, current issues in
+oceanography.
+S. W. Chisholm
+-
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+A general microbiology subject dealing with
+the function of microorganisms in environmental processes. Topics include microbial cell
+structure, bioenergetics, microbial growth, macromolecular structures, microbial fermentations, elemental cycles, microbial ecology,
+biodegradation of wastes, and metal transformations.
+Staff
+Special Studies
+1.UR Research in Civil and Environmental
+Engineering
+Prereq.: - U (Fall, lAP, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+1.URG Research in Civil and Environmental
+Engineering
+Prereq.: -
+1.91 Civil and Environmental Engineering
+Internship
+Prereq.
+U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Individual research or laboratory study under
+faculty supervision. Also opportunities in ongoing research program.
+Information: A. J. Whittle.
+-
+U (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+1.92 Advanced Civil and Environmental
+Engineering Internship
+Prereq.: 1.91
+G (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+1.91 provides credit for the first two work assignments of Course I students affiliated with
+the Engineering Internship Program. 1.92
+provides credit for the third and fourth work assignments for students affiliated with the Engineering Internship Program. Students
+register for both 1.91 and 1.92 twice and must
+complete both work assignments in order to
+receive academic credit for the subjects. Enrollment limited to students registered in the
+Course I Internship Option.
+Information: 0. Buyukozturk.
+1.ThG Graduate Thesis
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of an S.M., M.Eng., C.E., Ph.D., or
+Sc.D. thesis; to be arranged by the student
+and an appropriate MIT faculty member. Consult Department Academic Programs Office.
+Consult Department Academic Programs Office.
+1.961-1.966 Special Graduate Studies in
+Civil and Environmental Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Graduate subjects taught experimentally; special subjects offered by visiting faculty; seminars on topics of current interest.
+Information: J. Sussman.
+1.968 Graduate Studies in Civil and
+Environmental Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Individual study, research, or laboratory investigations at the graduate level, under faculty
+supervision.
+Information: J. Sussman.
+1.969 Graduate Studies in Civil and
+Environmental Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Individual study, research, or laboratory investigations at the graduate level, under faculty
+supervision.
+Information: J. Sussman.
+312 Chapter Vill

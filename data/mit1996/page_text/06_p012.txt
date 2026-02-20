@@ -1,0 +1,115 @@
+Department of Mathematics Course 18
+18.101 Analysis I1 18.116 Topics in Complex Variables
+Prereq.: 18.100; 18.700 or 18.701 Prereq.: 18.115
+U (Fall) Acad Year 1996-97: Not offered
+3-0-9 (H except XVIII) Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Continues 18.100, in the direction of manifolds
+Can be repeated for credit
+and global analysis. Differentiable maps, inverse and implicit function theorems, n-dimen- Topics vary from year to year. Typical topics:
+sional Riemann integral, change of variables in introduction to Riemann Surface Theory, funcmultiple integrals, manifolds, differential forms, tion-theoretic and geometric approaches to
+n-dimensional version of Stokes' theorem. TeichmOller theory.
+18.901 helpful but not required. Information: R. B. Melrose.
+Information: R. B. Melrose.
+18.117 Topics in Several Complex
+18.103 Fourier Analysis - Theory and Variables
+Applications
+Prereq.: 18.115, 18.125
+Prereq.: 18.100 G (Spring)
+U (Spring) 3-0-9 H-LEVEL Grad Credit
+3-0-9 (H except XVIII) Can be repeated for credit
+Continues 18.100. Roughly half the subject Pseudoconvex domains and plurisubharmonic
+devoted to the theory of the Lebesgue integral functions. Existence and approximation
+with applications to probability, and half to theorems for holomorphic functions via L2
+Fourier series and Fourier integrals.
+V. W. Guillemin
+18.104 Seminar in Analysis
+Prereq.: 18.100
+U (Fall)
+3-0-9
+Seminar for mathematics majors. Students
+present and discuss the subject matter, taken
+from current journals or books. Topics vary
+from year to year. Topic for 1996-97: Quantum calculus. Develops quantum calculus with
+applications to calculus, combinatorics, number theory, and statistical mechanics.
+V. Ka
+18.112 Introduction to Functions of a
+Complex Variable
+Prereq.: 18.03 or 18.034
+U (Spring)
+3-0-9 (H except XVIII)
+A deeper and more extensive treatment of
+complex variables than 18.04, with more challenging problems. Mathematical rigor is, however, not stressed. Branch points and branch
+cuts. Cauchy's theorem, singularities,
+residues, contour integrals, conformal mapping. Schwarz-Christoffel transformation,
+analytic continuation, harmonic function, the
+Mittag-Leffler theorem.
+V. Kae
+18.115 Functions of a Complex Variable
+Prereq.: 18.100
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Exponential and trigonometric functions,
+Cauchy integral formula, holomorphic and
+meromorphic functions. Infinite series and
+products, the gamma function. Harmonic functions, conformal mapping, Dirichlet's problem.
+J. Stalker
+-
+18.152 Introduction to Partial Differential
+Equations
+Prereq.: 18.100
+U (Fall)
+3-0-9
+Initial and boundary value problems for ordinary differential equations. Sturm-Liouville
+theory and eigenfunction expansions. Initial
+value problems for the wave equation and
+heat equation. The Dirichlet problem for
+Laplace's operator and potential theory.
+K. Liu
+18.155 Distributions and Differential
+Equations
+Prereq.. 18.103
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Distributions, Schwartz space, tempered distributions, convolutions and regularizations,
+Fourier transforms, Plancherel theorem,
+estimates for the a-operator. Payley-Wiener theorem; L2 Sobolev spaces,
+V. W. Guillemin Sobolev embedding theorems, L2 elliptic
+regularity, compactness theorems; fundamen-
+18.125 Measure and Integration tal solutions, and second-order elliptic
+operators.
+Prereq.: 18.100 D. Jerison
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+18.156 Introduction to Microlocal
+Compactness, continuity, metric spaces. Analysis
+Lebesgue measure and integration, product
+Prereq.: 18.155, 18.965
+measures, signed measures, densities. Hilbert
+Acad Year 1996-97: Not offered
+and Banach spaces.
+Acad Year 1997-98: G (Fall)
+R. M. Dudley
+3-0-9 H-LEVEL Grad Credit
+18.126 Functional Analysis Examines singularities of distributions. Distributions singular across a submanifold, singular
+Prereq.: 18.125 points of ordinary differential equations, nonG (Spring) characteristic boundary-value problems. Pseu-
+3-0-9 H-LEVEL Grad Credit dodifferential operators, regularity of elliptic
+General theory of Hilbert and Banach spaces. differential operators, wavefront set, and
+Examples, including Sobolev spaces and LP. microdistributions. Darboux's theorem. HamilThe Fourier transform. Boundedness and com- ton-Jacobi theory.
+pactness of operators. Spectral theory for self- Information: R. B. Melrose.
+adjoint operators. Applications to linear partial
+differential equations. 18.157 Partial Differential Equations
+K. Liu
+Prereq.: 18.155, 18.156
+G (Spring)
+18.135 Geometric Analysis 3-0-9 H-LEVEL Grad Credit
+Prereq.: 18.125 Analysis and geometry of linear and nonlinear
+Acad Year 1996-97: Not offered elliptic operators. Basic facts from Riemannian
+Acad Year 1997-98: G (Fall) geometry and elliptic partial differential equa-
+3-0-9 H-LEVEL Grad Credit tions; variational methods; real Monge-Ampere
+Harmonic analysis on Rn. Radon transforms equations; global geometric problems asand applications. Spherical harmonics. Non- sociated with prescribing curvature.
+Euclidean Fourier analysis. Paley-Wiener type R. B. Melrose
+theorems, group-theoretic potential theory.
+Eigenfunctions, entire functionals, and hyperfunctions.
+Information: S. Helgason.
+Descriptions of Subjects 477

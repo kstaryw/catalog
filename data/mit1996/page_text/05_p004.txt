@@ -1,0 +1,122 @@
+School of Management Course 15
+15.034 Applied Econometrics and 15.057 Systems Optimization 15.061 Intermediate Statistics
+Forecasting for Management (New)
+Prereq.: 15.060 or equivalent
+Prereq.: 15.061 or 15.075 Prereq.: Permission of instructor G (Spring)
+G (Fall) G (Spring) 2-0-4 H-LEVEL Grad Credit
+3-0-6 H-LEVEL Grad Credit 3-0-3 H-LEVEL Grad Credit
+A follow-on subject to 15.060 that deals in
+Designed for students interested in applied Application-oriented introduction to systems op- greater depth with probabilistic and statistical
+econometric methods and business forecast- timization focuses on understanding system ideas and applications.
+ing. Emphasizes problems typically en- tradeoffs. Introduces modeling methodology A. /. Bamett
+countered in conducting empirical econometric (linear, integer and nonlinear programming,
+research, in evaluating results and testing genetic algorithms), modeling tools (sensitivity 15.063 Management Decision Support
+hypotheses, and in constructing forecasts. Re- and postoptimality analysis), software, and ap- Models
+quires term paper. Problem sets involve work- plications in production planning and scheduling with econometric models and the computer. ing, inventory planning, personnel scheduling, Prereq.:
+T. M. Stoker distribution systems planning, project scheduling, facility sizing and capacity expansion, and
+15.035 Pricing Strategy product development.
+T. L. Magnanti
+Prereq.: 15.010 or 15.011
+Acad Year 1996-97: Not offered
+15.058 Introduction to Management Science
+Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit (Subject meets with 15.053)
+Prereq.: 18.06 or equivalent
+Draws on research in marketing and
+G (Fall, Spring)
+economics to present principles of profitable
+4-0-8
+pricing and methods of applying them. Topics
+include pricing in oligopolies, implications of Emphasizes the formulation, optimization, and
+cost and demand dynamics, market segmenta- interpretation of mathematical models of
+tion, pricing new products, quantity discounts management decision problems arising in
+and nonlinear pricing, product-line pricing, and manufacturing, transportation, service orpricing in distribuiion channels. Antitrust and ganizations, finance and marketing. Classes of
+other legal issues discussed. models include linear and mixed integer
+R. L. Schmalensee programming, portfolio optimization, decision
+analysis, and Monte Carlo simulation.
+15.036 Modern Econometrics for Homework exercises emphasize model forManagement mulation and solution by computer.
+J. B. Orlin, J. F. Shapiro
+Prereq.: 15.034 or equivalent
+G (Spring)
+15.059 Optimization Modeling for Managers 3-0-6 H-LEVEL Grad Credit
+Prereq.: Permission of instructor Workshop in advanced econometric methods
+Acad Year 1996-97: Not offered used in management research and business
+Acad Year 1997-98: G (Spring) planning. Includes some estimation theory
+3-0-3 H-LEVEL Grad Credit
+combined with applications of state-of-the-art
+nonlinear econometric techniques. A strong Develops facility and managerial use of linear,
+foundation in applied linear regression mixed-integer, and nonlinear optimization
+methods is assumed. Topics covered: non- models. Also addresses the development of
+parametric option pricing models, discrete advanced decision support systems based on
+choice models of brand-name valuation and models and organizational adaptation to their
+other quantitative models of managerial use. Applications and case studies in manufacdecision making as used in marketing, turing, logistics, finance, and marketing.
+strategy, finance, and economic business plan- J. F. Shapiro
+ning. Essential estimation theory, including
+that for nonlinear models, semiparametric and 15.060 Data, Models, and Decisions
+nonparametric estimation, and time series
+analysis. Presentations by faculty and outside Prereq.: 18.01 or equivalent
+practitioners. G (Fall, Summer)
+T. M. Stoker, E. R. Berndt 4-0-8
+Introduces students to the basic tools in using
+data to make informed management
+decisions. Covers introductory probability,
+decision analysis, basic statistics, regression, Operations
+simulation, linear and nonlinear optimization,
+Research/Statistics and optimization under uncertainty. Computer
+spreadsheet exercises and examples drawn
+from marketing, finance, operations manage-
+15.053 Introduction to Management Science ment, and other management functions. Fall
+term restricted to first-year Sloan Master's stu- (Subject meets with 15.058)
+dents. Prereq.: 18.06
+R. M. Freund, D. Bertsimas, V. Nguyen U (Fall, Spring)
+4-0-8 REST
+See description under subject 15.058.
+J. B. Orlin, J. F. Shapiro
+-
+G (Summer)
+3-0-6
+Introduces students to the basic tools in using
+data to make informed management
+decisions. Covers introductory probability,
+decision analysis, basic statistics, regression,
+simulation, and linear optimization. Computer
+spreadsheet exercises and examples drawn
+from marketing, finance, operations management, and other management functions.
+Restricted to Sloan Fellows.
+R. M. Freund
+15.064J Engineering Probability and
+Statistics
+(Same subject as 6.430J, 3.81J)
+Prereq.: 18.02
+G (Summer)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 6.430J.
+A. W. Drake
+15.065 Decision Analysis
+Prereq.: 15.060 or equivalent
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Basic theory of decision making under uncertainty. Topics: decision trees, influence
+diagrams, quantification of judgments and
+preferences, the value of information, Bayes
+theorem, the structuring of complex decisions,
+and multi-attributed utility theory interspersed
+with applications in law, medicine, and
+management. A project report and class
+presentation in place of final exam.
+G. M. Kaufman
+15.066J System Optimization and Analysis
+for Manufacturing
+(Same subject as 2.851J, 3.83J)
+Prereq.: 18.02
+G (Summer)
+4-0-8 H-LEVEL Grad Credit
+Introduction to mathematical modeling, optimization, simulation, and dynamic systems as
+applied to manufacturing. Linear systems,
+simulation, linear programming, network flow
+problems, integer and nonlinear programming,
+and computer applications for manufacturing
+processes and systems. Restricted to Leaders
+for Manufacturing students.
+S. C. Graves, J. P. Clark
+Descriptions of Subjects 435

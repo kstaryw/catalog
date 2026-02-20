@@ -1,0 +1,81 @@
+School of Science
+5.47 Tutorial in Organic Chemistry 5.53 Molecular Structure and Reactivity 5.63 Molecular Spectroscopy: Laser and
+Magnetic Resonance Techniques
+Prereq.: 5.43, 5.511, 5.44 or 5.45 Prereq.: 5.13, 5.60
+G (Fall) G (Fall) Prereq.: 5.61, 5.62
+2-0-4 [P/D/F) H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+Detailed discussions of the basic principles of Reaction mechanisms in organic chemistry:
+3-0-9
+importance to organic chemistry. The program types of mechanisms, reactive intermediates,
+is intended primarily for new graduate students methods of investigation, relation of structure Review of the interaction of radiation with
+in organic chemistry. to reactivity. quantum systems; introduction to the basic
+S. L. Buchwald, R. L. Danheiser, G. C. Fu, F. D. Greene principles of modern optical and magnetic
+S. Masamune, S. C. Virgil resonance spectroscopy. Topics in optical
+5.56 Special Topics in Organic spectroscopy focus on an introduction to
+5.48J The Protein Folding Problem Chemistry lasers and laser spectroscopic methods (laserinduced fluorescence, double resonance,
+(Same subject as 7.88J, 10.543) Prereq.: 5.511 resonance Raman, CARS, etc.). In magnetic
+Prereq.: 5.07 or 7.05 or equivalent Acad Year 1996-97: Not offered resonance, topics include pulsed and FourierG (Spring) Acad Year 1997-98: G (Spring) transform NMR and EPR, multiple dimensional
+3-0-9 H-LEVEL Grad Credit 2-0-4 H-LEVEL Grad Credit techniques, magic-angle spinning, and quadSee description under subject 7.88J. Advanced topics of special current interest. rupole echoes. Applications of these methods
+J. A. King Staff to the studies of the structure and dynamics of
+liquids and solids.
+R. W. Field
+5.50 Enzymes: Structure and Function 5.561 Chemistry in Industry
+(Revised Content)
+Prereq.: 5.13 5.64 Biophysical Chemistry
+Prereq.: 5.07, 5.12, 5.13 G (Spring)
+G (Spring) 2-0-4 [P/D/F] H-LEVEL Grad Credit (Subject meets with 7.71)
+Prereq.: 5.60, 5.07 or 7.05
+4-0-8 H-LEVEL Grad Credit
+Examination of recent advances in organic, U (Fall)
+Emphasis on methods available to elucidate biological, and inorganic chemical research in 3-0-9
+the mechanisms of enzymes involved in pep- industry. Taught in seminar format with partide bond hydrolysis, phospho mono- and di- ticipation by scientists from industrial research Principles of biophysical chemistry introduced
+ester bond cleavage, oxidations and reduc- laboratories. with discussion of the structure, folding,
+tions (NADH, flavins, PQQ, pterin, and metal R. L. Danheiser, Staff stability, and interactions of proteins and
+dependent), carbon-carbon bond forming and nucleic acids. Topics include: an overview of
+protein and nucleic acid structure; introducbreaking reactions. Tools such as steady-state 5.60 Thermodynamics and Kinetics
+and presteady-state kinetics, isotope effect tions to X-ray crystallography, spectroscopy,
+measurements, site-directed mutagenesis, Prereq.: 18.02, 5.11 and 2D NMR; thermodynamic and kinetic
+mechanism base inhibitors applied to inves- U (Fall, Spring) aspects of protein folding; and principles of
+tigate mechanisms of enzymes that have been 4-0-8 REST protein-nucleic acid interactions. Molecular
+well-characterized structurally. Equilibrium properties of macroscopic sys- mechanics introduced as a unifying tool that reJ. Stubbe tems. Basic thermodynamics: state of a sys- lates structure, molecular forces, and thermodynamic quantities. Meets with graduate
+tem, state variables. Work, heat, first law of
+subject 7.71. Students who take 7.71 cannot
+5.511 Synthetic Organic Chemistry I thermodynamics, thermochemistry. Second
+also receive credit for 5.64.
+and third law of thermodynamics: entropy.
+Prereq.: 5.43 J. R. Williamson, C. 0. Pabo
+Gibbs function, phase equilibrium properties of
+G (Fall)
+solutions. Chemical equilibrium of reactions in
+3-0-6 H-LEVEL Grad Credit gas and solution phase. Rates of chemical 5.68 Kinetics of Chemical Reactions
+Introduction to the design of syntheses of com- reactions. (Subject meets with 12.340J, 5.23J)
+plex organic compounds. Fall Term: C. W. Garland, B. Tidor Prereq.: 5.62
+R. L. Danheiser, Staff Spring Term: M. G. Bawendi, R. J. Silbey Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+5.512 Synthetic Organic Chemistry II 5.61 Physical Chemistry 3-0-6 H-LEVEL Grad Credit
+Prereq.: 5.511 Prereq.: 8.02, 18.02, 5.11 Experimental and theoretical aspects of reacG (Spring) U (Fall) tive and inelastic molecular processes, includ-
+3-0-6 H-LEVEL Grad Credit 4-0-8 REST ing collision and transition - state theories,
+homogeneous reactions in gas and liquid
+General methods and strategies for the syn- Introductory quantum chemistry; particles and
+phases, molecular beam scattering, informathesis of complex organic compounds. waves; wave mechanics; atomic structure and
+tion theory of kinetic processes. Case studies
+S. Masamune the Periodic Table; valence and molecular orbi- in chemical kinetics, including atmospheric
+tal theory; molecular structure; photochemistry.
+chemistry and combustion dynamics. Ad-
+5.52 Advanced Biological Chemistry S. T. Ceyer vanced undergraduate students need permisPrereq.: Permission of instructor sion of instructor.
+G (Fall) 5.62 Physical Chemistry J. /. Stein feld
+3-0-9 [P/D/Fl H-LEVEL Grad Credit Prereq.: 5.60, 5.61
+U (Spring) 5.70 Introduction to Statistical
+Concepts and methods of biochemistry, with
+4-0-8 Thermodynamics
+emphasis on quantitative aspects of problem
+analysis. Intended primarily for new graduate Elementary statistical mechanics; transport Prereq.: 5.62
+students in biological chemistry. properties; kinetic theory; solid state; reaction G (Fall)
+L. Stern, J. Stubbe rate theory; chemical reaction dynamics. 3-0-6 H-LEVEL Grad Credit
+B. Tidor
+Reviews classical thermodynamics and introduces elementary statistical mechanics, with
+applications to simple physical and chemical
+systems.
+/. Oppenheim
+348 Chapter Vill

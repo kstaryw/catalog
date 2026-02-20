@@ -1,0 +1,83 @@
+School of Engineering
+16.347 Astrodynamics 1I 16.382 Lasers and Optics for 16.423 Aerospace Physiology and Life
+(Revised Content and Units) Applications I1 Support Engineering
+Prereq.: 16.346 or permission of instructor Prereq.: 16.381 or 6.631 or 8.243 Prereq.: 16.400
+G (Spring) Acad Year 1996-97: Not offered G (Fall)
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Spring) 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Fundamentals of space vehicle guidance and Fundamentals of human performance, physiolnavigation with applications for both powered A more advanced treatment of lasers and op- ogy, and life support impacting engineering
+flight and midcourse maneuvers; precision tics. Calculation of atom-field interactions for design and aerospace systems. Topics inorbit determination methods. Topics: universal weak and strong fields. Spontaneous and clude: effects of high and low G on the musorbital variables, variation of parameters, new stimulated emission, and line-broadening culoskeletal and neurovestibular systems;
+algorithms for Kepler's and Lambert's mechanisms. Steady-state and transient be- human performance throughout the continuum
+problems, multi-body methods, Legendre func- havior of lasers. Survey of gas, liquid, solid, of gravity; human/pilot modeling and
+tions, attitude determination using quaternions, semiconductor, and fiberoptic lasers. Non- human/machine design; flight experiment
+linearized and explicit techniques for targeting, linear optics. Harmonic generation and mixing. design, manifestation, and analysis; and life
+hodograph analysis, and numerical integration. Modulation and deflection of optical beams. support engineering for extreme environments,
+R. H. Battin Stimulated Raman and Brillouin scattering. e.g., microgravity, extravehicular activity
+Control and manipulation of laser behavior. (EVA), underwater, and polar regions. Assign-
+16.357 Active Control of Fluid Systems Noise in lasers and optical amplifiers. Selected ments include a design project, a journal
+applications in science and engineering. quality article, and quantitative homework sets
+Prereq.: 16.121 or 16.31 or permission of in- Staff and quizzes emphasizing engineering and sysstructor tems aspects.
+Acad Year 1996-97: G (Fall) D. J. Newman
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+16.431 Flight Simulation and Virtual
+A multidisciplinary subject treating new con- Humans and Automation Environments
+cepts for dynamic control of fluid flows and sysPrereq.: 18.03, 16.060 or 2.14
+tems typical of modern industrial practice.
+Acad Year 1996-97: G (Spring)
+Review of feedback control and signal 16.400 Human Factors Engineering
+Acad Year 1997-98: Not offered
+analysis. Elements of unsteady fluid dynamics (Revised Units)
+3-6-3 H-LEVEL Grad Credit
+and system modelling. Applications from a
+(Subject meets with 16.453J, 2.181J)
+number of fields including "anti-sound," active Simulation of aircraft for research and pilot
+Prereq.: 16.060or2.010
+control of aeroengine system instabilities, sup- training. Conversion of aircraft equations of
+U (Fall)
+pression of instabilities in simple combustion motion and data package into a digital com-
+3-1-8
+systems, control and modification of multi- puter model. Simplified transfer functions. Prindimensional fluid flows, and active control of Meets with graduate subject 16.453J, but as- ciples of vision relevant to out-the-window
+rotating stall in turbomachinery. Alternate signments differ. See description under subject displays. Implementation of CRT, model
+years. 16.453J. board, and point light source displays. Cockpit
+J. D. Paduano L. R. Young, T. B. Sheridan motion requirements, motion washout, artificial
+control, and feel and high-g cuing devices.
+16.381 Lasers and Optics for 16.401J Quantitative Physiology: Sensory J. Kuchar, L. R. Young, W. M. Hollister
+Applications I and Motor Systems
+16.453J Human Factors Engineering
+Prereq.: 8.03 or equivalent (Same subject as 6.023J, 2.793J, HST.543J)
+(Revised Units)
+Acad Year 1996-97: Not offered Prereq.: 2.003 or 6.003 or 16.060
+Acad Year 1997-98: G (Fall) U (Spring) (Subject meets with 2.181J, 16.400)
+3-0-9 H-LEVEL Grad Credit 3-2-7 Prereq.: 16.060or2.010
+G (Fall)
+Fundamentals of lasers and physical optics, in- See description under subject 6.023J.
+3-1-8 H-LEVEL Grad Credit
+cluding fiberoptics and integrated optics for L. Young, L. S. Frishkopf, C. Wall lfl, N. Hogan
+those interested in applications. Topics include Accidents associated with "human error" often
+a simplified treatment of lasers and their 16.410 Optimization and Decision Analysis reflect the failure to recognize human factors
+coherence properties, optics of laser beams, in the design stage. Reviews sensory, motor,
+Prereq.: 16.060, 6.041
+propagation of light in vacuum, dielectrics, and cognitive performance characteristics and
+fibers, waveguides, and anisotropic media. Acad Year 1996-97: G (Spring) derives human engineering design criteria.
+Types of lasers. Applications in sensing of dis- Acad Year 1997-98: Not offered Principles of displays, controls and ergonomics
+placement, temperature, strain, flow, rotation 3-0-9 are applied in various class design exercises,
+rate (gyroscope), magnetic and electric fields, Survey of fundamental methodologies in and illustrated in several laboratory sessions.
+acoustics, and molecular species. automated decision-making and decision sup- Applications emphasize piloted aircraft and
+Staff port systems. Classical approaches to op- space vehicles, and various ground-based systimization; linear programming; network tems, and treat the human/machine interface
+optimization; discrete optimization and integer from an engineering point of view. Open to
+programming; dynamic programming. Introduc- seniors. Meets with undergraduate subject
+tion to single-attribute and multi-attribute 16.400, but requires a term project.
+decision analysis. Emphasis on modeling and L. R. Young, T. B. Sheridan
+applications.
+E. Feron 16.456J Biomedical Signal and Image
+Processing
+16.422J Human Supervisory Control of (Same subject as HST.582J, 6.555J)
+Telerobots and Flight Vehicles Prereq.: 6.003 or 2.02 or 2.003 or 18.085
+(Same subject as 2.182J) G (Spring)
+Prereq.: Permission of instructor 3-6-3 H-LEVEL Grad Credit
+G (Spring) See description under subject HST.582J.
+3-1-8 H-LEVEL Grad Credit L. Braida, B. Delgutte, A. Dobrzeniecki, J.
+See description under subject 2.182J. Greenberg
+T. B. Sheridan, R. J. Hansman
+458 Chapter VIII

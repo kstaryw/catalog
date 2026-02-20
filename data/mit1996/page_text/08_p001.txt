@@ -1,0 +1,102 @@
+School of Humanities and Social Science
+24.410-24.419 Topics in the History of 24.601 Topics in Moral Philosophy 24.729 Topics in Philosophy of
+Philosophy Language
+Prereq.: Permission of instructor
+Prereq.: Permission of instructor G (Spring) Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit G (Fall)
+Acad Year 1997-98: G (Fall) 3-0-9 H-LEVEL Grad Credit
+Systematic examination of selected problems
+3-0-9 H-LEVEL Grad Credit Can be repeated for credit
+in moral philosophy. Content varies from year
+Can be repeated for credit
+to year. Subject may be taken repeatedly with Major issues in the philosophy of language.
+Intensive study of a philosopher or philosophi- permission of instructor and advisor. Topics change each year and subject may be
+cal movement. Content varies from year to R. Wedgwood taken repeatedly with permission of instructor.
+year, and subject may be taken repeatedly J. Higginbotham
+with permission of instructor and advisor. 24.611J Political Philosophy
+Staff 24.801 Philosophy of Mathematics
+(Same subject as 17.106J)
+Prereq.: One subject in Modern Political Prereq.: Permission of instructor
+24.500 Consciousness
+Philosophy Acad Year 1996-97: Not offered
+Prereq.: Permission of instructor G (Fall) Acad Year 1997-98: G (Fall)
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Acad Year 1997-98: G (Fall) Can be repeated for credit
+See description under subject 17.106J.
+3-0-9 H-LEVEL Grad Credit
+J. Cohen Examination of major philosophies of matheCan be repeated for credit
+matics - logicism, formalism, intuitionism
+What consciousness is; what it is for; why it is 24.701 Topics in Logic
+so hard to study scientifically; whether it is
+unified; its relation to the self. Blind-sight and Prereq.: 24.241 or equivalent
+other "defects" of consciousness; relation to at- G (Fall)
+tention; temporal phenomena. Units arranged H-LEVEL Grad Credit
+Epiphenomenalism, eliminativism, zombies, Can be repeated for credit
+the inverted spectrum hypothesis, anesthetics, Soundness, completeness, and compactness
+unconscious pain. Relation to mind-body iden- of first-order logic; Skolem-Lbwenheim
+tity and functionalist theses. Meets with Welles- theorems; Craig interpolation lemma; Beth
+ley Philosophy 345, taught jointly at MIT with definability theorem; decidability of monadic
+Owen Flanagan. logic with identity; Turing machines; recursive
+Staff functions and their definitions; G6del incompleteness and extensions; undecidability of
+24.501 Problems in Metaphysics dyadic logic; Tarski's theorem; nonstandard
+models of arithmetic.
+Prereq.: Permission of instructor
+M. Glanzberg
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit 24.711 Topics in Philosophical Logic
+Can be repeated for credit Prereq.: Permission of instructor
+Systematic examination of selected problems G (Spring)
+in metaphysics. Content varies from year to 3-0-9 H-LEVEL Grad Credit
+year and subject may be taken repeatedly with Can be repeated for credit
+permission of instructor and advisor. Topic for Problems of ontology, epistemology, and
+this year: metaphysical issues concerning philosophy of language that bear directly on
+necessity and possibility. questions about the nature of logic and the
+A. Byrne, E. Hall analysis of concepts of logical theory, such as
+logical truth, logical consequence, proof. Con-
+24.518J Problems of Mental tent varies from year to year, and subject may
+Representation be taken repeatedly upon permission of instructor and advisor.
+(Same subject as 9.671J)
+V. McGee
+Prereq.: Two Philosophy subjects and permission of instructor
+G (Spring) 24.728 Topics in Semantics
+3-0-9 H-LEVEL Grad Credit (Subject meets with 24.979)
+Can be repeated for credit Prereq.: Permission of instructor
+Selected philosophical problems about repre- G (Spring)
+sentational mental states. The nature of inten- 3-0-9 H-LEVEL Grad Credit
+tional content: narrow vs wide content, Can be repeated for credit
+conceptual vs nonconceptual content; skep- Seminar on current research in semantics and
+ticism about the content of one's own generative grammar. Topics may vary from
+thoughts, the relation between the inten- year to year. Meets with subject 24.979.
+tionality of language and the intentionality of /. Heim, K. von Fintel
+thought, representational theories of
+phenomenal consciousness. Specific topics
+may vary from year to year.
+R. Stalnaker
+-
+on the nature of mathematical proof, existence
+of mathematical entities, and related issues. It
+is strongly recommended that students have
+taken 24.241 or equivalent.
+Staff
+24.805 Topics in Theory of Knowledge
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Major issues in Theory of Knowledge. Topics
+change each year and subject may be taken
+repeatedly with permission of instructor.
+E. Hall
+24.808 Rationality and Action
+(New)
+Prereq.: -
+G (Spring)
+3-0-9
+The distinction between practical and theoretical reasoning; the roles of logic, probability,
+prudence, and emotion in setting norms of
+rationality; varieties of agency (causing vs allowing a result, intended vs merely foreseen
+consequences) and their significance in practical deliberation.
+A. Mac/ntyre
+534 Chapter Vill

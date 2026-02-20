@@ -1,0 +1,146 @@
+School of Engineering
+13.122 Ship Structural Analysis and
+Design
+Prereq.: 13.111, 13.14J or 13.410
+G (Spring)
+3-2-7 H-LEVEL Grad Credit
+Ship longitudinal strength and hull primary
+stresses. Ship structural design concepts. Effect of superstructures and dissimilar materials
+on primary strength. Transverse shear stresses and thermal stresses in the hull girder. Torsional strength of ships. Design limit states
+including plate bending, column and panel
+buckling, panel ultimate strength, and plastic
+analysis. Matrix stiffness, grillage, and finite
+element analysis. Computer projects on the
+structural design of a midship module.
+A. J. Brown
+13.14J Structural Mechanics in Nuclear
+Power Technology
+(Same subject as 22.314J, 1.56J, 2.084J)
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 22.314J.
+0. Buyukozturk, J. E. Meyer
+13.15 Materials for Ocean Engineering
+Prereq.: -
+13.26J Design of Thermal Power
+Systems
+(Same subject as 2.601J)
+Prereq.: 2.005, 2.006, 2.51
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.601J.
+A. D. Carmichael, L. R. Glicksman
+13.39 Analysis of Techniques for
+Fabricating Structures
+Prereq.: 3.13 or 13.15
+G (Spring)
+2-0-4 H-LEVEL Grad Credit
+Analyzes problems related to fabrication of
+structures, such as ships, aircraft, rockets,
+pressure vessels, buildings, and ocean engineering structures by various joining processes including welding, riveting, and adhesive
+bonding. Discusses problem areas such as
+fracture characteristics of welded structures;
+residual stress, distortion, and stress relieving;
+advanced welding metallurgy; nondestructive
+testing of structural welds. Laboratory
+demonstrations of some tests.
+K. Masubuchi
+13.410 Introduction to Naval Architecture
+Prereq.:
+G (Spring)
+3-0-8
+Properties of metals used for the construction
+of ships and ocean engineering structures.
+Microstructures, processing, heat treatment,
+service behavior, and failures with special emphasis on corrosion resistance of ferrous and
+nonferrous metals.
+K. Masubuchi
+13.16J Fracture of Structural Materials
+(Same subject as 3.90J, 1.591J)
+Prereq.: 2.30 or 3.11 or 13.15
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 3.90J.
+K. Masubuchi, F J. McGarry
+13.21 Ship Power and Propulsion
+Prereq.: 2.40
+G (Fall)
+3-1-8 H-LEVEL Grad Credit
+Examines ship power and propulsion systems
+for commercial and naval ships. Considers
+steam, diesel, and gas-turbine power plants,
+together with speed reducers and propulsors.
+Project study and economic evaluation of the
+propulsion system for a commercial or a naval
+ship.
+A. D. Carmichael
+13.25J Thermal Power Engineering
+(Same subject as 2.41 J)
+Prereq.: 2.005
+U (Spring)
+3-0-9
+See description under subject 2.41J.
+A. D. Carmichael, E. G. Cravalho
+-
+13.412 Principles of Naval Ship Design
+Prereq.: 13.410; 13.21; 13.021; 13.411;
+13.122; 13.49
+G (Fall)
+3-3-6 H-LEVEL Grad Credit
+Design of surface ship platforms for naval applications; formal design optimization procedures; mathematical and computer models of
+ship design process; engineering and
+economic principles governing selection of
+dimensions and coefficients; influence of hull
+form and dimensions on seakeeping and
+maneuvering in calm water and rough seas; internal subdivisions for efficient arrangement
+and maximum survivability; damage stability.
+Design exercises in applications of principles.
+A. J. Brown, M. Welsh
+13.413 Projects in Naval Ships Conversion
+Design
+Prereq.: 13.411, 13.412, 13.21
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Project studies focus on conversion design of
+a naval ship. A new mission requirement is
+defined, requiring significant ship modification.
+Design plan formulation. Technical aspects addressed in sufficient detail to demonstrate
+feasibility and desirability. Requires formal writG (Summer) ten and verbal reports. Encourages participa-
+3-0-9 tion by several students in a single project.
+Introduction to principles of naval architecture, A. J. Brown, M. Welsh
+ship geometry, hydrostatics, calculation and
+drawing of displacement and other curves, in- 13.414 Projects in New Construction Naval
+tact and damaged stability, hull structure Ship Design
+strength calculations, and ship resistance.
+Prereq.: 13.411, 13.412, 13.21 and 13.413
+Projects include computer-aided ship design
+G (Fall, Spring, Summer)
+and analysis tools.
+Units arranged H-LEVEL Grad Credit
+M. Welsh
+Can be repeated for credit
+13.411 Methods of Naval Ship-System Project studies focus on preliminary design of
+Design a new naval ship, fulfilling a given set of mission requirements. Design plan formulation.
+Prereq.: 13.410 System level trade-off studies. Emphasizes
+G (Summer) achieving a balanced design and total system
+3-0-9 H-LEVEL Grad Credit integration. Requires formal written and oral
+Overview of naval ship design and acquisition reports. Encourages participation by several
+process; mechanics of designing a ship sys- students in a single project extending over two
+tem, formulation of a systematic design plan, terms.
+requirements and constraints, design A. J. Brown, M. Welsh
+philosophy and design elements; selection/optimization criteria; design trade-offs; analysis of 13.42 Design Principles for Ocean
+ship design trends; marginal cost factors. Vehicles
+Design exercises and projects in application of
+Prereq.: 13.014; 13.021; 13.013J
+principles. G (Spring)
+A. J. Brown 3-3-6 H-LEVEL Grad Credit
+Linear systems and random processes; ocean
+spectra and their selection; short-term and
+long-term statistics. Inertia vs drag dominated
+flows; seakeeping and sensitivity of seakeeping performance. Maneuvering of surface and
+underwater vehicles; equations of motion; motion stability; control surfaces. Design exercises in application of principles.
+M. S. Triantafyllou, M. Grosenbaugh
+422 Chapter Vill

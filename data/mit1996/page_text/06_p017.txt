@@ -1,0 +1,130 @@
+School of Science
+18.445 Introduction to Stochastic 18.465 Topics in Statistics
+Processes
+Prereq.: Permission of instructor
+Prereq.: 18.313 or 18.440 or 6.041 G (Spring)
+G (Spring) 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit Can be repeated for credit
+Introduces the theory and application of Topics selected from recent literature. 1996-
+stochastic processes. Empirical phenomena 97: Topics in modern regression. Linear, nonfor which stochastic processes provide linear, generalized, and nonparametric
+models. Markov-chains. Markov processes. methods for regression with one or many
+Renewal theory. Semi-Markov processes. covariates. Unifying themes include diagnosQueueing theory and Brownian motion. tics, model selection, and prediction. Recent
+Information: R. M. Dudley. developments including use of neural networks and wavelets.
+18.446 Applied Time-Series Analysis A. Sarkar
+Prereq.: 15.075 or 18.441 or 18.443
+18.466 Mathematical Statistics
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring) Prereq.: Permission of instructor
+3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+Statistical methods commonly used to analyze
+3-0-9 H-LEVEL Grad Credit
+time series. Topics: Trends and seasonality.
+Can be repeated for credit
+Autocorrelation and stationarity. Models for stationary series. ARIMA models. Model specifica- Decision theory, estimation, confidence intertion, parameter estimation, and model vals, hypothesis testing. Introduces large
+checking. Forecasting. Seasonal time series sample theory. Asymptotic efficiency of esmodels. Intervention analysis and outlier detec- timates. Exponential families. Sequential
+tion. Fourier analysis and estimation of the analysis.
+spectrum. Cross-correlation and bivariate time Information: R. M. Dudley.
+series models. Multiple time series and vector
+ARIMA models.
+Information: R. M. Dudley.
+For additional related subjects in Statistics,
+18.457 Sampling, Simulation, and see:
+Monte Carlo
+(18.454) Civil and Environmental Engineering: 1.03,
+Prereq.: 18.440 or 18.313 or 6.041 1.151, 1.155, 1.202, 1.203J, 1.205, and 1.732
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Topics selected from the following: design and Electrical Engineering and Computer
+analysis of sample surveys, resampling Science: 6.041, 6.231, 6.245, 6.262, 6.264J,
+methods in statistical inference, random num- 6.430J, 6.431, 6.432, and 6.435
+bers and stochastic simulation, Monte Carlo integration and optimization, and Markov chain
+Monte Carlo. Management: 15.034, 15.061, 15.065,
+A. Sarkar 15.070, 15.074, 15.075, 15.076,15.078,
+15.098, 15.306, and 15.832
+18.458 Robust Statistics and
+Nonparametric Methods
+Mathematics: 18.05, 18.175, 18.177, 18.313,
+Prereq.: 15.075 or 18.441 or 18.443; 18.440 18.440, 18.441, 18.443, 18.445,18.446,
+Acad Year 1996-97: Not offered 18.457, 18.458, 18.465, and 18.466
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See also: 2.061, 2.830, 2.870, 5.70, 5.72,
+Nonparametric methods that give useful and
+7.02, 8.044, 8.08, 10.816, 11.220, 11.221,
+valid results under a very wide class of underly-
+16.322,17.842, 17.846, 22.38, HST.191, and
+ing distributions. Introduction to robust statistiMAS.622J.
+cal theory. Topics: Wilcoxon test, sign test,
+Wilcoxon-Mann-Whitney test, U-statistics
+theorems. Asymptotic relative efficiency of estimators. Kruskal-Wallis test. Robust es- Logic
+timators of location.
+Information: R. M. Dudley.
+18.504 Seminar in Logic
+Prereq.: -
+18.510 Introduction to Mathematical Logic
+and Set Theory
+Prereq.:
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-0-9
+Seminar for mathematics majors. Students
+present and discuss the subject matter taken
+from current journals or books. Topics vary
+from year to year.
+Information: S. D. Friedman.
+-
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-0-9
+Credit cannot also be received for 18.511
+Zermelo-Fraenkel set theory. Ordinals and cardinals. Axiom of choice and transfinite induction. Propositional and predicate logic.
+Elementary model theory: completeness, compactness, and Lowenheim-Skolem theorems.
+G6del incompleteness theorem. 18.510 and
+18.511 are offered in alternate years; they may
+not both be taken for credit.
+S. D. Friedman
+18.511 Introduction to Mathematical Logic
+and Recursion Theory
+Prereq.: -
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-0-9
+Credit cannot also be received for 18.510
+Propositional and predicate logic. Elementary
+model theory: completeness, compactness,
+and Lowenheim-Skolem theorems. Elementary recursion theory: enumeration and recursion theorems. Post's Problem. G6del
+incompleteness theorem. 18.511 and 18.510
+are offered in alternate years; they may not
+both be taken for credit.
+Information: G. E. Sacks.
+18.515 Mathematical Logic
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+First-order logic. Compactness and
+ultraproducts. Lowenheim-Skolem theorems
+and categoricity. Quantifier elimination. Recursively enumerable sets and definability in arithmetic. Incompleteness and undecidability.
+S. D. Friedman
+18.535 Graduate Logic Seminar
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Students report on fundamental papers in
+mathematical logic. Open to all graduate students with an interest in logic. Topics vary from
+year to year.
+Information: S. D. Friedman.
+18.565 Recursion Theory
+Prereq.: Permission of Instructor
+Acad Year 1996-97: G (Fall)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Topics in recursion theory chosen from priority
+arguments, hyperarithmetic theory, ordinal
+recursion, E-recursion, theory of projective
+sets. A previous subject in logic recommended
+but not required.
+G. E. Sacks
+482 Chapter VillI

@@ -1,0 +1,79 @@
+Department of Electrical Engineering and Computer Science Course 6
+Computer Science
+6.801 Machine Vision
+Prereq.: 6.003 or permission of instructor
+U (Fall)
+3-0-9
+Deriving a symbolic description of the environment from an image. Understanding physics of
+image formation. Image analysis as an inversion problem. Binary image processing and filtering of images as preprocessing steps.
+Recovering shape, lightness, orientation, and
+rnotion. Using constraints to reduce the ambiguity. Photometric stereo and extended
+Gaussian sphere. Applications to robotics; intelligent interaction of machines with their environment.
+B. K. P. Horn
+6.805J Ethics and the Law on the Electronic
+Frontier
+(Same subject as STS.085J)
+Prereq.: -
+6.823 Computer System Architecture 6.836 Embodied Intelligence
+(New)
+Prereq.: 6.004 or equivalent
+G (Spring) Prereq.: 6.034, 18.03, 18.06
+3-0-9 H-LEVEL Grad Credit G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Emphasizes the relationship among technology, hardware organization, and programming Studies how to build intelligent systems that
+systems in the evolution of computer architec- have physical embodiment. Examines specific
+ture. Technology constraints, machine or- problems, historical solutions, and contemganization, instruction set architecture, 1/O and porary research into the area of autonomous
+memory system design, addressing structures embodied systems. Topics: dynamical modeland memory management, and their impact on ing of agent/environment interaction; neural
+performance and programmability; design and modeling of perception and action systems; isprogramming of pipelined processors, vector sues in vision and robotics; evolutionary modelprocessors, and parallel computers. Assumes ing techniques; behavior-based approaches;
+an undergraduate knowledge of computer sys- pre-cognitive and cognitive architectures. Extems. 4 Engineering Design Points. amines problems and sources of simplification
+Arvind, W. J. Dally presented by a physically embodied system
+relative to unembodied intelligence.
+6.826 Principles of Computer Systems R. A. Brooks
+Prereq.: Permission of instructor 6.837 Computer Graphics
+G (Spring)
+3-0-9 H-LEVEL Grad Credit Prereq.: 6.046J, 18.06
+G (Fall)
+An introduction to the basic principles of com- 3-0-9
+Acad Year 1996-97: Not offered puter systems with emphasis on the use of
+Acad Year 1997-98: U (Fall) rigorous techniques as an aid to under- Introduction to computer graphics hardware, al-
+3-0-9 HASS standing and building modern computing sys- gorithms, and software. Topics include line
+tems. Particular attention paid to concurrent generators, affine transformations, line and
+Studies the growth of computer and com- and distributed systems. Topics include polygon clipping, splines, interactive technimunications technology and the new legal and specification and verification, concurrent algo- ques, perspective projection, solid modeling,
+ethical challenges that reflect tensions be- rithms, synchronization mechanisms, naming, hidden surface algorithms, lighting models,
+tween individual rights and societal needs. communication protocols, replication techni- shading, and animation. Substantial programTopics: computer crime; intellectual property ques (including distributed cache manage- ming experience required. 2 Engineering
+restrictions on software; encryption, privacy, ment), and principles and algorithms for Design Points.
+and national security; academic freedom and achieving reliability. S. Teller
+free speech. Students meet and question tech- W. E. Weihl
+nologists, activists, law enforcement agents, 6.838J Advanced Topics in Computer
+journalists, and legal experts. Extensive use of
+6.835 Concurrent Systems for Artificial Graphics
+World Wide Web for readings and other
+Intelligence (New)
+materials. Enrollment limited.
+H. Abelson, M. Fischer Prereq.: 6.001, 6.034 (Same subject as 4.214J)
+Acad Year 1996-97: Not offered Prereq.: 6.837 or 4.210
+6.821 Programming Languages Acad Year 1997-98: G (Fall) G (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Prereq.: Permission of instructor
+G (Fall) Concurrent systems and their relationship to ar- In-depth study of an active research topic in
+4-0-8 H-LEVEL Grad Credit tificial intelligence. Organizations as exemplars computer graphics. Topics change each term.
+of highly intelligent parallel systems. Concur- Readings from the literature, student presentaPrinciples of functional, imperative, and logic rent architectures for artificial intelligence (e.g., tions, short assignments, and a programming
+programming languages. Meta-circular inter- Apiary, Connection Machine, and parallel project.
+preters, semantics (operational and denotation- Prolog machines). Incrementally evolving net- J. Dorsey
+al), type systems (polymorphism, inference, works of computers. Mathematical models of
+and abstract types), object oriented program- concurrent systems (e.g., Actor Model, 6.840J Theory of Computation
+ming, modules, multiprocessing. Case studies Milner's algebraic model, and Hoare's process
+of contemporary programming languages. model). Alternate years. (Same subject as 18.404J)
+Programming experience and background in C. E. Hewitt Prereq.: 6.046J or 6.851
+language implementation required. G (Fall)
+D. K. Gifford 4-0-8 (H except XVIII)
+See description under subject 18.404J.
+S. Goldwasser, M. Karchmer
+6.841J Advanced Complexity Theory
+(Same subject as 18.405J)
+Prereq.: 6.840J
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 18.405J.
+S. Goldwasser, M. Sipser
+Descriptions of Subjects 361

@@ -1,0 +1,80 @@
+Electrical Engineering and
+Computer Science
+For degree requirements, see listing in
+Chapter VII under the School of
+Engineering.
+Basic Undergraduate
+Subjects
+6.001 Structure and Interpretation of
+Computer Programs
+Prereq.: -
+School of Engineering
+Course 6
+6.004 Computation Structures 6.013 Electromagnetic Fields and Energy
+Prereq.: 6.001, 6.002 Prereq.: 6.002, 8.02
+U (Fall, Spring) U (Fall)
+4-3-8 4-0-8
+Introduces architecture of digital systems, em- Maxwell's equations and the Lorentz force law.
+phasizing structural principles common to a Quasistatic forms of Maxwell's equations.
+wide range of technologies. Multilevel im- Studies of electro-quasistatic fields and their
+U (Fall, Spring) plementation strategies; definition of new primi- sources through solutions of Poisson's and
+5-3-7 REST tives (e.g., gates, instructions, procedures, Laplace's equations. Steady conduction and
+processes) and their mechanization using polarization. Charge relaxation. MagnetoControl of complexity in large programming
+systems. 1) Building abstractions: computation- lower-level elements. Analysis of potential con- quasistatic approximation; magnetic boundary
+currency; precedence constraints and perfor- value problems, magnetization, induction, cural processes; higher-order procedures; commance measures; pipelined and rent induced in stationary and moving conducpound data; data abstractions. 2) Controlling
+multidimensional systems. Instruction set tors. Electric and magnetic forces derived from
+interactions: generic operations; self-describdesign issues; architectural support for contem- energy. Electromagnetic waves. Extensive use
+ing data; message passing; streams and inporary software structures. 4 Engineering of engineering examples.
+finite data structures. 3) Meta-linguistic
+Design Points. A. J. Grodzinsky
+abstraction: interpretation of programming lanS. A. Ward
+guages; machine model; compilation; embedded languages. Substantial weekly 6.014 Electrodynamics
+programming assignments are an integral part 6.011 Introduction to Communication, Prereq.: 6.002; 8.02 or 8.022 or 8.02X
+of the course. Enrollment may be limited. 4 En- Control, and Signal Processing U (Spring)
+gineering Design Points. Prereq.: 6.003, 6.041 4-0-8
+W. E. L. Grimson, R. A. Brooks U (Fall, Spring)
+Plane waves in three dimensions; radiation
+4-0-8
+from elementary electric dipoles, current dis-
+6.002 Circuits and Electronics
+Input-output and state-space models of linear tributions, and arrays; diffraction and interPrereq.: 8.02 or 8.022; 18.03or 18.06 systems driven by deterministic and random ference. Waves on continuous transmission
+U (Fall, Spring) signals; time- and transform-domain repre- lines, periodic structures, and dielectric and
+4-2-9 REST sentations. Sampling, discrete-time processing metallic waveguides; propagation and evanesof continuous-time signals. State feedback, ob- cence; energy flow and impedance matching.
+Fundamentals of lumped networks, resistive
+servers. Probabilistic models; stochastic Phase and group velocity. Natural frequencies
+elements and networks, energy storage eleprocesses, correlation functions, power and modes of closed electromagnetic strucments, dynamics of first- and second-order netspectra, whitening filters. Detection; matched tures; coupling to resonant structures. Exworks, network equivalence theorems,
+filters. Least-mean square error estimation; amples taken from the fields of quasistatics,
+electronic devices, circuits, and applications.
+Wiener filtering. acoustics, optics, and microwaves.
+Design exercises. Alternate week laboratory.
+A. V. Oppenheim, G. C. Verghese J. A. Kong, D. H. Staelin
+Students with appropriate experience in
+electronic circuits may treat the 8.02 prerequisite as a corequisite. Enrollment may be 6.012 Electronic Devices and Circuits 6.021J Quantitative Physiology:
+limited. 4 Engineering Design Points. Prereq.: 6.003, 8.02 Cells and Tissues
+J. K. Roberge U (Fall, Spring) (Subject meets with 2.791J, 2.794J, 6.521J,
+4-0-8 HST.541J)
+6.003 Signals and Systems Prereq.: 2.003 or 6.002 or 6.071 or 10.301;
+Modeling of electronic devices and analysis of
+Prereq.: 6.001, 6.002 nonlinear circuits. Physical electronics of semi- 8.02, 18.03
+U (Fall)
+U (Fall, Spring) conductor junction and MOS devices. Relation
+5-2-5
+4-2-9 of electrical behavior to internal physical
+processes; development of circuit models; un- Principles of mass transport and electrical sigLaplace transform and its applications to netderstanding limitations of models. Application nal generation for biological membranes, cells,
+works and electronic systems including feedof incremental and large-signal techniques for and tissues. Mass transport through
+back. Description of linear time-invariant
+analyzing circuits containing nonlinear devices. membranes: diffusion, osmosis, chemically
+systems in the time and frequency domains;
+Analysis of bipolar and field effect transistor cir- mediated, and active transport. Electric properconvolution, Fourier series and integrals. Uncuits, with examples chosen from single-ended ties of cells: ion transport; equilibrium, resting,
+certainty relations and sampling theorems. Disand differential amplifiers, logic inverters, and and action potentials. Kinetic and molecular
+crete-time systems and signals. Applications to
+other integrated circuits. Design project. 4 En- properties of single voltage-gated ion chananalog and digital filtering systems and
+gineering Design Points. nels. Laboratory and computer exercises ilmodulation systems. 4 Engineering Design
+C. G. Fonstad, Jr. lustrate the concepts. For juniors and seniors.
+Points.
+Meets with graduate subject 6.521J, but asJ. K. White
+signments differ. Students interested in enhancing their written and oral presentation
+skills, see subject 6.080J. 4 Engineering
+Design Points.
+T. F. Weiss, D. M. Freeman
+350 Chapter Vill

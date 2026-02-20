@@ -1,0 +1,92 @@
+School of Engineering
+SWE Engineering School-Wide
+Electives
+For further information, see listing in
+Chapter VII under the School of
+Engineering.
+Computer Models of Physical and Management in Engineering
+Engineering Systems
+(Offered under: 2.96, 6.930, 10.806, 13.52,
+(Offered under: 1.12, 2.101, 3.05, 10.11, 16.653, 22.002)
+13.51, 16.651, 22.006) Prereq.:
+Prereq.: 18.03 or 18.034, 1.00
+U (Spring)
+3-1-8
+Approaches to develop computer models of
+physical and engineering systems: objectoriented methodologies to model structure,
+numerical analysis approaches to model behavior. Introduction to object orientation, C++,
+and the Object-Oriented Modeling Technique.
+Numerical solutions to differentiation, integration, ordinary differential equations, partial differential equations, characteristic-value
+problems, and curve-fitting. These techniques
+used to model various engineering systems.
+Strong background in C programming, calculus, and differential equations recommended.
+F. Penia-Mora
+Inventions and Patents
+(Offered under: 3.172, 6.901, 16.652, 22.084)
+Prereq.: 14.02
+U (Fall)
+3-0-6
+History of private and public rights in scientific
+discoveries and applied engineering, leading
+to the development of worldwide patent systems. The classes of invention protectable
+under the patent laws of the US, including the
+procedures in protecting inventions in the
+Patent Office and the courts. Reviews of past
+cases involving inventions and patents in a)
+the chemical process industry and medical and
+bio-engineering fields; b) devices in the
+mechanical, ocean exploration, civil, and/or
+aeronautical fields; c) the electrical, computer,
+software, and electronic areas, including key
+radio, solid-state, and computer inventions.
+R. H. Rines
+-
+Engineering Systems Analysis
+(Offered under: 1.146, 2.192, 3.56, 13.62,
+16.861, 22.821, TPP.21)
+Prereq.: Permission of instructor
+U (Fall) G (Fall)
+3-0-9 3-0-6 H-LEVEL Grad Credit
+Introduction of engineering management in Dynamic Strategic Planning as the synthesis
+variety of settings: 1) role of engineering and of analytic procedures for identifying optimal
+its relationship to other functions, 2) large-scale systems designs in a risky, open
+managerial tools and concepts used in en- environment. Review of economic framework
+gineering organizations, 3) practice in handling for analysis. Application of mathematical opshort- and long-term problems, 4) career timization to engineering problems. Evaluation
+strategy and development. Topics: financial procedures for single and multi-attributed
+principles, management of innovation, en- problems covering decision analysis in addigineering project planning and control, human tion to discounted cash flow calculations. The
+factors, career planning, patents, and technical subject culminates in a major practical exerstrategy. Case method of instruction em- cise in dynamic strategic planning.
+phasizes participation in class discussion. R. de Neufville, J. P. Clark, F. Field
+Juniors, seniors, or graduate students. Elective
+unit distribution: Advanced disciplinary, 6; Entrepreneurship
+Design, 6. Engineering School-Wide Elective
+subject. (Offered under: 2.942, 3.566, 6.936, 10.801,
+J.-H. Chun 13.78, 16.951, 22.86)
+Prereq.:
+Engineering Risk-Benefit Analysis
+(Offered under: 1.155, 2.943, 3.577, 6.938,
+10.816, 13.621, 16.862, 22.82)
+Prereq.: 18.02
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Risk assessment, decision and cost-benefit
+analysis, and fault-tree methods for describing
+and making decisions about societal risks
+(nuclear reactors, dams, carcinogens,
+transport and disposal of hazardous materials)
+associated with large engineering projects.
+Balancing risks and benefits in situations involving human safety, environmental risks, and
+financial uncertainties. Presentations of major
+risk assessments and the public decision
+processes associated with them.
+G. Apostolakis, A. W. Drake, A. R. Odoni
+-
+G (Spring)
+4-0-5
+Introduction to various issues faced by technical innovators/entrepreneurs. Topics include
+concept evaluation, patents and licensing,
+financing, marketing, business planning, accounting, and team building. Case studies are
+used. Term project required in which student
+ideas are developed into business plans.
+Open to undergraduates by permission of instructor.
+T. G. Gutowski
+562 Chapter Vill

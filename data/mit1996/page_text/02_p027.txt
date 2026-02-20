@@ -1,0 +1,78 @@
+School of Engineering
+6.371 Introduction to VLSI Systems Probabilistic Systems and 6.435 System Identification
+Prereq.: Permission of instructor Communication Prereq.: 6.241, 6.432
+G (Fall, Spring) Acad Year 1996-97: Not offered
+3-6-6 H-LEVEL Grad Credit Acad Year 1997-98: G (Spring)
+6.430J Engineering Probability and
+Provides background in integrated devices, cir- Statistics 3-0-9 H-LEVEL Grad Credit
+cuits, and digital subsystems needed for Mathematical models of systems from observadesign and implementation of integrated sys- (Same subject as 3.81 J, 1 5.064J) tions of their behavior. Time series, statePrereq.: 18.02
+tems. Design methodology, use of ratioed space, input-output models. Model structures,
+G (Summer)
+design rules and library modules, symbolic parametrization, identifiability. Non-parametric
+4-0-8 H-LEVEL Grad Credit
+layout languages, computer-aided design tech- methods. Prediction error methods for
+niques. Students required to complete, Modeling and analysis of uncertainty. Random parameter estimation, convergence, consistenthrough layout, the design of a digital subsys- variables, transforms, simple random proces- cy, asymptotic distribution. Relations to maxitem in NMOS or CMOS. Selected projects ses and their probability laws. Probability as- mum likelihood estimation. Recursive
+form a multi-project chip set, leading to wafers sessment and decision analysis. Limit estimation; relation to Kalman filters; structure
+available after the end of the term for packag- theorems. Introduction to experimental design. determination; order estimation; Akaike
+ing and testing by the student. Limited enroll- Regression and basic statistical procedures criterion; bounded but unknown noise models.
+ment. 8 Engineering Design Points. pertinent to manufacturing and quality control. Robustness, practical issues. Alternate years.
+J. Allen Primarily intended for students in the Leaders M. A. Dah/eh, S. K. Mitter
+for Manufacturing Program; others may con-
+6.372 Design and Analysis of VLSI sult instructor. 6.441 Transmission of Information
+Circuits A. W. Drake
+Prereq.: 6.262 or 6.432 or 6.431
+Prereq.: 6.371 G (Spring)
+6.431 Applied Probability
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+Acad Year 1997-98: G (Spring) (Subject meets with 6.041)
+Introduction to the quantitative theory of infor-
+3-0-9 H-LEVEL Grad Credit Prereq.: 18.02
+mation and its applications to reliable, efficient
+G (Fall, Spring)
+MOS device parameters, design rules, and communication systems. Mathematical defini-
+4-0-8
+fabrication from a circuit design perspective. tion and properties of information. The source
+Physics of devices and interconnect. Noise Meets with undergraduate subject 6.041. Re- coding theorem. Lossless compression of
+margins, worst-case design. Circuit design of quires the completion of additional advanced data, including adaptive compression for unhigh-speed gates. Analog aspects of digital home problems. See description under subject known source statistics. Noisy communication
+design. Clocking. System level issues in VLSI 6.041. channels, the data processing theorem, and
+design. Alternate years. 2 Engineering Design A. W. Drake fundamental limits on decoding error. IntroducPoints. tion to algebraic and convolutional error correcT. F Knight, Jr. 6.432 Stochastic Processes, Detection, and tion coding techniques.
+Estimation R. G. Gallager, M. D. Trott
+6.373 Computer-Aided Design of Integrated
+Prereq.: 6.011; 18.06
+Circuits 6.451 Principles of Communication
+G (Fall, Spring)
+Prereq.: 6.004 4-0-8 H-LEVEL Grad Credit Prereq.: 6.011
+Acad Year 1996-97: G (Spring) G (Fall)
+Fundamentals of detection and estimation for
+Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit
+signal processing, communications, and con-
+3-0-9 H-LEVEL Grad Credit
+trol. Vector spaces of random variables. Fundamental principles underlying the digital
+Theoretical, algorithmic, and practical aspects Bayesian and Neyman-Pearson hypothesis transmission of information over linear Gausof the development of computer-aided design testing. Bayesian and nonrandom parameter sian channels. Nyquist theory; modulation; sigtools for VLSI design. Automated synthesis at estimation. Minimum-variance unbiased es- nal space concepts; optimum detection; signal
+the logic, layout, and architectural levels. Test- timators and the Cramer-Rao bounds. Repre- set design; introduction to coding for Euclideaning of VLSI circuits, formal verification and sentations for stochastic processes; shaping space channel; the Viterbi algorithm; intersymdesign-for-testability methods, and interaction and whitening filters; Karhunen-Loeve expan- bol interference and adaptive equalization;
+between synthesis and testability of VLSI sys- sions. Detection and estimation from equalization via precoding; approaching chantems. Alternate years. 2 Engineering Design waveform observations. Advanced topics; nel capacity of linear Gaussian channels. CurPoints. linear prediction and spectral estimation; rent topics.
+S. Devadas Wiener and Kalman filters. R. G. Gallager
+A. S. Willsky, G. W. Womell
+6.374 Analysis and Design of Digital 6.455J Sonar, Radar and Seismic Signal
+Integrated Circuits 6.433 Recursive Estimation Processing I
+(New)
+Prereq.: 6.241, 6.432 (Same subject as 13.741J, 12.518J)
+Prereq.: 6.012 or 6.371 G (Spring) Prereq.: 2.02 or 2.003 or 6.003, 6.041, 18.075
+G (Fall) 3-0-9 H-LEVEL Grad Credit or 18.085
+3-3-6 H-LEVEL Grad Credit G (Fall)
+State-space based theory of dynamic estima-
+3-0-9 H-LEVEL Grad Credit
+Device and circuit level optimization of digital tion in discrete and continuous time. Linear
+building blocks. MOS and bipolar device and state-space models driven by white noise. Kal- See description under subject 13.741J.
+parasitic models and second order effects. Cir- man filter and its properties. Implementation is- A. B. Baggeroer, J. R. Fricke
+cuit design styles and arithmetic structures. Es- sues, including the solution of the Riccati
+timation and minimization of energy equation, the square-root filter, and efficient al- 6.456J Sonar, Radar and Seismic Signal
+consumption. Interconnect models and gorithms for the Kalman gain. Optimal smooth- Processing 11
+parasitics; driver design; timing issues (clock ing for linear systems. Nonlinear filtering and
+skew, self-timed circuits, etc.). Memory ar- the extended and second-order Kalman filters. (Same subject as 13.742J, 12.519J)
+chitectures, circuits (sense amplifiers) and A. S. Willsky Prereq.: 13.741J
+devices. Extensive use of circuit layout and G (Spring)
+SPICE in design projects and software labs. 4 3-1-8 H-LEVEL Grad Credit
+Engineering Design Points. See description under subject 13.742J.
+A. P. Chandrakasan A. B. Baggeroer, J. R. Fricke
+356 Chapter Vill

@@ -1,0 +1,93 @@
+Department of Civil and Environmental Engineering Course 1
+.593J Mechanical Behavior of Plastics 1.63 Topics in Environmental Fluid 1.69 Introduction to Coastal
+1 Dynamics Engineering
+(Same subject as 3.91J)
+Prereq.: 3.064 Prereq.: 1.60, 1.131 or equivalent Prereq.: 1.60
+G (Spring) G (Spring) G (Fall)
+3-2-4 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit
+See description under subject 3.91J. Theoretical topics of environmental fluid Basic hydrodynamics of waves in deep and
+F. J. McGarry, D. K. Roylance dynamics over a wide variety of scales. Details shallow water. Linear theory, dispersion, superof low Reynolds flows around a sphere, and position, spectral representation. Energy, ener-
+1.594J Composite Materials implications on coagulation and Brownian dif- gy transport, dissipation by bottom friction.
+fusion. Transient and oscillatory boundary Refraction, diffraction by breakwaters. Some
+(Same subject as 3.92J) layers. Induced streaming and mass transport. nonlinear aspects, wave breaking. EmPrereq.: 3.064 Dispersion in wave boundary layers. Applica- phasizes physical interpretation of mathematiG (Fall) tions of complex variables to potential flows cal results and their engineering application.
+3-2-4 H-LEVEL Grad Credit and seepage flows. Convection and instability Storm surges, coastal circulation, forecasting
+See description under subject 3.92J. in flow through porous media. Effects of earth of wind-wave characteristics. Wind-wave statisF. J. McGarry rotation. Coriolis force and effects on waves. tics, wave forces on piles; breakwater stability.
+Friction and wind. Ekman boundary layer, 0. S. Madsen
+Ekman pumping and quasi-geostripic flows.
+1.597 Studies in Construction Materials Tidal boundary layers. 1.691 Surface Wave Dynamics
+Prereq.: Permission of instructor C. C. Mei
+Prereq.: 1.131, 1.69, or equivalent
+G (Fall, Spring, Summer)
+Acad Year 1996-97: Not offered
+Units arranged H-LEVEL Grad Credit 1.64 Dynamics of Stratified Fluids Acad Year 1997-98: G (Spring)
+Can be repeated for credit
+Prereq.: 1.60 3-0-9 H-LEVEL Grad Credit
+Advanced topics in construction materials Acad Year 1996-97: Not offered Dynamics of surface gravity waves in coastal
+selected by students for individual study with Acad Year 1997-98: G (Spring) seas. Emphasizes mechanical principles and
+staff approval. 3-0-6 H-LEVEL Grad Credit theoretical methods of analysis. Ray theory of
+Information: L. J. Gibson.
+Introduction to the dynamic effects of stratifica- refraction, wave interaction with longshore
+tion in natural fluid flows. Topics include: inter- bars, scattering of shallow-water waves,
+nal wave dynamics; double-diffusion; buoyant linearized theory of harbor oscillation. Diffracjets and plumes; vertical mixing and turbulent tion by large bodies. Transient aspects of disboundary layers in stratified fluids; instability persion and tsunamis. Radiation stresses and
+Hydrodynamics and Coastal and turbulance in stratified shear flows. short-wave/long-wave interactions. Nonlinear
+Engineering H. M. Nepf modulation of short waves and instability.
+Solitons and harmonic generation.
+1.66 Problems in Water Resources and C. C. Mei
+1.60 Environmental Fluid Transport Environmental Engineering
+Processes 1.697J Oceanographic Systems I
+Prereq.: Permission of instructor
+(Subject meets with 1.61) G (Fall, Spring, Summer) (Same subject as 13.990J)
+Prereq.: 1.05 or 2.20 or 10.301 or equivalent Units arranged H-LEVEL Grad Credit Prereq.:
+U (Fall) Can be repeated for credit
+4-0-8
+Advanced topics selected by students for in-
+1.61 Environmental Fluid Transport dividual study with staff approval. Choice of
+Processes subjects from theoretical, experimental, and
+(Subject meets with 1.60) practical phases of hydromechanics, hydraulic
+Prereq.: 1.05 or 2.20 or 10.301 or equivalent engineering, water resources, hydrology, and
+G (Fall) environmental engineering. 4-0-8 Information: H. F. Hemond.
+Introduction to transport of momentum, mass,
+1.67 Sediment Transport and Coastal
+and heat in water and air based on differential
+Processes
+form of conservation equations. Creeping,
+laminar, and turbulent flows. Molecular and tur- Prereq.: 1.60, 1.69
+oulent diffusion, mixing and dispersion in the Acad Year 1996-97: Not offered
+fluid environment. Boundary layers and bound- Acad Year 1997-98: G (Fall)
+ary conditions. Transport of conservative and 3-0-6 H-LEVEL Grad Credit
+non-conservative substances. Useful for stuEmphasizes the quantitative description of the
+dents with little or no fluids background inter- mechanics of sediment transport in steady and
+ested in developing a greater physical intuition unsteady flows based on hydrodynamic prinfor basic fluid movement and transport proces- ciples. Equations of motion for particles in a turses relevant to the environment. Graduate bulent flow, entrainment, bedload, and
+level includes additional homework in the form
+suspended load. Bedform mechanics, ripples,
+of reviews of relevant journal and practical ardunes. Flow resistance and boundary-layer
+ticles.
+mechanics. Wave-induced longshore currents,
+H. M. Nepf
+longshore and on-offshore sediment transport.
+Coastal protection. Basic theory of water
+waves assumed known; contact instructor in
+late August if this presents a problem.
+0. S. Madsen
+-
+G (Summer)
+2-4-6
+See description under subject 13.990J.
+(Woods Hole Staff), J. F Lynch
+1.698J Oceanographic Systems I
+(Same subject as 13.991J)
+Prereq.: -
+G (Summer)
+2-4-6
+See description under subject 13.991J.
+(Woods Hole Staff)
+1.699J Special Projects in Oceanographic
+Engineering
+(Same subject as 13.999J)
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+See description under subject 13.999J.
+(Woods Hole Staff)
+Descriptions of Subjects 309

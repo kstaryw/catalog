@@ -1,0 +1,73 @@
+School of Engineering
+6.845 Parallel Processing: VLSI and 6.851 Theory of Algorithms 6.857 Network and Computer Security
+Microarchitecture Prereq.: 18.06 or 18.700; 6.042J or 18.310 (New)
+Prereq.: 6.823, 6.371 G (Spring) Prereq.: 6.033, 6.046J or 6.042J
+Acad Year 1996-97: G (Fall) 3-0-9 H-LEVEL Grad Credit U (Fall)
+Acad Year 1997-98: Not offered 3-0-9
+Techniques for design and analysis of algo-
+3-5-4 H-LEVEL Grad Credit
+rithms, emphasizing mathematical methods Techniques for achieving security in multi-user
+Can be repeated for credit
+and proofs. Proof-oriented version of 6.046J/ computer systems and distributed computer
+Principles and practical issues in the construc- 18.410J. Topics: Data structures, sorting, systems. Topics: physical security; discretiontion of parallel VLSI computing systems. selection, hashing. Solving recurrences. Upper ary and mandatory access control; biometrics;
+Trends in VLSI technology. Estimation of area, and lower bounds. Dynamic programming. information-flow models of security; covert
+performance, and power. Parallel-computer Divide and conquer. Graph algorithms: span- channels; models for integrity; elementary crypmechanisms and machine organization: ning trees, matching, shortest paths, max flow. tography; logic of authentication; electronic
+processing-element architecture and memory- Matrix operations. Fast Fourier transform. In- cash; viruses; firewalls; electronic voting; risk
+system organization. Communication in VLSI teger and polynomial arithmetic. Permutation assessment; secure web browsers. Enrollment
+systems: density and timing models; network group membership. Primality testing. Linear may be limited.
+topology; routing algorithms; flow-control programming. Parallel algorithms. R. L. Rivest
+methods. Special-purpose VLSI chips: logic- R. L. Rivest
+added memories, sensors, signal and image 6.863J Natural Language and the Computer
+processors. Class project. Alternate years. 6 6.852J Distributed Algorithms Representation of Knowledge
+Engineering Design Points.
+W. J. Dally (Same subject as 18.437J) (Same subject as 9.611J)
+Prereq.: 6.046J Prereq.: 6.034
+Acad Year 1996-97: Not offered G (Spring)
+6.846 Parallel Processing: Systems
+Acad Year 1997-98: G (Fall) 3-3-6 H-LEVEL Grad Credit
+Architecture and Applications
+3-0-9 H-LEVEL Grad Credit
+Relationship between computer representation
+Prereq.: 6.823 or permission of instructor
+Design and analysis of concurrent algorithms, of knowledge and the structure of natural lanAcad Year 1996-97: G (Spring)
+emphasizing those suitable for use in dis- guage. Emphasizes development of the
+Acad Year 1997-98: Not offered
+tributed networks. Process synchronization, al- analytical skills necessary to judge the com-
+3-0-9 H-LEVEL Grad Credit
+location of computational resources, putational implications of grammatical forPrinciples in the design and programming of distributed consensus, distributed graph algo- malisms, and uses concrete examples to
+parallel machines. Continuum, particle, and rithms, election of a leader in a network, dis- illustrate particular computational issues. Effigraph applications. Communication and tributed selection, distributed termination, cient parsing algorithms for context-free gramsynchronization. Locality in parallel computa- deadlock detection, concurrency control, com- mars; augmented transition network
+tions. Computational models and parallel com- munication, clock synchronization. Special con- grammars. Question answering systems. Exputers: dataflow, shared memory, data sideration given to issues of efficiency and tensive laboratory work on building natural lanparallel, message passing. Parallel machine fault tolerance. Formal models for distributed guage processing systems. 8 Engineering
+mechanisms such as full-empty synchroniza- computation. Alternate years. Design Points.
+tion bits, cache coherence, multithreading. N. A. Lynch R. C. Berwick
+Design and performance evaluation of multiprocessor systems. Compilation and runtime 6.853 Computer Systems 6.866 Machine Vision
+technologies: partitioning, placement, scheduling. Substantial project required. Alternate Prereq.: 6.033 Prereq.: Permission of instructor
+years. 4 Engineering Design Points. Acad Year 1996-97: G (Spring) G (Fall)
+A. Agarwal Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Intensive introduction to the process of
+6.847 Dataflow Architecture and Study and discussion of the literature of com- generating a symbolic description of the enLanguages puter systems. Subject is designed to help stu- vironment from an image. Students expected
+dents understand the nature of research in to attend the 6.801 lectures as well as ocPrereq.: 6.001, 6.004
+computer systems and to develop a student's casional seminar meetings on special topics.
+G (Fall)
+ability to judge ideas critically. Computer ar- Material presented in 6.801 is supplemented
+3-0-9 H-LEVEL Grad Credit
+chitecture, networks, operating systems, by reading from the literature. Students reThe dataflow model as a basis for designing programming language/system interface, net- quired to prepare a paper analyzing research
+parallel systems. Static and dynamic dataflow work protocols, file systems, replication, protec- in a selected area.
+graphs. Implicit parallel programming using tion, transactions, database systems, B. K. P. Horn
+functional languages and their extensions. computer graphics, user interfaces, and apHigher-order functions, non-strictness, plication systems. Alternate years.
+polymorphism. Nondeterministic programming D. K. Gifford
+and resource managers. Operational semantics and term rewriting systems. The X-cal- 6.854J Advanced Algorithms
+culus. Optimizations and static analysis.
+Compiling into dataflow graphs; partitioning for (Same subject as 18.415J)
+multi-threaded architectures. Prereq.: 6.851 or 6.046J; 18.06 or 18.700
+Arvind G (Fall)
+3-0-9 H-LEVEL Grad Credit
+6.848J Theory of Parallel and VLSI See description under subject 18.415J.
+Computation R. L. Rivest, M. Goemans
+(Same subject as 18.435J)
+Prereq.: 6.046J or 6.851
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 18.435J.
+C. E. Leiserson, F. T. Leighton
+362 Chapter Vill

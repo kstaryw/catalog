@@ -1,0 +1,162 @@
+Department of Materials Science and Engineering Course 3
+3.90J Fracture of Structural Materials
+(Same subject as 1.591J, 13.16J)
+Prereq.: 2.30 or 3.11 or 13.15
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Analyzes criteria for crack initiation and
+propagation leading to structural failure.
+Studies fracture mechanics starting with Griffith theory for ideally brittle materials, through
+plane strain fracture toughness phenomena.
+Effects of geometry, rate, environment,
+fatigue, temperature, composition, and
+microstructure. Fracture behavior of welded
+metals, heat-affected zone. Relation to dislocation mechanics. Significance of fracture surface morphology. Metals, polymers,
+fiber-reinforced composites. Emphasizes current research in field.
+F. J. McGarry, K. Masubuchi
+3.901 Special Problems in Polymer Science
+and Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+3.902 Special Problems in Polymer Science
+and Engineering
+Prereq.: Permission of instructor
+G (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Advanced work in the field. Lectures, conferences, assigned readings, and laboratory work.
+M. F. Rubner
+3.903J Student Seminar in Polymer Science
+and Technology
+(Same subject as 10.960J)
+Prereq.: -
+3.911 Professional Development for
+Technologists
+Prereq.:
+G (Fall, Spring)
+2-0-0 [P/D/F]
+Can be repeated for credit
+See description under subject 10.960J.
+R. E. Cohen, M. F. Rubner, G. C. Rutledge,
+P. T. Hammond, E. W. Merrill
+3.91J Mechanical Behavior of Plastics
+(Same subject as 1.593J)
+Prereq.: 3.064
+G (Spring)
+3-2-4 H-LEVEL Grad Credit
+Relation among chemical composition, physical structure, and mechanical behavior of plastics or synthetic high polymers. Study of types
+of polymers; fundamentals of viscoelastic
+phenomena such as creep, stress relaxation,
+stress rupture, mechanical damping, impact;
+effects of chemical composition and structure
+on viscoelastic and strength properties;
+methods of mechanical property evaluation. Influences of plastics fabrication methods. Emphasis on recent research techniques and
+results. Individual laboratory projects investigating problems related to current research.
+F J. McGarry, D. K. Roylance
+-
+G (Fall, Spring)
+3-0-0 [P/D/ F]
+Can be repeated for credit
+An overview of generally nontechnical topics
+useful to technical professionals in the industrial workplace, presented primarily by invited guests from industry. Topics include:
+personnel issues; presentation skills and
+report/proposal writing; career strategy;
+economics/finance; statistics in OC/QM, SPC;
+marketing/sales; legal/government issues; critical thinking; leadership; corporate strategy;
+project/engineering management.
+T. W. Eagar
+3.912 Polymer Processing
+Prereq.: 3.064
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Survey of principal methods used in shaping of
+thermoplastic and thermosetting polymers and
+polymer-matrix composites. Phenomenological
+descriptions of hardware, and theoretical
+modeling of relevant chemical and transport
+phenomena. Role of processing in determining
+microstructure, properties, and performance of
+polymers.
+C. E Scott
+3.92J Composite Materials
+(Same subject as 1.594J)
+Prereq.: 3.064
+G (Fall)
+3-2-4 H-LEVEL Grad Credit
+Concepts underlying formation, characteristics,
+and behavior of plastics-based composites
+such as fiberglass laminates, structural
+sandwiches, plywood, and load-bearing adhesive joints. Typical components such as metals, glass, synthetic and natural adhesives,
+plastics, foams, wood, paper, fabrics, and rubber. Correlation between adhesion principles
+and physical behavior. Methods of design,
+analysis, fabrication, and testing. Discusses
+failure mechanisms of chemical and mechanical types. Individual laboratory projects investigating problems related to current research.
+F. J. McGarry
+3.930 Industrial Practice
+Prereq.: -
+3.931 Industrial Practice
+Prereq.:
+U (Summer)
+0-6-0 [P/D/F]
+Enrollment restricted to students in Course IlIlB. Provides academic credit for first approved
+work assignment at a company. For reporting
+requirements consult faculty industrial practice
+coordinator.
+M. C. Flemings
+-
+U (Summer)
+0-6-0
+Enrollment restricted to students in Course IlIlB. Provides academic credit for second approved work assignment at a company. For
+reporting requirements consult faculty industrial practice coordinator.
+M. C. Flemings
+3.932 Industrial Practice
+Prereq.: -
+G (Fall, Spring, Summer)
+0-6-0 H-LEVEL Grad Credit
+Can be repeated for credit
+Provides academic credit for graduate students
+in Course Ill-B for approved work assignments
+at companies.
+M. C. Flemings
+3.94 Morphology of Polymers
+Prereq.: 3.063
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6
+Examines polymer structure from the atomic to
+the micron scale. Structure of noncrystalline
+polymers, structure and classification of
+polymeric mesophases. Phase transformations, including classical nucleation theory and
+spinodal decomposition. Polymer blends, segmented and block copolymer morphology,
+structure of crystalline polymers, lamella and
+spherulites, deformation microstructures,
+fibers, microcomposites. Characterization
+methods such as wide- and small-angle x-ray
+scattering and transmission electron microscopy are also covered. Alternate years.
+E. L. Thomas
+3.941J Statistical Mechanics of Polymers
+(Same subject as 10.668J)
+Prereq.: 10.568 or permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 10.668J.
+A. Mayes, G. Rutledge
+3.951J Deformation and Fracture of
+Polymers
+(Same subject as 2.921J)
+Prereq.: 2.001 or 3.11
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.921J.
+/. V. Yannas
+3.96J Biomaterials - Tissue Interactions
+(Same subject as 2.79J, HST.522J)
+Prereq.: 3.091 or 5.11; 2.005 or 5.60; 7.012 or
+7.013
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.79J.
+1. V. Yannas, M. Spector
+Descriptions of Subjects 331

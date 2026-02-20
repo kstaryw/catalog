@@ -1,0 +1,131 @@
+Sloan School of Management
+15.451 Proseminar in Financial Engineering 15.511 Financial and Management
+(New) Accounting
+Prereq.: 15.415 or 15.412 Prereq.:
+G (Fall, Spring)
+2-0-4 H-LEVEL Grad Credit
+Can be repeated for credit
+Seminar provides students a unique opportunity to tackle original research problems in
+financial engineering that have been posed by
+leading industry experts from the financial community. These experts - partners of companies, managing directors etc. - provide
+students with current problems in financial engineering that they are currently facing in their
+businesses, with the restriction that the
+problems must be as yet unsolved. Students
+are assigned to teams and each team is assigned one such problem. The team's solution
+is then presented at a seminar open to the entire MIT community.
+A. W. Lo
+15.452 Proseminar in Financial Management
+(New)
+Prereq.: 15.415 or 15.412
+G (Fall, Spring)
+2-0-4 H-LEVEL Grad Credit
+Can be repeated for credit
+The proseminar has two principal goals: to
+bridge the gap between finance theory and
+finance practice; and to introduce students to
+the broader financial community. Both are accomplished by student participation in a series
+of proseminars with guest speakers from industry. Each guest, in collaboration with
+finance faculty, provides a problem and
+materials to a team of students. Each team
+then prepares a report and presents their
+analysis to the guest speaker and other students for evaluation and feedback.
+D. Scharfstein
+Accounting
+15.501 Introduction to Financial and
+Managerial Accounting
+(Subject meets with 15.516)
+Prereq.: 14.01 or equivalent
+U (Fall, Spring)
+3-0-6
+Studies basic concepts of financial and
+managerial reporting. Viewpoint is that of
+readers of financial and managerial reports
+rather than the accountants who prepare
+them. Meets with subject 15.516. If subject is
+oversubscribed, priority is given to Course 15
+students. Not open to freshmen.
+D. 0. May
+-
+G (Summer)
+3-0-6
+Studies basic concepts of financial and
+managerial accounting. Viewpoint is that of the
+users of accounting information (especially
+managers) rather than the preparer (the accountant). Restricted to Sloan Fellows.
+Information: P. Healy.
+15.512 Managerial and Financial Accounting
+(New)
+Prereq.: -
+G (Summer)
+3-0-6
+As users of accounting information, technology
+managers must also understand the underlying concepts regarding the preparation and implications of the information being used. This is
+examined, as well as the ways in which accounting information can be useful to
+managers in decision making and control
+within the organization. Restricted to Management of Technology students.
+R. W. Olive
+15.515 Financial and Managerial Accounting
+Prereq.: -
+15.521 Management Accounting and
+Control
+Prereq.: 15.501 or 15.511 or 15.515 or 15.516
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Examines management accounting and related analytical methodologies for decision
+making and control in profit-directed organizations. Product costing, budgetary control systems, and performance evaluation systems for
+planning, coordinating, and monitoring the performance of a business. Defines principles of
+measurement and develops framework for assessing behavioral dimensions of control systems; impact of different managerial styles on
+motivation and performance in an organization.
+Information: P. Healy.
+15.535 Business Analysis Using Financial
+Statements
+Prereq.: 15.501 or 15.511 or 15.515 or 15.516;
+15.410 or 15.411 or 15.414 or 15.415
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Uses a case approach to develop a framework
+for business analysis. Provides students with
+tools for business analysis, including strategic,
+accounting, financial, and prospective
+analysis. Concepts are then applied to a number of decision-making contexts, such as credit
+analysis, investor communications, merger
+G (Fall, Summer) analysis, financial policy decisions, and
+4-0-8
+securities analysis.
+An intensive introduction to the preparation P. Healy
+and interpretation of financial information for investors (external users) and managers (inter- 15.539 Doctoral Seminar in Accounting
+nal users). Adopts a decision-maker
+Prereq.: 15.515 perspective of accounting by emphasizing the
+G (Spring) relation between accounting data and the unUnits arranged H-LEVEL Grad Credit derlying economic events that generated
+Can be repeated for credit them. Assignments include textbook problems,
+analysis of financial statements, and cases. Designed primarily for doctoral students in acRestricted to first-year Sloan Master's students. counting and related fields. The reading list
+D. 0. May, E. A. Echer, G. P. Wilson consists of accounting research papers. The
+objective of the course is to introduce research
+15.516 Introduction to Financial and topics, methodologies, and developments in
+Managerial Accounting accounting.
+P. Healy
+(Subject meets with 15.501)
+Prereq.: Permission of instructor
+15.545 Mergers and Acquisitions: The
+G (Fall, Spring) Market for Corporate Control
+3-0-6 (H except XV)
+Prereq.: 15.411 or 15.412 or 15.414 or 15.415; Studies basic concepts of financial and
+15.511 or 15.515 or 15.516
+managerial reporting. Viewpoint is that of
+G (Fall)
+readers of financial and managerial reports 3-0-6 H-LEVEL Grad Credit
+rather than the accountants who prepare
+them. Meets with subject 15.501. If subject is Probably the most dramatic events in a
+over subscribed, priority is given to Course 15 corporation's history involve the decision to acstudents. See description under subject quire another firm or the decision to oppose
+15.501. being acquired. This is also one of the areas of
+D. 0. May management most thoroughly documented in
+the financial press and the academic literature.
+This subject explores three aspects of the
+merger and acquisition process: the strategic
+decision to acquire, the valuation decision of
+how much to pay, and the financing decision
+on how to fund the acquisition. Class sessions
+alternate between discussions of academic
+readings and applied cases.
+Information: P. Healy.
+444 Chapter Vill

@@ -1,0 +1,125 @@
+School of Engineering
+1.366 Geotechnical Engineering 1.383 Underground Construction
+Prereq.: 1.30 Prereq.: 1.361, 1.38, or permission of
+G (Fall) instructor
+3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+Identification, presentation, and illustration of
+3-0-6 H-LEVEL Grad Credit
+principles of soil mechanics. Considers the following topics: the nature of soil; the effective Familiarization with the most important aspects
+stress principle; permeability and seepage; of planning, design, and construction of understress-strain-strength behavior of soil; lateral ground openings in soft ground and rock.
+earth stresses. Applies principles to stability Detailed engineering analysis and design.
+and deformation problems. Restricted to Major aspects of construction techniques and
+graduate students not specializing in Geotech- construction planning. General planning and
+nical Engineering. Same lectures as for 1.361. economic problems. Major design project. AlC. C. Ladd ternate years.
+H. H. Einstein
+1.37 Geotechnical Measurements and
+Exploration 1.39 Studies in Geotechnical
+Engineering
+Prereq.: 1.30
+G (Fall) Prereq.: Permission of instructor
+3-4-2 H-LEVEL Grad Credit G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Application of testing principles to the measureCan be repeated for credit
+ment of fundamental aspects of soil behavior
+from classification to engineering properties. For graduate students desiring further inEmphasis on rigorous techniques to measure dividual study of special topics.
+mechanical behavior under various boundary Information: C. C. Ladd.
+conditions. Exposure to error estimation, research devices, geotechnical field exploration,
+and in situ testing. Experiments include data
+analysis, evaluation, and presentation.
+J. T. Germaine
+Construction Engineering and
+Management 1.38 Engineering Geology
+Prereq.: 1.30, 1.32, or permission of instructor
+G (Fall) 1.40 Project Management
+3-1-8 H-LEVEL Grad Credit Prereq.:
+Effect of geologic features and processes on
+constructed facilities; interaction between manmade structures and human activities in
+general, and the geologic environment. Planning of subsurface exploration. Engineering
+geologic characterization of soil and rock, including joint surveys and aspects of sedimented and residual soils. Laboratory on basic
+geologic identification and mapping techniques. Extensive reading of case histories. Occasional field trips.
+H. H. Einstein
+1.381 Rock Mechanics
+Prereq.: 1.38, 1.361
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Introduces theoretical and experimental
+aspects of rock mechanics and on this basis
+prepares the student for rock engineering. Includes laboratory and field testing; empirical
+and analytical methods for describing strength,
+deformability, and permeability of intact rock
+and rock masses; fracture mechanics and
+mechanics of discontinua including flow
+through discontinua; design and analysis of
+rock slopes and foundations on rock; discussion of blasting design. Alternate years.
+H. H. Einstein
+-
+1.420 Innovation in Construction
+(New)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Examines the current rate of innovation in the
+construction industry. Constant technological
+advances in materials, equipment, components, and methods are changing the nature
+of construction and the completed facilities. Explores these innovations and their effects on
+the building process. Considers application ot
+general innovation theories to the construction
+industry. Identifies probable sources of construction innovation, such as suppliers,
+manufacturers, builders, and occupants.
+Regional differences in design requirements,
+means and methods, usage patterns also influence innovation development and use.
+E. S. Slaughter
+1.431 Structuring Construction Industry
+Organizations
+Prereq.:
+U (Fall)
+3-0-9
+Overview of construction industry, its organizations and interactions. Project and construction
+management methodologies presented for
+project and company planning, control, and
+decision-making. Includes scheduling, estimating, resource planning, organization structuring
+used throughout all phases of expected life of
+facility.
+E. S. Slaughter
+1.42J Fundamentals of Energy in Buildings
+(Same subject as 4.42J, 2.45J)
+Prereq.: 8.02, 18.02
+U (Fall)
+3-0-9 REST
+See description under subject 4.42J.
+L. R. Glicksman
+-
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Examination, from a socio-technical perspective, of the organizations and organizational
+processes underlying the development, construction, and operation of the buildings.
+Studies the structure and functioning of firms,
+sub-units of firms, and conglomerations ot
+firms with regard to the influence of a wide
+range of factors including strategy, human and
+other resources, and role in the project
+development process. Frameworks for observation, description, analysis, and design of individual enterprises presented and applied to
+real-world situations.
+H. G. lrwig
+1.432J Project Control
+(Revised Content)
+(Same subject as 13.615J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Concepts, techniques, and information systems for planning, control, and management of
+large-scale engineering projects. Performance
+and control using estimating, scheduling, and
+financial data. Network-based planning and
+time control including CPM, PERT, and
+resource constrained schedule. Integration of
+cost and time control. Integration of project
+control with strategic plan and information systems. Examines how new information can be
+used for managing change. Considers the
+complexity of distributed decision making
+through workflow management. Covers the
+use of various commercial software.
+F. Penia-Mora
+306 Chapter Vill

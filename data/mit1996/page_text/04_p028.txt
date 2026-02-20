@@ -1,0 +1,163 @@
+Department of Ocean Engineering Course 13
+13.741J Sonar, Radar and Seismic Signal
+Processing I
+(Same subject as 6.455J, 12.518J)
+Prereq.: 2.02 or 2.003 or 6.003, 6.041, 18.075
+or 18.085
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Signal processing used in sonar, radar, and
+geophysical data analysis. Active sonar and
+radar systems: matched filters and ambiguity
+functions, signal design of range/doppler
+resolution; second moment characterizations
+of random processes with correlation functions
+and power density spectra, deconvolution,
+spectral estimation by Fourier techniques and
+adaptive methods, beam forming.
+A. B. Baggeroer
+13.742J Sonar, Radar and Seismic Signal
+Processing I1
+(Same subject as 6.456J, 12.519J)
+Prereq.: 13.741J
+G (Spring)
+3-1-8 H-LEVEL Grad Credit
+Continuation of 13.741J emphasizing array
+processing in sonar, radar, and seismics. Arrays, beamformers and frequency-wave number filters, space-time process
+characterization, bearing estimation for single
+and multiple sources, directional and frequency wavenumber spectra estimation, adaptive
+arrays, matched field processing, multichannel
+deconvolution, velocity spectra estimation,
+common depth point stacking, migration.
+A. B. Baggeroer
+13.771 Engineering Internship
+Prereq.: -
+U (Summer)
+0-6-0 [P/D/F]
+13.774 Advanced Engineering Internship
+Prereq.: 13.771
+G (Fall, Spring, Summer)
+0-6-0
+Enrollment restricted to students registered in
+Course XIII-C Program. Provides academic
+credit for assignments affiliated with XIII-C Program. Students register for 13.771 during their
+first and second company assignments, accumulating a total of 12 units. Students
+register for 13.774 during their seven-month
+company assignment (after admission to
+graduate school), accumulating a total of 12
+graduate units (six units per term). Credit for
+above given upon satisfactory completion of
+company assignments, receipt of favorable
+evaluation by company supervisor, and receipt
+of favorable evaluation of student's report
+about company assignment by faculty advisor.
+C. Chryssostomidis
+13.78 Entrepreneurship
+Prereq.: -
+13.80J Mechanical Vibration
+(Revised Units)
+(Subject meets with 2.06J, 13.801)
+Prereq.: 13.013J
+U (Spring)
+3-1-8
+Concepts of mechanical vibration, including
+free and forced vibration of single- and multidegree of freedom systems Modal analysis
+and matrix formulation of vibration problems.
+Approximate solution techniques. Vibration
+and modal analysis of continuous systems:
+beams, rods, and strings. Introduction to the
+response of linear systems to random excitation. Numerous examples and applications of
+vibration measurement and analysis, including
+vibration isolation and dynamic absorbers,
+ships, offshore structures, engines, and rotating machinery. Elective unit distribution: Advanced disciplinary, 9; Lab, 3.
+F. Feng, J.K. Vandiver
+13.801 Mechanical Vibration
+(Revised Units)
+(Subject meets with 13.80J, 2.06J)
+Prereq.: 13.013J
+U (Spring)
+3-1-8
+Meets with undergraduate subject 13.80J, but
+assignments differ. See description under subject 13.80J.
+F. Feng, J. K. Vandiver
+13.81J Principles of Acoustics
+(Same subject as 2.060J)
+Prereq.: 13.013J or 2.03J or 16.040, 18.075
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.060J.
+Staff
+13.82J Sound and Structural Vibration
+(Same subject as 2.063J)
+Prereq.: 2.03J or 16.040 or 18.075
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.063J.
+Staff
+13.83J Structural Acoustics
+(Same subject as 2.067J)
+Prereq.:
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+-
+13.851 Fundamentals and Applications of
+Underwater Sound
+Prereq.: 18.075
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Fundamentals of underwater sound systems
+as controlled by physical principles and properties of the ocean and its boundaries. Analyzes
+sonar systems. Absorption in sea water. Transmitting and receiving arrays. Scattering and
+reflection. Refraction and propagation loss.
+Noise and reverberation. Sonar design principles. Applications in charting, navigation, station keeping, target detection, fishing,
+petroleum exploration, telemetry.
+/. Dyer
+13.861 Ocean and Seabed Acoustics I
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Surveys properties of the ocean and seabed
+and of predictive models of sound propagation, in relation to sonar and seismic system
+design and/or to the use of sound to uncover
+oceanic properties. Ray and wave theories of
+propagation in vertically stratified media. Approximate propagation theories for a horizontally varying ocean. Reflection and transmission
+of sound by a stratified ocean bottom. Scattering from a random sea surface and seafloor.
+Introductory knowledge of Fourier analysis,
+probability, and wave propagation necessary.
+(Woods Hole Staff): G. Frisk
+13.862 Ocean and Seabed Acoustics 11
+Prereq.: 13.861, permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Continuation of 13.861, treating ray and normal mode theory in greater depth, and introducing new topics. Emphasizes "state-ofthe-art" level in ocean acoustics. Includes ray
+theory corrections, coupled normal-mode
+theory, adiabatic approximation, continuum
+and virtual modes, rough-surface scattering in
+mode theory, ray-mode picture connections,
+parabolic equation, and perturbative inversions
+for both water column and ocean bottom
+properties.
+(Woods Hole Staff): J. F. Lynch
+Acad Year 1996-97: Not offered 13.863 Ocean Seismo-Acoustics
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit Prereq.: 13.851 or permission of instructor
+Acad Year 1996-97: G (Fall)
+See description under subject 2.067J. Acad Year 1997-98: Not offered
+Staff 3-0-9 H-LEVEL Grad Credit
+Low-frequency propagation in ocean environments with special emphasis on the interaction
+of the acoustic field in the water column with
+seismic waves in seabed and ice cover. Fundamentals of ocean waveguide propagation.
+Stress wave propagation in isotropic elastic
+solids. The fluid-solid interface. Fluid-elastic
+waveguides. Effects of seismic waves on
+ocean sound propagation. Seismic interface
+and surface waves in a stratified seabed. Seismic waves in ice cover. Propagation over
+anisotropic and porous seabeds.
+H. Schmidt
+Descriptions of Subjects 425

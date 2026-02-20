@@ -1,0 +1,133 @@
+Department of Nuclear Engineering Course 22
+Course 22 Nuclear Engineering
+For degree requirements, see listing in
+Chapter V1I under the School of
+Engineering.
+Undergraduate Subjects
+22.UR Undergraduate Research
+Opportunities Program
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+22.URG Undergraduate Research
+Opportunities Program
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+The Undergraduate Research Opportunities
+Program is an excellent way for undergraduate
+students to become familiar with the Department of Nuclear Engineering. Student research as a UROP project has been
+conducted in areas of fission reactor studies,
+utilization of fusion devices, applied radiation
+research, and biomedical applications.
+Projects include the study of engineering
+aspects for both fusion and fission energy
+sources. UROP Department Coordinator:
+S. H. Chen.
+22.ThU Undergraduate Thesis
+Prereq.: -
+U (Fall, Spring)
+Units arranged
+Can be repeated for credit
+Program of undergraduate research, leading
+to the writing of an S.B. thesis, to be arranged
+by the student and appropriate MIT faculty
+member. See department undergraduate headquarters.
+J. E. Meyer
+22.002 Management in Engineering
+Prereq.: -
+22.006 Computer Models of Physical and
+Engineering Systems
+Prereq.: 18.03 or 18.034, 1.00
+U (Spring)
+3-1-8
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 999.
+F Peia-Mora
+22.011 Seminar in Nuclear Engineering
+Prereq.:
+U (Fall)
+3-0-9
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+J.-H. Chun
+-
+U (Fall)
+2-0-4
+Surveys the range of topics covered by the
+Department. Introductory discussion of the
+basic phenomena of fission and fusion power,
+and related aspects of reactor design. The
+many applications of nuclear engineering for
+research in biology, earth sciences, medicine,
+and physics are discussed by guest lecturers
+from the appropriate discipline. A demonstration of the MIT Reactor as a research tool is
+given.
+M. S. Kazimi, L. Porter
+22.012 Seminar in Fusion and Plasma
+Physics
+Prereq.: -
+U (Spring)
+2-0-4
+Lectures and discussion introducing the range
+of topics relevant to plasma and fusion engineering. Introductory discussion of the
+economic and ecological motivation for the
+development of fusion power. Contemporary
+magnetic confinement schemes, theoretical
+questions, and engineering considerations are
+presented by expert guest lecturers. Tour of
+Plasma Fusion Center experimental facilities.
+K. Molvig
+22.013 Applications in Radiation Science
+and Technology
+Prereq.: -
+22.02 Introduction to Applied Nuclear
+Physics
+Prereq.: 8.02, 18.02
+U (Fall)
+3-0-9 REST
+Basic concepts of nuclear physics with emphasis on radiation interactions with matter.
+Elementary quantum theory; properties of
+atomic nuclei; natural and induced radioactivity; cross sections for nuclear reactions;
+alpha-, beta-, and gamma-decay. Nuclear
+models. Slowing down and diffusion of
+neutrons. Nuclear reactions for fission and
+fusion power. Current applications in nuclear
+radiation science and technology.
+L. Porter
+22.021 Nuclear Reactor Physics
+Prereq.: 22.02, 18.03
+U (Fall)
+4-0-8
+Introduces fission reactor physics. Covers reactions induced by neutrons, nuclear fission,
+slowing down of neutrons in infinite media, diffusion theory, the few-group approximation,
+and point kinetics. Emphasizes the nuclear
+physics bases of reactor design and their
+relationship to reactor engineering problems.
+Three lecture hours per week meeting concurrently with graduate subject 22.211, plus a
+separate recitation; assignments and quizzes
+are different from those in 22.211.
+K. F. Hansen
+22.03 Engineering of Nuclear Systems
+Prereq.: 22.02
+U (Fall)
+3-0-9
+Introduces nuclear engineering in radiation applications and power plant design. Basic principles of nuclear physics, reactor physics, and
+environmental health physics; heat-transfer
+structural analysis, safety, and waste treatment are employed. Each student analyzes an
+individual nuclear engineering example to examine the application of different engineering
+U (Fall) disciplines. The results are summarized in a
+2-0-4
+term paper and oral presentation. Lectures
+A series of wide-ranging lectures examining focus on the case of a fission reactor, with emdiverse issues in current applications of radia- phasis on applications of engineering distion in industry, medicine, and environment. ciplines.
+Typical topics: medical imaging, radiation can- M. W. Golay
+cer therapy, neutron activation analysis,
+neutron scattering and tomography, fission
+and fusion reactors, transport and management of environmental pollutants and radioactive materials, computer modeling, and
+simulation.
+S. Yip, B. Rosen
+Descriptions of Subjects 523

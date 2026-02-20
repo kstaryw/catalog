@@ -1,0 +1,129 @@
+Department of Materials Science and Engineering Course 3
+Course 3 Materials Science and
+Engineering
+For degree requirements, see listing
+in Chapter VII under the School of
+Engineering.
+3.UR Undergraduate Research
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+3.URG Undergraduate Research
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Extended participation in work of a research
+group. Independent study of literature, direct involvement in group's research (commensurate
+with student skills), and project work under an
+individual faculty member. See UROP coordinator for registration procedures.
+D. K. Roylance
+3.ThU Undergraduate Thesis
+Prereq.: -
+3.03 Chemical Metallurgy
+Prereq.: 3.185
+U (Spring)
+3-0-9
+Thermodynamics and kinetic principles along
+with aspects of process control and economics
+involved in extraction and processing of metals. Unit operations and processes. Generalizing operations in terms of gas-liquid,
+solid-solid, gas-solid, liquid-liquid, and gassolid-liquid reactions. Electrochemical processes. Designing energy-efficient and
+environmentally sound processes.
+U. B. Pal
+3.035, 3.036, 3.037 Special Problems in
+Materials Science and Engineering
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+U (Fall, Spring, Summer)
+3.038, 3.039, 3.04 Special Problems in
+Units arranged
+Materials Science and Engineering
+Can be repeated for credit
+Prereq.: Permission of instructor
+Program of undergraduate research, leading U (Fall, lAP, Spring, Summer)
+to the writing of an S.B. thesis; to be arranged
+Units arranged
+by the student and an appropriate MIT faculty
+Can be repeated for credit
+member.
+Consult D. K. Roylance. For undergraduates desiring to carry on
+projects of their own choosing, which may be
+3.00 Thermodynamics of Materials experimental, theoretical, or of a design nature. Also for undergraduate studies arranged
+Prereq.: 18.02
+by students or staff, which may consist of semiU (Fall)
+nars, assigned reading, or laboratory projects.
+4-0-8 REST See UROP Coordinator for registration proceEssential features of first, second, and third dures.
+laws of thermodynamics and their application D. K. Roylance
+to materials. Statistical interpretation of
+entropy. Experimental techniques used to 3.041 Undergraduate Research Seminar
+measure thermodynamic functions. Introduces
+Prereq.:
+phase diagrams, phase rule, and thermodynamics of solutions. Thermochemistry of
+homogeneous and heterogeneous reactions.
+G. Ceder
+3.01 Physical Chemistry of Materials
+Prereq.: 3.00 or 5.60 or 2.40 or 10.213
+U (Spring)
+4-0-8
+Reactions involving pure condensed phases
+and gaseous phase, behavior of solutions, free
+energy-composition and phase diagrams of binary and ternary systems, reaction equilibria in
+systems containing components in condensed
+solution. Electrochemistry, corrosion, Gibbs
+phase rule, chemical kinetics, elementary
+mechanisms, reaction rate constant, activation
+energy, surface tension.
+D. V. Ragone
+-
+3.05 Computer Models of Physical and
+Engineering Systems
+Prereq.. 18.03 or 18.034, 1.00
+U (Spring)
+3-1-8
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+F. Peiia-Mora
+3.062 Polymer Chemistry
+Prereq.: 3.091 or 5.11
+U (Fall)
+4-0-8
+Preparation of polymeric materials and their
+characterization. Topics: fundamentals of
+chain and step growth polymerization,
+chemistry of organic radicals and ions, synthesis-structure-property relationships, and
+use of modern techniques for determination of
+polymer composition, molecular weight, and
+microstructure.
+M. F. Rubner
+3.063 Polymer Physics
+Prereq.: 3.062, 3.00
+U (Spring)
+4-0-8
+Principles underlying the physics and physical
+chemistry of polymers in solution and in the
+solid state. Topics include conformation and
+molecular dimensions of polymer chains; thermodynamics of polymer solutions; an examination of the glassy, crystalline, and rubbery
+elastic states of polymers; kinetics and thermodynamics of crystallization; liquid crystallinity in polymers; thermodynamics of rubber
+elasticity. The electrical, optical, transport, and
+mechanical properties of polymers are
+analyzed with respect to the above topics.
+U (Spring)
+E. L. Thomas
+0-3-0
+Basic skills for conducting research in 3.064 Polymer Engineering
+materials science and engineering. Includes
+Prereq.: 3.11, 3.185
+library resources, how to plan experiments,
+U (Spring)
+laboratory safety, data analysis, oral presenta-
+3-0-9 tions and technical writing of proposals and
+reports. Intended for the sophomore year, Overview of engineering analysis and design
+open to freshmen. techniques for synthetic polymers. Treatment
+T. W. Eagar, D. K. Roylance of materials selection, mechanical characterization, and processing in design of loadbearing and environment-compatible
+structures.
+F. J. McGarry, D. K. Roylance
+Descriptions of Subjects 325

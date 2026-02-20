@@ -1,0 +1,69 @@
+School of Management Course 15
+15.433 Investments 15.437 Options and Futures Markets 15.441J Advanced Financial
+Economics 11
+Prereq.: 15.415 and permission of instructor Prereq.: 15.415
+G (Fall) G (Fall, Spring) (Same subject as 14.441J)
+3-0-6 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit Prereq.: 14.121, 14.122, or 15.416J
+G (Spring)
+Empirical techniques used most often in the Develops option pricing theory. Applies theory
+3-0-9 H-LEVEL Grad Credit
+quantitative analysis of financial markets, and to valuation of put and call options, loan
+their applications to actual data from various guarantees, and corporate liabilities. Empirical Surveys selected topics in current advanced remarkets. Includes applications of the tests of the models and investment strategies. search in corporate finance. Theoretical and
+CAPM/APT, the Black-Scholes/Merton option Futures markets, emphasizing financial futures empirical analyses of corporate financing and
+pricing models, performance evaluation, and their uses. If subject is oversubscribed, investment decisions. Some background in inportfolio management, risk management, and priority is given to Course 15 students. formation economics and save theory is usenon-standard financial analysis (technical Information: S. C. Myers. ful. Primarily for doctoral students in
+analysis, neural networks, etc.). Some accounting, economics, and finance.
+rudimentary computer skills required. In the 15.438 Investment Banking and Markets D. Gromb
+event the subject is oversubscribed, priority is
+given to Course 15 students. Prereq.: 15.415 15.442J Advanced Financial
+A. W. Lo G (Spring) Economics Ill
+3-0-6 H-LEVEL Grad Credit
+(Same subject as 14.442J)
+15.434 Corporate Finance I Surveys the investment banking industry and
+Prereq.: 14.382, 15.415, 15.416J, and permisthe financial markets and intermediaries dealt
+Prereq.: 15.415 sion of instructor
+with by the industry. Description of trading and
+G (Fall) G (Spring)
+hedging techniques. Analysis of new financial
+2-0-4 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+innovations and analytical techniques. If subTheory and practice of corporate investment ject is oversubscribed, priority is given to Recent empirical methods in finance, includand financing decisions. Approaches to es- Course 15 students. ing: the estimation and testing of market eftimating risk and adjusting for it. Applications Information: D. Scharfstein. ficiency, the random walk hypothesis, the
+of option pricing and new approaches to valua- CAPM/APT, various term structure models, option. Capital structure policy, and the conse- 15.439 International Corporate Finance tion pricing theories, and market microstrucquences of asymmetric information and tures; performance evaluation; bond rating and
+incentive problems. Prereq.: 15.415 default analysis; event study methodology;
+D. Scharfstein G (Spring) continuous-time econometrics; and general
+3-0-6 H-LEVEL Grad Credit time series methods. An empirical term project
+15.435 Corporate Finance 11 Theory and practice of investment, financing, is required. Some econometric background
+contracting, and risk management decisions of and rudimentary computer programming skills
+Prereq.: 15.434 firms operating internationally, with emphasis are assumed. Primarily for doctoral students in
+G (Fall) on interactions of financial considerations with accounting, economics, and finance.
+2-0-4 H-LEVEL Grad Credit operating strategy and tactics. Implications of A. W Lo
+Advanced topics in corporate finance: security fluctuating exchange rates, differing fiscal
+design; restructuring; bankruptcy; risk manage- regimes, distorted and segmented capital 15.448-15.449 Special Seminar in Finance
+ment; corporate control and governance is- markets, and cross-border risks for corporate
+Prereq.: 15.410 or 15.412 or 15.415
+sues. decisions.
+G (Fall, Spring)
+D. Scharfstein D. R. Lessard
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+15.436 International Financial Markets 15.440J Advanced Financial
+Economics I Opportunity for group study by graduate stuPrereq.: 15.012, 15.415 dents on current topics related to finance not
+Acad Year 1996-97: Not offered (Same subject as 14.440J) otherwise included in curriculum.
+Acad Year 1997-98: G (Fall) Prereq.: 15.416J D. Scharfstein
+3-0-6 H-LEVEL Grad Credit G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Analysis of financial markets and instruments 15.450 Analytics of Financial Engineering
+in context of globalization. Currency market; Covers advanced topics in the theory of finanPrereq.: 15.415, 15.437
+exchange rate determination; statistical proper- cial markets with a focus on continuous time
+G (Spring)
+ties of exchange rates. Currency futures and models. Topics include multiperiod securities
+3-0-6 H-LEVEL Grad Credit
+options. Hedging foreign exchange risk and markets and martingales; pricing of contingent
+managing foreign exchange exposure. Euro- securities such as options; optimal consump- Mathematical, statistical, and computational
+currency market and related derivatives tion and portfolio problems of an individual; methods used most often in quantitative finanmarket. International bond market, swap dynamic equilibrium theory and the Intertem- cial analysis, including: the Ito calculus, estimamarket, and equity market. Asset allocation poral Capital Asset Pricing Model; and term tion of stochastic processes, Monte Carlo
+and asset pricing in face of volatile real ex- structure of interest rates. This subject is simulation, numerical solutions of derivative
+change rates. International portfolio manage- primarily for doctoral students in accounting, pricing formulas, and advanced time series
+ment and performance measurement. economics, and finance. analysis. Lectures cover methods, and finanInformation: D. Scharfstein. Information: D. Scharfstein. cial applications are developed in intensive
+computer-oriented problem sets. Restricted to
+Sloan Master's students electing the Financial
+Engineering track.
+Information: D. Scharfstein.
+Descriptions of Subjects 443

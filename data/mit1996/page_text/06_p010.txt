@@ -1,0 +1,87 @@
+Department of Mathematics Course 18
+Course 18 Mathematics
+For degree requirements, see listing in
+Chapter VII under the School of Science.
+General Mathematics
+18.01 Calculus
+Prereq.: -
+U (Fall, Spring)
+5-0-7 CALC I
+Credit cannot also be received for 18.014 or
+18.01A
+Differentiation and integration of functions of
+one variable, with applications. Concepts of
+function, limits, and continuity. Differentiation
+rules, application to graphing, rates, approximations, and extremum problems. Meanvalue theorem. Definite and indefinite
+integration. Fundamental theorem of calculus.
+Applications of integration to geometry and
+science. Elementary functions. Techniques of
+integration. Approximation of definite integrals,
+improper integrals, and I'H6pital's rule.
+Fall Term: D. S. Jerison
+18.01A Calculus
+Prereq.: One full year of high school calculus
+U (Fall)
+5-0-7 CALC I
+Credit cannot also be received for 18.01 or
+18.014
+Intended for students who have a had a full
+year of high school calculus. Covers the same
+material as 18.01. Taught in the first half of the
+Fall term.
+A. P. Mattuck
+18.014 Calculus with Theory
+Prereq.: -
+18.02 Calculus 18.024 Calculus with Theory
+Prereq.: 18.01 or 18.013 or 18.014 Prereq.: 18.014
+U (Fall, Spring) U (Spring)
+5-0-7 CALC II 5-0-7 CALC 11
+Credit cannot also be received for 18.023, Credit cannot also be received for 18.02,
+18.024 or 18.02A 18.023 or 18.02A
+Calculus of several variables. Vector algebra Continues 18.014. Parallel to 18.02, but at a
+in 3-space, determinants, matrices. Vector- deeper level, emphasizing careful reasoning
+valued functions of one variable, space mo- and understanding of proofs. Considerable emtion. Scalar functions of several variables: phasis on linear algebra and vector integral calpartial differentiation, gradient, approximation culus.
+techniques. Multiple integrals with applications. J. R. Munkres
+Vector fields, line and surface integrals, exact
+differentials, Green's theorem, Divergence 18.03 Differential Equations
+Theorem, Stokes's Theorem. Two versions offered Fall Term: 18.02 and 18.02S. 18.02 in- Prereq.: 18.02 or 18.023 or 18.014
+cludes additional topics in linear algebra. U (Fall, Spring, Summer)
+Fall Term: H. Rogers 5-0-7 REST
+Spring Term: Staff Credit cannot also be received for 18.034
+Study of ordinary differential equations. Stand-
+18.02A Calculus ard solution methods for one first-order equation, including graphical and numerical
+Prereq.: 18.01 A
+methods. Higher-order forced linear equations
+U (Fall, lAP, Spring)
+with constant coefficients. Complex numbers; 5-0-7 CALC 11
+Laplace transform. Matrix methods for firstCredit cannot also be received for 18.02,
+order linear systems with constant coefficients. 18.023 or 18.024
+Non-linear systems; phase-plane analysis.
+Covers material taught in the first half of 18.02 Series solutions to second-order equations.
+(vectors, vector functions of one variable, par- Modeling of physical problems and interpretatial differentiation, multiple integration) in the tion of the analytic or graphical solutions.
+second six weeks of the Fall term. Second half Fall Term: H. R. Miller
+of 18.02A can be taken either during IAP (daily Spring Term: G.-C. Rota
+lectures) or during the first half of the Spring
+term. 18.034 Differential Equations
+Staff
+Prereq.: 18.024
+U (Spring)
+18.023 Calculus with Applications
+4-0-8 REST
+U (Fall) Prereq.: 18.01 or equivalent Credit cannot also be received for 18.03
+5-0-7 CALC I U (Fall)
+Credit cannot also be received for 18.01 or 5-0-7 CALC 11 Intended as an alternative to 18.03 for stu-
+18.01A Credit cannot also be received for 18.02, dents who have taken the calculus sequence
+18.014/18.024. Covers the same material as
+18.024 or 18.02A
+Covers the same material as 18.01, but at a 18.03 with more emphasis on theory. First
+deeper and more rigorous level. Emphasizes Calculus of several variables. Vector algebra, order equations, separation, initial value
+careful reasoning and understanding of proofs. analytic geometry, planetary motion, orbit problems. Systems, linear equations, indeAssumes knowledge of elementary calculus. stability, partial differentiation, functions of pendence of solutions, undetermined coeffiTopics: axioms for the real numbers; the several variables. Taylor series, extremal cients. Singular points and periodic orbits for
+Riemann integral; limits, theorems on con- problems, numerical methods, multiple in- planar systems.
+tinuous functions; derivatives of functions of tegrals, approximate and asymptotic methods Information: R. B. Melrose.
+one variable; the fundamental theorems of cal- of evaluation, applications, vector calculus,
+culus; Taylor's theorem; infinite series, power gradient, curl, theorems of Stokes, Green, and
+series, rigorous treatment of the elementary Gauss, conservation laws, fluid motion.
+functions. A. Toomre
+J. Munkres
+Descriptions of Subjects 475

@@ -1,0 +1,78 @@
+School of Engineering
+10.27 Chemical Engineering Processes 10.32 Separation Processes 10.34 Numerical Methods Applied to
+Laboratory Chemical Engineering
+Prereq.: 10.213, 10.302
+Prereq.: 10.32, 10.37 U (Spring) Prereq.: 10.33
+U (Fall) 3-0-9 G (Spring)
+0-8-4 3-0-6 H-LEVEL Grad Credit
+General principles of separation oy equilibrium
+Introduces practical chemical engineering unit and rate processes. Staged cascades. Applica- Numerical methods for solving problems arisoperations through hands-on experience with tions to distillation, absorption, adsorption, and ing in heat and mass transfer, fluid mechanics,
+pilot-scale equipment and processes. Intended membrane processes. Phase equilibria and and chemical reaction engineering. Topics:
+to provide instruction in experimentation and role of diffusion. numerical linear algebra, solution of nonlinear
+data analysis. Introduces theory of selected C. M. Mohr algebraic equations and ordinary differential
+unit operations. Emphasis on developing oral equations, and finite-difference and finite-eleand written communication skills. 10.33 Analytical Treatment of Chemical ment methods for elliptic and parabolic partial
+J.-F. Hamel, J. B. Howard Engineering Transport Processes differential equations. All methods presented
+in context of problems arising in transport
+10.301 Fluid Mechanics Prereq.: 10.301, 18.03 phenomena. Lectures and assignments asG (Fall) sume knowledge of FORTRAN.
+Prereq.: 18.03, 10.001 3-0-6 H-LEVEL Grad Credit R. A. Brown
+U (Spring)
+Mathematical techniques underlying transport
+3-0-9 REST
+problems basic to most chemical engineering 10.341 Finite Element Methods for
+Introduces the mechanical principles govern- processes. Quaternions, vectors, polyadics, Problems in Transport Phenomena
+ing fluid flow. Stress in a fluid. Conservation of Cartesian tensors, general tensors, curvilinear
+Prereq.: 10.34
+mass and momentum, using differential and in- coordinate systems. Representations of rota- G (Fall)
+tegral balances. Elementary constitutive equa- tion and orientation. Anisotropic material ten-
+3-0-6 H-LEVEL Grad Credit
+tions. Hydrostatics. Exact solutions of the sor properties. Applications to the derivation of
+Navier-Stokes equations. Approximate solu- transport equations in physical space, at inter- Advanced methods for solving problems in
+tions using control volume analysis. Mechani- faces, along lines, and in multidimensional fluid mechanics and heat and mass transfer.
+cal energy balances and Bernoulli's equation. phase spaces. Emphasis on efficient techniques for handling
+Dimensional analysis and dynamic similarity. H. Brenner highly irregular boundaries, nonlinearities, comIntroduces boundary-layer theory and tur- plicated boundary conditions, and singularities.
+bulence. 10.331 Nonlinear Analysis in Chemical Variational, Galerkin, and collocation schemes
+W. M. Deen, P. S. Virk Engineering discussed.
+R. A. Brown
+Prereq.: 10.50
+10.302 Transport Processes
+G (Spring)
+10.37 Chemical Kinetics and Reactor
+Prereq.: 5.60, 10.301 3-0-6
+Design
+U (Fall)
+Emphasizes both classical and modern
+4-0-8 Prereq.: 5.60, 10.301
+methods for analyzing nonlinear ordinary and
+U (Spring)
+Principles of heat and mass transfer. Steady partial differential equations arising in reaction 3-0-6
+and transient conduction and diffusion. Con- engineering and transport phenomena. Topics:
+vective transport of heat and mass in both elementary stability theory and bifurcation Introduces design of commercial chemical
+laminar and turbulent flows. Natural convec- analysis of steady states; introduction to time- reactors, emphasizing synthesis of chemical
+tion. Condensation and boiling. Application to periodic phenomena and transitions to chaos; kinetics, transport phenomena. Topics: kinetics
+design of heat exchangers. Radiative heat numerical methods for tracking multiple-steady and equilibrium - elementary steps, transitiontransfer. and time-periodic states. state theory, multistep reactions. Ideal
+L. G. Cima, K. A. Smith, Gr. Stephanopoulos R. A. Brown reactors - batch, plug flow, well-stirred;
+residence-time distributions. Transport in reac-
+10.31 Separations and the Environment 10.332 Linear Operator Theory in Chemical tors - heat and mass transfer, diffusion to
+Engineering Science and within catalyst particles. Reactor design;
+Prereq.: Permission of instructor reactor size; modeling of performance.
+Acad Year 1996-97: Not offered Prereq.: 18.03, 18.06, or equivalent C. L. Cooney, J. Y. Ying
+Acad Year 1997-98: G (Fall) G (Fall)
+3-0-6 3-0-6
+10.390 Process Design
+Separations technology as applied to environ- Introduction to linear operator theory. Set
+Prereq.: 5.11, 10.213, 10.301
+mental remediation and pollution control. theory, metric and linear spaces. Inner product
+U (Fall)
+Sources of pollution and contaminated environ- and Hilbert spaces, orthogonality, adjoint and 3-0-9
+ments: industrial effluents and emissions, self-adjoint operators, spectral representation
+domestic sources, run-offs, in the atmosphere, theory, Green's functions, and Sturm-Liouville Presentation and discussion of process design
+surface water, ground water, and soils. Chemi- operators. Applications to problems in partial case studies, selected from a variety of areas
+cal and physical properties of pollutants, par- differential equations and control theory. in which chemical engineers work. Emphasis
+titioning and distribution in the environment. T. A. Hatton, R. A. Brown on the applications of engineering science to
+Separations involving dilute aqueous streams, the solution of real problems, including concepgas mixtures, recoverable organic products. In tual design and analysis leading to optimal
+situ remediation of contaminated waste sites. solutions. Discussion of the trade-offs inherent
+T. A. Hatton in design, including economics, environmental
+impact, and contextual issues. Review of required engineering science and presentation
+of the basics of process economics.
+C. M. Mohr
+386 Chapter Vill

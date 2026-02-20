@@ -1,0 +1,76 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.714 Computational Data Analysis 12.722 Special Problems in Chemical 12.741 Marine Geochemistry
+Oceanography at Woods Hole
+Prereq.: 18.03 Prereq.: 5.11 or 3.091; 5.60
+G (Spring) Prereq.: Permission of instructor G (Spring)
+3-0-9 H-LEVEL Grad Credit G (Fall, Spring, Summer) 3-0-9 H-LEVEL Grad Credit
+Units arranged [P/D/F H-LEVEL Grad Credit
+An introduction to the theory and practice of Geochemical cycle of the elements. ContinenCan be repeated for credit
+analyzing discrete data such as are normally tal weathering processes; oceanic hydrotherencountered in geophysics and geology. Em- For graduate students desiring to perform spe- mal systems and fluxes; physical and chemical
+phasizes statistical aspects of data interpreta- cial investigations, special laboratory work, or processes in the oceanic water column and in
+tion and the nonparametric discrete-time special fieldwork in chemical oceanography. lakes; static versus dynamic models of the
+approach to spectral analysis. Topics covered (Woods Hole Staff) chemistry of the atmosphere and oceans over
+include elements of probability and statistics, geologic time; authigenic sediments and the
+statistical inference, robust and nonparametric 12.730-12.731 Special Problems in Marine control of seawater composition. Emphasizes
+statistics, the method of least squares, Geology and Geophysics at MIT development of problems and topics by stuunivariate and multivariate spectral analysis, dents.
+digital filters, and aspects of multidimensional Prereq.: Permission of instructor J. M. Edmond
+data analysis. G (Fall, Spring, Summer)
+A. D. Chave, M. K. McNutt Units arranged [P/D/F] H-LEVEL Grad Credit 12.742 Marine Chemistry
+Can be repeated for credit
+Prereq.: Permission of instructor
+12.716 Igneous Processes at Oceanic For graduate students in the MIT/WHOI Joint
+G (Fall)
+Margins Program desiring to perform special investiga-
+3-0-9 H-LEVEL Grad Credit
+tions, special laboratory work, or special
+Prereq.: 12.710, 12.711, or permission of infieldwork in marine geology and geophysics Introduction to chemical processes operating
+structor
+under the supervision of a faculty member in in the oceans (i.e., biogeochemical cycles). InAcad Year 1996-97: Not offered
+residence at MIT. 12.730 is letter-graded. cludes oceanic particles; cycling of organic
+Acad Year 1997-98: G (Fall)
+Marine Geology and Geophysics Staff carbon, phosphorous and nitrogen; carbonate
+3-2-4 H-LEVEL Grad Credit
+and silica systems; upwelling and low-oxygen
+Can be repeated for credit
+12.735-12.736 Special Problems in systems; iron and manganese redox systems.
+Quantitative analysis of melting, melt transport, Chemical Oceanography at MIT Designed for first- or second-year chemistry,
+and igneous crustal accretion at oceanic biology, and geology students.
+spreading centers, rifted continental margins, Prereq.: Permission of instructor (Woods Hole Staff): 0. Zafiriou, Staff
+and subduction-related arcs, applied to under- G (Fall, Spring, Summer)
+standing variation in composition and volume Units arranged [P/D/F] H-LEVEL Grad Credit 12.743 Geochemistry of Marine
+of the Earth's crust in different tectonic environ- Can be repeated for credit Sediments
+ments. Theoretical methods for calculation of For graduate students in the MIT/WHOI Joint
+melt volume and composition, solid-liquid equi- Program desiring to perform special investiga- Prereq.: 5.11 or 3.091; 5.60
+libria and reaction rates, and liquid density and tions, special laboratory work, or special Acad Year 1996-97: G (Fall)
+viscosity combined with field, petrographic, fieldwork in chemical oceanography under the Acad Year 1997-98: Not offered
+geochemical, and computational techniques. supervision of a faculty member in residence 3-0-9 H-LEVEL Grad Credit
+Topics vary from year to year. at MIT. 12.735 is letter-graded. Factors influencing the chemical and
+(Woods Hole Staff): P. Kelemen Chemical Oceanography Staff mineralogical composition of deep-sea sediments and chemical fluxes across the sedi-
+12.718 Kinetics and Mass Transport 12.740 Quaternary Paleoceanography ment-water interface, and their spatial and
+temporal variability. Carbonate, silicic, and
+Prereq.: Permission of instructor Prereq.: Permission of instructor detrital sediments: sources and reactivity. Pore
+Acad Year 1996-97: Not offered Acad Year 1996-97: Not offered water: diffusion, reaction, and fluxes. FerAcad Year 1997-98: G (Spring) Acad Year 1997-98: G (Spring) romanganese sediments and manganese
+3-0-6 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit nodule geochemistry. Trace element sedimenOffers a broad overview of various kinetic and History of the earth-surface environment tary geochemistry. Sediment dating and actransport processes in geology, including during the past 2 million years as deduced cumulation rate estimation. Stable isotopes
+volume and grain boundary solid-state dif- from the records preserved in deep-sea sedi- and natural-series radioisotopes. Effect of
+fusion, defects in minerals, rates of mineral ments, ice cores, and corals. Uses climate change on sedimentary processes.
+reaction and transformation, crystal nucleation micropaleontological, isotopic, geochemical, Mathematical techniques and modeling in
+and growth, advective transport in porous and mineralogical changes to infer changes in sedimentary systems.
+media and partially molten aggregates, and seawater composition, atmospheric chemistry, E. A. Boyle
+percolation theory. Emphasis on processes in and climate. These changes are used to infer
+crystalline rocks. Covers theoretical, changes in the temperature and current field of 12.744 Marine Isotope Chemistry
+phenomenological, and experimental con- the ocean. Discussion of processes proposed
+straints, with a consistent application to "real- to account for glacial/interglacial cycles (orbital Prereq.: 12.742 or 12.741
+world" settings and actual case histories. forcing and internal oscillations) and abrupt Acad Year 1996-97: Not offered
+(Woods Hole Staff): G. Hirth, S. Hart century-scale climate changes. Evaluation of Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+theories of environmental change in view of
+12.721 Special Problems in Marine Geology the paleoclimatic record of climate change. Treats important aspects of radionuclides and
+and Geophysics at Woods Hole E. A. Boyle stable isotopes as applied to the oceans. Includes introduction to radioactivity, naturalP G re (F re a q ll . , : S P p e ri r n m g i , s s S io u n m m of e i r n ) structor series radionuclides (i.e., 1'Pb, 2'0Po, Th, U),
+U Ca n n its b a e r r r a e n p g e e a d te d [ P fo /D r I c F r ] e d H it -LEVEL Grad Credit a "3 r tif " 4 ic P ia u l ) , ra a d nd io n s u y c s l t i e d m es a t ( ic i.e s ., o f " C se , v 'H er , al '3 7 s C ta s, b l I e Sr,
+isotopes (e.g., Nd, Sr, C, N, 0).
+For graduate students desiring to perform spe- (Woods Hole Staff): K. Buesseler, W. Jenkins,
+cial investigations, special laboratory work, or M. Kurz
+special fieldwork in marine geology and
+geophysics.
+(Woods Hole Staff)
+Descriptions of Subjects 415

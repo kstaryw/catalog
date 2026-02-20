@@ -1,0 +1,62 @@
+School of Engineering
+Course 16 Aeronautics and
+Astronautics
+For degree requirements, see listing in
+Chapter VII under the School of
+Engineering.
+Core Undergraduate Subjects
+16.00 Introduction to Aerospace
+Engineering
+Prereq.: -
+16.030 Unified Engineering Ill 16.060 Principles of Automatic Control
+Prereq.: 16.010, 16.020 Prereq.: 16.030-16.040
+U (Spring) U (Fall)
+4-2-6 3-2-7
+16.040 Unified Engineering IV Introduction to design of feedback control sysU (Spring) Prereq.: 16.010, 16.020 tems. Properties and advantages of feedback
+3-1-5 U (Spring) systems. Time domain and frequency-domain
+performance measures. Stability and degree
+4-1-7
+Presents the fundamental concepts and ap- of stability. Root locus method. Nyquist
+proaches of aerospace engineering in the con- 16.030 and 16.040 require simultaneous criterion. Frequency-domain design. Compentext of a series of conceptual design studies of registration. Presents concepts, principles, and sation techniques. Application to a variety of
+aerospace vehicles and their subsystems; com- methods of engineering, emphasizing unified aero and astro systems.
+mercial transport aircraft, launch vehicles, presentation of disciplines, by application to W. R. Markey, J. J. Deyst
+fighter aircraft, aircraft engines, rocket en- high-technology devices and aerospace sysgines, atmospheric reentry vehicles, control tems. Topics: behavior and failure of structural
+systems. The performance, weight, and prin- materials; dynamics of systems; low-speed
+cipal characteristics of these systems are es- flows; representation of information. Applicatimated and illustrated using physics, tions include stresses and deformations in
+Mechanics and Physics of Fluids
+mathematics, and chemistry known to entering beams and columns; failure modes in strucfreshmen, the emphasis being on the applica- tures, fracture, fatigue, plasticity; flow over
+tion of this knowledge to aerospace engineer- bodies, lift and drag of airfoils and wings; 16.100 Aerodynamics
+ing rather than on exposure to new science dynamics of aircraft, spacecraft, and orbital
+and mathematics. transfer; aircraft and rocket engines; filtering, Prereq.: 16.030-16.040 or 2.20 or 1.06; 16.050
+D. J. Newman sampling, and modulation. Techniques U (Fall)
+presented for modeling and optimization of sys- 4-1-7
+16.010 Unified Engineering I tems. Experiments in mechanics, subsonic Air as a continuum, free molecular flow. DimenPrereq.: 8.02, 18.03 or 18.034 and supersonic flows, system dynamics, sionless parameters and scaling. Similarity
+U (Fall) analog networks and circuits. Design and concepts. Velocity potential and stream func-
+4-2-6 REST evaluation of an aircraft or spacecraft com- tion. Vorticity, circulation, Biot-Savart. Conserponent. vation equations. Generalized Bernoulli
+16.020 Unified Engineering 11 S. R. Hall, J. J. Deyst, W. L. Harris, equation. Kelvin impulse. Lift, drag, and thrust
+Prereq.: 8.02, 18.03 or 18.034 W. R. Markey, S. M. Spearing from the momentum equation. 2-D wings, subU (Fall) sonic flow, supersonic flow. Slender bodies,
+4-1-7 16.050 Thermal Energy fuselages. Boundary layers (laminar and tur-
+(Revised Units) bulent), Kutta condition. Skin friction and heat
+16.010 and 16.020 require simultaneous transfer. Separation and stall. Role of streamregistration. Presents the principles and Prereq.: 16.030-16.040 lining. Unsteady flow.
+methods of engineering, as well as their inter- U (Fall) K. S. Breuer
+relationships and applications, through lec- 3-1-8
+tures, recitations, design problems, and labs. Thermodynamic principles relevant to en- 16.110 Flight Vehicle Aerodynamics
+Disciplines introduced include: statics, gineering processes, particularly aerospace
+materials and structures, dynamics, fluid power generation and propulsive cycles, Prereq.: 16.100
+dynamics, thermodynamics, materials, propul- aeroengine components, and overall perfor- G (Spring)
+sion, signal and system analysis, and circuits. mance. Introduction to analysis of conductive, 3-1-8
+Topics: mechanics of solids and fluids; statics convective, and radiative heat transfer. Aerodynamic analysis of flight vehicles using
+and dynamics for bodies systems and net- Aerospace propulsion as an example showing analytical, numerical, and experimental techniworks; conservation of mass and momentum; application of ideas developed in 16.010- ques separately and in combination. Matched
+properties of solids and fluids; temperature, 16.040. Key roles of thermal energy manage- asymptotic expansions. Farfield behavior.
+conservation of energy; stability and response ment in setting the design of high-performance Finite wing theory. Trefftz-plane analysis.
+of static and dynamic systems. Applications in- vehicles. Laminar and turbulent boundary layers.
+clude particle and rigid body dynamics; stress E. M. Greitzer Slender body theory. Calculation and measureand deformations in truss members; airfoils
+ment of drag components. Aerodynamic
+and nozzles in high-speed flow; passive and
+stability derivatives.
+active circuits. Laboratory exposure to empiriM. Drela
+cal methods in engineering; illustration of principles and practice. Design of typical aircraft or
+spacecraft elements.
+S. R. Hall, J. J. Deyst, W. L. Harris,
+W. R. Markey, S. M. Spearing
+454 Chapter Vill

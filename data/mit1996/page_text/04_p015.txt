@@ -1,0 +1,74 @@
+School of Science
+GeophysiCs 12.510 Elements of Seismology 12.517 Dynamics of Complex Physical
+Systems
+Prereq.: 18.075 or 18.085
+12.501 Essentials of Geophysics G (Fall) Prereq.: 18.03, 8.02
+3-1-8 H-LEVEL Grad Credit G (Spring)
+(Subject meets with 12.201) 3-0-9 H-LEVEL Grad Credit
+Prereq.: 8.02, 18.03 A basic subject in seismology and the utilizaG (Fall) tion of seismic waves for the study of the An introduction to theoretical studies of natural
+4-0-8 H-LEVEL Grad Credit Earth's interior. Introduces techniques neces- systems of many interacting components, the
+sary for understanding of elastic wave individual dynamics of which may be simple,
+Overview of basic topics in solid-earth propagation in layered media. Seismic-ray but the collective dynamics of which are comgeophysics, such as the Earth's rotation, theory and interpretation of travel times. Sur- plex. Topics include scaling, fractals, percolaprecessions and wobble, gravity and magnetic face-wave dispersion and layered media. Seis- tion theory, surface growth, cellular automata.
+fields, seismology, and thermal structure. For- micity, earthquake magnitude, moment, and Methods for obtaining macroscopic dynamics
+mulation of physical principles presented in source properties. from microscopic interactions. Applications to
+three 1-hour lectures per week. Current ap- M. N. Toksdz problems of geological/geophysical interest: inplications discussed in an additional 1-hour terfacial and other complex flows, geomorpholtutorial each week. 12.511 Low-Frequency Seismology ogy and other aspects of natural pattern
+R. D. van der Hilst formation, dynamical aspects of rock physics.
+Prereq.: 8.033, 18.076
+D. H. Rothman
+12.507 Environmental Geophysics Acad Year 1996-97: G (Spring)
+(New) Acad Year 1997-98: Not offered 12.518J Sonar, Radar and Seismic Signal
+3-0-9 H-LEVEL Grad Credit
+(Subject meets with 12.214) Processing I
+Prereq.: 18.03 Seismological theory and methods based on (Same subject as 13.741J, 6.455J)
+the representation of the displacement field as
+G (Spring) Prereq.: 2.02 or 2.003 or 6.003, 6.041, 18.075
+3-3-6 a superposition of normal modes. Equations of or 18.085
+motion; Rayleigh's Principle; perturbation
+Introduction to basic geophysical methods that theory; attenuation. Excitation formulae; the in- G (Fall)
+can be used for environmental site charac- verse problem of source structure. Traveling- 3-0-9 H-LEVEL Grad Credit
+terization and shallow geological investiga- wave representation; asymptotic expansions; See description under subject 13.741J.
+tions. Techniques include seismic, electrical, surface and body waves. Free oscillations of a A. B. Baggeroer, J. R. Fricke
+and electromagnetic sounding; ground- rotating, laterally heterogeneous earth; the inpenetrating radar, magnetics, gravity, and verse problem for 3-D Earth structure. 12.519J Sonar, Radar and Seismic Signal
+borehole geophysics. Lectures emphasize T. H. Jordan Processing I
+basic principles and a physical understanding
+of the geophysical methods with environmen- (Same subject as 13.742J, 6.456J)
+12.512 High-Frequency Seismology
+tal applications in mind. Some specific case Prereq.: 13.741J
+histories are included. A few weekends of field Prereq.: 8.033, 18.076 G (Spring)
+measurements at representative local sites are Acad Year 1996-97: Not offered 3-1-8 H-LEVEL Grad Credit
+included. A weekly lab session covers model- Acad Year 1997-98: G (Spring)
+See description under subject 13.742J.
+ing and interpretation of geophysical field data. 3-0-9 H-LEVEL Grad Credit
+A. B. Baggeroer, J. R. Fricke
+F. D. Morgan Seismological theory and methods based on
+high-frequency approximations to transient dis- 12.520 Geodynamics
+12.509 Earthquakes and Faulting placement fields. Elastodynamic equations;
+Prereq.: 12.005, 18.03 representation theorems; moment-tensor rep- Prereq.: 12.005; 18.075 or 18.085
+G (Fall)
+Acad Year 1996-97: Not offered resentation; radiation patterns. Propagator and
+Acad Year 1997-98: G (Spring) reflectivity methods; WKBJ and Langer ap- 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit proximations. Ray theory; Fermat's Principle; Mechanics of deformation of the crust and
+travel-time curves for spherically symmetric mantle, with emphasis on the importance of difMultidisciplinary introduction to the principles media. Radon transforms; inversion of travel ferent rheological descriptions. Coupling beof fault and earthquake mechanics. Overview times for Earth structure; seismic tomography. tween mantle convection and crustal
+of brittle fracture, macroscopic failure criteria, T. H. Jordan deformation.
+effective stress laws, friction laws. Fault
+B. H. Hager
+mechanics. Fault development and the state of
+12.515 Data Analysis: Model Parameter
+stress, fault nucleation, and growth. Fault
+rocks and structures, the strength and rheol- Estimation 12.522 Geological Fluid Mechanics
+ogy of faults. Seismotectonics. Introduction to Prereq.: 18.075 or 18.085 Prereq.: 8.03; 18.076 or 18.085
+the physics of earthquake rupture. Instability G (Fall) G (Fall)
+conditions, dynamic energy balance, quantifica- 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+tion of earthquakes, earthquake source
+parameters and scaling laws. The seismic Surveys a number of methods of inverting data Treats heat transfer and fluid mechanics in the
+cycle, earthquake prediction. to obtain model parameter estimates. Topics Earth. Low Reynolds number flows, convecinclude review of matrix theory and statistics, tion instability, and double diffusion. Non-NewC. J. Marone
+random and grid-search methods, linear and tonian flows, flow in porous media, and the
+non-linear least squares, maximum-likelihood interaction of flows with accreting and deformestimation, ridge regression, stochastic inver- ing boundaries. Applications include the flow
+sion, sequential estimation, singular value under plates, postglacial rebound, diapirism,
+decomposition, solution of large systems, and the mantle convection problem.
+genetic and simulated annealing inversion, (Woods Hole Staff): J. A. Whitehead
+regularization, parameter error estimates, solution uniqueness and resolution. Students are
+required to develop the appropriate algorithms
+on the computer.
+F. D. Morgan
+412 Chapter Vill

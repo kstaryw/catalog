@@ -1,0 +1,153 @@
+School of Science
+12.006 Chaos and Complexity
+Prereq.: 18.03, 8.02
+U (Fall)
+3-0-9
+Introduction to the theory and phenomenology
+of nonlinear dynamics and chaos in dissipative
+systems. Forced and parametric oscillators.
+Phase space. Periodic, quasiperiodic, and
+aperiodic flows. Sensitivity to initial conditions
+and strange attractors. Lorenz attractor. Period
+doubling, intermittency, and quasiperiodicity.
+Universality. Analysis of experimental data:
+Fourier transforms, Poincar6 sections, fractal
+dimension, and Lyapunov exponents. Applications drawn from fluid dynamics, physics.
+geophysics, and chemistry.
+D. H. Rothman
+12.090 Special Topics in Earth,
+Atmospheric, and Planetary Sciences
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+12.091 Special Topics in Earth,
+Atmospheric, and Planetary Sciences
+Prereq.: Permission of instructor U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory or field work in earth, atmospheric,
+and planetary sciences. To be arranged with
+department faculty. Consult with department
+Education Office.
+EAPS Faculty
+12.092 Special Topics in Geology and
+Geochemistry
+Prereq.: -
+12.096 Special Topics in Atmospheric
+Science and Oceanography
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+12.097 Special Topics in Atmospheric
+Science and Oceanography
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory or field work in atmospheric
+science and oceanography. To be arranged
+with department faculty. Consult with department Education Office.
+EAPS Faculty
+12.098 Special Topics in Planetary Science
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+12.099 Special Topics in Planetary Science
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring) Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory or field work in planetary science.
+To be arranged with department faculty. Consult with department Education Office.
+EAPS Faculty
+Geology and Geochemistry
+U (Fall, IAP, Spring)
+Units arranged 12.102 Environmental Earth Science
+Can be repeated for credit Prereq.:
+12.093 Special Topics in Geology and
+Geochemistry
+Prereq.: Permission of instructor U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory or field work in geology and
+geochemistry. To be arranged with department
+faculty. Consult with department Education Office.
+EAPS Faculty
+12.094 Special Topics in Geophysics
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+12.095 Special Topics in Geophysics
+Prereq.: Permission of instructor
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory or field work in geophysics. To be
+arranged with department faculty. Consult with
+department Education Office.
+EAPS Faculty
+-
+12.104 Geochemistry of the Earth and
+Planets
+Prereq.: 18.02
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-1-8
+Focuses on the processes that create chemical variability in the solid and fluid earth. the
+moon, and meteorites. Includes nucleosynthesis, cosmochemistry, and basic geochemical concepts. Thermodynamics and phase
+equilibria are introduced and applied to
+problems of melting solid planetary interiors
+and the evolution of the earth's hydrosphere.
+Radiogenic and stable isotopic systems are
+used to document the timing of planetary formation and differentiation, formation, and
+evolution of volcanoes and continental crust,
+and to understand interactions between the
+solid and fluid earth.
+J. Edmond, F. A. Frey, T. L. Grove
+12.108 Structure of Earth Materials
+Prereq.:
+U (Fall)
+3-0-9 REST
+The geologic record demonstrates that our environment has changed over a variety of time
+scales from seconds to billions of years. Subject explores the many ways in which geologic
+processes control and modify the Earth's environment. Topics include: chemical and physical interactions between the solid Earth, its
+oceans and atmosphere; the effect of
+catastrophic events such as volcanic eruptions
+and earthquakes on the environment; geologic
+hazards; and our role in modifying the environment through earth resource development.
+This subject serves as an introduction to subject 12.120, which addresses field applications
+of these principles in the American Southwest.
+S. A. Bowring, J. B. Southard
+-
+Acad Year 1996-97: U (Fall)
+Acad Year 1997-98: Not offered
+3-4-5
+Provides a comprehensive introduction to crys- talline structure, crystal chemistry, and bonding in rock-forming minerals. Introduces the
+theory relating crystal structure and crystal
+symmetry to physical properties such as refractive index, elastic modulus, and seismic
+velocity. Surveys the distribution of silicate,
+oxide, and metallic minerals in the interiors
+and on the surfaces of planets and discusses
+the processes that led to their formation.
+B. Evans, T. L. Grove
+12.109 Petrology
+Prereq.: 12.104, 12.108
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-6-3
+Surveys the distribution, chemical composition,
+and mineral associations in rocks of the earth's
+crust and upper mantle, and establishes their
+relation to tectonic environment. Emphasis is
+on the use of chemistry and physics to interpret rock forming processes. Topics include:
+dynamics of crust and mantle melting as
+preserved in the chemical composition of igneous rocks and minerals, the long-term
+record of global climate change as preserved
+in the minerals of sedimentary rocks, and the
+time-temperature-depth record preserved in
+minerals of metamorphosed crustal rocks.
+J. P. Grotzinger, T. L. Grove, K. V. Hodges
+406 Chapter Vill

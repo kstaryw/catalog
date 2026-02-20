@@ -1,0 +1,100 @@
+School of Architecture and Planning
+MAS.241 Audio Processing by People and MAS.390 Special Projects in Learning and MAS.450 Holographic Imaging
+Machines Common Sense
+(New) (Subject meets with MAS.854)
+Prereq.: Permission of instructor Prereq.: Permission of instructor
+(Subject meets with 21M.566J, MAS.641J) U (Fall, Spring, Summer) U (Fall)
+Prereq.: Permission of instructor Units arranged 3-5-4 Institute LAB
+U (Fall) Can be repeated for credit A laboratory-based exploration of the prin-
+3-0-6
+MAS.391 Special Projects in Learning and ciples, techniques, and applications of hologPrinciples of information processing by the Common Sense raphy as a 3-D image communication medium.
+human auditory system, from detection of fre- Begins with interference and diffraction, and
+Prereq.: Permission of instructor
+quency, intensity, and spectrum, to the proceeds through laser off-axis holography to
+development of their perceptual correlates as U (Fall, Spring, Summer) white-light "rainbow" and reflection hologUnits arranged [P/D/F]
+pitch, loudness, and timbre. Machine models raphy. Term project required, with oral presenCan be repeated for credit
+of the human auditory and musical experience tation and written report. Lab fee. Limited
+using perceptually-based sensor and inter- Special projects on group or individual basis. enrollment with preference given to freshmen
+pretor constructs, sufficient to enable Registration subject to prior arrangement of and sophomores. Meets with graduate subject
+machines to experience sound and music in a subject matter and supervision by staff. MAS.854, but assignments differ.
+manner related to our own. Exploring auditory Staff S. Benton
+and music cognition with the aid of real-time
+audio processors. Modeling musical common MAS.490 Special Projects in Information
+sense. and Entertainment
+B. Vercoe
+Prereq.: Permission of instructor
+Information and Entertainment U (Fall, Spring, Summer)
+MAS.290 Special Projects in Perceptual
+Units arranged
+Computing
+Can be repeated for credit
+MAS.432, MAS 433 Graphics/imaging Media
+Prereq.: Permission of instructor
+Projects MAS.491 Special Projects in Information
+U (Fall, Spring, Summer)
+and Entertainment
+Units arranged Prereq.: Permission of instructor
+Can be repeated for credit U (Fall, Spring) Prereq.: Permission of instructor
+Units arranged U (Fall, Spring, Summer)
+MAS.291 Special Projects in Perceptual
+Can be repeated for credit Units arranged [P/D/F]
+Computing
+Can be repeated for credit
+Special work on an individual or group basis
+Prereq.: Permission of instructor
+combining research and projects of multidimen- Special projects on group or individual basis.
+U (Fall, Spring, Summer)
+sional graphics, typography, imaging, static or Registration subject to prior arrangement of
+Units arranged [PID/F]
+dynamic, 2- or 3-D, and audio in an intelligent subject matter and supervision by staff.
+Can be repeated for credit
+electronic design environment. Registration Staff
+Special projects on group or individual basis. subject to prior acceptance of project, superRegistration subject to prior arrangement of vision by VLW staff. Completion dependent on MAS.497 Research in Media Technology
+subject matter and supervision by staff. successful demonstration and documentation
+Staff of semester's project. Prereq.:
+Staff
+MAS.440 Workshop in Elastic Movie Time
+(Subject meets with MAS.848)
+Learning and Common Sense Prereq.: Permission of instructor
+U (Fall)
+3-3-6
+MAS.334 Software Agents Seminar
+A workshop in methods for the design and
+(Subject meets with MAS.737)
+production of interactive multimedia. EstabPrereq.: Permission of instructor lishes the interactive system as an expressive
+U (Fall)
+and dynamically adjustable object. Considers
+Units arranged
+a range of topics including collaborative authorCan be repeated for credit ship, cinematic journalism, techniques of video
+Work on an individual or group basis in the shooting and editing, and interface design. Stuarea of intelligent software which helps users dents work in teams of three or four to design,
+deal with information and work overload. As- produce, and program segments of the colsorted readings from the literature. Students re- laborative publication. Meets with MAS.848,
+quired to participate actively in the class but assignments differ.
+discussions. Final project. Meets with graduate G. Davenport
+subject MAS.737, but assignments differ.
+P. Maes
+-
+U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+For advanced undergraduate research in
+Media Arts and Sciences.
+Staff
+Graduate Subjects
+MAS.ThG Graduate Thesis
+Prereq.: -
+G (Fall, IAP, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research and writing of
+thesis; to be arranged by the student with supervising committee.
+MAS.510 Signals, Systems, and Information
+for Media Technology
+(Subject meets with MAS.160)
+Prereq.: 18.02
+G (Fall)
+4-0-8
+Meets with undergraduate subject MAS.160.
+Requires the completion of additional advanced homework problems. See description
+under subject MAS.160.
+V. M. Bove, Jr., R. W. Picard
+546 Chapter Vill

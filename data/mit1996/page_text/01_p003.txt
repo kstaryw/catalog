@@ -1,0 +1,70 @@
+Explanatory Notes
+Guide to Subject Listings
+The descriptions in this chapter are subject to Subject Information One unit represents approximately 14 hours of
+change. The final list of subjects to be offered work. Units arranged indicates that units are
+in 1996-97 is published with the class specially arranged by the instructor.
+Information about the subject appears below
+schedules booklet prior to the beginning of
+the first horizontal line. Subjects fulfilling the General Institute Requireeach term.
+ments, such as BIOLOGY, PHYSICS, CALC,
+On the World Wide Web, see 18.014 Calculus with Theory CHEMISTRY, REST (Restricted Electives in
+http://registrar.mit.edu/ for an integrated, Science and Technology, formerly SCI DIST),
+(18.012)
+searchable subject listing/schedule. Prereq.: - 4 Institute LAB, or HASS-D (Humanities, Arts,
+and Social Sciences Distribution) are so desigThe following are examples of undergraduate U (Fall)
+nated to the right of the credit units.
+and graduate subject listings. Each subject list- 5-0-7 CALC I
+ing consists of three parts: the subject name, Credit cannot also be received for 18.01 or HASS indicates subjects that can be used to
+subject information, and subject description. 18.011 satisfy the Humanities, Arts, and Social Sciences Requirement (other than HASS-D subCovers the same material as 18.01, but at a jects).
+deeper and more rigorous level. Emphasizes
+Subject Name careful reasoning and understanding of proofs. HASS-D Language Option indicates lanAssumes knowledge of elementary calculus. guage subjects which may be substituted for
+The subject name consists of its number and Topics: axioms for the real numbers; the one HASS-D subject.
+title, and appears above the first horizontal line. Riemann integral; limits, theorems on con- [P/D/F] appears to the right of the credit units
+tinuous functions; derivatives of functions of if the subject is graded on a P, D, or F basis
+5.77J Topics in Metabolic Biochemistry one variable; the fundamental theorems of cal- (where P means C or better performance).
+(New) culus; Taylor's theorem; infinite series, power H-LEVEL Grad Credit indicates an approved
+series, rigorous treatment of the elementary
+(Same subject as 7.75J) functions. subject for higher graduate-level degree credit.
+Prereq.: 7.05 or 5.07 J. R. Munkres In some cases, a message follows the designaG (Fall) tion indicating that the subject is H-level in cer-
+4-0-8 H-LEVEL Grad Credit The former number of a renumbered subject tain departments.
+is indicated in parentheses below the first Can be repeated for credit appears under
+Special topics include major metabolic path- horizontal line. the credit units if the subject can be taken
+ways for the biosynthesis of certain cellular
+more than once for academic credit.
+constituents and oxidative metabolism. Em- Same subject as appears in parentheses folphasis is on enzymology and methods used to lowed by the subject's other number(s) if the
+understand metabolism and enzymatic proces- subject is joint or SWE. Meets with appears if
+ses. the subject is taught together with one or more Subject Description
+G. M. Brown, J. Stubbe different-level subjects, or if part of the subject
+is taught in conjunction with another subject. The subject description appears below the
+J at the end of a subject number indicates that Prerequisite subjects, if any, are listed, or the second horizontal line.
+this subject is offered jointly by more than one prerequisite is described. Numbers in italics indepartment. The subject numbers of the other dicate corequisites - prerequisite subjects 21F.101 Chinese
+departments are indicated in the Subject Infor- that may be taken simultaneously with the sub- (21.245)
+mation section following the phrase Same ject described. If there are no prerequisites or Prereq.: subject as. corequisites, a dash (-) appears. Prerequisites may be waived by the instructor in
+(New) below the subject number and title indi- charge for particularly well-qualified students.
+cates a subject offering that is new to the
+catalogue. (Revised Units) or (Revised Con- Year offered may state Acad Year 1996-97:
+tent) below the subject number and title indi- Not offered or Acad Year 1997-98: Not ofcates a change from the previous catalogue. fered. There is no comment if the subject is offered in both academic years 1996-97 and
+1997-98.
+Subject level and term follow. U is an undergraduate subject, and G is a subject primarily
+for graduate students. IAP is MIT's Independent Activities Period.
+Credit units, which indicate a subject's time
+distribution, are represented by three numbers
+separated by dashes. The number of units assigned for recitation and lecture is first; for
+laboratory, design, or fieldwork second; and
+for preparation, third. Add all of the units
+together to obtain the total credit for a subject.
+- U (Fall)
+4-0-8 HASS
+Introduction to spoken and written modern 4.
+Chinese (Mandarin). Pronunciation, sentence
+structure, grammar, conversation, reading and
+writing. Lab work required. Enrollment limited
+to 20 students.
+Y Tai
+Any subject open only to special groups is so
+noted at the end of its description. If the subject description does not appear, the number
+of the subject under which the description appears is given.
+The name of the instructor(s) in charge as
+known at the time of publication is listed in
+italics, or the name of the departmental contact is listed in regular type.
+Descriptions of Subjects 299

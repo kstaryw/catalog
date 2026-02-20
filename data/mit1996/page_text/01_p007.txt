@@ -1,0 +1,70 @@
+Department of Civil and Environmental Engineering Course 1
+Transportation
+1.200 Methods for Transportation Systems
+Analysis
+Prereq.: -
+1.203J Logistical and Transportation 1.206 Optimization of Transportation
+Planning Methods Systems
+(Same subject as 6.281J, 11.526J, 13.665J, Prereq.: Permission of instructor
+15.073J, 16.76J) Acad Year 1996-97: Not offered
+Prereq.: 6.431, 15.075 Acad Year 1997-98: G (Fall)
+G (Fall) 3-0-6 H-LEVEL Grad Credit
+G (Fall) 3-0-9 H-LEVEL Grad Credit
+Explores a variety of optimization techniques
+3-1-8
+Quantitative techniques of operations research for the solution of large-scale transportation
+Provides the methodological foundation neces- with emphasis on applications in transportation problems. Models and solution methods, insary for the analytical study of the components systems analysis (urban, air, ocean, highway, cluding decomposition and relaxation, are
+of transportation systems and the relationships pickup and delivery systems) and in the plan- presented for a variety of problems faced by
+between them. Focuses on the use of linear ning and design of logistically oriented urban carriers and/or shippers. Students are required
+equation systems, optimization techniques, service systems (e.g., fire and police depart- to complete a research project and to present
+and stochastic and statistical models. ments, emergency medical services, emergen- their findings. Alternate years.
+Develops the mathematical prerequisites for cy repair services). Unified study of functions C. Bamhart
+many advanced subjects in transportation. of random variables, geometrical probability,
+C. Bamhart multi-server queuing theory, spatial location 1.207 Models and Algorithms for
+theory, network analysis and graph theory, Transportation Networks
+1.201 Transportation Systems and relevant methods of simulation. Computer (Revised Content)
+exercises, discussion of implementation difficulPrereq.: Permission of instructor ties. Prereq.: 1.200 or permission of instructor
+G (Fall) A. I. Barnett, R. C. Larson, A. R. Odoni G (Fall)
+3-0-6 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+introduces the fundamental elements and is- 1.204 Computer Algorithms in Formulation, analysis, and solution of network
+sues shaping passenger and freight transporta- Transportation problems. Topics include: network equilibrium
+tion systems. Discusses the role of analysis; static system optimum traffic assignPrereq.: 1.00 or 1.001 or permission of instructransportation systems in society and ment; time-dependent approaches for dynamic
+measures of system effectiveness on many tor systems; stochastic systems; simulation apG (Spring)
+dimensions, including economic, environmen- proaches; network control; implementation of
+tal, and political. Covers deterministic and 3-0-9 H-LEVEL Grad Credit various solution methods to solve large-scale
+stochastic models of system performance and Teaches techniques and tools for design, applications.
+the determinants of transportation travel analysis, and implementation of efficient algo- /. Chabini
+demand. Analyzes transportation networks, in- rithms. An integrated view of algorithms, data
+cluding prediction of costs and service quality. structures, and computer architecture is em- 1.208J Transportation and Logistics
+Considers the design of transportation ser- phasized. Algorithmic techniques studied in- Analysis
+vices and facilities for various modes and inter- clude: greedy algorithms, divide-and-conquer,
+modal operations. Case studies are used to dynamic programming, probabilistic algo- (Same subject as 15.770J)
+show the application of methods to different rithms, network optimization based algorithms Prereq.: Permission of instructor
+types of transportation systems. Institutional and graph traversal techniques. Advanced G (Spring)
+and policy issues are addressed. topics include: high-performance computing 3-0-6 H-LEVEL Grad Credit
+J. Sussman and real-time optimization. Introduction to inventory theory. Analysis of
+I. Chabini tradeoffs between transportation and inventory
+1.202 Demand Modeling cost. Routing and scheduling with inventory
+Prereq.: Permission of instructor 1.205 Advanced Demand Modeling considerations. Distribution network design
+G (Spring) Prereq.: 1.202 or 14.388 and carrier network design. Optimization of car-
+3-1-8 H-LEVEL Grad Credit G (Fall) rier networks with emphasis on truck and rail
+networks. Integration of carrier and shipper
+Analysis and forecasting of demand for 3-0-9 H-LEVEL Grad Credit perspective in system models. International
+facilities and services. Emphasis on collection Theories and applications of behavior models. logistics issues.
+and analysis of survey data. Review elements Includes: linear and nonlinear latent variable Y. Sheffi
+of probability, sampling, and statistical models, multidimensional probabilistic choice
+methods. Includes alternative sample designs models, survey design, statistical estimation 1.209J Case Studies in Logistics and
+and data collection methods, matrix-entry es- techniques with multiple data sources, model Supply Chain Management
+timation methods, linear regression analysis, transferability, estimation and forecasting with
+discrete choice methods, estimation and test- very large choice sets, joint discrete and con- (Same subject as 15.771J)
+ing of disaggregate and aggregate models, ag- tinuous models, dynamical models. Issues in Prereq.: Permission of instructor
+gregate forecasting methods and simulation. model specification, including use of stated Acad Year 1996-97: Not offered
+Illustrated with applications from the fields of preference data, and analysis of complex Acad Year 1997-98: G (Fall)
+transportation, housing, telecommunications, choices. Term paper required. 3-0-6
+and marketing. M. E. Ben-Akiva A combination of lectures and cases covering
+M. E. Ben-Akiva the strategic, management, and operating issues in contemporary logistics and integrated
+supply chain management. Includes: logistics
+strategy; supply chain restructuring and
+change management; and distribution, customer service, and inventory policy.
+Y. Sheffi
+Descriptions of Subjects 303

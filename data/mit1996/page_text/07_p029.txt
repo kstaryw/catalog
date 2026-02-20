@@ -1,0 +1,81 @@
+School of Engineering
+22.63 Engineering Principles for Fusion Nuclear Materials 22.78 Nuclear Techniques in Environmental
+Reactors Analysis
+Prereq.: Permission of instructor 22.70J Materials for Nuclear (Subject meets with 22.078)
+Acad Year 1996-97: Not offered Applications Prereq.: Permission of instructor
+Acad Year 1997-98: G (Spring) Acad Year 1996-97: Not offered
+3-0-9 H-LEVEL Grad Credit (Subject meets with 3.070J, 3.711J, 22.070J) Acad Year 1997-98: G (Spring)
+Prereq.: Permission of instructor 2-6-4 H-LEVEL Grad Credit
+Fusion reactor design considerations: ignition G (Spring)
+devices, engineering test facilities, and 3-0-9 H-LEVEL Grad Credit Presents a general review of nuclear chemistry
+safety/environmental concerns. Magnet prin- with detailed explanation of instrumental and
+ciples: resistive and superconducting magnets; Introductory subject for students who are not radiochemical neutron activation analysis.
+cryogenic features. Blanket and first wall specializing in nuclear materials. Applications Other nuclear analytical techniques such as
+design: liquid and solid breeders, heat and selection of materials for use in nuclear ap- prompt gamma activation analysis, instrumenremoval, and structural considerations. Heat- plications. Radiation damage, radiation effects, tal photon activation analysis, and isotope diluing devices: radio frequency and neutral beam. and their effects on performance of materials tion are also addressed. Application of trace
+R. Ballinger in fission and fusion environments. Meets with element analysis techniques to air and water
+undergraduate subject 22.070J, but assign- pollution studies and other technical issues are
+22.64 Plasma Kinetic Theory ments differ. presented.
+K. C. Russell I. Olmez
+Prereq.: 8.613J
+Acad Year 1996-97: Not offered 22.71J Physical Metallurgy
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit (Same subject as 3.40J)
+Prereq.: 3.14 or 3.71 1J
+Basic physics of the wave-particle interaction G (Fall) Systems, Policy, and Economics
+with emphasis on intuitive concepts. 3-0-9 H-LEVEL Grad Credit
+Linearized Vlasov equation, quasilinear theory,
+Fokker-Planck and diffusion approximations See description under subject 3.40J. 22.811 Energy, Electricity, and the
+for the average distribution function, resonant R. W. Balluffi Environment
+and nonresonant diffusion, energy and momenPrereq.: Permission of instructor
+tum conservation, free energy, application of 22.72J Corrosion: The Environmental
+G (Spring)
+quasilinear theory to various physical problems Degradation of Materials
+3-0-9 H-LEVEL Grad Credit
+of current interest.
+(Same subject as 3.54J)
+K. Molvig Means of satisfying energy needs and their enPrereq.: 3.00
+vironmental implications, including global
+G (Fall)
+22.67 Principles of Plasma Diagnostics 3-0-6 H-LEVEL Grad Credit warming for both industrialized and developing
+countries - considering alternative techPrereq.: 6.651J or 8.613J or 22.61 1J See description under subject 3.54J. nologies, conservation, the associated environAcad Year 1996-97: G (Fall) R. G. Ballinger mental effects, and their mitigation.
+Acad Year 1997-98: Not offered Environmental effects differ from global to local
+3-0-9 H-LEVEL Grad Credit 22.76 Nuclear Chemical Engineering scales and from different points within the fuel
+Introduction to the physical processes used to cycles of the different technologies. Techmeasure the properties of plasmas, especially Prereq.: Permission of instructor nologies considered include those for conserfusion plasmas. Measurements of magnetic Acad Year 1996-97: G (Spring) vation, fossil, nuclear, solar, and geothermal
+and electric fields, particle flux, refractive Acad Year 1997-98: Not offered fuels.
+index, emission and scattering of electromag- 3-0-9 H-LEVEL Grad Credit M. W. Golay
+netic waves and heavy particles; their use to Application of chemical engineering to nuclear
+deduce plasma parameters such as particle fission and fusion reactors. Principles of chemi- 22.812 Nuclear Energy Economics and
+density, pressure, temperature, velocity, etc., cal and physical separation processes. Tech- Policy Analysis
+and hence the plasma confinement properties. nologies for the production of nuclear fuel,
+Prereq.: Permission of instructor
+Discussion of practical examples and assess- moderator, and structural materials. ManageG (Fall)
+ments of the accuracy and reliability of dif- ment of radioactive wastes and spent fuel, in-
+3-0-9 H-LEVEL Grad Credit
+ferent techniques. cluding chemical processing and disposal.
+/. H. Hutchinson Fuel cycle economics, safety, and nuclear An examination of current economic and policy
+safeguards. Chemical aspects of operation of issues in the electric power industry, focusing
+22.69 Plasma Laboratory fission and fusion reactors. Chemistry of fis- on nuclear power and its fuel cycle. Introduces
+sion products and actinides. techniques for analyzing private and public
+(Subject meets with 22.069) Information: M. S. Kazimi. policy alternatives, including discounted cash
+Prereq.: 22.611J or 6.651J or 8.61 3J or 22.601 flow methods and other techniques in enG (Spring) 22.77 Nuclear Waste Management gineering economics. Application to specific
+1-4-7 H-LEVEL Grad Credit problem areas, including nuclear waste
+Basic engineering and scientific principles as- Prereq.: Permission of instructor management and weapons proliferation. Other
+G (Fall)
+sociated with experimental plasma physics. In- topics include deregulation and restructuring in
+vestigates vacuum pumping phenomena and 3-0-9 H-LEVEL Grad Credit the electric power industry.
+gauge operation, normal and superconducting Introduces scientific and engineering aspects R. K. Lester
+magnetic field coils, microwave interactions of the management of spent fuel, reprocessed
+with plasmas, laboratory plasma production in- high-level waste, uranium mill tailings, low- 22.82 Engineering Risk-Benefit Analysis
+cluding electrical breakdown phenomena, level wastes, and decommissioning wastes.
+Prereq.: 18.02
+Langmuir probe characteristics and spectros- Fundamental processes and governing equaG (Spring)
+copy. tions of radiation and radionuclide transport.
+3-0-6 H-LEVEL Grad Credit
+K. W. Wenzel Design principles and evaluation methods for
+geologic waste disposal systems. Interim Engineering School-Wide Elective Subject.
+storage, processing, and transportation tech- Description given at end of this chapter in
+nologies. Review of nuclear waste manage- SWE section on page 562.
+ment regulation. Open to qualified G. Apostolakis, A. W. Drake, A. R. Odoni
+undergraduates.
+G. Apostolakis
+528 Chapter Vill

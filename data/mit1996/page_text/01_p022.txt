@@ -1,0 +1,70 @@
+School of Engineering
+2.274 Computational Fluid Dynamics Materials 2.305 Advanced Mechanical Behavior of
+Materials
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered (See also listings under Polymers and Prereq.: 2.001, 3.091
+Acad Year 1997-98: G (Fall) Fibers.) G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Modern treatment of finite element methods 2.30 Mechanical Behavior of Materials Fundamentals of the mechanical behavior of
+for incompressible viscous fluid flows. Formula- (Revised Units) engineering materials and their uses in struction, theoretical analysis, implementation, and tural and design-related applications is
+application of discretizations and direct/itera- Prereq.: 2.001 presented, starting from a mechanistic point of
+tive solvers for elliptic, Stokes, convection-dif- U (Fall) view to arrive at phenomenological forms of
+fusion, and Navier-Stokes equations. 3-2-10 constitutive behavior for deformation and fracFinite-difference/finite-element treatment of Introduces mechanical behavior of engineering ture. Problems involving elasticity, plasticity,
+mixed initial/boundary value problems. Com- materials, and the use of materials in mechani- creep, visco-elasticity, and monotonic and
+puter assignments requiring programming. cal design. Emphasizes both the fundamentals cyclic fracture are discussed, including applicaA. T. Patera of mechanical behavior of materials as well as tions to material processing.
+design with materials. Major topics: elasticity, A. S. Argon, M. C. Boyce
+2.277 Biomedical Fluid Mechanics plasticity, limit analysis, fatigue, fracture, and
+composites. Materials selection. Laboratory ex- 2.306 Dislocations and Mechanical
+Prereq.: 2.006
+periments involving projects related to Properties of Crystalline Solids
+G (Spring)
+materials in mechanical design. Limited enroll-
+3-0-9 H-LEVEL Grad Credit Prereq.: 2.30 or 2.002, 3.091
+ment.
+Acad Year 1996-97: G (Fall)
+Engineering approach to the function of cir- L. Anand, D. M. Parks, M. C. Boyce
+Acad Year 1997-98: Not offered
+culatory and respiratory systems and to other
+3-0-9 H-LEVEL Grad Credit
+problems in physiology involving fluid 2.302 Physics of Inelastic Deformation of
+dynamics. Reviews relevant anatomy and Solids Derivation of properties of both straight and
+physiology emphasizing quantitative considera- curved dislocations from elasticity. Interaction
+tions. Presents and discusses mathematical or Prereq.: 2.30 or 2.002 or 2.305 of dislocations with external stresses, with
+engineering models in relation to physiological Acad Year 1996-97: Not offered each other, with free surfaces, interfaces, and
+phenomena they are intended to simulate. Acad Year 1997-98: G (Spring) cracks. Dislocations in specific crystal strucDirected to graduate students in engineering 3-0-9 H-LEVEL Grad Credit tures: stress fields, line energies, line tension.
+and science, but open to medical students and Rate mechanisms in crystal plasticity, kinetics Kinematics of dislocation glide and climb.
+undergraduates with the permission of the in- and dynamics of slip, superposition of flow Dynamics of moving dislocations. Interaction
+structor. stress mechanisms. Inelastic deformation in of dislocations with point defects and climb.
+C. F Dewey, R. D. Kamm non-metals, visco-plasticity of metallic, inor- Dislocation multiplication. Athermal
+ganic, and polymeric glasses; plasticity of crys- mechanisms of strain hardening in both
+2.280 Fundamentals and Modeling in talline polymers; statistical theory of homogeneous and heterogeneous crystals.
+Combustion elastomeric behavior. Macro-plasticity in A. S. Argon
+polycrystalline metals and in polymers. Strain
+Prereq.: 2.005, 2.006
+hardening and recovery. Macroscopic three- 2.31 Finite Element Analysis in Computer
+Acad Year 1996-97: Not offered
+dimensional constitutive relations for inelastic Aided Mechanical Design
+Acad Year 1997-98: G (Spring)
+deformation usable in computational (New)
+3-0-9 H-LEVEL Grad Credit
+mechanics. Alternate years.
+Prereq.: 2.001, 2.002
+Fundamentals and modeling of physical gas A. S. Argon
+U (Spring)
+dynamics and combustion using analytical and
+3-3-6
+numerical methods. Conservation equations of 2.303 Micro Mechanisms of Fracture
+reacting flows. Chemical thermodynamics and Focuses on the role of finite element analysis
+kinetics. Non-equilibrium flow. Detonation and Prereq.: 2.30 or 2.002 or 2.305 in computer aided mechanical design. Introducboundary layers. Ignition, flammability, and ex- Acad Year 1996-97: G (Spring) tion to the finite element method for problems
+tinction. Premixed and diffusion flames. Com- Acad Year 1997-98: Not offered involving elastic, thermo-elastic, and elasticbustion instabilities. Supersonic combustion. 3-0-9 H-LEVEL Grad Credit plastic material behavior together with stiffTurbulent combustion. Fire, safety, and en- Fundamental crack tip solutions. Cohesive ness, strength and toughness-related material
+vironmental impact. strength of pure solids and interfaces. Micro- properties which limit mechanical design. ApA. F Ghoniem crack initiation. Brittle fracture in tension and proximations inherent in numerical analyses
+compression. Static fatigue. Toughening of brit- discussed and the physical interpretations of
+2.29J Air Pollution Control tle solids by crack tip shielding and trapping or the results emphasized. Projects emphasize
+bridging. Ductile fracture by plastic cavitation. the various iterative loops between the dif-
+(Same subject as 10.571J) Intergranular fracture at elevated tempera- ferent phases of the "design/analysis/manufacPrereq.: Permission of instructor tures. Brittle to ductile transitions in fracture. ture/test" philosophy of mechanical design.
+G (Spring) Fracture under cyclic loading. Fracture of com- Elective unit distribution: Advanced discipli-
+3-0-9 H-LEVEL Grad Credit posites. Fracture along interfaces. Examples nary, 6; Design, 3; Lab, 3.
+See description under subject 10.571J. drawn from all prominent structural solids. Al- M. C. Boyce, L. Anand, D. M. Parks
+G. J. McRae ternate years.
+A. S. Argon
+318 Chapter Vill

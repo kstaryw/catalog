@@ -1,0 +1,86 @@
+School of Engineering
+6.630 Electromagnetic Waves 6.634 Nonlinear Optics 6.652J Introduction to Plasma
+Physics 11
+Prereq.: 8.02 or 6.013 or 6.014 Prereq.: 6.014, 6.017
+G (Fall) G (Spring) (Same subject as 8.614J, 22.612J)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit Prereq.: 6.651J or 8.61 3J or 22.61 1J
+G (Spring)
+An introductory subject on electromagnetic Nonlinear optical phenomena, emphasizing ap-
+3-0-9 H-LEVEL Grad Credit
+waves. Topics: polarization, Stokes plications, techniques, and devices. Nonlinear
+parameters, Poincare sphere, gyrotropic polarization: harmonic generation, frequency See description under subject 8.614J.
+media, uniaxial media, phase matching, conversion, optical Kerr effect, self-phase P. Catto
+layered media, dielectric waveguides, metallic modulation, wavefront conjugation. Pulse
+waveguides and resonators, Cerenkov radia- propagation in nonlinear media. Applications 6.661 Receivers, Antennas, and Signals
+tion, Hertzian dipole, equivalence principle, to fiber optics. Nonlinear laser spectroscopy.
+and reciprocity. Examples deal with propaga- Picosecond and femtosecond measurement Prereq.: 6.014 or 8.03, 6.003 or 16.040 or
+tion, guidance, and radiation of electromag- techniques. 2.004
+netic waves. E. P. Ippen, J. G. Fujimoto Acad Year 1996-97: G (Spring)
+J. A. Kong Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+6.635 Topics in Electromagnetism
+6.631 Optics and Optical Electronics Detection and measurement of radio and optiPrereq.: 6.014 or 6.630 or 8.07
+cal signals encountered in communications,
+Prereq.: 6.014 or 8.07 G (Spring)
+astronomy, remote sensing, instrumentation,
+G (Fall) 3-0-9 H-LEVEL Grad Credit
+and radar. Statistical analysis of signal
+3-0-9 H-LEVEL Grad Credit
+Material covered differs from year to year ac- processing systems, including radiometers,
+A first-year graduate subject on fundamental cording to interest of students and instructor in spectrometers, interferometers, and digital corconcepts and techniques of modern optics and charge. Typical topics include electrodynamics relation systems. Matched filters and ambiguity
+quantum electronics. Review of Maxwell's of moving media, waves in dispersive media, functions. Communications channel perforequations and the vector properties of light. In- microstrip integrated circuits, quantum optics, mance. Measurement of random electromagterference and interferometers. Temporal and remote sensing, radiative transfer theory and netic fields. Angular filtering properties of
+spatial coherence. Scalar diffraction theory. random media. antennas, interferometers, and aperture synPropagation of spherical and Gaussian-spheri- J. A. Kong thesis systems. Radiative transfer and
+cal beams. Thin film and "fiber" waveguides. parameter estimation. Alternate years.
+Device applications of electrooptic effect and 6.637 Optical Information Processing D. H. Staelin
+nonlinear optics.
+J. G. Fujimoto Prereq.: 6.003, 6.014 6.671 Continuum Electromechanics I
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered Prereq.: 6.013
+6.632 Electromagnetic Wave Theory
+3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Prereq.: 6.013 or 6.014 or 6.630 Acad Year 1997-98: G (Spring)
+Systems, algorithms, devices, and applications
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+for optical information processing. Topics:
+Acad Year 1997-98: G (Spring)
+coherent and incoherent optical processors; Quasistatic electric and magnetic field
+3-0-9 H-LEVEL Grad Credit
+space-and-time-integrating correlators; space- dynamics. Transfer relations as an approach
+A first-year graduate subject on electromag- variant processors; white-light processors; digi- to field descriptions. Electromagnetic forces,
+netic wave theory, emphasizing mathematical tal optical processors; matrix-algebraic force densities, and stress tensors, including
+approaches, problem solving, and physical in- processors; symbolic optical processors; opti- magnetization and polarization. Classification
+terpretation. Topics include equivalence prin- cal neural networks; adaptive optics; acous- of energy-conversion processes. Charge
+ciple, duality and complementarity, Huygens' tooptic, electrooptic, and photorefractive migration and relaxation, and magnetic difprinciple, Fresnel and Fraunhofer diffraction, spatial light modulators; limitations of optical fusion and induction interactions with material
+random media, effective permittivities, dyadic computers. Alternate years. motion. Introduction to electromechanics of
+Green's functions, Lorentz transformation, C. Warde fluids and solids. Temporal and spatial modes.
+Maxwell-Minkowski theory. Examples deal with Spectral numerical techniques. Method of charlimiting cases of Maxwell's theory and diffrac- 6.641 Microwave Circuits acteristics. Varied applications. Alternate years.
+tion and scattering of electromagnetic waves. M. Zahn
+Alternate years. Prereq.: 6.014
+J. A. Kong Acad Year 1996-97: Not offered 6.672 Continuum Electromechanics II
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit Prereq.: 6.671
+6.633 Electrodynamics of Waves, Media,
+Acad Year 1996-97: G (Fall)
+and Interactions Electromagnetic wave propagation on uniform
+Acad Year 1997-98: Not offered
+and periodic structures, waveguide, stripline,
+Prereq.: 6.014 or 8.07; 18.04 or 18.075 3-0-9 H-LEVEL Grad Credit
+and microstrip. Surface Acoustic Wave (SAW)
+Acad Year 1996-97: G (Spring)
+and magnetic resonance devices. Equivalent Laws, approximations, and relations of conAcad Year 1997-98: Not offered
+circuit representations for apertures and tinuum mechanics. Mechanical and
+3-0-9 H-LEVEL Grad Credit
+obstacles. Multiport junctions. Non-reciprocal electromechanical transfer relations. Statics
+Wave propagation in media with temporal and ferrite devices. Cavity and solid state and dynamics of electromechanical systems
+spatial dispersion; pulse propagation and resonators; filters. Perturbation theory. Alter- having a static equilibrium. Electromechanical
+Green's function analysis. Linear stability nate years. flows. Field coupling with thermal and
+theory; absolute and convective instabilities. F. P. Morgenthaler molecular diffusion. Electrokinetics. Streaming
+Energy, momentum, and their flows as- interactions. Applications to materials processsociated with small-amplitude wave propaga- 6.651J Introduction to Plasma ing, magnetohydrodynamic and
+tion in passive and active media. Geometric Physics I electrohydrodynamic pumps and generators,
+optics and mode conversion in in- physiochemical systems, heat transfer, conhomogeneous media. Linear and nonlinear (Same subject as 8.61 3J, 22.611J) tinuum feedback control, electron beam
+coupling of modes in stable and unstable sys- Prereq.: 6.014 or 8.07; 18.04 or 18.075 devices, and plasma dynamics. Emphasis on
+tems. Nonlinear dynamics of order and chaos; G (Fall) microfabricated systems. Alternate years.
+solitons and intrinsic stochasticity. Alternate 3-0-9 H-LEVEL Grad Credit M. Zahn
+years. See description under subject 8.613J.
+A. Bers A. Bers, B. Coppi
+358 Chapter Vill

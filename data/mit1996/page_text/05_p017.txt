@@ -1,0 +1,94 @@
+Sloan School of Management
+15.691J Research Seminar in Industrial
+Relations
+(Same subject as 14.691J)
+Prereq.. -
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Can be repeated for credit
+15.692J Research Seminar in Industrial
+Relations
+(Same subject as 14.692J)
+Prereq." -
+Operations Management 15.764 The Theory of Operations
+Management
+Prereq.: 15.081J or 6.251J, 6.431, 15.760 or
+15.760 Introduction to Operations
+15.761
+Management
+G (Spring)
+Prereq.: 15.060 3-0-6 H-LEVEL Grad Credit
+G (Spring)
+2-0-4 H-LEVEL Grad Credit Focus on theoretical work for studying operations planning and control problems. Topics
+15.761 Operations Management vary from year to year, and will include inventory theory, sequencing theory, aggregate
+Prereq.: Permission of instructor
+G (Summer) production planning, production scheduling,
+multistage production/distribution systems, perG (Spring) 3-0-6 H-LEVEL Grad Credit
+formance evaluation, and flexible manufactur-
+3-0-6 H-LEVEL Grad Credit
+Introduces students to problems and analysis ing systems.
+Can be repeated for credit
+related to the design, planning, control, and im- L. M. Wein
+Discusses important areas for research in in- provement of manufacturing and service operadustrial relations; frameworks for research, re- tions. Includes process analysis, project 15.766 Total Quality Management
+search techniques, and methodological analysis, materials management, production
+problems. Centered mainly on staff research planning and scheduling, quality management, Prereq.: 6.431 or 6.430J
+and the thesis research of advanced graduate computer-aided manufacturing technologies, G (Summer)
+students and invited guests. design for manufacturing, capacity and 3-0-6 H-LEVEL Grad Credit
+Information: T. A. Kochan. facilities planning, and operations strategy. Teaches broad management skills and con-
+15.760 primarily for graduate students in Sloan cepts for total quality management, an ap-
+15.698 Special Seminar in Industrial School of Management. Course 15 under- proach to quality encompassing management
+Relations and Human Resource graduates must have 6.041, 15.053, and strategy, outlook, commitment, and methods
+Management 15.501 as prerequisites. applicable in any culture. Encompasses tools
+S. D. Eppinger, L. M. Wein and approaches for quality management, probPrereq.: Doctoral students or permission of inlem-solving, and improvement activities
+structor
+15.762 Operations Management Models through lectures, readings, applications (includG (Fall, Spring)
+and Applications ing written reports), and participation in a
+Units arranged H-LEVEL Grad Credit
+workshop.
+Can be repeated for credit Prereq.: 15.760 or 15.761 or permission of inS. Shiba
+structor
+Opportunity for group study by graduate stuG (Spring)
+dents on current topics related to industrial 2-0-4 H-LEVEL Grad Credit 15.768 Managing Services: Concepts,
+relations and human resource management Design, and Delivery
+not otherwise included in curriculum. Builds upon concepts developed in 15.760 and
+T. A. Kochan 15.761. Focuses on models and techniques Prereq.: Permission of instructor
+that operations managers use to diagnose and G (Fall)
+15.699 Special Seminar in Industrial evaluate operational performance, and make 3-0-6 H-LEVEL Grad Credit
+Performance short-term and long-term decisions. Intro- Explores the difference between service and
+duces, through lectures, computer exercises, manufacturing operations, and the degree of
+Prereq.: 15.660 or 15.662 and case discussions, various descriptive and distinct management skills and tools required.
+G (Fall, Spring) decision-support models and methods for in- Analyzes cases selected from a variety of serUnits arranged H-LEVEL Grad Credit ventory management, production planning and vice operations. Guest speakers from specific
+Can be repeated for credit scheduling, supply chain optimization, capacity service industries discuss the essence of
+Seminar examines current and in-process re- planning, manufacturing systems design. managing those operations.
+search on determinants of firm and industry Strongly recommended for Operations G. R. Bitran
+performance from a multi-disciplinary perspec- Management concentrators.
+tive. Alternative conceptions of the role of cor- S. C. Graves 15.769 Manufacturing Policy
+porations and their governance structures are
+analyzed and the results of ongoing studies of 15.763 The Practice of Operations Prereq.: 15.760 or 15.761 or permission of
+the competitiveness of US industries are dis- Management instructor
+cussed. Also serves as a workshop for Ph.D. G (Fall, Spring)
+students working under the sponsorship of the Prereq.: 15.760 or 15.761 3-0-6 H-LEVEL Grad Credit
+Acad Year 1996-97: Not offered
+MIT Industrial Performance Center. Acad Year 1997-98: G (Fall) Provides framework for analyzing strategic isT. A. Kochan 3-0-6 H-LEVEL Grad Credit sues in manufacturing. Analyzes relationships
+between manufacturing managers and their
+Provides an opportunity to apply problem-solv- suppliers, customers, competitors, senior
+ing methods to practice through operations im- management, and hourly workers. Also covers
+provement and planning projects in local the interface between manufacturing and
+manufacturing and service organizations. marketing, engineering, quality, purchasing,
+Team projects provide experience in defining, finance, and accounting. Devotes a moderate
+diagnosing, and analyzing complex problems, amount of time to international manufacturing
+and developing effective solutions. Case competition.
+analyses and class discussions focus on the G. R. Bitran, J. Klein, D. B. Rosenfield
+process and tools for operations improvement.
+Strongly recommended for operations manage-
+15.770J Transportation and Logistics
+ment concentrators.
+Analysis
+G. R. Bitran. D. B. Rosenfield
+(Same subject as 1.208J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 1.208J.
+Y. Sheffi
+448 Chapter Vill

@@ -1,0 +1,137 @@
+Program in Media Arts and Sciences MAS
+Media Arts and Sciences
+For degree requirements, see listing in
+Chapter VII under the School of
+Architecture and Planning.
+Undergraduate Subjects
+MAS.UR Undergraduate Research in Media
+Arts and Sciences
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+MAS.URG Undergraduate Research in
+Media Arts and Sciences
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Individual or group study, research, or
+laboratory investigations under faculty supervision, including individual participation in an
+ongoing research project. See UROP coordinator for further information.
+C. Schmandt
+MAS.100 Introduction to Media Arts and
+Sciences
+Prereq.: -
+U (Spring)
+3-0-3
+Examines new technologies and applications
+in information and entertainment, perceptual
+computing, learning and common sense. Explores the convergence of computing, communications, and consumer electronics, with
+emphasis on the human interface, machine intelligence, and personalized media. Includes introductions to holography, computer graphics,
+interactive cinema, electronic music, digital
+television, machine vision, speech processing,
+interface agents, and interface physics. Large
+lecture format accompanied by team research
+projects on world activities in these areas.
+N. P. Negroponte
+MAS.123 Tools for Thought
+Prereq.: -
+MAS.124 Intentionality
+(New)
+Prereq.:
+U (Spring)
+3-3-6
+Examines how technological tools support new
+ways of thinking and learning. Considers the
+role of toys, microworlds, "intelligent" tutors,
+and virtual communities in the learning
+process. Emphasizes the use of artifacts as
+representational and expressive aids for learning, problem-solving, and communication. Students explore tools-to-think with, analyze
+them, and design new ones.
+M. Resnick, M. Brand, J. Cassell
+-
+U (Spring)
+2-4-6
+Often it is not what is said, but what one does
+that communicates one's intentions. Facial expressions, body or hand movements, gaze,
+tone of voice, pauses, or other sounds are examples. Similarly, the intentions of a group are
+read from the patterns of individual interactions and movements. Subject explores the
+basic forms of expressing intentionality both in
+individual and group settings, in both humans
+and other animals. Projects show how correct
+recognition and interpretation of intentional
+acts may be recovered, using situations such
+as conversation, strolling down the street, driving, dance (including animal behaviors), and
+sports such as soccer or football.
+A. Pentland, W. Richards
+MAS.134 Story: Representation and
+Process
+Prereq.: 6.001, MAS 100
+U (Fall)
+3-3-6
+Principles of narrative and presentation taught
+in a studio context. Expression in multiple
+media. Design and analysis of representation
+of media content and narrative structure. Basic
+techniques of visual design, video storytelling,
+information retrieval, and personalization.
+Class requirements include readings and a
+series of group and individual projects in
+several different media. Limited enrollment.
+G. Davenport, K. Haase
+MAS.142 Performance
+Prereq.: -
+MAS
+MAS.160 Signals, Systems, and Information
+for Media Technology
+(Subject meets with MAS.510)
+Prereq.: 18.02
+U (Fall)
+4-0-8
+Fundamentals of signals, systems, and information theory with emphasis on modeling both
+the audio/visual message and the human
+recipient. Linear systems, difference equations, Z-transforms, sampling and sampling
+rate conversion, convolution, filtering, modulation, Fourier analysis, entropy, noise,
+Shannon's fundamental theorems. Additional
+topics may include data compression, filter
+design, and feature detection. Meets with
+graduate subject MAS.51 0, but assignments
+differ.
+V. M. Bove, Jr., R. W. Picard
+Perceptual Computing
+MAS.210 High-Level Computer Vision:
+Methods and Models
+(Subject meets with MAS.624)
+Prereq.: 6.801 or permission of instructor
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-0-9
+Addresses high-level computer vision issues
+such as geometric reconstruction, vision for
+autonomous navigation, recognition, scene
+labeling, and scene monitoring. Consideration
+of vision as an inference problem where the
+system is attempting to make decisions about
+the scene. Second half emphasizes image sequences where variation over time is imporU (Fall)
+tant. Focus is on both the fundamental
+2-4-6 research problems addressed as well as the
+Introduction to interactive performance sys- specific mathematical and artificial intelligence
+tems in a variety of media (with emphasis on techniques applied. Meets with graduate submusic), from the theoretical, interface, and ject MAS.624, but assignments differ.
+creative expression points of view. Subject A. Bobick, Staff
+covers real-time control issues, unobtrusive
+monitoring of physical gesture and human MAS.234J Cognitive Architectures
+voice, intelligent interpretation of human ex-
+(Same subject as 9.34J, MAS.654)
+pressive intention, and mapping of user control
+Prereq.: 9.62 or 9.00
+to performance results. Class projects include
+U (Fall)
+systems that demand various types and levels
+3-0-6
+of skill in interactive environments that support
+collaboration and collective performance. Final See description under subject 9.34J.
+project is an interactive performance, designed W. A. Richards
+and created by groups of students.
+T. Machover
+Descriptions of Subjects 545

@@ -1,0 +1,69 @@
+Department of Mathematics Course 18
+18.415J Advanced Algorithms 18.423J Computability, Logic, and 18.437J Distributed Algorithms
+Programming
+(Same subject as 6.854J) (Same subject as 6.852J)
+Prereq.: 18.41 OJ/6.046J or 6.851; 18.06 or (Same subject as 6.044J) Prereq.: 6.046J
+18.700 Prereq.: 18.062J/6.042J or 18.310 Acad Year 1996-97: Not offered
+G (Fall) U (Fall) Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-0-9 3-0-9 H-LEVEL Grad Credit
+Emphasizes fundamental algorithms and ad- See description under subject 6.044J. See description under subject 6.852J.
+vanced methods of algorithmic design and A. R. Meyer N. A. Lynch
+analysis. Randomized algorithms. On-line algorithms. Linear programming. Network flows. 18.425J Cryptography and
+Approximation algorithms. Basis reduction in Cryptanalysis
+lattices with applications.
+M. X. Goemans (Same subject as 6.875J) Applied Mathematics:
+Prereq.: 6.046J/18.410J or 6.851 or 18.421
+Statistics
+G (Fall)
+18.417 Introduction to Computational
+3-0-9 H-LEVEL Grad Credit
+Molecular Biology
+See description under subject 6.875J. 18.440 Probability and Random Variables
+Prereq.: 6.001 or 18.410J/6.046J or permisS. Goldwasser (Revised Units)
+sion of instructor
+G (Spring) Prereq.: 18.02 or 18.023 or 18.024
+3-0-9 H-LEVEL Grad Credit 18.426J Advanced Topics in U (Spring)
+Cryptography 3-0-9
+Introduction to computational biology at the
+molecular level. Focuses on genomics, protein (Same subject as 6.876J) Topics in applications. Probability spaces, ranfolding, and computational models of develop- Prereq.: Permission of instructor dom variables, distribution functions, expected
+ment. Also includes computational approaches Acad Year 1996-97: G (Spring) value. Binomial, geometric, hypergeometric,
+to: physical and genetic mapping, protein struc- Acad Year 1997-98: Not offered Poisson distributions. Uniform, exponential,
+ture prediction, molecular dynamics, virus shell 3-0-9 H-LEVEL Grad Credit normal, gamma and beta distributions. Mean,
+assembly, sequence homology and alignment, Can be repeated for credit variance, moments, and generating functions.
+evolutionary trees, and DNA computing. No See description under subject 6.876J. Conditional probability, Bayes theorem, joint
+biology background is assumed. S. Goldwasser distributions, and distributions of transformed
+B. Berger random variables. Tchebychev inequality, law
+of large numbers, and central limit theorem.
+18.433 Combinatorial Optimization and
+18.419 Seminar in Theoretical Computer Linear Programming D. W. Stroock
+Science
+Prereq.: 18.06 or 18.700, 18.310 18.441 Statistical Inference
+Prereq.: Permission of instructor Acad Year 1996-97: Not offered
+Acad Year 1996-97: Not offered Acad Year 1997-98: U (Spring) Prereq.: 18.440 or 18.313 or 6.041
+Acad Year 1997-98: G (Fall, Spring) 3-0-9 U (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 (H except XVIII)
+Can be repeated for credit A thorough treatment of linear programming
+theory, Dantzig's simplex method, and duality Reviews probability and introduces statistical
+A seminar on advanced topics in theoretical theory. Matroid optimization, the assignment inference. Point and interval estimation. The
+computer science. Current literature presented problem, the maximum flow problem. Ap- maximum likelihood method. Hypothesis testby students and instructors with a view toward proximation algorithms for combinatorial op- ing. Likelihood-ratio tests and Bayesian
+preparing students for research in theoretical timization. Ellipsoid method and its methods. Nonparametric methods. Analysis of
+computer science, and for developing the skills implications for combinatorial optimization. variance, regression analysis and correlation.
+needed to present such results effectively. Polyhedral approaches to NP-complete Chi-square goodness of fit tests. More theoretiInformation: F. T. Leighton. problems. cal than 18.443 and more detailed in its treatInformation: M. X. Goemans. ment of statistics than 18.05.
+18.421 Algorithmic Algebra and Number A. Sarkar
+Theory 18.435J Theory of Parallel and VLSI
+Prereq.: 18.310 or 18.062J/6.042J or 18.701 Computation 18.443 Statistics for Applications
+or 18.703 (Same subject as 6.848J) Prereq.: 18.440 or 18.313 or 6.041
+Acad Year 1996-97: Not offered Prereq.: 6.046J/18.410J or 6.851 U (Fall)
+Acad Year 1997-98: U (Spring) G (Fall) 3-0-9 (H except XVIII)
+3-0-9 3-0-9 H-LEVEL Grad Credit A broad treatment of statistics, concentrating
+Review of basic concepts and methods of com- Introduces parallel computation and very large on specific statistical techniques used in
+plexity theory. Existence and construction of ef- scale integration. Design and analysis of sys- science and industry. Topics: hypothesis testficient algorithms for classical problems in tolic algorithms for routing, sorting, arithmetic, ing and estimation. Confidence intervals, chialgebra, number theory, and logic. Integer and and graph problems on arrays, trees, hyper- square tests, nonparametric statistics, analysis
+polynomial GCD computation, algebraic proce- cubes, and other fixed-connection networks. of variance, regression, time series, and exdures in modular arithmetic, primality testing, Network transformations, broadcast simula- perimental design. Treatment more oriented
+factorization of polynomials over the rationals, tion, retiming. Packet routing and nonblocking toward application and less toward theory than
+structures and algorithms of recursion theory. networks. Mathematical models of hardware. 18.441.
+The problem of P # NP. Alternate years. Lower bounds, P-completeness, area-time S. Fomin
+Information: H. Rogers, Jr. trade-offs. Layout, placement, routing. 3-D
+models, volume/area universal networks, fattrees. Parallel programming on a connection
+machine. Survey of other parallel architectures.
+F. T. Leighton
+Descriptions of Subjects 481

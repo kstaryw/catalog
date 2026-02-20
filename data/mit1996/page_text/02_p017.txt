@@ -1,0 +1,81 @@
+School of Science
+Course 5 Chemistry
+For degree requirements, see listing in
+Chapter VII under the School of Science.
+5.UR Undergraduate Research
+Prereq.: -
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+5.URG Undergraduate Research
+Prereq.: -
+5.061 Principles of Organometallic 5.07 Biological Chemistry
+Chemistry
+Prereq.: 5.12
+(New)
+U (Fall)
+Prereq.: 5.03, 5.04 5-0-7 REST
+G (Fall) Credit cannot also be received for 7.05
+2-0-4 H-LEVEL Grad Credit
+Description of the organization and functioning
+A comprehensive treatment of organometallic of living organisms in terms of molecular strucchemistry of the transition metals with an em- tures and processes. Chemical and physical
+U (Fall, Spring)
+phasis on catalysis and mechanisms. properties of cell and tissue constituents, inUnits arranged R. R. Schrock cluding carbohydrates, lipids, nucleic acids,
+Can be repeated for credit
+and proteins. Origin of catalysis in biological
+Program of research to be arranged by the stu- 5.062 Principles of Bioinorganic Chemistry systems. Metabolic synthesis and degradation
+dent and a departmental faculty member. (New) of amino acids, carbohydrates, fats, and
+Department Coordinator: K. A. Nelson. origins and fates of macromolecules as well as
+Prereq.: 5.03 chemical bases of regulation and integration of
+G (Fall) metabolic phenomena.
+5.03 Principles of Inorganic Chemistry I
+2-0-4 H-LEVEL Grad Credit A. Klibanov, L. Stern
+Prereq.: 5.12
+Choice, uptake, assembly of metal-containing
+U (Spring)
+units; control and use of metalions; metal fold- 5.071J Biochemistry Laboratory
+4-0-8
+ing and cross-linking of biomolecules; electron-
+(Subject meets with HST.415.J, TOX.209)
+Presents principles of chemical bonding and transfer proteins; substrate bindings and Prereq.: 5.07, and 5.310 or 5.311
+molecular structure, and their application to activation; atom and group transfer chemistry;
+U (Spring)
+the chemistry of representative elements of protein tuning of metal properties in biology;
+2-8-2
+the periodic system. frontiers of bioinorganic chemistry.
+A. Davison, R. R. Schrock S. J. Lippard Introduces experimental biochemistry techniques in four modules centered on the study of
+5.04 Principles of Inorganic Chemistry I1 5.068 Physical Methods in Inorganic the enzyme P-galactosidase. Protein purificaChemistry tion and enzyme kinetics are combined with
+Prereq.: 5.03 basic molecular biology techniques that are esU (Fall) Prereq.: 5.03 sential for modern protein biochemistry. The
+4-0-8 Acad Year 1996-97: Not offered four modules are 1) enzyme purification;
+Acad Year 1997-98: G (Spring) 2) gene cloning; 3) site-directed mutagenesis;
+Systematic presentation of the chemical ap- 3-0-6 H-LEVEL Grad Credit
+plications of group theory. Emphasis is placed 4) enzyme kinetics. Kinetic analysis of wild
+on the formal development of the subject and Introduction to physical methods and their ap- type and mutant enzymes with substrates and
+applications to determine the infrared and plication to inorganic chemical compounds. In- inhibitors performed. Meets with graduate subelectronic spectra, magnetic properties, struc- cludes diffraction methods; electronic ject TOX 209, but assignments differ.
+ture, and other features of transition metal photoelectron spectroscopy; vibrational and J. Williamson, P. Dedon
+complexes amenable to theoretical analysis. rotational spectroscopy; magnetic measureElementary crystallography and space group ments; including magnetic and electron spin 5.11 Principles of Chemical Science
+theory. 5.61 background encouraged. resonance; M6ssbauer spectroscopy; mass
+Prereq.:
+C. C. Cummins spectrometry; electrochemical measurements.
+Case histories, with the complementary use of
+5.05 Principles of Inorganic Chemistry III selections of the various methods described.
+A. Davison
+Prereq.: 5.03, 5.04
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Extended treatment of some special topics of
+current interest in modern inorganic chemistry.
+The material is presented in two parts. The
+first part is a comprehensive overview of solidstate inorganic chemistry; the second part emphasizes main group chemistry.
+D. Seyferth, H. zur Loye
+-
+U (Fall, Spring)
+5-0-7 CHEMISTRY
+Introduction to chemistry, with emphasis on
+basic principles and their applications. Includes atomic and molecular electronic structure, thermodynamics, acid-base and redox
+equilibria, chemical kinetics, reaction
+mechanisms, catalysis, and aspects of metal
+coordination chemistry and organic chemistry.
+Fall Term: R. W. Field, R. J. Silbey, Staff
+Spring Term: A. M. Klibanov, W. H. OrmeJohnson
+346 Chapter Vill

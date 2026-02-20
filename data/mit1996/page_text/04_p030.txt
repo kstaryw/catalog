@@ -1,0 +1,92 @@
+Department of Economics Course 14
+Course 14 Economics
+For degree requirements, see listing in
+Chapter VII under the School of
+Humanities and Social Science.
+General Economics and
+Theory
+14.UR Undergraduate Research
+Prereq.: 14.02
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+14.URG Undergraduate Research
+Prereq.: 14.02
+U (Fall, Spring)
+Units arranged
+Can be repeated for credit
+Participation in research with an individual
+faculty member or research group, independent research or study under the guidance
+of a faculty member. Admission by arrangement with individual faculty member.
+Consult L. Smith.
+14.01 Principles of Microeconomics
+Prereq.: -
+U (Fall, Spring)
+3-0-9 HASS
+Introduces microeconomic concepts and
+analysis. Supply and demand analysis, theories of the firm and of individual behavior,
+competition and monopoly, welfare
+economics. Applications to problems of current
+economic policy.
+Fall Term: J. Harris
+Spring Term: F. Fisher
+14.02 Principles of Macroeconomics
+Prereq.: -
+14.03 Intermediate Applied Microeconomics 14.09 Reading Seminar in Economics
+Prereq.: 14.01 Prereq.: 14.04, 14.06
+U (Fall, Spring) U (Fall, Spring, Summer)
+4-0-8 HASS Units arranged [P/D/F]
+Credit cannot also be received for 14.04 Can be repeated for credit
+Presents basic theory and applications of con- Reading and discussion of particular topics in
+sumer and producer behavior and welfare economics. Open to undergraduate students
+analysis at an intermediate level. Emphasizes by arrangement with individual faculty memapplications, including the measurement of bers. Consult Department Headquarters.
+productivity, rationing, insurance markets, and J. Gruber
+intertemporal behavior.
+Fall Term: D. Genesove 14.10 Reading Seminar in Economics
+Spring Term: S. Athey
+Prereq.: 14.04, 14.06
+U (Fall, Spring)
+14.04 Intermediate Microeconomic Theory
+Units arranged
+Prereq.: 14.01, 18.02, 18.06 Can be repeated for credit
+U (Fall)
+Reading and discussion of particular topics in 4-0-8
+economics. Open to undergraduate students Credit cannot also be received for 14.03
+by arrangement with individual faculty memBasic theory of consumer behavior, production bers. Consult Department Headquarters.
+and costs, partial equilibrium analysis of pric- J. Gruber
+ing in competitive and monopolistic markets,
+general equilibrium, welfare, and externalities. 14.102 Mathematics for Economists
+Credit not given for both 14.03 and 14.04. May (New)
+not count toward HASS Requirement. Recommended for students planning to apply to Prereq.: 18.01, 18.02, 18.06
+graduate school in economics, accounting, or G (Fall)
+finance. 4-0-8
+L. Smith Covers some topics in mathematics that are
+frequently used in economic theory and in ap-
+14.05 Intermediate Applied plications. Topics include: 1) optimization
+Macroeconomics theory (including optimal control and recursive
+methods); ii) probability theory; iii) topology Prereq.: 14.02
+(continuity, compactness); iv) dynamical sys- U (Fall)
+tems (including stability); v) convex analysis;
+4-0-8 HASS
+vi) fixed point theory. Presentation of each
+Uses the tools of macroeconomics to study topic self-contained.
+two or three macroeconomic policy problems A. Bisin, L. Smith
+U (Fall, Spring) in depth. Possible topics include long-run
+3-0-9 HASS economic growth, the macroeconomics of the 14.103 Dynamic Optimization and
+Provides an overview of macroeconomic is- transition to a modern capitalist society, Economic Applications
+sues: the determination of output, employ- federal government deficits, Social Security, (New)
+the distribution of earnings and income, and
+ment, unemployment, interest rates, and the Great Depression. Prereq.: 14.102
+inflation. Monetary and fiscal policies are dis- P. Temin Acad Year 1996-97: Not offered
+cussed, as are the public debt and internation- Acad Year 1997-98: G (Fall)
+al economic issues. Introduces basic models 2-0-4 H-LEVEL Grad Credit
+of macroeconomics and illustrates principles 14.06 Intermediate Macroeconomic Theory
+with the experience of the US and foreign Prereq.: 14.02 Stochastic processes, including Markov
+economies. U (Spring) chains, stochastic stability, stochastic calculus
+Fall Term: 0. Blanchard 4-0-8 HASS and integration. Stochastic optimization, includSpring Term: R. Caballero ing dynamic programming, stopping times,
+Thorough review of models of economic regulated Brownian motion. Applications ingrowth and business cycles with applications clude growth, natural resources, asset pricing,
+in fiscal, monetary, and commercial policy. learning, investment.
+Recommended for students planning to apply Staff
+to graduate school in economics.
+J. Ventura
+Descriptions of Subjects 427

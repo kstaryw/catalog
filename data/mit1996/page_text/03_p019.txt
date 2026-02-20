@@ -1,0 +1,150 @@
+School of Science
+9.301J Neural Plasticity in Learning and
+Development
+(Same subject as 7.98J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 7.98J.
+S. Tonegawa, W. Quinn, M. Wilson, H. Steller
+9.322J Genetic Neurobiology
+(Same subject as 7.67J)
+Prereq.: -
+9.35 Perceptual Information Processing
+Prereq.: 9.62 or 9.00
+U (Spring)
+3-0-9
+The senses are our gateways to the world.
+Everything we know about what is going on
+out there comes to us through vision, hearing,
+touch, taste, smell. How do the senses work?
+How do physical stimuli get transduced into signals in the nervous system? How can the brain
+use those signals to determine the flavor of a
+banana, the sound of a flute, or the shape of a
+cow? All senses discussed. Vision is covered
+Acad Year 1996-97: Not offered most extensively. Includes perception of color,
+Acad Year 1997-98: G (Fall) motion, form and depth, and development.
+3-0-6 H-LEVEL Grad Credit E. H. Adelson, B. Anderson
+Deals with the specific functions of neurons,
+the interactions of neurons in development, 9.358J Image Representations for Vision
+and the organization of neuronal ensembles to
+(Same subject as MAS.626J)
+produce behavior, by functional analysis of
+Prereq.: MAS.510 or permission of instructor
+mutations and molecular analysis of their
+G (Fall)
+genes. Concentrates on work with nematodes
+2-0-7 H-LEVEL Grad Credit
+and fruit flies. Alternate years.
+W. G. Quinn, H. Steller See description under subject MAS.626J.
+E. H. Adelson, A. Pentland, A. Bobick
+9.33 Methods in Neural Modeling
+(New) 9.359J Special Topics in Vision Science
+(Subject meets with 9.331) (Same subject as MAS.627J)
+Prereq.: 9.01, 9.03/9.031, 9.369, or permission Prereq.: Permission of instructor
+of instructor G (Spring)
+Acad Year 1996-97: U (Fall) 2-0-7 H-LEVEL Grad Credit
+Acad Year 1997-98: Not offered Can be repeated for credit
+3-0-9
+An advanced seminar on issues of current in-
+9.331 Methods in Neural Modeling terest in computational and biological vision.
+(New) Topics vary from year to year. Participants discuss the current literature as well as their own
+(Subject meets with 9.33)
+ongoing research.
+Prereq.: 9.01, 9.03/9.031 or 9.369 or permisE. H. Adelson
+sion of instructor
+Acad Year 1996-97: G (Fall)
+9.363 Research in Natural Computation
+Acad Year 1997-98: Not offered
+3-0-9 Prereq.: Permission of instructor
+G (Fall, Spring, Summer) Reading, presentation, discussion and implementation of biophysical and systems Units arranged H-LEVEL Grad Credit
+models of invertebrate and vertebrate neural Closely supervised research on a problem of
+computation. Computer simulation and/or inferring a property of the world, given only
+mathematical analysis forms an essential com- limited sensory data. Problems may be chosen
+ponent. Written presentation of a final project from the fields of vision, audition, or force sensis required for graduate credit. ing (touch). The use of constraint in the inM. Wilson, P. Dayan ference process is stressed, as well as the
+exclusion of false inferences.
+9.34J Cognitive Architectures W. A. Richards
+(Same subject as MAS.234J, MAS.654)
+9.369 Computational Neuroscience
+Prereq.: 9.62 or 9.00
+(New)
+U (Fall)
+3-0-6 Prereq.:
+The acquisition and communication of
+knowledge demands a coherent cognitive
+framework within which we can reason about
+events and states in the world. What
+frameworks are plausible, and how do these
+choices affect our deductive and creative
+processes? Material includes analog representations, Bayesean nets, grammars, default
+logics, belief theory, and discourse analysis.
+W. A. Richards
+-
+9.371 Advanced Seminar on Inference and
+Learning
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Reading and discussion of selected current
+topics in inference and learning, with focus on
+probabilistic approaches. Examples of topics
+include exact and approximate inference in
+Bayesian belief networks, chain graphs,
+Markov chain Monte Carlo, information
+geometry, Bayesian decision theory, reinforcement learning and adaptive control.
+M. Jordan
+9.373 Somatosensory and Motor
+Systems
+Prereq.: 9.011J
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit
+General principles of motor control in biological
+systems. Structure and function of sensory
+receptors. Muscle structure and reflex arcs.
+Spinal cord: descending and ascending pathways. Locomotion. Oculomotor control.
+Cerebellar structure and function. Motor
+thalamus. Basal ganglia. Somatosensory cortex: maps and neuronal properties. Motor
+psychophysics and computational approaches
+to motor control. Alternate years.
+E. Bizzi, M. Sur, A. Graybiel
+9.382 Seminar on Information Processing
+Prereq.:
+G (Spring)
+3-0-9
+On the construction and use of computational
+models in neuroscience. Focuses on systemslevel models of activity dependent development and animal learning and involves
+computational and mathematical investigations. A modeling project or paper is required
+for credit.
+P. Dayan
+-
+G (Fall, Spring)
+3-0-6 H-LEVEL Grad Credit
+Theory and the application of learning, including machine vision and biological vision.
+Centers around ongoing work by participants
+and presentations by them.
+T. A. Poggio, M. Jordan
+9.39 Computational Laboratory in
+Cognitive Science
+(Subject meets with 9.390)
+Prereq.: 9.62, 6.001, and 18.06
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+0-6-6
+9.390 Computational Laboratory in
+Cognitive Science
+(Subject meets with 9.39)
+Prereq.: Permission of instructor
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+0-6-6 H-LEVEL Grad Credit
+An introduction to computational modeling in
+cognitive science. Case studies in perception,
+memory, reasoning, language processing, and
+action are used to introduce widely used computational techniques and to evaluate particular models. Makes extensive use of
+computer simulation, and previous experience
+with computers is required. An additional
+project is required for graduate credit. Alternate years.
+M. /. Jordan
+382 Chapter Vill

@@ -1,0 +1,72 @@
+School of Science
+12.820 Instability and Turbulence in 12.830 Topics in Waves and Instability 12.841 Climate Modeling
+Geophysical Systems
+Prereq.: 12.803; 12.802 or 12.810 Prereq.: 12.801, 12.803 or 12.810
+Prereq.: 12.803 Acad Year 1996-97: Not offered Acad Year 1996-97: Not offered
+G (Fall) Acad Year 1997-98: G (Fall) Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Comprehensive introduction to the methodol- A detailed presentation of selected advanced Develops parameterizations for atmospheric
+ogy of staoility theory as applied to problems topics in waves and instability in the atmos- and oceanic processes important in determinof interest in geophysical fluid dynamics. Em- phere. The precise selection varies from year ing climate and applies them in simple models
+phasizes problems governed by quasi- to year. Topics have included wave-mean flow of climate and climate change. Discussion of
+geostrophic dynamics. Topics in linear theory interaction, the quasi-biennial oscillation, sud- General Circulation Model studies of climate
+include baroclinic-barotropic instability, numeri- den warmings, critical-level behavior, wave and climate change.
+cal methods for eigenvalue problems, Rossby overreflection, nonlinear equilibration, wave P. H. Stone, J. Marotzke
+wave instability, symmetric instability, and solu- breaking, tropical waves, and stationary waves.
+tion of initial-value problems. Nonlinear in- R. S. Lindzen 12.862 Dynamics of Shelf Circulation I
+stability.
+(Woods Hole Staff): L. Pratt, K. Helfrich 12.831 Dynamics of the Middle Prereq.: 12.800
+G (Fall)
+Atmosphere
+3-0-9 H-LEVEL Grad Credit
+12.822 Nonlinear Waves and Vortices
+Prereq.: 12.810 or permission of instructor
+General introduction to the dynamics of flow
+Prereq.: 18.305, 12.803 Acad Year 1996-97: G (Fall)
+over the continental shelf. An overview of surAcad Year 1996-97: Not offered Acad Year 1997-98: Not offered
+face and bottom boundary layer physics.
+Acad Year 1997-98: G (Spring) 3-0-9 H-LEVEL Grad Credit
+Theory and observations of tides over the con-
+3-0-6 H-LEVEL Grad Credit
+Observed characteristics of the stratosphere tinental shelf.
+The dynamics of nonlinear waves in geophysi- and mesosphere. Climatological heat budget. (Woods Hole Staff): R. Beardsley,
+cal systems. Linear dispersion, nonlinear Wave transport theory. Tides. Gravity waves. J. Trowbridge
+steepening, and solitary waves. Wave groups. Gravity wave breaking. Traveling planetary
+Modulational instability. Particle motions in waves. Quasi-stationary ultralong waves; 12.863 Dynamics of Shelf Circulation I
+waves. Point vortices, vortex patches, and propagation in winter and impact on the mean
+modons. Interactions between vortices and circulation. Potential vorticity diagnostics; wave Prereq.: 12.862 or permission of instructor
+wave fields. Nonlinear instability, bifurcations, breaking. Dynamics of the disturbed polar vor- G (Spring)
+chaotic behavior. tex; "warmings." Equatorial waves in the strato- 3-0-6 H-LEVEL Grad Credit
+G. Flier sphere. Theory of the quasi-biennial More specialized topics in the dynamics of flow
+oscillation. Transport of trace constituents. over the continental shelf, including coastal-
+12.823 Ocean Modeling Ozone: observed climatology; production and trapped waves, wind-driving, and mean flows.
+loss processes; effects of transport. Ozone Emphasis on the relationship between theory
+Prereq.: Permission of instructor depletion. and observations. Instrumentation and the apAcad Year 1996-97: Not offered R. A. Plumb plication of statistical techniques also covered.
+Acad Year 1997-98: G (Spring)
+(Woods Hole Staff): D. Chapman
+3-0-9 H-LEVEL Grad Credit
+12.840 Past and Present Climate
+Can be repeated for credit
+(Subject meets with 12.301) 12.864 Ocean Data and Ocean Models I
+Students engage in hands-on research
+directed at a central problem of contemporary Prereq.: 8.02 Prereq.: 18.075 or 18.086
+physical oceanography by using numerical G (Spring) Acad Year 1996-97: Not offered
+models that they build themselves. Meets at a 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Fall)
+weekly workshop where progress is reviewed Properties of climate systems. Physics of 3-0-6 H-LEVEL Grad Credit
+and priorities for the next week are set out. climatic fluctuations on time scales from past 12.865 Ocean Data and Ocean Models II
+Outstanding issues of the chosen problem are century up to 100 million years. Phenomena of
+reviewed and the theory and models required drought, biennial oscillation, Southern Oscilla- Prereq.: 12.864
+to understand them developed. Formal lec- tion and El Niho, and other interannual fluctua- Acad Year 1996-97: Not offered
+tures are kept to a minimum; the chosen tions. Review of evidence for global warming Acad Year 1997-98: G (Spring)
+theme varies from year to year. and possible temperature limits. Role of vol- 3-0-6 H-LEVEL Grad Credit
+J. Marshall canoes, water vapor, ozone, and carbon Fundamental methods used for exploring the
+dioxide changes, solar variations, and surface information content of observations related to
+12.826J Land-Atmosphere Interaction changes in altering climate. Reconstruction of theoretical ideas about how the ocean moves.
+ice-age climate from ocean-bed cores, pollen Basic statistics and linear algebra for inverse
+(Same subject as 1.713J) records, isotope ratios in ice cores. Theories of and assimilation methods including singular
+Prereq.: 1.71J or 1.714 or permission of in- ice ages. Large-scale ocean-atmosphere inter- value decompositions, control theory, sequenstructor actions. Suitable for undergraduate students tial estimation (Kalman filters and smoothing alAcad Year 1996-97: Not offered with little or no previous background in gorithms), adjoint/Pontryagin principle
+Acad Year 1997-98: G (Spring) meteorology. Meets with undergraduate sub- methods, etc. Second part focuses on station-
+3-0-9 H-LEVEL Grad Credit ject 12.301, but assignments differ. ary processes, including Fourier methods, zSee description under subject 1.713J. R. E. Newell transforms, sampling theorems, spectra,
+D. Entekhabi coherences, filtering, etc. Directed at the quantitative combinations of models, with realistic,
+i.e. sparse and noisy observations
+C. I. Wunsch
+418 Chapter Vill

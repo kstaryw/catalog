@@ -1,0 +1,114 @@
+Department of Brain and Cognitive Sciences Course 9
+9.04 Neural Basis of Vision and Audition
+Prereq.: 9.01 or permission of instructor
+Acad Year 1996-97: U (Fall)
+Acad Year 1997-98: Not offered
+3-0-9
+Examines the neural bases of visual and
+auditory processing for perception and sensorimotor control. Focuses on physiological
+and anatomical studies of the mammalian nervous system as well as behavioral studies of
+animals and humans. Studies visual pattern,
+color and depth perception, auditory responses and speech coding, and spatial localization. Offered alternate years.
+P. H. Schiller, J. Mazer
+9.05 Neural Basis of Movement
+Prereq.: -
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-0-9
+Surveys general principles and specific examples of motor control in biological systems.
+Empnasizes the neural mechanisms underlying different aspects of movement. Covers sensory reception, reflex arcs, spinal cord
+organization, pattern generators, muscle function, locomotion, and eye movement. Functions of central motor structures including
+cerebellum, basal ganglia, thalamus, and
+cerebral cortex considered. Motor learning and
+computational approaches to motor control are
+discussed.
+A. Graybiel, M. Sur, E. Bizzi, P. Schiller
+9.06 Conflicting Images of Humanity
+and Nature
+Prereq.: -
+9.10 Cognitive Neuroscience 9.15 Biochemistry and Pharmacology of
+Synaptic Transmission
+(Subject meets with 9.100)
+Prereq.: 9.01 (Subject meets with 9.150)
+Acad Year 1996-97: U (Spring) Prereq.: 9.01, 7.05, or permission of instructor
+Acad Year 1997-98: Not offered Acad Year 1996-97: Not offered
+3-0-6 Acad Year 1997-98: U (Fall)
+3-0-9
+9.100 Cognitive Neuroscience
+(Subject meets with 9.10) 9.150 Biochemistry and Pharmacology of
+Prereq.: 9. 011J Synaptic Transmission
+Acad Year 1996-97: G (Spring) (Subject meets with 9.15)
+Acad Year 1997-98: Not offered Prereq.: 9.011J or permission of instructor
+3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Explores the relations between neural systems Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+and cognition, emphasizing vision, language,
+motor control, memory, and emotion. Intro- Considers the process of neurotransmission,
+duces basic neuroanatomy, imaging techni- especially chemicals used in the brain and
+ques, behavioral measures of cognition, and elsewhere to carry signals from nerve tercomputational models. Discusses methods by minals to the structures they innervate.
+which inferences about the brain bases of cog- Focuses on monoamine transmitters (acetylnition are made. Considers evidence from choline; serotonin; dopamine and
+patients with neurological diseases and from norepinephrine); also examines amino acid
+normal human subjects. Demonstrations of and peptide transmitters and neuromodulators
+methods and case presentations. An addition- like adenosine. Macromolecules that mediate
+al project is required for graduate credit. neurotransmitter synthesis, release, inactivaS. Corkin tion, and receptor-mediated actions are discussed, as well as factors that regulate their
+9.11OJ Neurology, Neuropsychology, and activity and the second-messenger systems
+Neurobiology of Aging they control. An additional project is required
+(New) for graduate credit.
+R. J. Wurtman
+(Same subject as 7.92J)
+Prereq.: Permission of instructor
+G (Spring) 9.20 Animal Behavior
+3-0-9 H-LEVEL Grad Credit Prereq.:
+Lectures and discussion explore the clinical,
+behavioral, and molecular aspects of brain
+aging processes in humans. Topics include:
+loss of sensory and motor function and loss of
+memory and other cognitive abilitites in normal
+U (Fall) aging; neurodegenerative conditions, such as
+3-0-9 HASS Parkinson's, Alzheimer's, and Huntington's disMore than five billion and growing, we humans eases, and Down's syndrome. Based on lecare straining the earth's natural resources to tures, readings taken from the primary
+an unprecedented extent. How do our views of literature, and discussions. Students are exthe world and its contents, including ourselves, pected to present topics based on their readrelate to our treatment of the environment, in- ings. One written mid-term test and one final
+cluding each other? We consider this question paper.
+in historical perspective and in the light of S. Corkin, V. Ingram
+recent developments in the natural and social
+sciences. 9.14 Development and Structure of the
+S. L. Chorover Mammalian Brain
+Prereq.: 9.01
+9.09J Cellular Neurobiology Acad Year 1996-97: U (Spring)
+(Same subject as 7.29J) Acad Year 1997-98: Not offered
+Prereq.: 7.05 3-0-9
+U (Spring) Early determination of brain subdivisions and
+4-0-8 cell fates. Cell proliferation and migration.
+See description under subject 7.29J. Growth cone dynamics and molecular deterW. G. Quinn, H. Steller minants. Axon elongation, formation of major
+tracts. Map formation and plasticity. Axon collatoral formation and regression; end-arbor
+elaboration and synaptogenesis; shaping by
+activity; cell death and trophic factors.
+Regeneration and sprouting. Tissue culture
+and gene knockout models.
+G. E. Schneider
+-
+U (Fall)
+3-0-9 HASS
+Reviews selected issues including learning,
+cognition, perception, foraging and feeding,
+migration and navigation, defense, and social
+activities including conflict, collaboration,
+courtship and reproduction, and communication. The interacting contributions of environment and heredity are examined and the
+approaches of psychology, ethology, and ecology to this area of study are treated. The relation of human behavior patterns to those of
+nonhuman animals is explored.
+A. Hein
+9.201 Advanced Animal Behavior
+Prereq.: 9.20 or equivalent
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Survey and special topics designed for
+graduate students in the brain and cognitive
+sciences. Emphasizes ethological studies of
+natural behavior and its analysis in laboratory
+work, with contributions from field studies,
+sociobiology, and comparative psychology.
+Stresses mammalian behavior but also includes studies of other vertebrates and of invertebrates. Discussions include human
+ethology, applications to neuropsychology and
+behavioral pharmacology, and welfare of captive animals. Alternate years.
+G. E. Schneider
+Descriptions of Subjects 381

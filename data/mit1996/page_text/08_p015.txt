@@ -1,0 +1,149 @@
+School of Architecture and Planning
+MAS.718 Research Seminar in Learning
+Environments
+Prereq.: Permission of instructor
+G (Fall, Spring)
+3-0-3 H-LEVEL Grad Credit
+Can be repeated for credit
+Presentations of research projects in learning
+and epistemology; discussions of work in
+progress; formulation of methodological and
+conceptual guidelines.
+Staff
+MAS.731J The Society of Mind
+(Same subject as 6.868J)
+Prereq.: Must have read The Society of Mind,
+permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 6.868J.
+M. Minsky
+MAS.734 Projects in Knowledge
+Representation
+Prereq.: 6.170 or equivalent
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Can be repeated for credit
+Focus on building practical domain representations for intelligent systems and introducing students to a variety of representation
+toolkits. Students gain sophistication in the
+design and critique of representation systems
+as well as practical skills in application
+specification and interface design. Students
+complete a substantial project involving representation, application, and interface components.
+K. Haase, Jr.
+MAS.736 Discourse
+(New)
+Prereq.: Permission of instructor
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+How discourse works, with emphasis on the
+structure of spoken and written discourse -
+MAS.738 Modeling Adaptive Behavior MAS.815 Issues of Color in Media
+Technology
+Prereq.: One subject in introductory artificial
+intelligence Prereq.:
+G (Spring)
+2-0-7 H-LEVEL Grad Credit
+Examines models, algorithms and techniques
+for modeling systems that demonstrate adaptive behavior over short or long periods of
+time. Topics covered include: adaptive behavior in autonomous agents, learning from experience, simulated evolution, social or
+"cultural" learning. Three papers and final
+project.
+P. Maes
+MAS.790 Special Projects in Learning and
+Common Sense
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Special projects on individual or group basis.
+Registration subject to prior arrangement of
+subject matter and supervision by staff.
+Staff
+Information and Entertainment
+MAS.813 Structured Video Communications
+Prereq.: Permission of instructor
+G (Spring)
+2-0-7 H-LEVEL Grad Credit
+Representations of motion picture information
+and associated sound for distribution, production and interaction in a networked environment. Topics include 2-D waveform and object
+based coding, three dimensional representations models, scalable imagery, intergration and extension of existing and emerging
+picture formats and processing architectures,
+and on-the-fly delivery systems. Discussion
+will also address the relationship of television
+to information infrastructures and societal interprimarily conversation, story, and news. Inter- ests.
+pretation and generation of cohesive discourse A. Lippman
+by humans, and how we can build systems to
+interpret and generate cohesive discourse, MAS.814 Digital Image Processing for Hard
+e.g., the main problem areas encountered in Copy
+building dialogue systems, text generation and
+Prereq.: MAS 510 or MAS 160 or 6.003 or per- interpretation systems, and conversational inmission of instructor terfaces of all sorts. Students read and discuss
+G (Spring) current theoretical papers, and carry out a
+2-0-7 H-LEVEL Grad Credit
+series of on-paper and implementation assignments analyzing existent corpora, and An examination of the electronic processing of
+problems and data brought in by students. In- images for hard copy and of the technologies
+dividual final project. associated with document production. Topics
+J. Cassell to be covered include two-dimensional Fourier
+transforms, halftoning, digital typography, outMAS.737 Software Agents Seminar put processes, color, psychophysics, and still
+image coding. Term paper or project with both
+(Subject meets with MAS.334) written and oral presentation required. A
+Prereq.: Permission of instructor reasonable facility with mathematics is asG (Fall) sumed. Open to qualified undergraduates.
+Units arranged V. M. Bove, Jr.
+Can be repeated for credit
+See description under subject MAS.334.
+P. Maes
+-
+G (Fall)
+2-0-7
+The technical aspects of color for use in practical applications of media technology. Color is
+discussed from three distinct points of view:
+human vision, visual processing, and digital
+displays. Topics include: the production of
+color, physiology and psychophysics of color,
+the sensation of color, color systems, coding
+and processing, color vision, rendering in
+graphics environments, color as an interface,
+semantics and aesthetics of color. Weekly
+reading, lab work, and individual term projects.
+W. Bender
+MAS.825J Musical Aesthetics and Media
+Technology
+(Same subject as 21 M.580J)
+Prereq.: Permission of instructor
+G (Fall)
+3-3-3 H-LEVEL Grad Credit
+In-depth exploration of contemporary concepts
+in music and media. Studies recent music that
+uses advanced technology, and the artistic
+motivations and concerns implied by the new
+media. Practical hands-on experience with
+computer music technology, with special emphasis on MIDI-based synthesizers and
+samplers and real-time performance systems.
+Term project required.
+T. Machover
+MAS.826J Projects in Media and Music
+(Same subject as 21M.581J)
+Prereq.: MAS 825J
+G (Spring)
+3-3-3 H-LEVEL Grad Credit
+Can be repeated for credit
+Current computer music concepts and practice. Project-based work on research or production projects using the Media Lab's computer
+music resources. Requires significant studio
+work and a term project. May be repeated for
+credit with permission of instructor.
+T. Machover
+MAS.837 Collaboration Between People,
+Computers, and Things
+(New)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Explores aspects of media design that
+facilitate dynamic interactions between:
+1) humans and computers, 2) human collaborators, and 3) humans and physical/
+virtual environments. Students investigate the
+design space of media for seamless interaction using concept sketches, mockups, and
+simple prototyping. Regular readings, papers,
+and small projects also required.
+H. Ishii
+548 Chapter Vill

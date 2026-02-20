@@ -1,0 +1,104 @@
+School of Engineering
+3.34 High-Temperature Materials
+Prereq.: 3.11 or 3.14 or equivalent
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Covers the relationship between deformation
+mechanisms and microstructure for materials
+used at elevated temperature. Mechanisms:
+diffusional creep, dislocation creep, grainboundary sliding and superplasticity, fatigue,
+fracture, environmental effects. Microstructure:
+metals (iron-, cobalt-, nickel-, refractory- and intermetallic alloys), ceramics, composites
+(metal-, ceramic- and carbon-matrix, coated
+materials).
+D. C. Dunand
+3.35 Fracture and Fatigue
+Prereq.: 2.30 or 3.11 or equivalent
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Linear elastic and elastic plastic fracture
+mechanics. Experimental methods. Microstructural effects on fracture in metals, ceramics,
+polymers, electronic materials, and composites. Toughening mechanisms. Crack
+growth resistance and creep fracture. Interface
+fracture mechanics. Fatigue damage and dislocation substructures in single crystals. Stressand strain-life approach to fatigue. Fatigue
+crack growth models and mechanisms. Variable amplitude fatigue. Corrosion fatigue.
+Case studies. Co-taught with Professor A. G.
+Evans, Harvard University.
+S. Suresh
+3.36J Welding Engineering
+(Same subject as 13.17J)
+Prereq.: 13.15
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 13.17J.
+K. Masubuchi
+3.37 Welding and Joining Processes
+Prereq.: -
+3.39 Mechanical Properties of Materials 3.43 Electronic Materials and Devices
+(Revised Content)
+Prereq.: 3.20, 3.42
+Prereq.: 2.30; 3.11 or 22.71J G (Fall)
+G (Fall) 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Detailed examination of the principal electricai,
+Reviews elasticity theory. Elements of con- optical, and magnetic devices, e.g., p-n,
+tinuum plasticity and dislocation plasticity. Schottky, MOS and heterojunctions, quantum
+Strengthening mechanisms in metals. Basics wells, lasers, wave guides, detectors, solar
+of viscoelasticity and creep. Applications of cells, magnetic memory devices, etc. Focus on
+principles in linear elastic fracture mechanics materials selection, optimization and integrato brittle fracture and to fatigue crack propaga- tion. Discussion of new materials needs and altion. Micromechanisms of static and cyclic frac- ternative processing routes.
+ture. Discusses case studies and reviews H. L. Tuller
+current research in the mechanical behavior of
+structural and device materials with examples 3.44 Electronic Materials Processing
+in each class of materials: metals, ceramics,
+polymers, thin films, and composites. Prereq.: 3.20, 3.21
+D. C. Dunand, S. Suresh G (Fall)
+3-0-9 H-LEVEL Grad Credit
+3.40J Physical Metallurgy Processing of electronic materials for device
+and circuit applications. Detailed discussion of
+(Same subject as 22.71J)
+techniques and theory for growth of devicePrereq.: 3.14 or 3.711J
+quality crystals. Processes for integrated cirG (Fall)
+cuit fabrication including oxidation, junction
+3-0-9 H-LEVEL Grad Credit
+formation, and metallization. Emphasis on
+Discusses structure-property relationships in relationships among processing, structure, ano
+metallic alloys selected to illustrate some basic properties. Examples taken from materials
+concepts of physical metallurgy and alloy processing for applications in VLSI, opdesign. Considers mostly mechanical proper- toelectronics, and multi-layer integration.
+ties. Also considers structural features: struc- C. V. Thompson
+tural stability, grain size, interstitial and
+substitutional solutes, precipitates, second- 3.45 Magnetic Materials
+phase particles, eutectics and eutectoids, and
+composites. Prereq.: 3.41
+R. W. Balluffi Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+3.41 Physics and Chemistry of Materials
+Magnetization phenomena, origin of magPrereq.: 8.03, 18.03
+netism in a material, magnetic domains and
+G (Fall)
+domain walls, magnetic anisotropy, reversible
+4-0-8 H-LEVEL Grad Credit
+and irreversible magnetization processes. SpeQuantum physics and chemistry and statistics cial topics: ferromagnetism of thin films and
+of electrons, atoms, molecules, and solids. fine particles, magnetic recording, magnetic cirElectron structure of crystalline and amor- cuits, amorphous magnetic materials. Alterphous materials, defects, surfaces, and inter- nate years.
+faces. Transport in metals, semiconductors, R. C. OHandley
+and insulators - ideal and defective. Introduction to junction theory. Optical and dielectric 3.46 Optical and Optoelectronic
+G (Fall, IAP, Spring, Summer) phenomena - absorption, emission, refrac- Materials
+3-0-3 H-LEVEL Grad Credit tion. Magnetic phenomena - dia-, para-, and
+Discusses a wide variety of processes and ferro-magnetism. Superconductivity. Implica- Prereq.: 3.42 or equivalent
+materials from the viewpoint of their fundamen- tions for properties of interest. Acad Year 1996-97: G (Fall)
+tal physical and chemical properties. Specific E. A. Fitzgerald Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+topics: cold welding, adhesive bonding, diffusion bonding, soldering, brazing, flames, 3.42 Electronic Materials Design Optical and optoelectronic properties of semiarcs, high-energy density heat sources, conductors, ceramics, and polymers.
+Prereq.: 3.41
+solidification, cracking resistance, shielding Electronic structure, refractive index,
+G (Spring)
+methods, and electric contacts. Emphasis on electroluminescence, Kerr and Faraday ef-
+3-0-9 H-LEVEL Grad Credit
+underlying science of a given process rather fects, and laser phenomena. Materials design
+than a detailed description of the technique or Extensive and intensive examination of struc- and processing for lasers, waveguides,
+equipment. ture (crystalline, electronic, defect, and modulators, switches, and optoelectronic inT. W. Eagar microstructure)-processing-property correla- tegrated circuits. Alternate years.
+tions for a wide range of materials including L. C. Kimerling
+metals, semiconductors, dielectrics, optical,
+magnetic, and superconducting materials. Emphasis on materials design in relation to fundamental device characteristics.
+K. D. Kolenbrander, H. L. Tuller
+328 Chapter VlI

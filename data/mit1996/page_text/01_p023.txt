@@ -1,0 +1,120 @@
+Department of Mechanical Engineering Course 2
+Thermodynamics and Heat and Mass Transfer
+Statistical Mechanics
+2.51 Heat and Mass Transfer Engineering
+2.41J Thermal Power Engineering Prereq.: 2.006
+U (Fall, Spring)
+(Same subject as 13.25J)
+3-0-9
+Prereq.: 2.005
+U (Spring) Analysis, modeling, and design of heat and
+3-0-9 mass transfer processes in manufacturing,
+machinery, energy production, and energy
+Examines current and future thermal power
+management technologies. Heat conduction in
+systems. Introduction to combustion and the solids: steady and transient states, finned surdesign of turbomachinery. Analyses of various faces, numerical simulation tools. Heat transfer
+power plants including Rankine, Brayton, Otto,
+associated with laminar and turbulent flow of
+Diesel, and refrigerating systems. Applications fluids in free and forced convection. Heat trans- include land-based and marine power plants.
+fer in boiling and condensation. Heat exConsideration of pollution and environmental
+changer design, including enhanced surface
+issues.
+selection and pressure loss evaluation. Mass
+E. G. Cravalho, A. D. Carmichael
+transfer at low rates: evaporation, wet-bulb
+temperature, catalysis. Students complete a
+2.45J Fundamentals of Energy in Buildings creative design project on a problem taken
+(Same subject as 4.42J, 1.42J) from industry. Elective unit distribution: AdPrereq.: 8.02, 18.02 vanced disciplinary, 9; Design, 3.
+U (Fall) J. H. Lienhard, L. R. Glicksman, B. B. Mikic
+3-0-9 REST
+2.54 Heat Transfer
+See description under subject 4.42J.
+L. R. Glicksman Prereq.:
+2.451J General Thermodynamics
+(Same subject as 22.571J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+General foundations of thermodynamics valid
+for small and large systems, and equilibrium
+and nonequilibrium states. Definitions of work,
+energy, stable equilibrium, available energy,
+entropy, thermodynamic potential, and interactions other than work (nonwork, heat, mass
+transfer). Applications to properties of
+materials, bulk flow, energy conversion, chemical equilibrium, combustion, and industrial
+manufacturing.
+J. L. Smith
+2.46J Analysis and Design of Heating,
+Ventilating, and Air Conditioning Systems
+(New)
+(Same subject as 4.427J)
+Prereq.: 2.005, 2.51
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Explores the fundamentals of heating, ventilating, and air-conditioning (HVAC) systems. Discussion of psychrometrics, air conditioning
+processes, thermal comfort, indoor air quality
+and outdoor design conditions; concentration
+on the calculation of heating and cooling load
+in order to size suitable HVAC equipment; estimation of energy consumption of the HVAC
+equipment. Introduces both manual and computer methods. One site visit.
+Q. Chen
+-
+2.58J Radiative Transfer
+(Revised Units)
+(Same subject as 10.74J)
+Prereq.: 10.302 or 2.51
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+2-0-4 H-LEVEL Grad Credit
+Principles of thermal radiations and their application to engineering heat transfer
+problems. Basic laws of thermal radiation.
+Radiative properties of surfaces. Radiant interchange among surfaces separated by a
+transparent medium. Thermal radiation characteristics of gases and particle clouds. Radiative
+interchange through absorbing, emitting, and
+scattering media. Application to furnaces, hightemperature processing, pyrometry, insulation,
+and solar energy.
+L. R. Glicksman, A. F. Sarofim
+Power Systems
+2.601J Design of Thermal Power
+Systems
+G (Spring)
+(Same subject as 13.26J)
+3-0-3 Prereq.: 2.005, 2.006, 2.51
+Fundamentals of conduction, radiation of heat, G (Spring)
+and effects of convection, with applications to 3-0-9 H-LEVEL Grad Credit
+problems arising in practice. Primarily for Design of thermal power system components
+selected officers of US Navy and Coast Guard. and system optimization. Reviews gas
+B. B. Mikid
+dynamics and heat transfer. Design of axial
+and centrifugal compressors, and axial and
+2.55 Advanced Heat and Mass Transfer
+radial inflow turbines, heat exchangers,
+Prereq.: 2.51 evaporators, boilers, and condensers. Takes
+G (Spring) design project examples from the fields of
+3-0-9 H-LEVEL Grad Credit space, electrical utilities, and marine power
+systems. Assumes knowledge of elementary
+Advanced treatment of fundamental aspects of heat transfer and simple power cycles.
+heat and mass transport. Topics covered inL. R. Glicksman, A. D. Carmichael
+clude: diffusion kinetics, conservation laws,
+some heat conduction, laminar and turbulent
+2.615 Internal Combustion Engines
+convection, mass transfer including phase
+change or heterogeneous reactions, and basic Prereq.: 2.005, 2.006
+thermal radiation. Problems and examples in- G (Spring)
+clude theory and applications drawn from a 3-0-9 H-LEVEL Grad Credit
+spectrum of engineering design and manufacFundamentals of how the design and operaturing problems. tion of internal combustion engines affect their
+J. H. Lienhard, B. B. Mikid performance and fuel requirements. Study of
+fuid flow, thermodynamics, combustion, heat
+2.56 Conduction and Change of Phase Heat transfer and friction phenomena, and fuel
+Transfer
+properties, relevant to engine power, efficienPrereq.: 2.51, 18.075 cy, and emissions. Examination of design feaG (Fall) tures and operating characteristics of different
+3-0-9 H-LEVEL Grad Credit types of engines: spark-ignition, diesel,
+stratified-charge, and mixed-cycle engines. EnSolutions of steady and transient heat conduc- gine Laboratory project. For graduate and
+tion problems in orthogonal coordinate sys- senior undergraduate students.
+tems with various boundary conditions. J. B. Heywood
+Approximate methods: application of numerical techniques. Moving boundaries: problems
+in freezing and melting. Condensation heat
+transfer. Boiling: mechanisms and heat transfer correlations. Thermal modeling of engineering systems: use of laser in material removal
+and processing.
+B. B. Mikid
+Descriptions of Subjects 319

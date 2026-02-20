@@ -1,0 +1,73 @@
+School of Science
+8.731 Nuclear Physics Seminar 8.881, 8.882 Selected Topics in 8.913 Plasma Astrophysics I
+Experimental Particle Physics
+Prereq.: 8.322, 8.712 Prereq.: Permission of instructor
+G (Spring) Prereq.: 8.811 Acad Year 1996-97: Not offered
+2-0-4 [P/D/F] H-LEVEL Grad Credit G (Fall, Spring) Acad Year 1997-98: G (Spring)
+Can be repeated for credit 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Advanced seminar on current topics. Short Can be repeated for credit 8.914 Plasma Astrophysics I
+presentations by both experimentalists and Presents topics of current interest in exPrereq.: Permission of instructor
+theorists. Emphasis varies yearly. Typical perimental particle physics, with content varyAcad Year 1996-97: Not offered
+topics: ultrarelativistic heavy-ion collisions; ing from year to year. Subject not routinely
+Acad Year 1997-98: G (Spring)
+quark models of nucleons, nuclei, and nucleon- offered; given when sufficient interest is indi-
+3-0-9 H-LEVEL Grad Credit
+nucleon interaction; new observables in cated.
+electron scattering, using polarized beams, Information: W. Busza. For students interested in space physics,
+polarized targets, and coincidence measure- astrophysics, and plasma physics in general.
+ments; recent experiments on relativistic 8.896J Supersymmetric Quantum Field Magnetospheres of rotating magnetized
+nucleon-nucleon scattering; developments in Theories planets, ordinary stars, neutron stars, and
+many-body theory, including functional integral black holes. Pulsar models: processes for slowand stochastic methods. Offered if sufficient in- (Same subject as 18.396J) ing down, particle acceleration, and radiation
+terest is indicated. Prereq.: 8.323 emission; accreting plasmas and x-ray stars;
+A. M. Bemstein Acad Year 1996-97: Not offered stellar winds; heliosphere and solar wind:
+Acad Year 1997-98: G (Fall) relevant magnetic field configuration,
+8.781, 8.782 Selected Topics in Nuclear 3-0-9 H-LEVEL Grad Credit measured particle distribution in velocity space
+Theory Can be repeated for credit and induced collective modes; stability of the
+See description under subject 18.396J. current sheet and collisionless processes for
+Prereq.: 8.323 D. Z. Freedman magnetic reconnection; theory of collisionless
+G (Fall, Spring) shocks; solitons; Ferroaro-Rosenbluth sheet;
+3-0-9 H-LEVEL Grad Credit solar flare models; heating processes of the
+Presents topics of current interest in nuclear solar corona; earth's magnetosphere (auroral
+structure and reaction theory, with content phenomena and their interpretation, bowvarying from year to year. Subject not routinely shock, magnetotail, trapped particle effects);
+offered; given when sufficient interest is indi- Space Physics and Astrophysics relationship between gravitational (galactic)
+cated. plasmas and electromagnetic plasmas. 8.913
+Information: J. W. Negele. 8.901 Astrophysics I deals with heliospheric, 8.914 with extra-heliospheric plasmas.
+Prereq.: 8.05, 8.06, 8.07 B. Coppi
+8.811 Particle Physics 11
+G (Fall)
+Prereq.: 8.701 3-0-9 H-LEVEL Grad Credit 8.921 Stellar Structure and Evolution
+G (Spring)
+3-0-9 H-LEVEL Grad Credit Size and time scales. Historical astronomy. Prereq.: Permission of instructor
+Astronomical instrumentation. Stars: spectra Acad Year 1996-97: Not offered
+Survey of current research in High Energy and classification. Stellar structure equations Acad Year 1997-98: G (Fall)
+Physics. Topics include electron-positron and and survey of stellar evolution. Stellar oscilla- 3-0-9 H-LEVEL Grad Credit
+proton-antiproton collisions; electroweak tions. Degenerate and collapsed stars; radio
+phenomena, heavy flavor physics, and high- pulsars. Interacting binary systems; accretion Observable stellar characteristics; overview of
+precision tests of the Standard Model. Other disks, x-ray sources. Gravitational lenses; dark observational information. Principles underlytopics include searches for new phenomena matter. Interstellar medium: HII regions, super- ing calculations of stellar structure. Physical
+(compositeness, supersymmetry, GUTs). Dis- nova remnants, molecular clouds, dust; radia- processes in stellar interiors; properties of matcussion of our new experimental results (e.g. tive transfer; Jeans' mass; star formation. ter and radiation; radiative, conductive, and
+the Top Quark) and also expectations from fu- High-energy astrophysics: Compton scattering, convective heat transport; nuclear energy
+ture accelerators (B factory, LHC). bremsstrahlung, synchrotron radiation, cosmic generation; nucleosynthesis; neutrino emisM. Chen rays. Galactic stellar distributions and popula- sion. Protostars; the main sequence, and the
+tions; Oort constants; Oort limit; globular solar neutrino flux; advanced evolutionary
+8.871, 8.872 Selected Topics In Theoretical clusters. stages; variable stars; planetary nebulae, suParticle Physics S. Rappaport pernovae, white dwarfs, and neutron stars;
+close binary systems; abundance of chemical
+Prereq.: 8.323 8.902 Astrophysics I1 elements.
+G (Fall, Spring) P. C. Joss
+3-0-9 H-LEVEL Grad Credit Prereq.: 8.911
+Can be repeated for credit Acad Year 1996-97: Not offered 8.942 Cosmology
+Acad Year 1997-98: G (Spring)
+Presents topics of current interest in theoreti- 3-0-9 H-LEVEL Grad Credit Prereq.: Permission of instructor
+cal particle physics, with content varying from G (Spring)
+year to year. Subject not routinely offered; Galactic dynamics: potential theory, orbits, col- 3-0-9 H-LEVEL Grad Credit
+given when sufficient interest is indicated. lisionless Boltzmann equation, etc. Galaxy inInformation: J. W. Negele. teractions. Groups and clusters; dark matter. Thermal backgrounds in space. Cosmological
+Intergalactic medium; x-ray clusters. Active principle and its consequences: Newtonian
+galactic nuclei: unified models, black hole ac- cosmology and types of "universes"; survey of
+cretion, radio and optical jets, etc. relativistic cosmology; horizons. Overview of
+Homogeneity and isotropy, redshift, galaxy dis- evolution in cosmology; radiation and element
+tance ladder. Newtonian cosmology. synthesis; physical models of the "early
+Roberston-Walker models and cosmography. stages." Formation of large-scale structure to
+Early universe, primordial nucleosynthesis, variability of physical laws. First and last
+recombination. Cosmic microwave background states. Some knowledge of relativity expected.
+radiation. Large-scale structure, galaxy forma- 8.962 recommended though not required.
+tion. E. W. Bertschinger
+E. Bertschinger
+378 Chapter VillI

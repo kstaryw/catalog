@@ -1,0 +1,133 @@
+School of Engineering
+10.95 Special Problems in Chemical
+Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Directed research and study of special chemical engineering problems.
+R. E. Cohen
+10.960J Student Seminar in Polymer
+Science and Technology
+(Same subject as 3.903J)
+Prereq.: -
+G (Fall, Spring)
+2-0-0 [P/D/F]
+Can be repeated for credit
+A series of seminars covering a broad
+spectrum of topics in polymer science and engineering, featuring both on- and off-campus
+speakers.
+R. E. Cohen, P. T. Hammond, E. W. Merrill,
+G. C. Rutledge, E. L. Thomas
+10.961 Seminar in Advanced Air Pollution
+Research
+Prereq.: Permission of instructor
+G (Fall, Spring)
+2-0-4 [P/D/F]
+Can be repeated for credit
+Research seminars, presented by students
+engaged in thesis work in the field of air pollution. Particular emphasis given to atmospheric
+chemistry, mathematical modeling, and policy
+analysis.
+G. J. McRae
+10.962 Seminar in Molecular Cell
+Engineering
+(New)
+Prereq.: Permission of instructor
+G (Fall, Spring)
+2-0-4 [P/D/F]
+Can be repeated for credit
+Weekly seminar with discussion of ongoing research and relevant literature by graduate students, postdoctoral fellows, and visiting
+scientists on issues at the interface of chemical engineering with molecular cell biology. Emphasis is on quantitative aspects of
+physicochemical mechanisms involved in
+receptor/igand interactions, receptor signal
+transduction processes, receptor-mediated cell
+behavioral responses, and applications of
+these in biotechnology and medicine.
+D. A. Lauffenburger
+10.971 Seminar in Fluid Mechanics and
+Transport Phenomena
+Prereq.: Permission of instructor
+G (Fall, Spring)
+2-0-4 [P/D/F]
+Can be repeated for credit
+Seminar series on current research on Newtonian and non-Newtonian fluid mechanics
+and transport phenomena, and applications to
+materials processing. Seminars given by guest
+speakers and research students.
+R. A. Brown, R. C. Armstrong '
+10.972 Biochemical Engineering Research 10.977 Process Systems Engineering
+Seminar
+Prereq.: Permission of instructor
+Prereq.: Permission of instructor G (Fall, Spring)
+G (Fall, Spring) 2-0-4 [P/D/F]
+2-0-4 [P/D/F] Can be repeated for credit
+Can be repeated for credit
+Seminars on the state of the art in process sysSeminar allows students to present their re- tems engineering including: process developsearch programs to other students and staff. ment and design; product design; process
+The research topics include fermentation and operations monitoring, analysis, and control;
+enzyme technology, mammalian and animal process simulation, planning, and scheduling;
+cell cultivation, and biological product separa- environmental considerations; computer-aided
+tion. tools for analysis, design, optimization. SemiD. /. C. Wang, C. L. Cooney nars presented by doctoral students and visiting scientists/engineers.
+10.973 Bioengineering Geo. Stephanopoulos, G. J. McRae,
+P. /. Barton
+Prereq.: Permission of instructor
+G (Fall, Spring)
+10.978 Seminar in Applied
+2-0-4 [PlO/F]
+Thermodynamics, Kinetics, and Transport
+Can be repeated for credit
+Prereq.: Permission of instructor
+Seminar covering topics related to current reG (Fall, Spring)
+search in the application of chemical engineer-
+2-0-4 [P/D/F]
+ing principles to biomedical science and
+Can be repeated for credit
+biotechnology.
+C. K. Colton, W. M. Deen Review of current topics in phase equilibria,
+mass transport, and chemical kinetics. Sub-
+10.974 Catalysis and Reaction Engineering jects include oxidation and hydrolysis reactions, and solid-salt nucleation and solubility in
+Prereq.: Permission of instructor supercritical water; dissolution, corrosion,
+G (Fall, Spring) electrochemistry, and equations of state in
+2-0-4 [P/D/F] high-temperature, high-pressure aqueous sysCan be repeated for credit tems; fundamental processes in the thermal
+Seminar on research topics and recent spallation of rock.
+developments in heterogeneous catalysis, J. W. Tester, J. B. Howard, K. A. Smith
+reaction engineering, and related topics. Intended primarily for students engaged in re- 10.979 Plasma Processing
+search in these areas, but open to students
+Prereq.: Permission of instructor
+with background and interest in related areas
+G (Fall, Spring)
+such as surface sciences and noncatalytic
+2-0-4 [P/D/F]
+reactions. Can be repeated for credit
+M. Flytzani-Stephanopoulos
+Advanced topics in plasma processing used in
+10.975 Seminar in Polymer Science and the fabrication of microelectronics. Emphasis
+Engineering placed on topics of plasma kinetics, gas-solid
+interactions, sputtering, and reactor design.
+Prereq.: Permission of instructor Discussions include current research in the
+G (Fall, Spring) literature.
+2-0-4 [P/D/F] H-LEVEL Grad Credit H. H. Sawin
+Can be repeated for credit
+Research seminars, presented by students 10.980 Macrotransport Processes
+engaged in thesis work in the field of polymers
+Prereq.: Permission of instructor
+and by visiting lecturers from industry and
+G (Fall, Spring)
+academia.
+2-0-4 [P/D/F]
+R. E. Cohen, P. T. Hammond, E. W. Merrill, Can be repeated for credit
+G. C. Rutledge
+Seminar covering current research topics on
+10.976 Process Design, Operations, and theoretical aspects of transport processes, conControl tinuum mechanics, and statistical mechanics.
+Seminars given by graduate and postdoctoral
+Prereq.: Permission of instructor students, participating faculty, and guest
+G (Fall, Spring) speakers.
+2-0-4 [P/D/F] H. Brenner
+Can be repeated for credit
+Seminars on the state of the art in design,
+operations, and control of processing systems,
+with emphasis on computer-based tools. Discussions guided by the research interests of
+participating students. Topics include mathematical and numerical techniques, representational methodologies, and software
+development.
+P. 1. Barton
+392 Chapter VIII

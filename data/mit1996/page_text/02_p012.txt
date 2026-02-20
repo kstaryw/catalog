@@ -1,0 +1,113 @@
+Department of Architecture Course 4
+4.428, 4.429 Special Problems in Energy in 4.442 Introduction to Building Structural 4.453 Building Technology in Real Estate
+Buildings Systems 11 Decision Making
+Prereq.: Permission of instructor Prereq.: 4.441 Prereq.:
+G (Fall, Spring) G (Fall)
+Units arranged H-LEVEL Grad Credit 3-0-6
+Can be repeated for credit
+A continuation of 4.441, subject completes the
+Supplementary work on individual or group exploration of structural elements: column
+basis. Registration subject to prior arrange- buckling, frame analysis, and funicular strucment for subject matter and supervision by tures: arches, cables. Discussion includes:
+staff. bending as a form generator; review of overall
+L. R. Glicksman, L. K. Norford strategies for load carrying, both vertically and
+laterally; how load-carrying strategies are im-
+4.43 Architectural Acoustics plemented in systems; and how these systems
+are designed.
+Prereq.: 4.401 Building Technology Staff
+U (Fall)
+3-0-6 4.446 Structures Design Workshop
+Describes interactions between people and
+Prereq.: 4.442
+sound, indoors and outdoors, and uses this inG (Spring)
+formation to develop acoustical design criteria
+2-4-6 H-LEVEL Grad Credit
+for architecture and planning. Physical principles of sound generation, propagation, and Advanced methods of structural analysis in the
+reception. Properties of materials for sound ab- development of structural form for architectural
+sorption, reflection, and transmission. Techni- and urban design projects. Strategies of
+ques and data used to provide good hearing design for static and dynamic lateral loadings.
+conditions, and to control noise in rooms, build- Quantitative analysis, using computational
+ings, and the environment. Practical examples methods, and qualitative analysis, reading critiand case-histories. cal literature, of innovative or trend-setting
+C. J. Rosenberg structures to better understand structural behavior, formal order, and tectonic character.
+4.440 Basic Structural Theory Building Technology Staff
+Prereq.: 8.02, 18.02 4.448, 4.449 Special Problems in Structural
+U (Fall)
+Design
+3-3-6 REST
+Prereq.: Permission of instructor Introduces the static behavior of structures
+G (Fall, Spring)
+and strength of materials. Reactions, truss
+Units arranged H-LEVEL Grad Credit
+analysis, stability of structures. Stress and
+Can be repeated for credit
+strain at a point, shear and bending moment
+diagrams. Stresses in beams, Mohr's Circle, Supplementary structural design on individual
+column buckling. Deflection of beams. or group basis. Registration subject to prior arLaboratory to solve structural problems by rangement for subject matter and supervision
+building simple models and testing them. by staff.
+Building Technology Staff Building Technology Staff
+4.441 Introduction to Building Structural 4.451 Building Systems
+Systems I
+Prereq.: Permission of instructor
+Prereq.: Permission of instructor Acad Year 1996-97: Not offered
+G (Spring) Acad Year 1997-98: G (Fall)
+3-0-6 0-3-6
+Introduction to the principles of structural be- Exposes the student to the nature and variety
+havior, analysis, and design. Emphasis on in- of technological innovation in the building condividual structural elements and simple struction sector. Explores innovative apstrategies for load carrying. Topics include es- proaches to rationalized methods of
+timating loads, introduction to statics, sectional construction, as applied to generic building
+attributes, and basic discussions of stress and types. Views building systems as a total
+strain; all set against background discussions process, including the integration of project orof design and the overall issues affecting each ganization, production, and erection. Includes
+structural element. Structural types examined discussion of prefabrication and industrializainclude beams, trusses, simple frames, ar- tion. Students are required to conduct inches, and cables. dividual research on related topics, including
+Building Technology Staff the presentation of relevant case studies.
+E. Dluhosch
+-
+G (Fall)
+3-0-9
+Reviews building systems and technologies
+with an emphasis on their impact on real estate decision making. Topics include building
+location, foundation and structural systems,
+enclosure, climate control, electrical and communications systems, plumbing, and fire and
+disaster safety. Assignments include weekly or
+bi-weekly analysis or case-study problems, as
+well as a semester-long analysis and proposal
+project focusing on an existing building asset.
+Grading is based upon all written work and the
+oral presentation of a final project.
+Building Technology Staff
+4.455 Integrated Building Systems
+Prereq.: 4.405, 4.425, 4.441, 4.442
+G (Fall)
+3-2-7 H-LEVEL Grad Credit
+Capstone of the technology sequence in the
+M.Arch. program. Emphasizes technologies related to structure, enclosure, climate, and light.
+Consideration of theory and issues related to
+manufacturing, construction and systems integration, and architectural design. Qualitative
+and quantitative analysis of precedents via
+computational tools, models, drawings, and
+written reports. Identification of appropriate
+technological systems for new designs on the
+basis of system integration and support of architectural objectives.
+P. J. Donnelly
+4.461 Building Simulation
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9
+Mathematical modeling of air flow in building interior as well as whole-building systems for purposes of: building energy analysis, airflow
+analysis, and contaminant dispersal analysis;
+measurement of thermal and flow characteristics of buildings; and control of mechanical
+systems to affect thermal comfort, energy conservation, and indoor air quality. Uses computational fluid mechanics. Application to
+practical and current research problems.
+Building Technology Staff
+4.471 Control of Space Conditioning
+Systems
+Prereq.: Permission of instructor
+G (Fall, Spring)
+3-0-9
+Analysis of methods of conditioning buildings,
+their control and energy consumption. Topics
+include methods of heating, cooling, and ventilating buildings and associated control
+strategies. Control analysis and design based
+on root-locus plots, frequency response, and
+state-space methods. Energy management
+systems, including optimization and on-line
+analysis.
+L. K. Norford
+Descriptions of Subjects 341

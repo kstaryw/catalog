@@ -1,0 +1,126 @@
+School of Engineering
+3.566 Entrepreneurship
+Prereq.: -
+3.62 Defect Thermodynamics and Solid
+State Electrochemistry
+G (Spring) Prereq.: 3.20
+4-0-5 G (Fall)
+2-0-4 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in The defect solid state is analyzed after a short
+SWE section on page 562. review of the perfect solid state. Equilibrium
+T. G. Gutowski and nonequilibrium thermodynamics of point
+defects are applied to bulk and interfacial
+3.577 Engineering Risk-Benefit Analysis problems, conduction and diffusion, solid-state reactions, and heterogeneous catalysis.
+Prereq.: 18.02 Materials examples include fast ion conductors
+G (Spring) and high temperature superconductors. Spe-
+3-0-6 H-LEVEL Grad Credit cial attention is paid to experimental
+Engineering School-Wide Elective Subject. electrochemical methods and important
+Description given at end of this chapter in electrochemical applications (batteries, fuel
+SWE section on page 562. cells, photoelectrochemical elements, and senG. Apostolakis, A. W. Drake, A. R. Odoni sors). Half-term subject taught second half of
+term.
+J. Maier
+3.595 Special Problems in Materials
+Engineering
+3.63 Ceramic Processes
+Prereq.: Permission of instructor
+G (Fall, IAP, Spring, Summer) Prereq.: 3.07, 3.20
+Units arranged H-LEVEL Grad Credit G (Fall)
+Can be repeated for credit 3-0-6 H-LEVEL Grad Credit
+3.596 Special Problems in Materials Presents quantitative treatment of unit operaEngineering tions in powder processing-powder preparation, fabrication, and firing. Discusses glass
+Prereq.: Permission of instructor processing-homogenization during melting:
+G (Fall, IAP, Spring, Summer) relationship to mixing theory-glass forming.
+Units arranged [P/D/F] H-LEVEL Grad Credit Also covers growth of crystals, therCan be repeated for credit modynamics, transport processes, and kinetics
+in relation to structures developed.
+Advanced work in the field for qualified students. Lectures, conferences, assigned read- M. J. Cima
+ings, or supervised laboratory work.
+R. M. Latanision 3.64 Special Problems in Ceramics
+Prereq.: Permission of instructor
+3.60 Symmetry, Structure, and Tensor G (Fall, IAP, Spring, Summer)
+Properties of Materials Units arranged H-LEVEL Grad Credit
+Prereq.: 3.07 Can be repeated for credit
+G (Fall) 3.641 Special Problems in Ceramics
+4-0-8 H-LEVEL Grad Credit
+Prereq.: Permission of instructor
+Derivation of symmetry theory; lattices, point G (Fall, IAP, Spring, Summer)
+groups, space groups and their properties. Units arranged [P/D/F] H-LEVEL Grad Credit
+Use of symmetry in tensor representation of Can be repeated for credit
+crystal properties, including anisotropy, representation surfaces, as well as applications to Explores advanced work in this field. Lectures,
+piezo-electricity and elasticity. Quantative conferences, assigned readings, and
+description of atomic arrangements in selected laboratory work.
+metals, oxides, and silicates important in B. J. Wuensch
+materials science. Interprets structure in terms
+of coordination polyhedra and packing, and ex- 3.691-3.699 Teaching Materials Science
+amines relations between structures: polymor- and Engineering
+phism, polytypism, and derivative structure. Prereq.:
+B. J. Wuensch
+-
+3.70 Special Problems in Metallurgy
+Prereq.: Permission of instructor
+G (Fall, IAP, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+3.701 Special Problems in Metallurgy
+Prereq.: Permission of instructor
+G (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F] H-LEVEL Grad Credit Can be repeated for credit
+Minor investigation in one of the special
+branches of metallurgy. (Open only to students
+properly qualified in the special field.)
+K. C. Russell
+3.711J Materials for Nuclear
+Applications
+(Subject meets with 22.70J, 3.070J, 22.070J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 22.70J.
+K. C. Russell
+3.80J Proseminar in Manufacturing
+(Same subject as 15.792J, 2.890J, 10.792J,
+16.985J)
+Prereq.:
+G (Fall, Spring)
+Units arranged
+Can be repeated for credit
+Laboratory, tutorial, or classroom teaching
+under the supervision of a faculty member. Students selected by interview. (Enrollment
+limited by availability of suitable teaching assignments.)
+K. C. Russell
+-
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+See description under subject 15.792J.
+D. B. Rosenfield, J. S. Carroll
+3.81J Engineering Probability and
+Statistics
+(Same subject as 6.430J, 15.064J)
+Prereq.: 18.02
+G (Summer)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 6.430J.
+A. W. Drake
+3.83J System Optimization and Analysis for
+Manufacturing
+(Same subject as 15.066J, 2.851J)
+Prereq.: 18.02
+G (Summer)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 15.066J.
+S. C. Graves, J. P. Clark
+3.891 Structure and Properties of Materials
+Prereq.: 8.03, 18.03
+G (Summer)
+3-0-9 H-LEVEL Grad Credit
+Structure-properties relationships in materials.
+Electrons in atoms and molecules, metallic,
+covalent, and ionic bonding and its relationship
+to structure and properties of crystalline and
+non-crystalline solids, structure and its determination in crystalline and non-crystalline
+solids, the defect solid state: point, line, areal,
+and volume defects. Mechanical electronic,
+magnetic, and phototonic properties, their
+measurement, and their relationship to structure.
+K. C. Russell
+330 Chapter VIII

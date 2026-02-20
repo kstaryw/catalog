@@ -1,0 +1,82 @@
+Department of Electrical Engineering and Computer Science Course 6
+6.022J Quantitative Physiology: Organ 6.035 Computer Language Engineering 6.042J Mathematics for Computer Science
+Transport Systems
+Prereq.: 6.170 (Same subject as 18.062J)
+(Subject meets with 2.792J, 2.796J, 6.522J, U (Fall) Prereq.: 18.02 or 18.023 or 18.024
+HST.542J) 4-4-4 U (Fall, Spring)
+Prereq.: 2.006 or 6.013; 6.021J 5-0-7
+Analyzes issues associated with the implemenU (Spring)
+tation of higher-level programming languages. Mathematical tools and methods for computer
+4-2-6
+Fundamental concepts, functions, and struc- science and engineering. Emphasis on
+Application of the principles of energy and tures of compilers. The interaction of theory development of rigorous thinking, analytical
+mass flow to major organ systems of humans and practice. Using tools in building software. skills, and mathematical sophistication while
+and other mammals. Mechanisms of regula- Includes a multi-person project on compiler learning elementary discrete mathematics
+tion and homeostasis. Anatomical, physiologi- design and implementation. 8 Engineering Topics: mathematical proofs; induction and
+cal, and pathophysiological features of the Design Points. well-ordering; divisibility and congruences;
+cardiovascular, respiratory, and renal systems. J. V. Guttag asymptotic notation and growth of functions;
+Emphasis on those systems, features, and sets, relations, functions, and graphs; counting
+devices that are most illuminated by the 6.036 Problem-Solving Paradigms theory; recurrences and generating functions;
+methods of physical sciences. Laboratory work discrete probability.
+includes some animal studies. Waiver of Prereq.: 6.034 C. E. Leiserson, F T. Leighton, R. L. Rivest
+6.021J by permission of instructor. 2 Engineer- U (Spring)
+ing Design Points. 4-0-8 6.044J Computability, Logic, and
+R. G. Mark, R. Kamm Investigates the basic paradigms for problem Programming
+solving including the use (and misuse) of logic,
+(Same subject as 18.423J)
+6.023J Quantitative Physiology: Sensory procedural knowledge, debugging skills, and
+Prereq.: 6.042J or 18.310
+and Motor Systems the reformulation of problems. Detailed study
+U (Spring)
+of natural deduction, pattern-directed proce-
+(Same subject as 2.793J, 16.401J, HST.543J) 3-0-9
+dures, and systems for reasoning effectively
+Prereq.: 2.003 or 6.003 or 16.060
+and efficiently within stereotypical situations. Introduction to theory of programming lanU (Spring)
+Examples drawn from mathematics, natural guages, logic, and computability. Operational
+3-2-7
+language comprehension, and programming. behavior and mathematical meaning of imperaStudies of sensory and motor physiology, with Applications of theoretical results to human tive and functional programs. A fully developed
+objectives of establishing quantitative models. problem solving and education. and implemented "substitution model" for the
+Peripheral signal processing in eye, ear, and C. E. Hewitt Scheme language. Logical assertions and provestibular systems. Physiology and gram specification. Validity, truth, and
+psychophysics of audition, vision, orientation, 6.038 Artificial Intelligence in Practice provability. Undecidable problems in logic and
+and body stabilization. Organization of (New) programming. Incompleteness theorem for
+neuromuscular and proprioceptive systems at first-order arithmetic. Introduction to denotalevel of spinal cord reflex. Postural control and Prereq.: 6.034 tional semantics of programs.
+kinetics of movement. Supplemented by U (Spring) A. R. Meyer
+laboratory exercises. 6.021J recommended 3-4-5
+background. 3 Engineering Design Points. Investigates the application of the methods 6.045J Automata, Computability, and
+L S. Frishkopf. C. Wall ///, N. Hogan, L. Young and tools of artificial intelligence to problems in Complexity
+science, engineering, business, and entertain-
+(Same subject as 18.400J)
+6.033 Computer System Engineering ment. Emphasis on mastery and application of
+Prereq.: 6.046J
+programs embodying many basic reprePrereq.: 6.004 U (Spring)
+sentations and problem-solving methods in arU (Spring) 4-0-8
+tificial intelligence, including search, constraint
+4-0-8
+propagation, rule-chaining, planning, deduc- Slower paced than 6.840J/18.404J. Introduces
+Topics on the engineering of computer tion, and machine learning. Includes an in- basic mathematical models of computation
+software and hardware systems: techniques dividual and a multi-person project on real and the finite representation of infinite objects.
+for controlling complexity; networks and dis- problems drawn from a variety of disciplines. Finite automata and regular languages. Contributed systems; atomicity and coordination of Substantial programming experience required. text-free languages. Turing machines. Partial
+parallel activities; recovery and reliability; 8 Engineering Design Points. recursive functions. Church's Thesis. Unprivacy of information; impact of computer sys- T. Lozano-Perez decidability. Reducibility and completeness.
+tems on society. Case studies of working sys- Time complexity and NP-completeness. Probtems and outside reading in the current 6.041 Probabilistic Systems Analysis abilistic computation. Interactive proof systems.
+literature provide comparisons and contrasts. 4 N. A. Lynch
+Engineering Design Points. (Subject meets with 6.431)
+M. F. Kaashoek Prereq.: 18.02 6.046J Introduction to Algorithms
+U (Fall, Spring)
+4-0-8 REST (Same subject as 18.410J)
+6.034 Artificial Intelligence
+Prereq.: 6.001; 6.042J
+Modeling, quantification, and analysis of uncerPrereq.: 6.001 U (Fall, Spring)
+tainty. Formulation and solution in sample
+U (Fall) 4-0-8
+space. Random variables, transform techni-
+4-4-4
+ques, simple random processes and their prob- Techniques for the design and analysis of effiStudies the ideas and techniques that enable ability distributions, Markov processes, limit cient algorithms, emphasizing methods useful
+computers to behave intelligently. Applications theorems, elements of statistical inference, in practice. Topics: sorting; data structures for
+of search, constraint propagation, rule chain- and decision making under uncertainty. Inter- sets: search trees, heaps, hashing; graph algoing, frame inheritance, and other problem-solv- pretations, applications, and lecture rithms: shortest paths, depth-first search, neting techniques in expert systems, robotics, and demonstrations. Meets with graduate subject work flow; computational geometry; integer
+natural-language understanding. Regularity- 6.431, but assignments differ. arithmetic: gcd, primality; polynomial and
+based, explanation-based, and neural net A. W. Drake matrix calculations; dynamic programming;
+learning. Symbolic and nonsymbolic ap- amortized analysis; NP-completeness and approaches to sensing, locomotion, and proximation algorithms.
+manipulation in complicated environments. C. E. Leiserson, M. Goemans
+P H. Winston, T. Lozano-Prez
+Descriptions of Subjects 351

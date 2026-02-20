@@ -1,0 +1,94 @@
+18.904 Seminar in Topology 18.965 Geometry of Manifolds
+Prereq.: 18.901 Prereq.: 18.101
+U (Spring) G (Fall)
+3-0-9 3-0-9 H-LEVEL Grad Credit
+Seminar for mathematics majors. Students 18.966 Geometry of Manifolds
+present and discuss the subject matter, taken
+Prereq.: 18.965
+from current journals or books. Topics may
+G (Spring)
+vary from year to year. Topics for 1996-97:
+3-0-9 H-LEVEL Grad Credit
+Fundamental group and covering spaces.
+J. R. Munkres Differentiable manifolds, vector fields and
+forms, introduction to Lie groups, the DeRham
+18.905 Algebraic Topology theorem, Riemannian manifolds. 18.966 continues 18.965. Focuses on global differential
+Prereq.: 18.702 or 18.705; 18.901 geometry, curvature and topology. Heat kerG (Fall) nels and index theorems also discussed.
+3-0-9 H-LEVEL Grad Credit G. Tian
+18.906 Algebraic Topology
+18.969 Topics in Geometry
+Prereq.: 18.905
+G (Spring) Prereq.: 18.966
+3-0-9 H-LEVEL Grad Credit G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Simplicial and singular homology, EilenbergCan be repeated for credit
+Steenrod axioms. Cohomology ring, universal
+coefficient theorem, KOnneth theorem, plus ad- Content varies from year to year. 1996-97:
+ditional toipcs to be chosen by the instructor Continuation of 18.966. Topics include mo-
+(such as homotopy theory, duality in ment maps and moment polytopes, symplectic
+manifolds, vector bundles). reduction, geometric quantization via polarizaF. P. Peterson tions and spin-C structures, and the "quantization commutes with reduction" theorem.
+18.915 Graduate Topology Seminar Applications of the techniques of this course to
+representation theory and combinatorics also
+Prereq.: 18.906 discussed.
+G (Fall) V. W. Guillemin
+3-0-21 H-LEVEL Grad Credit
+Study and discussion of important original 18.979 Graduate Geometry Seminar
+papers in the various parts of algebraic and dif- (New)
+ferential topology. Open to all students who
+Prereq.: Permission of instructor
+have had 18.906 or the equivalent, not only
+G (Spring)
+prospective topologists.
+3-0-9 H-LEVEL Grad Credit
+M. J. Hopkins
+Can be repeated for credit
+18.917 Topics in Algebraic Topology Content varies from year to year.
+Information: R. B. Melrose.
+Prereq.: 18.906
+G (Spring)
+18.999 Mathematical Reading
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit Prereq.:
+Content varies from year to year. Topics may
+include: cohomology operations, homotopy
+theory, K-theory, cobordism theory, stable
+homotopy theory, localization, mapping
+spaces.
+H. R. Miller
+18.950 Differential Geometry
+Prereq.: 18.100, 18.901
+U (Spring)
+3-0-9
+An introduction to differential geometry, with
+emphasis on curves and surfaces. Frenet formulas, fundamental forms, curvature, Gauss'
+theorem, geodesics, Riemannian manifolds.
+18.901 is required, but may be taken concurrently. 18.101 is strongly recommended but
+not required.
+S. Axelrod
+-
+G (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Reading of advanced mathematical treatises
+under supervision of a member of the Department. For graduate students desiring advanced work not provided in regular subjects.
+D. A. Vogan
+18.UR Undergraduate Research
+Prereq.: -
+Department of Mathematics Course 18
+18.ThG Graduate Thesis
+Prereq.:
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Undergraduate research opportunities in mathematics. Permission required in advance to
+register for this subject. For further information,
+consult the Departmental Coordinator.
+Information: D. A. Vogan.
+-
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of a Ph.D. thesis; to be arranged by the
+student and an appropriate MIT faculty member.
+Descriptions of Subjects 485

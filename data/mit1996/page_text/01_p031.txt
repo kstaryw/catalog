@@ -1,0 +1,123 @@
+Department of Materials Science and Engineering Course 3
+3.15 Electrical, Optical, and Magnetic
+Materials and Devices
+Prereq.: 3.10
+U (Fall)
+4-0-8
+Explores the relationships which exist between
+the performance of electrical, optical, and magnetic devices and the microstructural characteristics of the materials from which they are
+constructed. Features a device-motivated approach which places strong emphasis on
+emerging technologies. Device applications of
+physical phenomena are considered, including
+electrical conductivity and doping, photodetection, photoluminescence and electroluminescence, light amplification, nonlinear optics and
+optical switching, ferroelectricity, and ferromagnetism.
+K. D. Kolenbrander
+3.155J Microelectronics Processing
+Technology
+(Same subject as 6.152J, 10.480J)
+Prereq.: Permission of instructor
+U (Fall, Spring)
+3-4-5
+See description under subject 6.152J.
+L. C. Kimerling, C. V. Thompson, H. H. Sawin,
+M. A. Schmidt, C. G. Sodini, K. K. Gleason
+3.172 Inventions and Patents
+Prereq.: 14.02
+U (Fall)
+3-0-6
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+R. H. Rines
+3.185 Transport Phenomena in Materials
+Engineering
+Prereq.: 3.01, 18.03
+U (Fall)
+4-0-8
+Definition of viscosity, simple overall mechanical energy balances, elements of laminar flow
+and turbulent flow. Thermal conductivity,
+steady and unsteady conduction problems,
+forced and natural convection, heat transfer
+coefficient, and radiative heat transfer. Definition of binary diffusivity, convection mass transfer, and mass transfer coefficient. Illustrative
+examples given throughout, chosen from the
+materials processing field.
+M. C. Flemings
+3.ThG Graduate Thesis
+Prereq.: -
+3.20 Thermodynamics of Materials 3.30 Electron Microscopy: Image
+Interpretation
+Prereq.: 3.00, 3.01, or permission of instructor
+G (Fall) Prereq.: 3.081, 3.13
+4-0-8 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+Offers advanced treatment of thermodynamic
+3-2-7 H-LEVEL Grad Credit
+properties of inorganic materials, including introductory statistical thermodynamics and sur- Derives relationship between detail in transmisface thermodynamics. Applies laws of sion electron microscopy images and internal
+thermodynamics to chemical behavior of ele- structure of an object to the atomic level.
+ments, compounds, and solutions. Discusses Fourier theory of diffraction. Lens action, aberheterogeneous equilibria, chemical reactions, rations, and transfer functions. Elastic and inand thermodynamics of interfaces and struc- elastic interaction of electrons with atoms.
+tural defects. Kinematical and dynamical theories of electron
+K. C. Russell diffraction. Phase object approximations and
+high-resolution imaging methods. Imaging of
+3.21 Kinetic Processes in Materials defects with displacement and replacement
+fields. Laboratory sessions. Alternate years.
+Prereq.: 3.00, 3.01, 3.185, or permission of in- L. W. Hobbs
+structor
+G (Spring)
+3.31 Phase Transformations
+4-0-8 H-LEVEL Grad Credit
+Prereq.: 3.20, 3.21
+Presents unified treatment of kinetics from
+G (Spring)
+phenomenological and atomistic viewpoints.
+3-0-9 H-LEVEL Grad Credit
+Covers diffusion in metals and non-metals,
+chemical kinetics, and kinetics of phase trans- Advanced treatment of phase transformations
+formations, including nucleation, growth, coar- in solids. Homogeneous and heterogeneous
+sening, and spinodal decomposition. Also nucleation. Theories of thermally activated
+includes non-catalytic gas-solid reactions and growth processes and morphological stability.
+oxidation of metals and alloys. Transformation by spinodal decomposition and
+S. M Allen, R. W. Balluffi continuous ordering. Transformation
+mechanisms in systems with multicritical
+3.271 Structure of Materials points. Eutectoidal transformations and cellular
+precipitation. Crystallographic theory and
+Prereq.: 18.03, 3.10 mechanisms of martensitic transformations.
+G (Spring) R. M. Rose
+4-0-8 H-LEVEL Grad Credit
+Quantitative description of atomic arrange- 3.320 Atomistic Computer Modeling of
+ments in selected metals, oxides, and silicates Materials
+important in materials science. Interprets strucPrereq.: 3.20, 3.13, or permission of instructor
+tures in terms of coordination polyhedra and
+G (Spring)
+packing. Relationships between structures:
+3-0-9 H-LEVEL Grad Credit
+polymorphism, polytypism, and derivative structures. Describes diffraction using Fourier trans- Atomistic computer modeling as a tool to solve
+forms and series. Determines structure problems in materials science and engineerthrough diffraction effects: the phase problem, ing. Deterministic and stochastic methods.
+Patterson function, and direct methods for Monte Carlo and molecular dynamics. Energy
+phase determination. models (classical and quantum-mechanical).
+B. J. Wuensch Free energy computation. Phase transformations. Metastability. Order-disorder transforma-
+3.29 Special Problems in Materials tions. Defect properties. Transport properties.
+Science Emphasis on solving relevant problems in a
+variety of materials classes.
+Prereq.: Permission of instructor G. Ceder
+G (Fall, lAP, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+3.33 Defects in Crystals
+Can be repeated for credit
+Prereq.: 3.13, 3.14
+3.291 Special Problems in Materials
+G (Spring)
+Science
+3-0-9 H-LEVEL Grad Credit
+Prereq.: Permission of instructor
+Unified treatment of point, line, and planar G (Fall, IAP, Spring, Summer)
+defects in crystals. Point defects include vacanUnits arranged [P/D/F] H-LEVEL Grad Credit cies, self-interstitials, and solute atoms. Line
+G (Fall, Spring, Summer) Can be repeated for credit defects include dislocations. Planar defects inUnits arranged H-LEVEL Grad Credit Advanced work in the field for qualified stu- clude stacking faults, small- and large-angle
+Can be repeated for credit
+dents. Lectures, conferences, assigned read- grain boundaries, and interphase boundaries.
+Program of graduate research, leading to the ings, or supervised laboratory work. Discusses geometrical structure and physical
+writing of an S.M., Ph.D., or Sc.D. thesis; to be R. M. Rose properties such as stress fields, energies, and
+arranged by the student and an appropriate mobilities. Treats interactions between defects
+MIT faculty member. including point defect clustering, point defectConsult L. W. Hobbs in Room 8-303. dislocation pinning, dislocation climb, and
+grain boundaries as point defect sources/sinks.
+R. W. Balluffi
+Descriptions of Subjects 327

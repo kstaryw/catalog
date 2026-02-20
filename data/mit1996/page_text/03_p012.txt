@@ -1,0 +1,85 @@
+Department of Physics Course 8
+8.323 Relativistic Quantum Field 8.333 Statistical Mechanics I 8.391, 8.392 Special Problems in Graduate
+Theory I Physics
+Prereq.: 8.044, 8.05
+Prereq.: 8.321 G (Fall) Prereq.: Permission of instructor
+G (Spring) 4-0-8 H-LEVEL Grad Credit G (Fall, Spring, Summer)
+4-0-8 H-LEVEL Grad Credit 8.334 Statistical Mechanics II Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+8.324 Relativistic Quantum Field
+Prereq.: 8.333
+Theory 11 G (Spring) Advanced problems in any area of experimental or theoretical physics, with assigned readPrereq.: 8.322, 8.323 4-0-8 H-LEVEL Grad Credit
+ing and consultations.
+G (Fall)
+A two-semester course on statistical Information: G. F. Koster.
+4-0-8 H-LEVEL Grad Credit
+mechanics. Basic principles are examined in
+8.325 Relativistic Quantum Field Theory Ill 8.333: the laws of thermodynamics and the 8.399 Physics Teaching
+concepts of temperature, work, heat, and
+Prereq.: 8.324 entropy. Postulates of classical statistical Prereq.: Permission of instructor
+G (Spring) mechanics, microcanonical, canonical, and G (Fall, Spring)
+4-0-8 H-LEVEL Grad Credit grand canonical distributions; applications to Units arranged [P/D/F] H-LEVEL Grad Credit
+A three-semester subject sequence on quan- lattice vibrations, ideal gas, photon gas. Quan- Can be repeated for credit
+tum field theory stressing the relativistic quan- tum statistical mechanics; Fermi and Bose sys- For qualified graduate students interested in
+tum field theories relevant to the physics of the tems. Interacting systems: cluster expansions, gaining some experience in teaching.
+Standard Model. 8.323 is a one-semester self- van der Waal's gas, mean-field theory. Topics Laboratory, tutorial, or classroom teaching
+contained subject in quantum field theory. Con- from modern statistical mechanics are ex- under the supervision of a faculty member. Stucepts and basic techniques are developed plored in 8.334: the hydrodynamic limit and dents selected by interview.
+through applications in elementary particle classical field theories. Phase transitions and Information: G. F. Koster.
+physics and condensed matter physics. In- broken symmetries: universality, correlation
+cludes the basic tools of field theory required functions and scaling theory. The renormalizafor phenomenological studies. Topics: Func- tion approach to collective phenomena.
+tional integral formulation of quantum Dynamic critical behavior. Random systems.
+mechanics and many-particle systems. Classi- N. Berker
+cal field theory, symmetries, and Noether's Physics of Atoms, Radiation,
+theorem. Quantization of scalar fields. Feyn- 8.351J Variational Mechanics: A Solids, Fluids, and Plasmas
+man graphs, analytic properties of amplitudes Computational Approach
+and unitarity of the S-matrix. Renormalization
+and renormalization group. Spinors and the (Same subject as 12.620J, 6.946J) 8.421 Atomic and Optical Physics I
+Dirac equation. Quantization of Dirac fields. Su- Prereq.: 8.01, 18.03, 6.001 or equivalent Prereq.: 8.05
+G (Fall)
+persymmetry. Quantization of abelian gauge Acad Year 1996-97: G (Fall)
+fields. Calculations in quantum 3-3-6 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+electrodynamics. Classical Yang-Mills fields. See description under subject 12.620J. 3-0-9 H-LEVEL Grad Credit
+The Higgs phenomenon and a description of J. Wisdom, G. J. Sussman
+the Standard Model. 8.324 is the second term The first of a two-semester subject sequence
+of the quantum field theory sequence. that provides the foundations for contemporary
+Develops in depth some of the topics dis- 8.361 Quantum Theory of Many-Particle research in selected areas of atomic and opticussed in 8.323 and introduces some ad- Systems cal phsyics. The interaction of radiation with
+vanced material. Topics: Quantization of Prereq.: 8.322, 8.333 atoms: resonance; absorption, stimulated and
+nonabelian gauge theories. BRST symmetry. Acad Year 1996-97: Not offered spontaneous emission: methods of resonance,
+Perturbation theory anomalies. Renormaliza- Acad Year 1997-98: G (Fall) dressed atom formalism, masers and lasers,
+tion and symmetry breaking. The renormaliza- 3-0-9 H-LEVEL Grad Credit cavity quantum electrodynamics; structure of
+tion group. Critical exponents and scalar field simple atoms, behavior in very strong fields;
+theory. Conformal field theory. 8.325 is the Introduces general many-body theory ap- fundamental tests: time reversal, parity violaplicable to low temperature, nuclear, and solidthird and last term of the quantum field theory state physics. Reviews occupation number tions, Bell's inequalities; experimental methods.
+sequence. Its aim is the proper theoretical dis- D. Pritchard
+representation and classical Mayer expansion.
+cussion of the physics of the standard model.
+Perturbation theory: diagrammatic expansions
+Topics: Quantum chromodynamics. Deep-in- 8.422 Atomic and Optical Physics 11
+and linked-cluster theorem for zero or finite
+elastic scattering and structure functions.
+temperature systems of fermions or bosons. Prereq.: 8.05
+Basics of lattice gauge theory. Operator
+Green's functions: analytic properties, equa- Acad Year 1996-97: G (Spring)
+products and effective theories. Detailed structions of motion, relation to observables, ap- Acad Year 1997-98: Not offered
+ture of the standard model; spontaneously
+proximations, linear response theory, random 3-0-9 H-LEVEL Grad Credit
+broken gauge theory and its quantization. Inphase approximation. Superconductivity:
+stantons and 0-vacua. Topological defects. The second of a two-semester subject seelectron-phonon interaction, instability of nor-
+8.323: K. Johnson, 8.324: J. Goldstone quence that provides the foundations for conmal state, BCS ground state, perturbation
+8.325: L. Randall temporary research in selected areas of
+theory.
+atomic and optical physics. Non-classical
+T. W. Donnelly
+states of light: squeezed states; multi-photon
+processes, Raman scattering; coherence: level
+8.381, 8.382 Selected Topics in Theoretical
+crossings, quantum beats, double resonance,
+Physics superradiance; trapping and cooling: light forPrereq.: Permission of instructor ces, laser cooling, atom optics, spectroscopy
+G (Fall, Spring) of trapped atoms and ions; atomic interactions:
+3-0-9 H-LEVEL Grad Credit classical collisions, quantum scattering theory,
+ultracold collisions; experimental methods.
+Topics of current interest in theoretical W. Ketterle
+physics, varying from year to year. Subject not
+routinely offered; given when sufficient interest
+is indicated.
+Information: G. F. Koster.
+Descriptions of Subjects 375

@@ -1,0 +1,98 @@
+School of Engineering
+10.571J Air Pollution Control 10.610 Applied Quantum Mechanics 10.652 Principles and Applications of
+Chemical Kinetics
+(Same subject as 2.29J) Prereq.: Permission of instructor
+Prereq.: Permission of instructor Acad Year 1996-97: G (Fall) Prereq.: 10.65 or 10.37, 5.62
+G (Spring) Acad Year 1997-98: Not offered G (Spring)
+3-0-9 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit
+Common gaseous and particulate air pol- Application of quantum mechanics to chemical Estimation of thermodynamic and kinetic
+lutants and their environmental effects. Model- systems and materials. Quantum mechanical properties based on molecular dynamics.
+ing of atmospheric chemical and physical methods of predicting chemical structure, Methods including collisional theory and transiprocesses that disperse, transport, transform, spectroscopic properties, chemical reactivity, tion state theory will be developed for the esand remove air pollutants on local, regional, and properties of materials. Hartree-Fock timation of unimolecular, bimolecular,
+and global scales. Formation of air pollutants theory, density functional theory, modern com- termolecular, and complex reaction systems.
+in combustion processes. Control technology putational techniques, methods of approximat- Pressure effects and fall-off treatment using
+and costs. Regulation of air quality and emis- ing correlation energy. Lindemann-Hinshelwood, Kassel, RRK, and
+sions. Staff RRKM treatments. Chemical activation and
+G. J. McRae ion-molecule reactions. Content may vary
+10.631 Structural Theories of Polymer Fluid drawing on applications in combustion, plasma
+10.572 Principles of Combustion Mechanics chemistry, and heterogeneous reactions.
+J. B. Howard, H. H. Sawin
+Prereq.: 5.62, 10.302, or equivalent Prereq.: 10.301
+G (Spring) Acad Year 1996-97: Not offered
+10.668J Statistical Mechanics of Polymers
+3-0-6 H-LEVEL Grad Credit Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit (Same subject as 3.941J)
+Basic concepts and applications of combusPrereq.: 10.568 or permission of instructor
+tion. Gas-phase reaction mechanisms and Structural and molecular models for polymeric
+G (Spring)
+thermochemical kinetics: reaction property es- liquids. Nonequilibrium properties are em-
+3-0-9 H-LEVEL Grad Credit
+timation; treatment of pressure and tempera- phasized. Elementary kinetic theory of polymer
+ture dependence; elementary and global solutions. General phase space kinetic for Concepts of statistical mechanics and therreaction modeling of multiple reaction systems. polymer melts and solutions. Network theories. modynamics applied to macromolecules:
+Theory of ignition, flame propagation, ex- Interrelations between structure and rheologi- polymer conformations in melts, solutions, and
+plosion, and detonation. Characteristics of cal properties. gels; Rotational Isomeric State theory, Markov
+premixed, diffusion, laminar, and turbulent R. C. Armstrong processes and molecular simulation methods
+flames. Combustion of liquids and solids; applied to polymers; incompatibility and
+pyrolysis and volatilization; gas reactions with 10.633 Physicochemical segregation in incompressible and compressolid carbon. Formation mechanisms of pol- Hydrodynamics sible systems; molecular theory of viscoelaslutants and valuable materials in flames. ticity; relation to scattering and experimental
+J. B. Howard Prereq.: 10.50, 2.25 measurements.
+Acad Year 1996-97: Not offered G. Rutledge, A. Mayes
+Acad Year 1997-98: G (Fall)
+10.580 Solid-State Surface Science
+3-0-9 H-LEVEL Grad Credit
+10.74J Radiative Transfer
+Prereq.: 10.213
+Fundamentals of physical-chemical interacAcad Year 1996-97: Not offered (Same subject as 2.58J)
+tions with fluid flow including aspects of
+Acad Year 1997-98: G (Spring) Prereq.: 10.302 or 2.51
+biomolecular hydrodynamics. Transport of
+3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+mass, heat, and charge in laminar flow. ParAcad Year 1997-98: G (Spring)
+Structural, chemical, and electronic properties ticle-liquid flows with and without charge ef-
+2-0-4 H-LEVEL Grad Credit
+of solids and solid surfaces. Analytical tools fects. Macromolecules as hydrodynamic
+used to characterize surfaces including Auger particles with application to separation proces- See description under subject 2.58J.
+and photoelectron spectroscopies and electron ses. Surface tension, phase change, and A. F. Sarofim, L. R. Glicksman
+diffraction techniques. Surface ther- chemical reactions in flows. Rheology and conmodynamics and kinetics including adsorption- centrated suspensions. 10.792J Proseminar in Manufacturing
+desorption, catalytic properties, and sputtering H. Brenner, R. F. Probstein
+processes. Applications to microelectronics, (Same subject as 15.792J, 2.890J, 3.80J,
+optical materials, and catalysis. 10.65 Chemical Reactor Engineering 16.985J)
+K. K. Gleason, H. H. Sawin Prereq.:
+Prereq.: 10.37
+G (Fall)
+10.581J Materials Processing
+3-0-6 H-LEVEL Grad Credit
+(Same subject as 3.52J)
+Applies chemical kinetics to development and
+Prereq.: 3.01, 3.185, or equivalents
+improvement of industrial processes. Nonideal
+G (Spring)
+reactor analysis, including residence-time dis-
+3-0-6 H-LEVEL Grad Credit
+tributions, concepts of mixedness, and
+See description under subject 3.52J. segregation, dispersion, and CSTR models.
+A. Mortensen, K. F. Jensen, M. C. Flemings Mass and energy transfer limitations in
+heterogeneous noncatalytic and catalytic reac-
+10.582J Plasma Processing in Integrated tion systems. Reactor stability and sensitivity
+Circuit Fabrication to operating parameters. Choice and design of
+reactors for heterogeneous reactions.
+(Same subject as 6.776J) K. K. Gleason, K. F. Jensen
+Prereq.: Permission of instructor
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+See description under subject 6.776J.
+H. H. Sawin, L. R. Reif
+-
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+See description under subject 15.792J.
+D. B. Rosenfield, J. S. Carroll
+10.801 Entrepreneurship
+Prereq.: -
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+390 Chapter Vill

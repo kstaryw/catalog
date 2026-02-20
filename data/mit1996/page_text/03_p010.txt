@@ -1,0 +1,149 @@
+Department of Physics Course 8
+8.122 Advanced Project Laboratory
+Prereq.: 8.02
+U (IAP)
+1-5-3
+Laboratory subject that offers students the opportunity to carry out experimental physics
+projects of their own design. Emphasizes contemporary ideas in laboratory techniques and
+the use of on-line data acquisition, whenever
+possible. Projects designed by students are
+based on physics phenomena they have en- countered in coursework or on their own.
+Faculty teach students how to use various
+laboratory instruments, how to cope with possible systematic errors in their results, and how
+to determine statistical errors from numerical
+dlata.
+R. K. Yamamoto
+8.13 Experimental Physics I
+Prereq.: 8.04
+U (Fall)
+0-6-12 Institute LAB
+8.14 Experimental Physics II
+Prereq.: 8.05, 8.13
+U (Spring)
+0-6-12 Institute LAB
+About five fundamental laboratory experiments
+carried out each term, covering most aspects
+of modern physics relating to names such as
+Rutherford, Franck-Hertz, Hall, Ramsauer,
+Doppler, Fraunhofer, Faraday, Mossbauer,
+Compton, Stern-Gerlach. Stresses basic experimental techniques and data analyses, and
+written and oral presentation of experiment
+results. Second term requires knowledge of
+quantum mechanics at the 8.05 level. 12 units
+may be applied to the General Institute
+Laboratory Requirement.
+G. W. Clark
+8.18 Special Problems in Undergraduate
+Physics
+Prereq.: -
+U (Fall, lAP, Spring)
+Units arranged
+Can be repeated for credit
+Opportunity for undergraduates to engage in
+experimental or theoretical research under the
+supervision of a staff member. Specific approval required in each case.
+Information: J. W. Belcher.
+8.19 Readings in Physics
+Prereq.: -
+Undergraduate Elective
+Subjects
+8.20 Introduction to Special Relativity
+Prereq.: 8.01, 8.02, 18.01
+U (IAP)
+2-0-7 REST
+Reviews nineteenth-century science leading to
+special relativity, Einstein's approach to
+science and postulates of relativity, Lorentz
+transformation, length contraction and time
+dilation, four vectors and transformations of
+four vectors, Lorentz invariants, relativistic
+energy and momentum, relativisitic kinematics
+and collisions, massless particles, Doppler
+shift, space-time diagrams, relativity
+paradoxes, the impact of relativity. This subject
+is aimed at the freshman and sophomore
+level. Not usable as a restricted elective by
+Physics majors. Credit cannot be received for
+8.20 if credit for 8.033 is or has been received
+in the same or prior terms.
+S. A. Rappaport
+8.21 Classical Mechanics 11
+(Revised Content)
+Prereq.: 8.033, 18.02
+U (IAP)
+2-0-4
+Continuation of 8.033, containing the more
+theoretical topics. Normally taken by physics
+majors in their sophomore year. Hamilton's
+Principle. Linear mechanics with applications
+to continuous media. Hamiltonian formulation.
+Liouville's theorem. Action-angle variables in
+one dimension. Poisson brackets. Canonical
+transformations. Noether's theorem. Integrable
+vs non-integrable systems.
+M. Baranger
+8.231 Physics of Solids I
+Pre req.: 8.044, 8.211 or 8.05
+U (Fall)
+4-0-8
+Introduction to the basic concepts of the qua
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Supervised reading and library work. Choice of
+material and allotment of time according to individual needs. For students who want to do
+work not provided for in the regular subjects.
+Specific approval required in each case.
+Information: J. W. Belcher.
+-
+8.235 Superconductivity
+Prereq.: 8.04, 8.044
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (IAP)
+2-0-4
+Experiments and phenomenology. A qualitative introduction to perfect conductance and
+perfect diamagnetism; thermodynamics and
+the energy gap; electron (Cooper) pairing; Bardeen-Cooper-Schrieffer theory; quasiparticles;
+phase transition and free energy; suppression of Coulomb repulsion; Type I and I superconductors; vortices, coherence, and penetration
+lengths; lower and upper critical fields; Landau
+theory; critical phenomena; Ginzburg criterion;
+liquid crystal analogs; high Tc superconductivity.
+A. N. Berker
+8.242 Quantum Electronics and Laser
+Spectroscopy
+Prereq.: 8.04 or 6.017
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-1-8
+Fundamental processes in lasers and their applications to studying physical properties of
+atoms and molecules. Interaction of classical
+and quantum systems with electromagnetic
+radiation. The physics of two-level atoms.
+Laser oscillators. Techniques in nonlinear
+spectroscopy, such as stimulated Raman effect, free induction decay, optical nutation,
+photon echoes, and CARS. As part of the curriculum, each student is required to carry out a
+laboratory project. Familiarity with Maxwell's
+equations and the Schroedinger equation is required.
+M. S. Feld
+8.243 Modern Optics
+Prereq.: 8.03
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-0-9
+Nature of light, wave/particle duality. Polarization. Propagation of plane waves in isotropic
+tumn theory of solids. Topics: periodic structure
+and anisotropic media, optical constants. Magand symmetry of crystals; diffraction; reciproneto- and electro-optical effects. Reflection
+cal lattice; chemical bonding; lattice dynamics,
+phonons, thermal properties; free electron gas; and refraction at an interface between two
+media. Fresnel equations. Interference, Michel- model of metals; Bloch theorem and band
+son, and Fabry-Perot interferometers, Fourier
+structure, nearly free electron approximation;
+transform spectroscopy. Multilayer thin films.
+tight binding method; Fermi surface; semiconFresnel and Fraunhofer diffraction, diffraction
+ductors, electrons, holes, impurities; optical
+gratings. Ray optics. Optical resonators, Gausproperties, excitons; magnetism.
+sian beams. Lasers, threshold condition, comT. J. Greytak mon laser systems. Fourier optics, spatial
+filtering. Holography, binary optics, micro-optics. Nonlinear optics, effects of second- and
+third-order nonlinear susceptibility. Fiber optics. Optical detectors. Optical instruments.
+R. Aggarwal
+Descriptions of Subjects 373

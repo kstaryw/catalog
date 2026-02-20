@@ -1,0 +1,77 @@
+Department of Ocean Engineering Course 13
+13.020 Introduction to Fluid Mechanics for 13.04 Hydrofoils and Propellers 13.09 Potential Flows
+Naval Architecture
+Prereq.: 18.076, 13.021 Prereq.: 13.022, 18.076
+Prereq.: 18.089 G (Spring) Acad Year 1996-97: G (Fall)
+G (Summer) 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+3-0-5 3-0-6 H-LEVEL Grad Credit
+Theory and design of hydrofoil sections; lifting
+Kinematics and dynamics of fluid motion; ap- and thickness problems for sub-cavitating sec- Develops and applies potential theory to the
+plications to water waves, lifting surfaces, tions, unsteady flow problems. Computer- flow past marine vehicles. Review of ideal fluid
+boundary layers; dimensional analysis and aided design of low drag, cavitation free theory. Simple potential flows. Two-dimenmodel testing. sections. Lifting line and lifting surface theory sional flows based on complex variable theory.
+T. F. Ogilvie with applications to hydrofoil craft, rudder, and Three-dimensional flows based on separation
+control surface design. Propeller lifting line and of variables and Green's theorem.
+13.021 Marine Hydrodynamics I lifting surface theory; computer-aided design Hydrodynamic pressure forces and the addedof wake adapted propellers, unsteady mass tensor. Description of numerical
+Prereq.: 13.012 or 2.20 or 1.05 propeller thrust and torque. Flow about axially methods, matched asymptotic expansions,
+G (Fall) symmetric bodies and low-aspect ratio lifting and slender-body theory. Alternates with
+4-1-7 H-LEVEL Grad Credit surfaces. Experimental projects in the variable 13.07. Second half of subject includes miniThe fundamentals of fluid mechanics are pressure water tunnel. seminars by students on relevant research
+developed in the context of naval architecture J. E. Kerwin topics.
+and ocean science and engineering. Transport J. N. Newman
+theorem and conservation principles. Navier- 13.06 Numerical Methods in Marine
+Stokes' equation. Dimensional analysis. Ideal Hydrodynamics 13.10J Introduction to Structural Mechanics
+and potential flows. Vorticity and Kelvin's
+Prereq.: 13.021, 13.50, 18.075 (Same subject as 1.573J)
+theorem. Hydrodynamic forces in potential
+Acad Year 1996-97: Not offered Prereq.: 2.001, 18.03
+flow, D'Alembert's paradox, added-mass,
+Acad Year 1997-98: G (Spring) G (Fall)
+slender-body theory. Viscous-fluid flow,
+3-0-9 H-LEVEL Grad Credit 4-0-8 H-LEVEL Grad Credit
+laminar and turbulent boundary layers. Model
+testing, scaling laws. Application of potential Formulation, methodology, and techniques of Fundamental concepts of structural mechanics
+theory to surface waves, energy transport, numerical solutions of problems in marine with applications to marine and civil structures.
+wave/body forces. Linearized theory of lifting hydrodynamics. Rudiments of finite-difference, Governing equations of continuum mechanics.
+surfaces. Experimental project in the towing finite-element, boundary-integral-equation, and Analysis of beams, columns, and shafts. Exact
+tank or propeller tunnel. spectral methods with illustrations of applica- and approximate methods for analysis of statiD. K.-P. Yue tions to this field. Special emphases on treat- cally indeterminate structures, energy
+ment of free-surface and open boundaries, methods, principle of virtual work. Elastic buck-
+13.022 Marine Hydrodynamics 11 and the characteristics and efficacy of the dif- ling of columns. Examples from trusses, buildferent approaches. Projects involve hands-on ings, ships, and cables.
+Prereq.: 13.021, 18.075 development of simple computer programs. N. M. Patrikalakis, J. J. Connor, Jr.
+G (Spring) D. K.-P. Yue
+4-0-8 H-LEVEL Grad Credit
+13.111 Structural Mechanics
+Continuation of 13.021, emphasizing analytical 13.07 Free Surface Hydrodynamics
+Prereq.: 13.10J or permission of instructor
+and computational methods. Ideal flows in two
+Prereq.: 13.022, 18.076 G (Spring)
+and three dimensions. Lifting-surface theory
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+for steady, unsteady, and cavitating hydrofoils.
+Acad Year 1997-98: G (Fall)
+Water waves, loads and motions of bodies in Concept of deformation and equilibrium in con-
+3-0-6 H-LEVEL Grad Credit
+waves, and ship wave resistance. tinuum mechanics and plate and shell strucHydrodynamics of slender bodies, maneuver- Water wave phenomena pertinent to problems tures. Derivation of elastic stress-strain
+ing, strip theory of ship motions. Use of panel in naval architecture and ocean engineering. relations for plate and shell elements. Bending
+programs for computations. Generation, propagation, and diffraction of and buckling of rectangular plates. Nonlinear
+J. N. Newman plane progressive waves. Exciting and restor- geometric effects. Post-buckling and ultimate
+ing forces on floating and submerged bodies. strength of typical stiffened panels used in
+13.03 Responses of Marine Structures to Ship waves and wave resistance. Use of panel naval architecture. General theory of elastic
+Sea Loads methods to compute wave forces on ships and shells and axisymmetric shells. Buckling and
+offshore platforms. Some background in water crushing strength of cylindrical shells.
+Prereq.: 18.075, 13.022 waves equivalent to that covered in 13.022 as- T. Wierzbicki
+G (Spring) sumed. Alternates with 13.09.
+3-0-6 H-LEVEL Grad Credit J. N. Newman 13.112 Safety of Marine Systems
+Hydrodynamic and statistical models describPrereq.: 13.014 or 13.410, 13.111, 13.42
+ing the responses of marine structures in ranG (Spring)
+dom seas. Linear wave-body interactions.
+3-1-8 H-LEVEL Grad Credit
+Nonlinear wave loads on ships, semisubmersibles, and tension-leg platforms. Effects of Marine safety regulation with historical
+wind and current. Linear response statistics. perspective. Ship grounding and collision inGaussian and Rayleigh processes. Extreme cluding damage case studies, methods for
+statistics. Stochastic models for nonlinear protection, and residual strength of damaged
+responses. Markovian processes and Volterra ships. Extreme wave loads, slamming, and ice
+Series. Nonstationary responses and memory damage. Statistical analysis of ship intact
+effects. Case studies include the slamming of stability, subdivision, and damaged stability.
+ships and slow-drift oscillation of compliant Decision-making methods necessary to constructures. sider engineering, maintenance, and operationP. D. Sclavounos al alternatives affecting environmental impact
+of tanker oil spills. Capstone for Marine Safety
+concentration, Program in Marine Environmental Systems.
+A. J. Brown, T. Wierzbicki
+Descriptions of Subjects 421

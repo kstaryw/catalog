@@ -1,0 +1,145 @@
+Department of Mechanical Engineering Course 2
+2.891 Management for Engineers
+Prereq.: -
+G (Spring)
+2-0-4
+Provides an overview of management issues
+for graduate engineers. Topic is approached in
+terms of career options as engineering practitioner, manager, and entrepreneur. Specific
+topics include semantics, finance, TOM, starting a company, and people management.
+Through selected readings from texts and
+cases, focuses on the development of individual skills and management tools. Requires student participation and discussion,
+term paper. Limited to 25 graduate students.
+A. V. d'Arbeloff, T. G. Gutowski
+Polymers and Fibers
+2.921J Deformation and Fracture of
+Polymers
+(Same subject as 3.951J)
+Prereq.: 2.001 or 3.11
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Linear and nonlinear viscoelasticity below and
+above Tg. Phenomenology of plastic deformation in crystalline, and glassy polymers,
+molecular theories for yielding, post yield extensions for intermediate and large strains,
+development of deformation textures,
+anisotropic yield conditions. Fracture in
+polymers, statistical damage accumulation.
+Crazing as a precursor to fracture, kinetics of
+nucleation of crazes, mechanics of craze extension, development and propagation of
+cracks. Fatigue in polymers under both static
+and cyclic loading.
+/. V. Yannas
+2.93J Engineers, Scientists, and Public
+Controversies
+(Same subject as STS.012J)
+Prereq.: -
+U (Spring)
+3-0-9 HASS
+See description under subject STS.012J.
+C. Weiner
+Special Studies
+2.942 Entrepreneurship
+Prereq.: -
+2.943 Engineering Risk-Benefit Analysis
+Prereq.: 18.02
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+G. Apostolakis, A. W. Drake, A. R. Odoni
+2.95J Real-World Ethics
+(Same subject as TPP.09J)
+Prereq.:
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+-
+U (Spring)
+3-0-6 HASS
+Prepares students to recognize ethical
+problems that commonly arise in the
+workplace, and to find, evaluate, use, and
+strengthen institutional supports for acting on
+ethical concerns. Lectures survey issues and
+practices in corporate and research contexts.
+In discussion sections, students develop ethics
+scenarios on issues of their choosing and explore them with representatives of corporations, universities, etc., at which students
+might work or study. Open to juniors and
+seniors. Others by permission.
+C. Whitbeck, L. Bucciarelli
+2.951 Engineering Internship
+Prereq.: -
+2.953J Research Ethics
+(Same subject as 16.954J, TPP.41J)
+Prereq.:
+U (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+Can be repeated for credit
+2.952 Advanced Engineering Internship
+Prereq.: 2.951
+G (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+Can be repeated for credit
+Provides academic credit for undergraduate
+and graduate work assignments for Mechanical Engineering students participating in the
+Engineering Internship Program. Undergraduate participation is approximately six
+months over two summers of practical work in
+manufacturing, engineering, research and
+development at an industrial plant. Graduate
+participation by students admitted to the
+Department's graduate program consists of approximately seven months at industrial plant.
+Credit is awarded after evaluation and approval of the actual work performed.
+P. Griffith
+-
+G (Spring)
+3-0-3
+Examines the norms that govern research, the
+new policies for coping with changing conditions of research. Prepares students to address problems of research ethics and identify,
+evaluate, use, and strengthen institutional supports for acting on such ethical concerns. The
+core responsibilities for integrity of research
+results and for proper crediting of sources and
+collaborators are explored, together with the
+moral problems which, if poorly handled, are liable to create pressures to "cut corners." This
+is a half-term subject, taught in the first half of
+the term.
+C. Whitbeck
+2.954J Ethical Problems in Advanced
+Engineering and Science
+(Same subject as TPP.42J)
+Prereq.: 2.953J, 16.954J, TPP 41J, permission
+of instructor
+G (Spring)
+3-0-3
+Examines moral problems in doctoral and postdoctoral engineering and science, and the
+scope and limits of the individual's or
+professor's opportunities and responsibility to
+address such problems. Topics such as
+responsibility for human subjects, for research
+animals, for safety, for "bugs," for public understanding of technology, for environmental effects, and issues such as rights of privacy (the
+new genetics, data banks), technology transfer, and academic-industrial collaboration. This
+is a half-term subject, taught in the second half
+of the term.
+C. Whitbeck, N. Kiang
+2.96 Management in Engineering
+Prereq.: -
+U (Fall)
+3-0-9
+Introduction of engineering management in
+variety of settings: 1) role of engineering and
+its relationship to other functions, 2)
+managerial tools and concepts used in engineering organizations, 3) practice in handling
+short- and long-term problems, 4) career
+strategy and development. Topics: financial
+principles, management of innovation, engineering project planning and control, human
+factors, career planning, patents, and technical
+strategy. Case method of instruction emphasizes participation in class discussion.
+Juniors, seniors, or graduate students. Elective
+unit distribution: Advanced disciplinary, 6;
+Design, 6. Engineering School-Wide Elective
+subject.
+J.-H. Chun
+Descriptions of Subjects 323

@@ -1,0 +1,82 @@
+Department of Aeronautics and Astronautics Course 16
+16.121 Low-Speed Aerodynamics 16.14 Transition and Turbulence Structures and Materials
+Prereq.: 16.100 Prereq.: 16.110 or 16.121
+G (Fall) G (Spring) 16.20 Structural Mechanics I
+3-0-9 H-LEVEL Grad Credit 4-0-8 H-LEVEL Grad Credit
+Prereq.: 16.030-16.040
+Advanced techniques in fluid mechanics, em- Analysis and description of transitional and tur- U (Fall)
+phasizing both the underlying physics and their buient flows drawing from theoretical, numeri- 5-0-7
+applications to subsonic and transonic flight cal, and experimental approaches. Linear and
+vehicles. Advanced topics in laminar and tur- nonlinear stability theory. Three-dimensional Applies solid mechanics to analysis of highbulent boundary layers. Separation and stall. disturbances and bypass transition. technology structures. Structural design conVorticity kinematics and dynamics. Behavior of Homogeneous turbulence. Kolmogorov theory. siderations. Review of three-dimensional
+strong vortices and vortex bursting. Unsteady Structure of turbulence shear flows, including elasticity theory; stress, strain, anisotropic
+flows. Low- and high-aspect ratio wings. the dynamics of coherent structures in near- materials, heating effects. Two-dimensional
+Slender body theory. Transonic flow. wall boundary layers. Turbulence modeling. plane stress and plane strain problems. TorM. T. Landahl Other topics of current research interest. sion theory for arbitrary sections. Bending of
+K. S. Breuer unsymmetrical section and mixed material
+beams. Bending, shear, and torsion of thin-
+16.122 High-Speed Aerodynamics
+wall shell beams. Buckling of columns and
+16.150 Unsteady Fluid Mechanics
+Prereq.: 16.100 stability phenomena. Introduction to structural
+G (Spring) Prereq.: 16.121 dynamics. Exercises in the design of general
+4-0-8 H-LEVEL Grad Credit Acad Year 1996-97: G (Fall) and aerospace structures.
+Acad Year 1997-98: Not offered H. L. McManus
+Aerodynamic loading on wings of high- and
+3-0-9 H-LEVEL Grad Credit
+low- aspect ratios, and on slender bodies at supersonic speeds. Minimum drag. Transonic Fluid mechanics of fixed airfoils, wings, bodies, 16.202 Manufacturing with Advanced
+flow. Hypersonic inviscid flow. Boundary layers and cascades in unsteady potential flows; or Composite Materials
+at high Mach numbers moving airfoils, wings, bodies, and cascades in Prereq.:
+M. T. Landahl a uniform stream. Methods (analytical and
+numerical) for predicting the pressure on un-
+16.123 Gases and Fluids in the Space steadily moving bodies in subsonic, transonic,
+Environment and supersonic flow. A limited discussion of
+viscous effects, boundary layers, aerodynamic
+Prereq.: 16.100, 6.041, 8.03 noise generation, flow instability, and separaG (Fall) tion introduced where appropriate. Alternate
+3-0-9 H-LEVEL Grad Credit years.
+The space environment. Scales, mean free M. T. Landahl
+path. Nondimensional numbers. Temperature
+and transport coefficients. Kinetic theory and 16.160 Computational Fluid Dynamics
+statistical mechanics (Boltzmann equation,
+Prereq.: 16.90 or 18.086, 16.100
+Maxwell-Boltzmann distribution, entropy). ConG (Spring)
+tinuum equations (boundary conditions, slip,
+3-0-9 H-LEVEL Grad Credit
+reacting surfaces). Planetary atmospheres.
+Electromagnetic environment. Reentry (heat Computational methods for compressible invisbalance). Gravity-free flows. Reaction kinetics. cid and viscous flow. Euler and Navier-Stokes
+D. E. Hastings equations in general nonorthogonal, curvilinear coordinates, grid generation, struc-
+16.13 Aerodynamics of Viscous Fluids tured and unstructured meshes. Finitedifference, finite-volume, finite-element soluPrereq.: 16.110, or 16.121 or 16.122 tion techniques. Draws applications from interG (Fall) nal and external flow problems in aerospace
+3-0-9 H-LEVEL Grad Credit vehicles. Assignments requiring use of digital
+Boundary layers as rational approximations to computer.
+the solutions of exact equations of fluid mo- J. Peraire
+tion. Physical parameters influencing laminar
+and turbulent aerodynamic flows and transition. Effects of compressibility and heat conduction. Influence of boundary layers on outer
+potential flow and appropriate numerical solution techniques. Numerical exercises require
+familiarity with FORTRAN or similar language.
+M. Drela
+-
+U (Fall)
+1-3-2
+Introduces the methods used to manufacture
+parts made of advanced composite materials
+in the Technology Laboratory for Advanced
+Composites. Students gain hands-on experience by fabricating, machining, instrumenting, and testing graphite/epoxy specimens.
+Students also design, build, and test a composite structure as part of a design contest.
+Lectures supplement laboratory sessions with
+background information on the nature of composites, curing, composite machining, secondary bonding, and the testing of composites.
+S. M. Spearing
+16.210 Structural Mechanics I
+Prereq.: 16.20
+G (Spring)
+4-0-8
+Introduces analysis techniques for complex
+structures and the role of material properties in
+structural design, failure, and longevity. Energy
+principles in structural analysis and applications to statically-indeterminate structures and
+solid continua. Matrix and finite-element
+methods of structured analysis including bars,
+beams, and two-dimensional plane stress elements. Structural materials and their properties; metals, composites. Modes of structural
+failure. Criteria for yielding and fracture. Crack
+formation and fracture mechanics. Fatigue and
+design for longevity. Other failure modes.
+Structural design project.
+N. W. Hagood
+Descriptions of Subjects 455

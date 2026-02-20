@@ -1,0 +1,55 @@
+Department of Physics Course 8
+8.614J Introduction to Plasma 8.641 Physics of High-Energy Nuclear and Particle Physics
+Physics I1 Plasmas I
+(Same subject as 6.652J, 22.612J) Prereq.: 8.613J 8.701 Introduction to Nuclear and Particle
+Prereq.: 6.651 J or 8.613J or 22.61 1J Acad Year 1996-97: Not offered Physics
+G (Spring) Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit Prereq.: 8.323
+G (Fall)
+Linear waves and instabilities in magnetized 8.642 Physics of High-Energy 3-0-9 H-LEVEL Grad Credit
+plasma; solutions of Vlasov-Maxwell equations Plasmas II
+in homogeneous and inhomogeneous plas- The phenomenology and experimental foundamas; conservation principles for energy and Prereq.: 8.613J tions of particle and nuclear physics; the funmomentum; quasi-linear theory and nonlinear Acad Year 1996-97: Not offered damental forces and particles, composites.
+stabilization; solitons and coherent nonlinear Acad Year 1997-98: G (Fall) Interactions of particles with matter, detectors.
+phenomena; collisions and discrete particle ef- 3-0-9 H-LEVEL Grad Credit SU(2), SU(3), models of mesons and baryons.
+fects; fluctuations in a stable plasma; Fokker- Basic concepts of plasmas, with temperatures QED, weak interactions, parity violation, leptonPlanck equation and transport phenomena. of thermonuclear interest, relevant to fusion re- nucleon scattering, structure functions. QCD,
+P. Catto search and astrophysics. Microscopic gluon field and color. W and Z fields, electrotransport processes due to inter-particle col- weak unification, the CKM matrix. Nucleon-
+8.624 Plasma Waves lisions and collective modes (e.g., nucleon interactions, properties of nuclei,
+microinstabilities). Relevant macroscopic single and collective particle models. Electron
+Prereq.: 8.613J transport coefficients (electrical resistivity, ther- and hadron interactions with nuclei. Relativistic
+Acad Year 1996-97: Not offered mal conductivities, particle "diffusion"). heavy ion collisions, transition to quark-gluon
+Acad Year 1997-98: G (Spring) Runaway and slide-away regimes. Magnetic plasma.
+3-0-9 H-LEVEL Grad Credit reconnection processes and their relevance to L. Osborne
+Comprehensive theory of electromagnetic experimental observations. Radiation emission
+waves in a magnetized plasma. Wave from inhomogeneous plasmas. Conditions for 8.711 Nuclear Physics
+propagation in cold and hot plasmas. Energy thermonuclear burning and ignition (D-T and Prereq.: 8.321, 8.701
+flow. Absorption by Landau and cyclotron "advanced" fusion reactions, plasmas with G (Spring)
+damping and by transit time magnetic pumping polarized nuclei). Role of "impurity" nuclei. 4-0-8 H-LEVEL Grad Credit
+(TTMP). Wave propagation in inhomogeneous "Finite-p" (pressure) regimes and ballooning
+plasma: accessibility, WKB theory, mode con- modes. Convective modes in configuration Experimental foundations and theory of the
+version, connection formulae, Budden tunnel- and velocity space. Trapped particle regimes. structure of nucleons and nuclei. Nucleon exing. Applications to RF plasma heating, wave Nonlinear and explosive instabilities. Interac- cited states, form factors. Nucleon-nucleon inpropagation in the ionosphere and laser-plas- tion of positive and negative energy modes. teraction, few body systems, mesonic current
+ma interactions. Wave propagation in toroidal Each subject can be taken independently. and quark effects. Electromagnetic and hadron
+plasmas, and applications to ion cyclotron B. Coppi scattering from nucleons and nuclei with em-
+(ICRF), electron cyclotron (ECRH), and lower phasis on spin degrees of freedom. Manyhybrid (LHH) wave heating. Quasi-linear 8.681, 8.682 Selected Topics in Fluid and body physics, nuclear saturation, shell and
+theory and applications to RF current drive in Plasma Physics collective models, correlations, electromagtokamaks. Extensive discussion of relevant ex- netic transitions, giant resonances, sum rules,
+perimental observations. Prereq.: 8.613J weak interactions. Inclusive and exclusive
+M. Porkolab, P. Bonoli G (Fall, Spring) processes at intermediate and high energies,
+3-0-9 H-LEVEL Grad Credit quark degrees of freedom. Relativistic heavy
+Can be repeated for credit ion physics, high-temperature QCD, phase
+Presentation of topics of current interest, with transition, quark-gluon plasma. Nuclear
+content varying from year to year. Subject not astrophysics.
+routinely offered; given when interest is indi- E. Lomon
+cated.
+Information: M. Porkolab. 8.712 Advanced Topics in Nuclear
+Physics
+Prereq.: 8.711 or permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+Can be repeated for credit
+Medium-energy physics (Spring 1996):
+Nuclear and nucleon structure and dynamics
+studied with medium- and high-energy probes
+(neutrinos, photons, electrons, nucleons,
+pions, and kaons). Studies of the weak and
+strong interactions.
+Information: T. W. Donnelly.
+Descriptions of Subjects 377

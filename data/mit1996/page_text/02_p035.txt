@@ -1,0 +1,160 @@
+School of Engineering
+6.931 Development of Inventions and
+Creative Ideas
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Role of the engineer as patent expert and as
+technical witness in court and patent interference and related proceedings. Rights and
+obligations of engineers in connection with
+educational institutions, government, and large
+and small businesses. Various manners of
+transplanting inventions into business operations, including development of New England
+and other US electronics and biotech industries and their different types of institutions.
+American systems of incentive to creativity
+apart from the patent laws in the atomic energy and space fields. For graduate students
+only; others see 6.901.
+R. H. Rines
+6.936 Entrepreneurship
+Prereq.: -
+6.952 Graduate VI-A Internship
+Prereq.: 6.951
+G (Fall, Spring, Summer)
+0-12-0 [P/D/F]
+Provides academic credit for graduate students who require an additional term at the
+company to complete the Graduate Assignment of the Department's VI-A Internship Program. This academic credit is for registration
+purposes only and cannot be used toward fulfilling the requirements of any degree program.
+Enrollment limited to graduate students participating in the VI-A Internship Program.
+M. Zahn
+6.961 Introduction to Research in Electrical
+Engineering and Computer Science
+Prereq.:
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+6.938 Engineering Risk-Benefit Analysis
+Prereq.: 18.02
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+A. W. Drake, A. R. Odoni, G. Apostolakis
+6.946J Variational Mechanics: A
+Computational Approach
+(Same subject as 1 2.620J, 8.351 J)
+Prereq.: 8.01, 18.03, 6.001 or equivalent
+G (Fall)
+3-3-6 H-LEVEL Grad Credit
+See description under subject 12.620J.
+G. J. Sussman, J. Wisdom
+6.951 Graduate VI-A Internship
+Prereq.: 6.922
+G (Fall, Summer)
+0-12-0 [P/D/F]
+Provides academic credit for a Graduate Assignment of graduate students at companies
+affiliated with the Department's VI-A Internship
+Program. Enrollment limited to graduate students participating in the VI-A Internship Program.
+M. Zahn
+-
+G (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Opportunity to become involved in graduate research, under guidance of a staff member, on
+a problem of mutual interest to student and supervisor. Recommended for all entering fulltime graduate students in the Department of
+Electrical Engineering and Computer Science.
+Individual programs subject to approval of
+professor in charge. Enrollment restricted to
+regular graduate students in Electrical Engineering and Computer Science. Normal
+registration is for 12 units.
+F. R. Morgenthaler
+6.962-6.969 Special Studies in Electrical
+Engineering and Computer Science
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Opportunity for study of graduate-level topics
+related to electrical engineering and computer
+science but not included elsewhere in the curriculum. Registration under this subject normally used for situations involving individual study
+(under supervision of a faculty member) of
+topics of mutual interest to student and supervisor, but may, when appropriate, be used for
+small study groups. Normal registration is for
+12 units. Registration subject to approval of
+professor in charge.
+F. R. Morgenthaler
+6.971-6.979 Special Subjects in Electrical
+Engineering and Computer Science
+Prereq.: -
+6.980 Teaching Electrical Engineering
+and Computer Science
+Prereq.:
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Opportunity for group study of advanced subjects related to electrical engineering and computer science not otherwise included in
+curriculum. Offerings are initiated by members
+of EECS faculty on an ad hoc basis, subject to
+Departmental approval.
+F. R. Morgenthaler
+-
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+For qualified students interested in gaining
+teaching experience. Classroom, tutorial, or
+laboratory teaching under the supervision of a
+faculty member. Enrollment limited by
+availability of suitable teaching assignments.
+F. C. Hennie
+6.981-6.989 Teaching Electrical
+Engineering and Computer Science
+Prereq.: -
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+For Teaching Assistants in Electrical Engineering and Computer Science, in cases where
+teaching assignment is approved for academic
+credit by the Department.
+F. C. Hennie
+6.991-6.999 Research in Electrical
+Engineering and Computer Science
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+For Research Assistants in Electrical Engineering and Computer Science, in cases where the
+assigned research is approved for academic
+credit by the Department. Hours arranged with
+research supervisor. F. R. Morgenthaler
+6.UR Undergraduate Research in Electrical
+Engineering and Computer Science
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+Extended participation in the work of a faculty
+member or research group, including independent study of the literature, direct involvement in the group's research, and project work
+under an individual faculty member. Research
+is arranged by mutual agreement between the
+student and a member of the faculty of the
+Department of Electrical Engineering and Computer Science, and may continue over several
+terms. Forms and instructions for the initial letter of intent and final summary report are available in the Department Undergraduate Office.
+Grading P/D/F only.
+R. D. Thornton
+6.ThG Graduate Thesis
+Prereq.: -
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research leading to the
+writing of an M.Eng., S.M., E.E., E.C.S., Ph.D.,
+or Sc.D. thesis; to be arranged by the student
+and an appropriate MIT faculty member.
+F. R. Morgenthaler
+364 Chapter Vill

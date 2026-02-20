@@ -1,0 +1,74 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.805 Laboratory in Physical 12.810 Dynamics of the Atmosphere 12.814 Global Transport Modeling
+Oceanography
+Prereq.: 12.800 Prereq.: Permission of instructor
+Prereq.: 12.808 G (Spring) Acad Year 1996-97: Not offered
+G (Spring) 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Fall)
+2-2-5 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Review of equations of motion. Zonally
+An introduction to standard data analysis averaged budgets of heat, momentum, and The theory and practice of modeling globalmethods including time series analysis, objec- water vapor. Review of historical under- scale transport of trace gases is reviewed,
+tive mapping, empirical orthogonal functions, standing of the maintenance of zonal winds. primarily through reading and discussing the
+and dynamic analysis of hydrographic data. Symmetric models of the general circulation. relevant literature. Taught in two parts: twoEmphasis on working with data in a computer Introduction to waves and eddies in nonrotat- dimensional (longitudinally averaged) models,
+laboratory setting using packaged software. ing and rotating fluids: specifically internal mostly but not exclusively concentrating on
+Where appropriate, comparison is made with gravity waves, tides, Rossby waves, barotropic models of stratospheric ozone, and threesimple models. Some attention given to the in- and baroclinic instabilities. The interaction of dimensional models of tropospheric gases. Emstruments and algorithms used to acquire the these asymmetric components of atmospheric phasizes transport rather than chemistry, and
+data. motion with the zonally averaged circulation the conceptual basis for and application of
+(Woods Hole Staff): B. Owens discussed. Emphasis on specific observed such models, rather than their detailed
+phenomena. numerics.
+12.806 Atmospheric Physics and R. S. Lindzen R. A. Plumb
+Chemistry I
+12.811 Tropical Meteorology 12.816 Numerical Modeling of the
+Prereq.: 5.61, 18.075
+Atmosphere
+G (Fall) (Subject meets with 12.337)
+3-0-9 H-LEVEL Grad Credit Prereq.: 12.803 Prereq.: 12.803, 12.810
+G (Spring) Acad Year 1996-97: Not offered
+Introduces atmospheric physics and chemistry.
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Spring)
+Transfer of solar and thermal radiation and
+3-0-9 H-LEVEL Grad Credit
+radiative heating. Atmospheric thermal struc- A description of the large-scale circulation systure, differential heating, and energy budget. tems of the tropical atmosphere and analysis Presentation of the numerical methods used in
+Atmospheric chemistry including kinetics, con- of the dynamics of such systems. Topics in- atmospheric models: grid point methods, time
+tinuity, transport, and chemical-radiative- clude: interaction between the convective differencing schemes, spectral transform
+dynamical feedbacks. Application to ozone scales and the large-scale flow, importance of methods, solution to elliptic and parabolic
+layer and Antarctic ozone hole. moisture and latent heat release; equatorial equations. Hierarchy of numerical prediction
+R. G. Prinn, M. J. Molina waves; the Hadley circulation; monsoons; models. Representation of physical processes
+theory of the response of the tropical atmos- in atmospheric models. Objective analysis and
+12.807 Atmospheric Physics and phere to localized sea-surface temperature initialization. Discussions on the use of numeriChemistry 11 anomalies; the Walker circulation; cal models in weather and climate prediction.
+mechanisms coupling tropics with midlatitudes; E. Chang
+Prereq.: 12.806 intraseasonal oscillations; El Niho/Southern
+G (Spring) Oscillation; easterly waves; tropical cyclones. 12.818 Introduction to Atmospheric Data
+3-0-9 H-LEVEL Grad Credit R. A. Plumb and Synoptic Meteorology
+Radiative transfer including Mie theory scatter- (Revised Units)
+ing and non-grey effects. Physics of green- 12.812 General Circulation of the Earth's
+(Subject meets with 12.338)
+house effect, chemistry of greenhouse gases Atmosphere
+Prereq.: 12.800
+and models for warming. Physics and
+Prereq.: 12.810 or 12.803 G (Spring)
+chemistry of clouds. Chemistry of the tropoG (Fall) 3-3-6 H-LEVEL Grad Credit
+sphere on urban, regional, and global scales.
+3-0-9 H-LEVEL Grad Credit
+Satellite remote sensing and inversion Provides a general introduction to meteorologimethods. Diagnostic studies and discussion of their im- cal data and analysis techniques, and their
+M. J. Molina, R. G. Prinn plications for the theory of the structure and use in the MIT Synoptic Laboratory to study
+general circulation of the Earth's atmosphere. the phenomenology and dynamics of large-
+12.808 Introduction to Observational Includes some discussion of the validation and scale atmospheric flow. Balance concepts as
+Physical Oceanography use of general circulation models as atmos- applied to the dynamics of frontal and synoptic
+pheric analogs. scales are illustrated using real-time upper air
+Prereq.: Permission of instructor P. H. Stone, R. D. Rosen and surface station data and gridded analyzed
+G (Fall) fields. Advanced meteorological software pack-
+3-0-6 H-LEVEL Grad Credit 12.813 Atmospheric Convection ages are used to access, manipulate, and
+An introduction to the results and techniques graphically display the data. Statistical
+of observations of the ocean in the context of Prereq.: 12.800 methods such as optimal interpolation, EOF,
+its physical properties and dynamical con- Acad Year 1996-97: G (Spring) and time series analyses are discussed.
+straints. Emphasis on large-scale steady cir- Acad Year 1997-98: Not offered L. Illari, E. Chang
+3-3-9 H-LEVEL Grad Credit
+culation and the time-dependent processes
+that contribute to it. Includes the physical set- Introduction and theory of dry convection over
+ting of the ocean, atmospheric forcing, applica- isolated heat sources. Basic theory of Rayleigh
+tion of conservation laws, description of convection. Extensive treatment of the therwind-driven and thermohaline circulation, eddy modynamics of moist and cloudy air. Observaprocesses, and interpretive techniques. tions and dynamics of isolated convective
+(Woods Hole Staff): N. Hogg clouds; turbulence in saturated and partly
+saturated mixtures. Moist- and dry-convective
+boundary layers. Organization of moist convection on larger scales and interaction of convective ensembles with the large-scale
+environment.
+K. A. Emanuel
+Descriptions of Subjects 417

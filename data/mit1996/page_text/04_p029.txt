@@ -1,0 +1,112 @@
+School of Engineering
+13.871 Wave Scattering by Rough Surfaces 13.951 Transport, Fate, and Effects of
+and Randomly Inhomogenous Media Ocean Pollutants
+Prereq.: Permission of instructor Prereq.: 13.012 or equivalent
+Acad Year 1996-97: G (Spring) G (Fall)
+Acad Year 1997-98: Not offered 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Provides the background for quantitatively
+An advanced-level subject designed to give predicting and estimating the distribution of polthe student working knowledge of current tech- lution, its by-products, and some of its effects
+niques in scattering theory as applied to rough on marine ecosystems, starting with informasurfaces and randomly inhomogenous media. tion about the pollution source. Topics include:
+Major application of theory presented is to equations of motion for ocean flows, ocean curocean acoustics, but can be used in other rents, molecular and turbulent diffusion, fluid
+acoustic and electromagnetic applications. In- mechanical transport models, seawater propercludes basics of scattering theory, volume scat- ties and chemistry, important chemicals in the
+tering by discrete scatters (aerosols), ocean, sediment-chemical interactions, chemiscattering by rough surfaces, satellite remote cal-biological interactions, ocean contaminasensing using rough-surface scattering, and tions and their biological consequences.
+acoustic scattering from ocean internal waves. J. H. Milgram; Woods Hole Staff
+(Woods Hole Staff): J. F. Lynch, D. J. Tang,
+T. Stanton 13.98J Environmental Management of the
+Coast
+13.92 Marine Policy
+(Same subject as 11.365J)
+Prereq.: Permission of instructor Prereq.: Permission of instructor
+G (Fall) G (Spring)
+3-0-3 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Features major ocean uses and their as- Methods and concepts introduced through
+sociated national and international policy is- case studies of management options for meetsues through the vehicles of (a) policy analysis ing coastal environmental challenges. Includes
+and (b) case studies demonstrating relation- background in physical and ecological coastal
+ships among ocean uses and technologies, processes to provide foundation for underand their relationship to politics and economic standing natural process change and the iminfrastructure. Cases focus on living and non- plications of human interventions which stretch
+living resource management problems, and or alter natural limitations. Cases focus on inpollution and conservation issues of environ- stitutional and regulatory frameworks for three
+mental management. Taught first half of term environmental themes: 1) impacts of global
+in coordination with 13.94. climate change, 2) coastal pollution and
+J. T. Kildow biodiversity, 3) conflicting uses.
+J. T. Kildow
+13.94 Law for Ocean Systems
+13.990J Oceanographic Systems I Prereq.: Permission of instructor
+G (Fall) (Same subject as 1.697J)
+3-0-3 H-LEVEL Grad Credit Prereq.:
+Legal framework for managing ocean resources and systems, combining public law of the
+sea, admiralty, and the US regulatory law.
+OCS, tanker, shipping, and environmental
+regimes. Law for new ocean technologies.
+Questions of jurisdiction and implementation
+arising from new economic zones or unilateral
+extensions. Principles governing applicability
+of civil and criminal law offshore. Focus on
+relationship of law and technology. Taught
+second half of term in coordination with 13.92.
+J. D. Nyhart
+-
+G (Summer)
+2-4-6
+Orientation subject for students entering the
+MIT-Woods Hole Oceanographic Institution
+program in oceanographic engineering.
+Oceanographic experiments of research interest in Cape Cod waters carried through experiment design, instrumentation design,
+construction and testing, deployment, data
+taking and interpretation of results. Research
+teams made up of students in 13.990J and
+13.991J together. Participation in summer
+seminars at WHOI. Given at Woods Hole
+Oceanographic Institution.
+(Woods Hole Staff), J. F Lynch
+13.991J Oceanographic Systems II
+(Same subject as 1.698J)
+Prereq.: -
+13.998 Principles of Oceanographic
+Instrument Systems - Sensors and
+Measurements
+Prereq.: 2.03J/13.013J, 18.075
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-3-6 H-LEVEL Grad Credit
+Introduces theoretical and practical principles
+of design of oceanographic sensor systems.
+Transducer characteristics for acoustic, current, temperature, pressure, electric, magnetic,
+gravity, salinity, velocity, heat flow, and optical
+devices. Limitations on these devices imposed
+by ocean environment. Signal conditioning and
+recording; noise, sensitivity, and sampling
+limitations; standards. Principles of state-of-theart systems being used in physical oceanography, geophysics, submersibles, acoustics
+discussed in lectures by experts in these
+areas. Laboratory project required.
+(Woods Hole Staff): A. Williams, J. Irish,
+C. Mazel (MIT)
+13.999J Special Projects in Oceanographic
+Engineering
+(Same subject as 1.699J)
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Special problems in oceanographic engineering, carried out under supervision of members
+of the staff of the Woods Hole Oceanographic
+Institution. Given at Woods Hole
+Oceanographic Institution.
+(Woods Hole Staff)
+13.ThG Graduate Thesis
+Prereq.:
+G (Summer)
+2-4-6
+Continuation of 13.990J during second summer term in the MIT-WHOI Joint Program in
+Oceanographic Engineering. Given at Woods
+Hole Oceanographic Institution.
+(Woods Hole Staff)
+- G (Fall, lAP, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of an S.M., Ph.D., or Sc.D. thesis; to be
+arranged by the student and an appropriate
+MIT faculty member. Consult Department
+Headquarters.
+Staff
+426 Chapter Vill

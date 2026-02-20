@@ -1,0 +1,126 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.335 The Ocean in Climate: Physics and Planetary Science and Astronomy
+Chemistry
+Prereq.: 18.03, 5.60, or equivalents 12.400 The Solar System
+U (Fall)
+3-0-9 Prereq.: 8.01
+U (Fall)
+Provides the background in physical and 3-0-9 REST
+chemical oceanography necessary to discuss
+climate problems in light of modern oceanic Introduction to the study of the solar system
+knowledge. Observations of the ocean and with emphasis on the latest spacecraft results.
+their physical interpretation in terms of tur- Subject covers basic principles rather than
+bulent flow. Implications of recent progress in detailed mathematical and physical models.
+general circulation modeling. Oceanic carbon Topics include an overview of the solar syssystem and global carbon cycle: chemical equi- tem, planetary orbits, rings, planetary formalibrium, biological/nutrient controls, radioactive tion, meterorites, asteroids, comets, planetary
+and stable carbon isotopes. Introduction to surfaces and cratering, planetary interiors,
+chemical modeling. Fate of fossil fuel C02. planetary atmospheres, and life in the solar
+Past variability of circulation and carbon sys- system.
+tem from ice and sediment cores. Intended for R. P. Binzel
+advanced undergraduates and beginning
+graduates. 12.401 Beyond the Solar System
+E. Boyle, C. Wunsch
+Prereq.:
+12.337 Tropical Meteorology
+(Subject meets with 12.811)
+Prereq.: 12.331
+U (Spring)
+3-0-9
+See description under subject 12.811.
+R. A. Plumb
+12.338 Introduction to Atmospheric Data
+and Synoptic Meteorology
+(Revised Units)
+(Subject meets with 12.818)
+Prereq.: 12.003 and 12.330J or 12.331
+U (Spring)
+3-3-6
+See description under subject 12.818.
+L. /llari, E. Chang
+12.340J Atmospheric Chemistry
+(Subject meets with 5.23J, 5.68)
+Prereq.: 5.60
+U (Spring)
+3-0-9
+Describes the principles that govern the chemical behavior of terrestrial and planetary atmospheres. Reviews chemical reactions and
+biogeochemical cycles that control the abundance of trace species in the troposphere and
+stratosphere. Emphasis is placed on the potentially damaging effects of human activity on the
+chemical balance of the atmosphere. Covers
+stratospheric ozone depletion, regional and
+local photochemical smog, and greenhouse
+gases.
+M. J. Molina, J. /. Stein feld
+-
+U (Spring)
+2-2-5
+Our solar system's place in the universe and
+how we know it, taught by a combination of
+conventional lectures and hands-on work with
+small telescopes and computers. The formation, evolution, and death of stars and
+galaxies. The origins of the chemical elements.
+Quasars and black holes. Radiation and
+gravitation. Relativity and cosmology. The
+physics of modern astronomical observations
+C. C. Counselman
+12.409 Hands-On Astronomy: Observing
+Stars and Planets
+(New)
+Prereq.: -
+12.410J Observational Techniques of
+Optical Astronomy
+(Same subject as 8.287J)
+Prereq.: One subject in Astronomy or
+Astrophysics
+U (Fall)
+2-4-6 Institute LAB
+Fundamental physical and optical principles
+used for astronomical measurements at visible
+wavelengths and practical methods of
+astronomical observations. Topics: astronomical coordinates, time, geometrical optics, telescopes, photon counting, signal-to-noise
+ratios, data analysis (including least-squares
+model fitting), limitations imposed by the
+Earth's atmosphere on optical observations,
+CCD, photometry, spectroscopy, and time
+variability. Project at Wallace Astrophysical Observatory.
+J. L. Elliot
+12.411 Astronomy Field Camp
+Prereq.: 12.410J or 8.287J
+U (IAP)
+0-6-3 [P/D/F]
+Can be repeated for credit
+Supervised research at Lowell Observatory in
+Flagstaff, Arizona. Individual projects using the
+Lowell 1.1 meter and 1.8 meter telescopes. Extensive data analysis. Written report required.
+Enrollment limited.
+J. L. Elliot
+12.412 Advanced Astronomical Techniques
+Prereq.: 12.410J or 8.287J; permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+U (Fall) 3-0-9
+0-6-0 [P/D/F] Can be repeated for credit
+Background for and techniques of visual obser- Students learn advanced astronomical technivation, astrophotography, electronic imaging, ques such as image processing of data oband spectroscopy of the Moon, planets, satel- tained with charged-coupled device (CCD)
+lites, stars, and brighter deep-space objects. detectors and are responsible for developing
+Weekly observing sessions using 8-inch and carrying out a short-term research project.
+diameter telescopes outdoors when weather The primary tool is the IRAF image analysis
+permits. Indoor sessions introduce needed software package developed by the National
+skills. Introduction to contemporary observa- Optical Astronomical Observatories. Regular
+tional astronomy including astronomical com- seminar meetings introduce image-processing
+puting, image and data processing, and how techniques and include discussion of the
+astronomers work. Student must maintain a progress of research projects. Requires a writcareful and complete written log which is ten report on the project.
+graded. (Limited enrollment. Consumes an en- R. P. Binzel
+tire evening each week; attendance mandatory.)
+12.421 Exploration of the Solar System
+C. C. Counselman, S. SI/van
+Prereq.: 8.03; 12.004
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-0-9
+Spacecraft and Earth-based remote sensing
+techniques used to study the Earth and other
+planets, satellites, rings, minor planets, and
+comets. Techniques covered include
+ultraviolet, optical, and infrared photometry;
+radar; stellar and radio occultations; spectroscopy, and in situ measurements. Recent
+results from spacecraft emphasized.
+R. P. Binzel, J. L. Elliott, C. C. Counselman
+Descriptions of Subjects 409

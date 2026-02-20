@@ -1,0 +1,88 @@
+Department of Civil and Environmental Engineering Course 1
+1.107 Aquatic Chemistry Laboratory
+Prereq.: 5.11
+U (Spring)
+2-6-4 Institute LAB
+Field sampling and laboratory analysis techniques for determining chemical (e.g., salinity,
+metals, 02, nutrients, haloforms, petroleum
+hydrocarbons) and biological (e.g., chlorophyll,
+phytoplankton growth rates) parameters in
+aquatic samples. Both wet-chemical and instrumental (e.g., atomic absorption
+spectrometry and gas chromatography)
+methods. Field trips are taken to acquire "real
+world" samples for analysis and interpretation
+of the data in terms of water quality and the
+processes affecting it. An independently
+designed final project is required. Enrollment
+limited to 16 per section.
+H. F Hemond, S. Frankel
+1.108 Environmental Fluid Mechanics
+Laboratory
+Prereq.: -
+1.120 Information Technology M.Eng. 1.126J Pattern Recognition and Analysis
+Project
+(Same subject as MAS.622J) (Revised Units)
+Prereq.: A working knowledge of probability
+Prereq.: 1.124J or knowledge of C++; limited theory and linear algebra
+to Course 1 M.Eng. students Acad Year 1996-97: Not offered
+G (Fall, IAP) Acad Year 1997-98: G (Spring)
+2-2-5 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Core requirement for Information Technology See description under subject MAS.622J.
+M.Eng. program. Introduction to software R. W. Picard, A. Bobick
+design methodology focusing on the strategic
+and the analysis phases, which lead into the 1.127J Design and Implementation of
+design phase. Students develop the feature Computer-Aided Engineering Systems
+set and functional specifications for a software
+product. Involves assessment of leading-edge (Same subject as 2.157J, 13.471J)
+products related to networks, CAE, GUIs, and Prereq.: Permission of instructor
+groupware. Example projects might be a Web G (Fall)
+browser for engineering information (3D CAD 3-2-7 H-LEVEL Grad Credit
+etc.) or an information filter agent for net- See description under subject 2.157J.
+worked databases. This is the Information D. C. Gossard, N. M. Patrikalakis
+Technology M.Eng. program project subject.
+Students must also register for 1.125 during 1.128J Computational Geometry
+the spring term.
+J. R. Williams (Same subject as 13.472J, 2.158J)
+Prereq.: 13.471J/1 .1 27J/2.157J or 6.837
+U (Fall) 1.124J Computer Aided Engineering I Acad Year 1996-97: Not offered
+0-4-8 Institute LAB Acad Year 1997-98: G (Spring)
+Credit cannot also be received for 1.106 (Same subject as 2.159J, 13.470J) 3-0-9 H-LEVEL Grad Credit
+Prereq.: 1.00 and knowledge of C
+Extends the subject material of 1.106 by includ- G (Fall) See description under subject 13.472J.
+ing additional laboratory experiments and one 3-3-6 H-LEVEL Grad Credit N. M. Patrikalakis, D. C. Gossard
+or more field experiments in topics of current
+interest in environmental fluid mechanics. Also Foundations subject in modern software
+1.129 Information Content of the
+includes end-of-term group design project. development techniques for numerical algoDesign-Development Process
+E. E. Adams, H. M. Nepf rithms; the use of data structures and associated algorithms related to numerical Prereq.: 1.12 and 1.432 or permission of inanalysis, geometric modeling, and visualiza- structor
+tion; basic problem-solving techniques using Acad Year 1996-97: Not offered
+computational methods. Object-oriented Acad Year 1997-98: G (Fall)
+software design (using C++); data structures 3-0-9 H-LEVEL Grad Credit
+Engineering Information Systems
+sorting and searching algorithms; string
+Focuses on the identification, representation,
+and Computation processing, geometric, and graph algorithms; and use of information developed, and exnumerical and hierarchical analysis techniplores the assumptions, concepts, and proceques; visualization techniques. Foundation for
+1.12 Computer Models of Physical and dures which influence decision making during
+more in-depth exploration of computational
+Engineering Systems the design-development process. Examines
+geometry, geometric modeling, finite element
+how new information influences the generation
+Prereq.: 18.03 or 18.034, 1.00 methods, and network methods. Core requireof changes during the design-development
+U (Spring) ment for Information Technology M.Eng. pro- process and how that information can be used
+3-1-8 gram. for managing the changes. Considers the comJ. R. Williams
+Engineering School-Wide Elective Subject. plexity of distributed decision making accordDescription given at end of this chapter in ing to professional expertise, time difference,
+SWE section on page 562. 1.125 Computer Aided Engineering III: and geographical areas. Group projects emF. PeFna-Mora Software Design and Development phasize the use of case studies and the
+Prereq.: 1.1 24J or Knowledge of C++ development of information management sysG (Spring) tems. Mixed groups formed with information
+technology, engineering, and management stu-
+3-3-6 H-LEVEL Grad Credit
+dents.
+Software design and development is con- F. Perta-Mora
+cerned with long-term, large-scale programming projects. Subject introduces software
+design techniques through the development of
+a typical CAE package. Lectures cover object- See also 1.204,1.571, 1.70.
+oriented software design techniques including
+OMT, Rational Rose, Patterns, etc. and
+domain-specific concepts needed to implement the CAE package. Core requirement for
+Information Technology M.Eng. Program.
+J. R. Williams
+Descriptions of Subjects 301

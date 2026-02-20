@@ -1,0 +1,140 @@
+Department of Electrical Engineering and Computer Science Course 6
+6.868J The Society of Mind 6.876J Advanced Topics in
+Cryptography
+(Same subject as MAS.731J)
+Prereq.: Must have read The Society of Mind, (Same subject as 18.426J)
+permission of instructor Prereq.: 6.875J
+G (Spring) Acad Year 1996-97: G (Spring)
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Introduction to a theory that tries to explain
+Can be repeated for credit
+how minds are made from collections of
+simpler processes. Treats such aspects of Recent results in cryptography and faultthinking as vision, language, learning, reason- tolerant distributed computing presented and
+ing, memory, consciousness, ideals, emotions, discussed. Lectures by instructor, invited
+and personality. Incorporates ideas from speakers, and students. Alternate years.
+psychology, artificial intelligence, and com- S. Goldwasser
+puter science to resolve theoretical issues
+such as wholes vs parts, structural vs function- 6.891-6.899 Special Topics in the Computer
+al descriptions, declarative vs procedural repre- Sciences
+sentations, symbolic vs connectionist models,
+and logical vs common-sense theories of learn- Prereq.: Permission of instructor
+ing. G (Fall, Spring)
+M. Minsky Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+6.871 Knowledge-Based Applications A seminar-type discussion of special topics in
+Systems the computer sciences. Opportunity for
+graduate students and instructors to invesPrereq.: 6.034; 6.036 or 6.824
+tigate a topic of common interest. Topic and
+G (Spring)
+staff announced each term. These subjects
+3-0-9 H-LEVEL Grad Credit
+given independently or sequentially, as cirDevelopment of programs containing a sig- cumstances require.
+nificant amount of knowledge about their ap- J. V. Guttag
+plication domain. Outline: 1) brief review of
+relevant Al techniques; 2) case studies from a
+number of application domains, chosen to illustrate principles of system development; 3)
+discussion of technical issues encountered in Special Subjects
+building a system, including selection of
+knowledge representation, knowledge acquisition, etc.; and 4) discussion of current and fu- 6.901 Inventions and Patents
+ture research. Hands-on experience in building
+Prereq.: 14.02
+an expert system (term project). 8 Engineering
+Design Points. U (Fall)
+R. Davis, P. Szolovits, H. E. Shrobe 3-0-6
+Engineering School-Wide Elective Subject.
+6.872 Medical Computing Description given at end of this chapter in
+(New) SWE section on page 999.
+R. H. Rines Prereq.: 6.034
+G (Spring)
+3-0-9 H-LEVEL Grad Credit 6.910 Special Studies in Electrical
+Engineering and Computer Science
+Analyzes computational needs of clinical
+medicine, reviews systems and approaches Prereq.:
+that have been used to support those needs,
+and examines new technologies. Topics: the
+nature of clinical data; architecture and design
+of healthcare information systems; privacy and
+security issues; medical expert systems; computing support for medical education. Case
+studies of contemporary systems. Term project
+using a large pseudonymized clinical dataset
+integrates classroom topics. 6 Engineering
+Design Points.
+P. Szolovits
+6.875J Cryptography and Cryptanalysis
+(Same subject as 18.425J)
+Prereq.: 6.046J or 6.851 or 18.421
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+A rigorous introduction to modern cryptography. Emphasis on the fundamental cryptographic primitives of public-key encryption,
+digital signatures, and pseudo-random number
+generation, and their computational complexity
+requirements.
+S. Goldwasser
+-
+6.911-6.914 Special Advanced
+Undergraduate Subjects in Electrical
+Engineering and Computer Science
+Prereq.:
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Opportunity for individual study at the undergraduate level related to electrical engineering
+and computer science not covered by other
+subjects offered by the Department. Student is
+responsible for initiation of arrangements and
+filing of proposal. Consult Department Undergraduate Office.
+A. C. Smith
+-
+U (Fall, IAP, Spring)
+Units arranged [P/D/F
+Can be repeated for credit
+6.915-6.919 Special Advanced
+Undergraduate Subjects in Electrical
+Engineering and Computer Science
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+Advanced undergraduate subjects not offered
+in the regular curriculum. Consult Department
+to learn of offerings for a particular term.
+Registration by permission of instructor.
+A. C. Smith
+6.921 VI-A Internship
+Prereq.: -
+U (Summer)
+0-12-0 [P/D/F]
+Can be repeated for credit
+Provides academic credit for the first two Assignments of VI-A students at companies affiliated with the Department's VI-A Internship
+Program. Students register for this subject
+twice. The grade of "J" is given following completion of the first Assignment. Students must
+complete the second Assignment in order to
+receive the full academic credit of 24 units for
+this subject. Enrollment limited to students participating in the VI-A Internship Program.
+M. Zahn
+6.922 Advanced VI-A Internship
+Prereq.: 6.921
+U (Spring, Summer)
+0-12-0 [P/D/F]
+Provides academic credit for the third Assignment of VI-A students at companies affiliated
+with the Department's VI-A Internship Program. Enrollment limited to students participating in the VI-A Internship Program.
+M. Zahn
+6.929 Undergraduate Project Presentation
+Prereq.: -
+U (Fall, Spring, Summer)
+0-3-0
+Can be repeated for credit
+Registration for written presentation of the advanced undergraduate project, when the
+project work is carried out as part of a VI-A Assignment. Consult Department Undergraduate
+Office.
+A. C. Smith
+6.930 Management in Engineering
+Prereq.: -
+U (Fall)
+3-0-9
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+J.-H. Chun, H. S. Marcus
+Descriptions of Subjects 363

@@ -1,0 +1,131 @@
+Division of Health Sciences and Technology HST
+HST.300 Clinical Management and HST.524J Design of Medical Devices and
+Physiology of Surgical Intensive Care Implants
+Patients
+(Same subject as 2.782J)
+Prereq.: Clerkship in Medicine and permission Prereq.: Permission of instructor
+of instructor G (Spring)
+G (Fall, Spring, Summer) 3-0-9 H-LEVEL Grad Credit
+0-15-0 [P/D/F] H-LEVEL Grad Credit
+Solution of clinical problems by use of implants
+One-month course designed to teach quantita- and other medical devices. Systematic use of
+tive applications of basic physiologic and phar- cell-matrix control volumes. The role of stress
+macologic concepts to synthesize diagnoses analysis in the design process. Anatomic fit:
+and treatments for critically ill patients. Em- shape and size of implants. Selection of
+phasis also on principles, applications, and biomaterials. Instrumentation for surgical imlimitations of equipment used to monitor and plantation procedures. Preclinical testing for
+treat patients in intensive care units. Students safety and efficacy: risk/benefit ratio assessparticipate in individual and group discussions, ment. Evaluation of clinical performance:
+and are assigned clinically relevant basic design of clinical trials. Project materials drawn
+science readings and given supervised respon- from orthopedic devices, soft tissue implants,
+sibilities for one or more ICU patients. Stu- artificial organs, and dental implants.
+dents are expected to give brief oral reports /. Yannas, M. Spector
+weekly and a more comprehensive presentation integrating physiologic concepts with clini- HST.525J Transport Phenomena and
+cal problems at the end of the month. Tumor Pathophysiology
+R. S. Teplick
+(Same subject as 10.548J)
+Prereq.: 18.03; 2.20 or 10.301 or equivalent HST.410J Biochemistry Laboratory
+G (Spring)
+(Subject meets with 5.071J, TOX.209) 2-0-4 H-LEVEL Grad Credit
+Prereq.: 5.07, and 5.310 or 5.311
+Tumor pathophysiology plays a central role in U (Spring)
+the growth, metastasis, detection, and treat- 2-8-2
+ment of solid tumors. Principles of transport
+Meets with graduate subject TOX.209, but as- phenomena are applied to develop a quantitasignments differ. See description under subject tive understanding of angiogenesis (formation
+5.071 J. of new blood vessels), blood flow and microcirJ. Williamson, P. Dedon culation, metabolism and microenvironment,
+transport and binding of small and large
+HST.511 Principles of Human Gross molecules, movement of cancer and immune
+Anatomy cells, metastatic process, radiotherapy,
+chemotherapy, immunotherapy, hyperthermia,
+(Subject meets with HST.51 0) and photodynamic therapy of solid tumors.
+Prereq.: Permission of instructor R. K. Jain
+G (Spring)
+1-3-5 H-LEVEL Grad Credit
+HST.532J Hyperthermia: Biology,
+Consists of lectures and demonstrations of pre- Technology, and Cancer Therapy
+viously dissected materials, emphasizing ter-
+(Same subject as 2.763J)
+minology and organizational principles of
+Prereq.: human gross anatomy. Issues of modern imaging receive particular emphasis. Limited enrollment. (Only HST students may register under
+HST.510, graded P/D/F.)
+S. W. Kennedy
+HST.522J Biomaterials - Tissue
+Interactions
+(Same subject as 2.79J, 3.96J)
+Prereq.: 3.091 or 5.11; 2.005 or 5.60; 7.012 or
+7.013
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.79J.
+1. V. Yannas, M. Spector
+HST.523J Mechanical Forces in Organ
+Development and Remodeling
+(Same subject as 2.785J, 3.97J)
+Prereq.: 3.091 or 5.11; 2.005 or 5.60; 7.012 or
+7.013
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.785J.
+/. V. Yannas, M. Spector
+-
+HST.542J Quantitative Physiology: Organ
+Transport Systems
+(Subject meets with 6.022J, 2.792J, 2.796J,
+6.522J)
+Prereq.: 2.006 or 6.013, HST.541J
+U (Spring)
+4-2-6
+See description under subject 6.022J.
+R. G. Mark, R. Kamm
+HST.543J Quantitative Physiology: Sensory
+and Motor Systems
+(Same subject as 6.023J, 2.793J, 16.401J)
+Prereq.: 2.003 or 6.003 or 16.060
+U (Spring)
+3-2-7
+See description under subject 6.023J.
+L. S. Frishkopf, C. Wall ///, N. Hogan, L. Young
+HST.544J Fields, Forces, and Flows:
+Background for Physiology
+(Same subject as 6.561J, 2.795J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 6.561J.
+A. J. Grodzinsky
+HST.560J Principles of Radiation
+Applications
+(Same subject as 22.55J)
+Prereq.: Permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+See description under subject 22.55J.
+X. L. Zhou
+HST.561J Principles of Medical Imaging
+(Same subject as 22.56J, 2.761J)
+Prereq.: Permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit G (Spring)
+4-1-7 See description under subject 22.56J.
+D. Cory, D. Rowell
+See description under subject 2.763J.
+H. F. Bowman, Staff
+HST.562J Spatial Aspects of Nuclear
+Magnetic Resonance Spectroscopy
+HST.541J Quantitative Physiology: Cells
+and Tissues (Same subject as 22.562J)
+Prereq.: 22.56J or permission of instructor
+(Subject meets with 6.021J, 2.791J, 2.794J,
+G (Fall)
+6.521J)
+3-0-9 H-LEVEL Grad Credit
+Prereq.: 2.003 or 6.002 or 6.071 or 10.301;
+8.02, 18.03 See description under subject 22.562J.
+G (Fall) D. G. Cory
+5-2-5
+Meets with undergraduate subject 6.021J. Re- HST.568J Radiation Biophysics
+quires the completion of more advanced home (Same subject as 22.57J)
+problems and/or an additional project. See Prereq.: 22.101
+description under subject 6.021J. G (Fall)
+T. F. Weiss, D. M. Freeman 4-0-8 H-LEVEL Grad Credit
+See description under subject 22.57J.
+J. C. Yanch
+Descriptions of Subjects 541

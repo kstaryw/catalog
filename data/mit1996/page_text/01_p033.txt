@@ -1,0 +1,82 @@
+Department of Materials Science and Engineering Course 3
+3.471 Advanced Topics on the Physics and 3.51 Materials and the Environment 3.541 Oxidation and Corrosion of Materials
+Chemistry of Materials at Elevated Temperatures
+Prereq.: 3.205 or equivalent
+Prereq.: 3.41 or equivalent or permission of in- G (Spring) Prereq.: 3.20, 3.21
+structor 3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: G (Fall)
+G (Spring) Acad Year 1997-98: Not offered
+Industrial ecology of materials, i.e., how they
+4-0-8 H-LEVEL Grad Credit are extracted, refined, and recycled. Considers 3-0-6 H-LEVEL Grad Credit
+Topics on the physics and chemistry of the environmental impacts of the associated Application of fundamental principles of thermaterials not covered in the core subject of materials processing operations, pollution con- modynamics and kinetics to determination of
+3.41 including: molecular and crystal symmetry trol and waste treatment efforts, and recycling the mechanisms of the oxidation and corrosion
+group theory; ligand-field theory; applications options. Provides an intellectual platform for of materials at elevated temperatures.
+of quantum chemistry to the electronic struc- green design. Energy audits, environmental Relationship of oxidation theory to design of altures of magnetic materials, high-Tc supercon- audits, and cost assessments. loys, and of coating materials for protection
+ductors and organic electronic materials; D. R. Sadoway against oxidation. Discussions of high-temperasurface physics and chemistry; chemisorption ture oxidation and corrosion problems that
+and catalysis. Topics tailored to students' re- 3.52J Materials Processing occur in systems for the conversion and utilizasearch interests. tion of energy, and in petrochemical and metalK. H. Johnson (Same subject as 10.581J) lurgical industries. Alternate years.
+Prereq.: 3.01, 3.185, or equivalents L. W. Hobbs
+G (Spring)
+3.48 Statistical Physics of Materials
+3-0-6 H-LEVEL Grad Credit
+3.55 Macroscopic Transport in Materials
+Prereq.: 3.20
+Fundamentals of thermal, powder, and vapor Processing
+G (Spring)
+processing; solidification, sintering, deforma-
+3-0-9 H-LEVEL Grad Credit Prereq.: 18.03
+tion processing, and composite materials
+G (Spring)
+Reviews basic classical and quantum statisti- processing. Particular attention paid to struc-
+3-0-9 H-LEVEL Grad Credit
+cal mechanics. Introduces Boltzmann transport tural evolution during processing, and resulting
+theory. Discusses Ising and Heisenberg material properties and performance. Principles of mathematical and physical modelsoluble models with application to order-disor- A. Mortensen, K. F. Jensen, M. C. Flemings ing of primary metals processing, welding,
+der in alloys and magnetic materials; structural rapid solidification, and the processing of
+phase transformations by Landau, renormaliza- 3.53 Electrochemical Processing of electronic materials. The transport equations
+tion-group and Jahn-Teller theories, with ap- Materials as building blocks of mathematical models.
+plication to defect statistics, melting, and Similarity criteria in building of physical
+polymer statistics; and electronic phase trans- Prereq.: 3.185 models. Synthesis of an optimal modeling apformations in ferromagnetic, antiferromagnetic, G (Spring) proach, involving mathematical models, physiferroelectric, and superconducting materials. 3-0-6 H-LEVEL Grad Credit cal models, and pilot plants.
+Alternate years. Principles of electrochemistry: ther- C. E. Scott
+K. H. Johnson modynamics and kinetics of electrode processes, thermodynamic and transport properties 3.56 Engineering Systems Analysis
+3.49 Special Problems in Electronic of aqueous and nonaqueous electrolytes.
+Prereq.: Permission of instructor
+Materials Electrolytic processing: electrowinning,
+G (Fall)
+electrorefining, electroplating, electrosynthesis,
+Prereq.: Permission of instructor 3-0-6 H-LEVEL Grad Credit
+electroslag remelting.
+G (Fall, lAP, Spring, Summer)
+D. R. Sadoway Engineering School-Wide Elective Subject.
+Units arranged H-LEVEL Grad Credit
+Description given at end of this chapter in
+Can be repeated for credit
+3.54J Corrosion: The Environmental SWE section on page 562.
+3.491 Special Problems in Electronic Degradation of Materials R. de Neufville, F. Field
+Materials
+(Same subject as 22.72J)
+3.560J Industrial Ecology
+Prereq.: Permission of instructor Prereq.: 3.00
+G (Fall, IAP, Spring, Summer) G (Fall) (Same subject as TPP.123J, 1.814J)
+Units arranged [P/D/F] H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit Prereq.: TPP. 11 or 3.56
+Can be repeated for credit G (Spring)
+Applies thermodynamics and kinetics of
+3-0-6 H-LEVEL Grad Credit
+Advanced work for qualified students. Lec- electrode reactions to aqueous corrosion of
+tures, conferences, assigned readings, or su- metals and alloys. Forms of corrosion and cor- See description under subject TPP.123J.
+pervised laboratory work. rosion testing. Methods of corrosion control in- J. Clark, F. Field, R. de Neufville
+H. L. Tuller cluding alloy selection, water chemistry, design
+rules, anodic and cathodic protection, and coat- 3.563J Strategic Analysis for
+3.50 High-Temperature Physical Chemistry ings. Extension to environmental degradation Environmental Policy Planning, Design,
+of Materials of ceramics and polymers. Discusses and Implementation
+materials degradation problems in marine enPrereq.: 3.01 vironments, oil and gas production, energy (Same subject as 1.141J, 6.688J, 11.385J,
+G (Fall) conversion and generation systems. 22.822J, TPP.121J)
+3-0-9 H-LEVEL Grad Credit R. G. Ballinger Prereq.: 1.146 or 2.192 or 3.56 or 13.62 or
+Application of physicochemical principles to 16.861 or TPP.21 or 11.200 or 11.205
+G (Spring)
+study the nature of solids, liquids, and gases
+and heterogeneous reactions between these 3-0-6 H-LEVEL Grad Credit
+phases at elevated temperatures. Transport in See description under subject 1.141J.
+multi-component solids and liquids. Systems of D. H. Marks, R. de Neufville, J. Clark,
+interest include liquid metals, semiconductors, R. Gakenheimer, M. W. Golay, D. Sadoway,
+and other multicomponent solid and liquid R. D. Tabors
+oxides.
+U. B. Pal
+Descriptions of Subjects 329

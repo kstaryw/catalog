@@ -1,0 +1,73 @@
+School of Humanities and Social Science
+24.948J Linguistic Theory and Second 24.956 Topics in Syntax 24.962 Advanced Phonology
+Language Acquisition
+Prereq.: 24.951 Prereq.: 24.961
+(Same subject as 21 F.236J) G (Fall, Spring) G (Spring)
+Prereq.: Permission of instructor 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Acad Year 1996-97: Not offered Can be repeated for credit
+Continuation of 24.961.
+Acad Year 1997-98: G (Spring)
+The nature of linguistic universals that make it M. Kenstowicz, C. Zoll
+3-0-6
+possible for languages to differ and place limits
+Reading and discussion of current linguistic on these differences. Study of selected prob- 24.964 Topics in Phonology
+theory, first language acquisition research, and lem areas, showing how data from particular
+data concerning adult second language ac- languages contribute to the development of a Prereq.: 24.961
+quisition. Focus on development of a theory of strong theory of universal grammar and how G (Fall)
+second language acquisition within a theory of such a theory dictates solutions to traditional 3-0-9 H-LEVEL Grad Credit
+Universal Grammar. Emphasis on syntactic, problems in the syntax of particular languages. Can be repeated for credit
+lexical, and phonological development. Ex- M. DeGraff, D. Pesetsky In-depth study of a topic in current phonologiamination of ways in which this body of data cal theory.
+confronts theories of language. 24.957 Introduction to Linguistic Theory at C. Zo//
+S. Flynn, W. O'Neil an Advanced Level
+Prereq.: Permission of instructor 24.965 Morphology
+24.949J Language Acquisition I
+G (Spring) Prereq.: Permission of instructor
+(Same subject as 9.601J) 3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Prereq.: Permission of instructor Discussion of conceptual and methodological Acad Year 1997-98: G (Spring)
+Acad Year 1996-97: G (Fall) issues: goals of linguistic theory and its place 3-0-9 H-LEVEL Grad Credit
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit in the study of thought and behavior; descrip- Structure of the lexicon and its function in
+tive and explanatory theories; the nature, use, grammar. Properties of word-formation rules.
+See description under subject 9.601J. and acquisition of knowledge of language com- Problems of selection, productivity, comK. Wexler pared with other cognitive systems; relations of positionality. Systems of inflectional
+form, meaning, and language use. Examina- categories: case, tense. Phonological aspects
+24.950J Language Acquisition I1 tion of theories of transformational generative of word structure: allomorphy, cyclic phonolgrammar as they have evolved and are now ogy, constituent structure, boundaries.
+(Same subject as 9.602J) being pursued: theory of base, transforma- Detailed analysis of languages with complex
+Prereq.: Permission of instructor tions, semantic interpretation of formal struc- morphology.
+Acad Year 1996-97: Not offered tures, logical form, and conditions on the form A. Marantz
+Acad Year 1997-98: G (Spring) and functioning of rules.
+3-0-6 H-LEVEL Grad Credit N. Chomsky
+24.966J Laboratory on the Physiology,
+See description under subject 9.602J. Acoustics, and Perception of Speech
+K. Wexler 24.958 Linguistic Structure
+(Same subject as 6.542J, HST.712J)
+Prereq.: 24.952 or 24.957 Prereq.: Permission of instructor
+24.951 Introduction to Syntax Acad Year 1996-97: Not offered Acad Year 1996-97: Not offered
+Prereq.: 24.901J Acad Year 1997-98: G (Fall) Acad Year 1997-98: G (Fall)
+G (Fall) 3-0-9 H-LEVEL Grad Credit 2-2-8 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit Current work on topics in syntax and seman- See description under subject 6.542J.
+Introduction to theories of syntax underlying tics. Permission of instructor required. K. N. Stevens, S. Shattuck-Hufnagel,
+work currently being done within the lexical- N. Chomsky J. S. Perkell
+functional and government-binding
+frameworks. Organized into three interrelated 24.959 Workshop in Syntax and 24.968J Speech Communication
+parts, each focused upon a particular area of Semantics
+concern: 1) phrase structure, 2) the lexicon, (Same subject as 6.541J, HST.710J)
+and 3) principles and parameters. Grammati- Prereq.: Permission of instructor Prereq.: Permission of instructor
+cal rules and processes constitute a focus of G (Spring) G (Spring)
+attention throughout the course, serving to 3-0-9 H-LEVEL Grad Credit 3-1-8 H-LEVEL Grad Credit
+reveal both modular structure of grammar and An intensive group tutorial/seminar for discus- See description under subject 6.541J.
+interaction of grammatical components. sion of research being conducted by par- K. N. Stevens, S. J. Keyser
+M. DeGraff, D. Pesetsky ticipants. No listeners allowed.
+/. Heim, D. Pesetsky
+24.969 Workshop in Phonology and
+24.952 Advanced Syntax Morphology
+24.961 Introduction to Phonology
+Prereq.: 24.951 Prereq.: Permission of instructor
+G (Spring) Prereq.: Permission of instructor G (Fall)
+3-0-9 H-LEVEL Grad Credit G (Fall) 3-0-9 H-LEVEL Grad Credit
+4-0-5 H-LEVEL Grad Credit
+Problems in constructing an explanatory An intensive group tutorial/seminar for discustheory of grammatical representation. Topics Introduction to the current research questions sion of research being conducted by pardrawn from current work on anaphora, in phonological theory. Topics include metrical ticipants. No auditors are allowed.
+casemarking, control, argument structure, Wh- and prosodic structure; features and their M. Kenstowicz, C. Zoll
+and related constructions. Study of language- phonetic basis in speech; acquisition and parsparticular parameters in the formulation of lin- ing; phonological domains; morphology; languistic universals. guage change and reconstruction. Activities
+S. Miyagawa, D. Pesetsky include problem solving, squibs, and data collection.
+M. Kenstowicz
+536 Chapter Vill

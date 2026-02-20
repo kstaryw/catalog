@@ -1,0 +1,108 @@
+Department of Chemical Engineering Course 10
+10.40 Chemical Engineering 10.44J Statistical Thermodynamics of 10.467 Polymer Science Laboratory
+Thermodynamics Complex Liquids
+Prereq.: 5.12 or equivalent
+Prereq.: 5.60 or equivalent (Same subject as 22.52J, 8.575J) U (Fall, Spring)
+G (Fall, Spring) Prereq.: 8.08, 10.213, or equivalent 2-7-3 Institute LAB
+3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+Experiments broadly aimed at acquainting stuAcad Year 1997-98: G (Spring)
+Basic postulates of classical thermodynamics. dents with the range of properties of polymers,
+3-0-9 H-LEVEL Grad Credit
+Application to transient open and closed sys- methods of synthesis, and physical chemistry.
+tems. Criteria of stability and equilibria. Ther- See description under subject 22.52J. Examples: solution polymerization of
+modynamic properties of pure materials and D. Blankschtein, S. H. Chen acrylamide, bead polymerization of divinylbenmixtures. Phase and chemical equilibria of mul- zene, interfacial polymerization of nylon 6,10,
+ticomponent systems. Applications em- 10.441J Molecular and Engineering derivitization of formed polymers (amylose to
+phasized through extensive problem work Aspects of Biotechnology amylose triacetate). Evaluation of elastic netrelating to practical cases. works by tensile and swelling experiments; of
+D. Blankschtein, J. W. Tester (Same subject as 7.37J) linear polymers by gel permeation chromatogPrereq.: 7.03 or 7.05, 5.60 raphy and light scattering. Relation of ob-
+10.42 Advanced Thermodynamics Acad Year 1996-97: Not offered served properties to specific conditions of
+Acad Year 1997-98: U (Spring) synthesis, or choice of route of synthesis.
+Prereq.: 10.40 4-0-8 P T. Hammond, E. W. Merrill, G. C. Rutledge
+G (Spring)
+See description under subject 7.37J.
+3-0-6 H-LEVEL Grad Credit
+D. /. C. Wang, H. Lodish 10.470J Environment and Technology
+Equilibrium and stability concepts examined in
+(Subject meets with 1.1 OJ, 10.570J, TPP.52J)
+depth for multicomponent, multiphase sys- 10.442 Biochemical Engineering Prereq.:
+tems. Equations of state for pure components (New)
+and mixtures, solution models for mixtures of
+electrolytes and non-electrolytes. Surface ther- (Subject meets with 10.542)
+modynamics, statistical thermodynamics and Prereq.: Permission of instructor
+Monte Carlo and Molecular Dynamics applica- Acad Year 1996-97: Not offered
+tions comprise other topics. Acad Year 1997-98: U (Spring)
+J. W. Tester, D. Blankschtein 4-0-8
+Meets with graduate subject 10.542, but as-
+10.420 Molecular Aspects of Chemical signments differ. See description for 10.542.
+Engineering C. L. Cooney, D. i. C. Wang
+(Subject meets with 10.520)
+Prereq.: 5.13, 10.213, or equivalent 10.445 Separation Processes for
+U (Fall) Biochemical Products
+3-0-6 (New)
+Meets with graduate subject 10.520, but as- (Subject meets with 10.545)
+signments differ. See description under subject Prereq.: Permission of instructor
+10.520. Acad Year 1996-97: U (Spring)
+P. E. Laibinis, P. T. Hammond Acad Year 1997-98: Not offered
+3-0-6
+10.421 Heterogeneous Catalysis and Meets with graduate subject 10.545, but asCatalytic Processes signments differ. See description for 10.545.
+C. L. Cooney
+(Subject meets with 10.521)
+Prereq.: 5.13, 10.37 or equivalents
+U (Fall) 10.450 Process Dynamics, Operations, and
+3-0-6 Control
+Meets with graduate subject 10.521, but as- (Subject meets with 10.550)
+signments differ. See description under subject Prereq.: 10.32, 10.37, 18.03
+10.521. U (Spring)
+J. Y. Ying 3-0-6
+Meets with graduate subject 10.550, but as-
+10.43 Introduction to Interfacial Phenomena signments differ. See description under subject
+10.550. Prereq.: 10.213 or an equivalent introductory
+Geo. Stephanopoulos subject in thermodynamics or physical
+chemistry
+Acad Year 1996-97: G (Fall)
+Acad Year 1997-98: Not offered
+3-0-6
+Introduces fundamental and applied aspects of
+interfacial phenomena. Theory of capillarity.
+Experimental determination of interfacial tension. Thermodynamics of interfaces. The
+Gibbs adsorption equation. Surface tension of
+pure liquids and solutions. Surface films. Wetting and contact angles. Effect of curvature on
+the equilibrium state of pure systems and mixtures. Fundamentals of adsorption, micellization, solubilization, and emulsification.
+D. Blankschtein
+-
+U (Fall)
+3-0-6
+Meets with subjects 1.1OJ, 10.570J, and
+TPP.52J; but assignments differ. See description under subject 1.10J.
+P. Gschwend, J. Ehrenfeld, A. Sarofim
+10.471 Introduction to Air Pollution
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-0-6
+History of air pollution. Criteria for anticipating
+environmental problems, indoor air, risk assessment, plume dispersion, stationary combustion sources, acid rain, NOx and SOx
+emissions and their control. Smog formation
+models. CO, HC, and NOx emissions from internal combustion engines. Particulate emissions from internal combustion engines.
+Particulate emissions and controls. Assessment of global warming and strategies for control. Stratospheric ozone and air toxics. Limits
+to growth: resource consumption and population momentum.
+A. F. Sarofim
+10.480J Microelectronics Processing
+Technology
+(Same subject as 6.152J, 3.155J)
+Prereq.: Permission of instructor
+U (Fall, Spring)
+3-4-5
+See description under subject 6.152J.
+K. K. Gleason, H. H. Sawin, M. A. Schmidt,
+C. G. Sodini, C. V. Thompson, L. C. Kimerling
+10.490 Integrated Chemical Engineering I
+Prereq.: 10.32, 10.37
+U (Fall)
+4-0-8
+Presents and solves chemical engineering
+problems in an industrial context. Emphasis is
+placed on the integration of fundamental concepts with approaches of process design.
+Problems are emphasized that demand synthesis, economic analysis, and process design.
+Geo. Stephanopoulos, G. J. McRae,
+C. M. Mohr, P. I. Barton
+Descriptions of Subjects 387

@@ -1,0 +1,145 @@
+School of Engineering
+Other Undergraduate Subjects
+16.UR Undergraduate Research
+Prereq.: --
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+16.URG Undergraduate Research
+Prereq.: -
+16.64 Flight Measurement Laboratory
+Prereq.: 16.020
+U (Spring)
+2-2-2
+Opportunity to see aeronautical theory applied
+in real-world environment of flight. Students assist in design and execution of simple engineering flight experiments in light aircraft. Typical
+investigations include determination of stability
+derivatives, verification of performance
+U (Fall, IAP, Spring) specifications, and measurement of navigation
+system characteristics. Limited to students in
+Units arranged Aeronautics and Astronautics.
+Can be repeated for credit R. J. Hansman
+Undergraduate research opportunities in
+aeronautics and astronautics. For further infor- 16.651 Computer Models of Physical and
+mation, contact W. R. Markey, Departmental Engineering Systems
+Coordinator.
+Prereq.: 18.03 or 18.034, 1.00
+U (Spring)
+16.600 Computational Tools for Engineering
+3-1-8
+Prereq.: 16.010, 16.020, or equivalent
+Engineering School-Wide Elective Subject.
+U (IAP)
+Description given at end of this chapter in
+1-1-4 [P/D/F]
+SWE section on page 999.
+Introduction to computational tools and their F. Peha-Mora
+use in solving engineering problems, analyzing
+data, and presenting scientific results. 16.652 Inventions and Patents
+Techniques for the practical use of spreadsheets (XESS), mathematical and numerical Prereq.: 14.02
+analysis packages (MATLAB), symbolic al- U (Fall)
+gebra (MAPLE), and other Athena-based 3-0-6
+software packages are presented. Issues of
+Engineering School-Wide Elective Subject.
+computational accuracy and efficiency are dis- Description given at end of this chapter in
+cussed. Emphasizes problem solving using SWE section on page 999.
+available software packages, not programming R. H. Rines
+or algorithmic development. Enrollment may
+be limited.
+16.653 Management in Engineering
+J. D. Paduano
+Prereq.:
+16.621 Experimental Projects I
+Prereq.: 6.041, 16.050, 16.060
+U (Fall, Spring)
+2-1-3
+Introduces laboratory experimental techniques. Principles of experimental design and
+reliable measurement. Laboratory safety. Instruction in effective report writing and oral
+presentation. Selection and detailed planning
+of an individual research project, including
+design of components or equipment. Preparation of a detailed proposal for the selected
+project carried through to completion under
+16.622.
+J. Kuchar, R. F. Perdichizzi
+16.622 Experimental Projects 11
+Prereq.: 16.621
+U (Fall, Spring)
+1-7-4 Institute LAB
+Helps student gain practical insight and improved understanding of engineering experimentation through design and execution of
+"project" experiments. Building upon work in
+16.621, student constructs and tests equipment, makes systematic experimental measurements of phenomena, analyzes data,
+compares theoretical predictions with results.
+Written final report on entire project and formal
+oral presentation. Provides valuable link between theory and practice.
+J. Kuchar, R. F Perdichizzi
+-
+16.66 Industrial Practice
+Prereq.:
+U (Fall)
+3-0-9
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+J.-H. Chun
+16.656 Management Topics in Engineering
+(New)
+Prereq.: Permission of instructor
+U (IAP)
+2-0-4
+Directed toward the student whose objective is
+a career in engineering leading to management. Provides opportunities to examine topics
+relating to the conduct of engineering activities
+within a total management environment. Interfaces between engineerng and other company functions, such as marketing, finance
+manufacturing, quality, explored with emphasis on the management process. Special
+attention given to the role of technical staff in
+the acquisition of new business and longrange planning. Seminar format based on current industrial practice.
+J. Yamron
+-
+U (Fall, Spring)
+0-8-0 [P/D/F]
+Seven months of engineering practice, carried
+out by the cooperative students at the plants of
+organizations participating in the cooperative
+program.
+W. R. Markey
+16.67 Engineering Internship
+Prereq.: -
+U (Summer)
+0-6-0 [P/D/F]
+Can be repeated for credit
+A summer of work experience as part of the
+Engineering Internship Program. Students
+register for this subject twice, receiving the
+grade "J" for the first registration. Two work assignments must be completed in order for
+credit to be awarded. Limited to students
+registered in Course XVI-C.
+I. A. Waitz
+16.681 Special Projects
+Prereq.: -
+U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Study or laboratory project work of undergraduate level by qualified students. Topics
+selected in consultation with the instructor.
+W. R. Markey
+16.682 Selected Topics In Aeronautics and
+Astronautics
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+Study at the undergraduate level by qualified
+students. Topics selected in consultation with
+the instructor.
+W. R. Markey
+16.683 Aeronautics and Astronautics
+Seminars
+Prereq.: -
+U (Fall, Spring)
+2-0-0 [P/D/F]
+Can be repeated for credit
+Speakers from campus and industry discuss
+current activities and advances in aeronautics
+and astronautics. Restricted to Course XVI students.
+W. R. Markey
+460 Chapter Vill

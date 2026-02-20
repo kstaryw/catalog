@@ -1,0 +1,164 @@
+School of Science
+7.ThG Graduate Biology Thesis
+Prereq.: -
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to the
+writing of a Ph.D. thesis; to be arranged by the
+student and an appropriate MIT faculty member.
+F. Solomon
+7.50 Method and Logic in Molecular
+Biology
+Prereq.: Permission of instructor
+G (Fall)
+4-0-8 [P/D/F] H-LEVEL Grad Credit
+Logic and experimental design: an in-depth discussion and assessment of biochemical, physical, and genetic methods employed in testing
+hypotheses. Limited to Course VII graduate
+students.
+D. Housman, T. Baker, C. Kaiser, R. Young
+7.51 Biochemistry for Graduate
+Students
+Prereq.: Permission of instructor
+G (Fall)
+5-0-7 H-LEVEL Grad Credit
+Fundamental principles of biochemistry.
+Analysis of the mode of action and structure of
+regulatory, binding, and catalytic proteins.
+R. T. Sauer
+7.52 Genetics for Graduate Students
+Prereq.: Permission of instructor
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+Principles of genetics, including Mendelian systems and prokaryotic genetics. Application of
+principles to biological function, including
+regulation and development. Mechanisms of
+recombination, mutation, and evolution. Discussion of original scientific papers and review
+of problem sets and exams supplement lectures.
+H. R. Horvitz, Staff
+7.546J Principles and Methodologies of
+Metabolic Engineering
+(Same subject as 10.546J)
+Prereq.: -
+7.60 Cell Biology I 7.67J Genetic Neurobiology
+Prereq.: 7.06 or 7.08 (Same subject as 9.322J)
+G (Spring) Prereq.:
+4-0-8 H-LEVEL Grad Credit
+Structure and organization of genes and
+genomes, nucleic acid biosynthesis, structure
+and assembly of nuclei and chromosomes,
+regulation of cell cycle, DNA replication,
+transposition, recombination and repair; RNA
+transcription, processing and translation, differentiation of specialized cell types, especially
+lymphocytes. Literature readings.
+P. Sharp, D. Baltimore
+7.61 Membranes, Receptors, and Signalling
+Prereq.: Permission of instructor
+G(Fall)
+3-0-9 H-LEVEL Grad Credit
+Principles of membrane structure and function
+and the experimental approaches used to
+analyze them. Cell surface receptors and signal transduction; transport across membranes;
+endocytosis, subcellular sorting; cell adhesion
+and its effects on cellular organization and
+polarity. Illustrates the principles and methods
+of cell biology from basic studies to applications to human disease states through lectures
+and discussion sessions emphasizing literature readings. Limited enrollment.
+R. 0. Hynes, M. Krieger
+7.63 Immunology
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Principles of immunology, including immunochemistry and molecular and cellular immunology. An in-depth critical analysis of
+current literature in the field. Particular attention paid to the function of the immune system
+as a whole as studied by modern methods and
+techniques. Discussions of original papers supplement lectures.
+S. Tonegawa, H. Ploegh, J. Chen
+7.64 Advanced Cell Structure and Function
+Prereq.: 7.06 or 7.08
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-6
+Understanding cell function and organization
+into tissue requires the emerging technologies
+G (Spring) for ultrastructural analysis. We consider mor-
+3-0-6 phological and biochemical techniques for
+See description under subject 10.546J. studying cell architecture in major tissues,
+Gr. Stephanopoulos, A. J. Sinskey mechanisms of image formation that influence
+data interpretation, the biochemistry of cellular
+substructures and methods of chemical cell dis-
+7.57J Genetics and Molecular section. The cells in major body organs will
+Medicine
+conclude the material.
+(Subject meets with HST. 181 J, HST. 180) S. Penman
+Prereq.: 7.012 or 7.013 or 7.014, 7.05
+G (IAP) 7.65J Principles of Neuroscience
+4-0-8
+(Same subject as 9.01 1J)
+See description under subject HST.181 J. Prereq.: Permission of instructor
+D. E. Housman, C. Tabin G (Fall)
+6-0-9 H-LEVEL Grad Credit
+See description under subject 9.01 1J.
+M. Sur, E. Bizzi, S. Corkin, A. Graybiel,
+W Quinn, P. Schiller, R. J. Wurtman, T. Poggio
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 9.322J.
+W. G. Quinn, H. Steller
+7.70 Regulation of Gene Expression
+Prereq.: 7.03, 7.05, 7.08
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Studies molecular mechanisms responsible for
+the regulation of gene expression in
+prokaryotes and eukaryotes. The control of the
+cell cycle gene activation and silencing and
+other topics are examined. Classes involve
+critical evaluation of primary research papers
+in a seminar format.
+B. Magasanik, Staff
+7.71 Biophysical Chemistry
+(Subject meets with 5.64)
+Prereq.: 5.60, 7.05 or 5.07
+G (Fall)
+3-0-9
+Principles of biophysical chemistry introduced
+while discussing the structure, folding, stability,
+and interactions of proteins and nucleic acids.
+Topics include: an overview of protein and
+nucleic acid structure; introductions to X-ray
+crystallography, spectroscopy, and 2D NMR;
+thermodynamic and kinetic aspects of protein
+folding; and principles of protein-nucleic acid in.
+teractions. Molecular mechanics introduced as
+a unifying tool that relates structure, molecular
+forces, and thermodynamic quantities. Meets
+with undergraduate subject 5.64. Students
+who take 5.64 cannot also receive credit for
+7.71.
+C. 0. Pabo, J. R. Williamson
+7.72 Development
+Prereq.: 7.51 or 7.52
+G (Fall)
+3-0-9 [P/D/F]
+Graduate discussion seminar examining indepth fundamental aspects of development
+and differentiation. In addition, particular attention paid to the critical appraisal of current published research in important areas of the field.
+H. Sive
+7.73 Human and Mouse Genetics
+Prereq.: 7.52
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 [P/D/F] H-LEVEL Grad Credit
+Seminar covering advanced applications of the
+tools of genetics to biological problems in mammals, focusing on experimental approaches in
+the mouse and principles of population
+genetics and pedigree analysis in the human.
+Topics include: construction of genetic maps;
+genetic mapping of simply-inherited traits and
+gene cloning by position; somatic mutation
+and cancer; genetic imprinting; quantitative
+genetics. Alternate years.
+E. S. Lander
+368 Chapter VIII

@@ -1,0 +1,107 @@
+Department of Mathematics Course 18
+18.312 Algebraic Combinatorics 18.318 Topics in Combinatorics
+Prereq.: 18.702 or 18.703 Prereq.: Permission of instructor
+U (Fall) G (Spring)
+3-0-9 3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Applications of linear algebra and group theory
+to combinatorics. Topics include matching Content varies from year to year. 1996-97:
+theory and extremal set theory, the matrix tree Survey of some algebraic structures that have
+theorem, enumeration under group action, been associated with combinatorial structures.
+coverings and tilings, transfer matrices, and Lattices, matroids and their representations,
+magic squares. No prior knowledge of com- categories and grupoids, Hopf algebras, braids.
+binatorics is assumed, though 18.314 is help- G.-C. Rota
+ful.
+information: R. P. Stanley. 18.325 Topics in Applied Mathematics
+Prereq.: 18.313 Probability
+Prereq.: 18.02 or 18.023 or 18.024
+Acad Year 1996-97: U (Fall)
+Acad Year 1997-98: Not offered
+4-0-8
+Development of theory and applications of
+probabilistic concepts for scientists and engineers. Emphasizes formulation and solution
+of probabilistic problems by the algebra of random variables. Topics: sample space,
+Bernoulli and Poisson processes, uniform
+process, generating functions, discrete and
+continuous-parameter Markov chains. Introduces the Central Limit Theorem and the foundations of probability.
+G.-C. Rota
+18.314 Combinatorial Analysis
+Prereq.: 18.02 or 18.023 or 18.024
+U (Spring)
+3-0-9
+Combinatorial problems and methods for their
+solution. Enumeration, generating function
+techniques, and construction of bijections. Additional topics drawn from graph theory, matchings and network flows, partial orders,
+permutation groups and Polya theory. Prior experience with abstraction and proofs helpful.
+D. J. Kleitman
+18.315 Combinatorial Theory
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Content varies from year to year. Topic for
+1996-97: Symmetric functions.
+S. Fomin
+18.316 Seminar in Combinatorics
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Content varies from year to year. Readings
+from current research papers in combinatorics.
+Topics to be chosen and presented by the
+class.
+D. J. Kleitman
+-
+18.335J Numerical Methods of Applied
+Mathematics I
+(Same subject as 6.337J)
+Prereq.: 18.03, 18.06 or equivalent
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+IEEE-standard, iterative and direct linear system solution methods, eigendecomposition
+and model-order reduction, fast Fourier transforms, multigrid, wavelets and other multiresolution methods, matrix sparsification.
+A. Edelman, J. K. White
+18.336 Numerical Methods of Applied
+Mathematics 11
+G (Fall)
+3-0-9 H-LEVEL Grad Credit Prereq.: 18.330, 18.335, or equivalents
+Can be repeated for credit G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Selected topics in discrete and continuous applied mathematics. Topics vary from year to Advanced introduction to applications and
+year. Topic for 1996-97: The probabilistic theory of numerical methods. Solution of difmethod in combinatorics. Topic for 1997-98: ferential equations, especially of time-dependCurrent developments in mathematical biol- ent partial differential equations by finite
+ogy. Topics might include: fluid mechanics of difference and spectral methods. Well-posedlocomotion; phylotaxis; applications of reac- ness and stability. Fourier analysis. Boundary
+tion-diffusion equations to biology; continuum and nonlinear instabilities.
+models of membranes and DNA. Stochastic M. Brenner
+models for motor proteins. Protein folding.
+1996-97: D. Spielman 18.337J Parallel Scientific Computing
+1997-98: M. Brenner
+(Same subject as 6.338J)
+Prereq.: 18.06 or equivalents
+18.327 Wavelets and Filter Banks G (Spring)
+(New) 3-0-9 H-LEVEL Grad Credit
+Prereq.: Permission of instructor Advanced interdisciplinary introduction to
+G (Spring) modern scientific computing on parallel super-
+3-0-9 H-LEVEL Grad Credit computers. Numerical topics include dense
+Wavelets are localized basis functions, good and sparse linear algebra, N-body problems,
+for representing short-time events. The coeffi- and Fourier transforms. Geometrical topics incients at each scale are filtered and sub- clude partitioning and mesh generation. Other
+sampled to give coefficients at the next scale. topics include architectures and software sysThis is Mallat's pyramid algorithm for multi- tems with hands-on emphasis on underresolution, connecting wavelets to filter banks. standing the realities and myths of what is
+Wavelets and multiscale algorithms for com- possible on the world's fastest machines.
+pression and signal/image processing are A. Edelman
+developed. Subject is project-based for engineering and scientific applications. 18.338J Introduction to Numerical
+G. Strang Algorithms
+(New)
+18.330 Introduction to Numerical Analysis (Same subject as 6.336J)
+Prereq.: 18.03 or 18.034 Prereq.: 18.03, 18.06 or equivalents
+U (Spring) Acad Year 1996-97: G (Fall)
+3-0-9 Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Basic techniques for the efficient numerical
+solution of problems in science and engineer- Introduction to theoretical and practical
+ing. Root finding, interpolation, approximation aspects of numerical algorithms, emphasizing
+of functions, integration, differential equations, broadly applicable approaches. Application exdirect and iterative methods in linear algebra. amples: problems in circuit analysis; electrosKnowledge of programming in Fortran, C, or tatics; mechanical elastostatics. Topics:
+Matlab helpful. equation formulation approaches; linear sysF. Waleffe tem solution by sparse direct factorization; nonlinear equation solution; Newton's method;
+issues of A-stability; local and global error
+analysis; solution of elliptic differential and integral equations; FFT and multipole-accelerated algorithms, more. Alternate years.
+J. K. White, A. Edelman
+Descriptions of Subjects 479

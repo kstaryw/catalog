@@ -1,0 +1,124 @@
+School of Engineering
+22.031 Engineering of Nuclear Reactors 22.070J Materials for Nuclear Applications
+(Subject meets with 22.312) (Subject meets with 22.70J, 3.070J, 3.711J)
+Prereq.: 2.001, 2.51 Prereq.: 3.091
+U (Fall) U (Spring)
+3-0-9 3-0-9
+An undergraduate subject that meets with An undergraduate subject that meets with
+graduate subject 22.312. Same content but graduate subject 22.70J. Same content, but ashomework assignments and examinations dif- signments differ. See description under subject
+fer. See description under subject 22.312. 22.70J.
+N. E. Todreas K. C. Russell
+22.033 Nuclear Systems Design Project 22.078 Nuclear Techniques in
+Environmental Analysis
+(Subject meets with 22.33)
+Prereq.: Permission of instructor (Subject meets with 22.78)
+U (Spring) Prereq.: 22.09 or permission of instructor
+2-9-4 Acad Year 1996-97: Not offered
+Can be repeated for credit Acad Year 1997-98: U (Spring)
+2-6-4
+See description under subject 22.33.
+N. E. Todreas See description under subject 22.78.
+/. Olmez
+22.04 Radiation Effects and Uses
+22.084 Inventions and Patents
+Prereq.: 22.02
+U (Spring) Prereq.: 14.02
+3-0-9 U (Fall)
+3-0-6
+Introduction to basic properties of ionizing
+radiations and their uses in medicine, industry, Engineering School-Wide Elective Subject.
+science, and environmental studies. Discusses Description given at end of this chapter in
+natural and man-made radiation sources, ener- SWE section on page 562.
+gy deposition and dose calculations, various R. H. Rines
+physical, chemical, and biological processes
+and effects of radiation with examples of their 22.09 Principles of Nuclear Radiation
+uses, and principles of radiation protection. Measurement and Protection
+J. C. Yanch
+Prereq.: 22.02
+U (Spring)
+22.055 Biomedical and Industrial
+2-6-4 Institute LAB
+Applications of Radiation
+An undergraduate subject that combines lecPrereq.: 22.04, 22.09
+tures, demonstrations, and experiments.
+U (Fall)
+Covers effects of radiation on persons; control
+4-0-8
+of radiation exposure within applicable standPrinciples of radiation production, interaction, ards; theory and use of a, P, y, and n detectors
+and major applications. Systematically discus- and spectrometers; use of isotopes, radiation
+ses various radiation sources, radiation interac- shielding, and dosimetry. Includes demonstration with bulk matter, and computational tions and experiments using the MIT research
+techniques for radiation dosimetry and shield- reactor, accelerators, and power reactors. Stuing design. Introduces various biomedical and dents have choices in the experiments they
+industrial uses of radiation including magnetic perform.
+resonance imaging. L. M. Lidsky
+X. L. Zhou, D. G. Cory
+22.091 Special Topics in Nuclear
+22.061 Fusion Energy I Engineering
+(Subject meets with 22.601) Prereq.:
+Prereq.: 8.03, 18.03
+U (Fall)
+3-0-9
+An undergraduate subject that meets three lecture hours a week with graduate subject
+22.601, but with different assignments and
+exams. See description under subject 22.601.
+J. P. Freidberg
+22.069 Undergraduate Plasma Laboratory
+(Subject meets with 22.69)
+Prereq.: 8.03 or 22.061 or permission of
+instructor
+U (Spring)
+1-4-7 Institute LAB
+Meets with graduate subject 22.69, but assignments differ. See description under subject
+22.69.
+K. W. Wenzel
+-
+22.092 Engineering Internship
+Prereq.:
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+For undergraduates who wish to conduct a
+one-term project of theoretical or experimental
+nature in the field of nuclear engineering, in
+close cooperation with individual staff members. Topics and hours arranged to fit
+students' requirements.
+J. E. Meyer
+-
+U (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+Can be repeated for credit
+Provides academic credit for the first two Work
+Assignments of XXII-A students affiliated with
+the Engineering Internship Program. Students
+register for this subject twice. Students must
+complete both Work Assignments in order to
+receive the academic credit for this subject. Enrollment limited to students registered in
+Course XXII-A.
+J. E Meyer
+22.093 Special Topics in Nuclear
+Engineering
+Prereq.: -
+U (Fall, lAP, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+This subject is graded on a P/D/F basis and is
+otherwise equivalent to subject 22.091. Approval of the Course 22 Undergraduate Office
+is required prior to enrolling in 22.093.
+J. E. Meyer
+Graduate Subjects
+Nuclear Physics
+22.101 Applied Nuclear Physics
+(22.111)
+Prereq.: 22.02
+G (Fall, Spring)
+3-0-9 H-LEVEL Grad Credit
+Fundamentals of nuclear physics for engineering students. Basic properties of the nucleus
+and nuclear radiations. Elementary quantum
+mechanical calculations of bound-states and
+barrier transmission probability. Nuclear shell
+model. Binding energy and nuclear stability. Interactions of charged particles, neutrons, and
+gamma rays with matter. Radioactive decays.
+Energetics and general cross-section behavior
+in nuclear reactions.
+Fall Term: K. Molvig
+Spring Term: S. H. Chen
+524 Chapter Vill

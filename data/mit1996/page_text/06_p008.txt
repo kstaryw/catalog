@@ -1,0 +1,128 @@
+Department of Political Science Course 17
+17.614J Russian Science, Technology, and
+Society
+(Subject meets with STS.021, STS.103J)
+Prereq.: -
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9
+See description under subject STS.021.
+L. R. Graham
+Models and Methods
+17.801 Political Science Laboratory
+Prereq.: -
+U (Fall)
+3-5-4 Institute LAB
+Introduces students to the conduct of political
+research using quantitative methodologies.
+The methods are examined in the context of
+specific political research activities like public
+opinion surveys, voting behavior, Congressional behavior, comparisons of political
+processes in different countries, and the
+evaluation of public policies. Students participate in joint class projects and conduct individual projects. May not count toward HASS
+Requirement.
+C. Stewart
+17.805 Theory of Collective Choice:
+Institutions and Positive Political Theory
+(Subject meets with 17.806J, 14.296J)
+Prereq.: -
+U (Spring)
+3-0-9 HASS
+17.806J Theory of Collective Choice:
+Institutions and Positive Political Theory
+(Subject meets with 14.296J, 17.805)
+Prereq.: -
+17.808J Theory of Collective Choice:
+Empirical Tests
+(Same subject as 14.295J)
+Prereq.: 17.806J
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Focuses on the relationship between the behavioral models developed by formal theorists
+and the statistical models used in empirical estimation. The main questions are: How do researchers make the link between theory and
+the data? How do they generate and estimate
+statistical models that allow careful testing of
+the behavioral models? What constitutes a
+good 'lest" of a model? These questions
+studied through reading and discussion of articles that combine both empirical and theoretical analysis.
+S. Ansolabehere
+17.816 Field Research Methods in
+Comparative Politics and Political
+Development
+Prereq.: Permission of instructor
+G (Fall)
+2-2-8 H-LEVEL Grad Credit
+Introduces a variety of approaches and
+methods for conducting research in Europe
+and in developing countries, including elite interviewing, participant observation, case
+studies, electoral analysis, cross-cultural survey research, and documentary research. Attention to conceptual, practical, and ethical
+issues of conducting research abroad, e.g.,
+the role of language in social research, the
+limits and uses of official sources, and ethical
+responsibilities of social scientists. Not open to
+first-year graduate students.
+M. Weiner
+17.842 Quantitative Research in Political
+Science and Public Policy
+Prereq.:
+G (Spring)
+3-0-9
+Examines political institutions from a rational
+choice perspective. The now burgeoning rational choice literature on legislatures,
+bureaucracies, courts, and elections constitutes the chief focus. Some focus on institutions from a comparative and/or international
+perspective. Graduate students are expected
+to pursue the subject in greater depth through
+reading and individual research.
+J. M. Snyder, Jr.
+-
+17.844 Categories and Concepts in Political
+Science
+Prereq.:
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+An introduction to the application of elementary statistics to political analysis. A basic
+literacy subject, teaching the student how to
+read and interpret the quantitative literature in
+various subfields of political science and public
+policy. Students develop elementary statistical
+computation skills and learn to use a statistical
+computing package.
+J. M. Snyder, Jr., S. Ansolabehere
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9
+Examines competing theoretical perspectives
+on the formation, function, use, and abuse of
+concepts in political science and the social
+sciences more generally. Topics include classical, radial, and family resemblance categories,
+neologism, contested concepts, metaphor,
+translation, and conceptual stretching and
+change. Particular concepts to be analyzed include freedom, justice, power, and democracy.
+Students also analyze the structure of concepts of their choosing.
+F. Schaffer
+17.846 Multivariate Political Analysis
+Prereq.: 17.801 or 17.842 or equivalent
+G (Spring)
+2-2-8 H-LEVEL Grad Credit
+Focus on multivariate data analysis procedures, emphasizing regression. Considers
+model specification, autocorrelation, instrumental variables, and causal modelling. Students
+must have taken at least one previous subject
+in statistics. Open to qualified undergraduates.
+S. Ansolabehere
+General Subjects
+17.UR Undergraduate Research
+Prereq.: -
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+17.URG Undergraduate Research
+Prereq.: -
+U (Fall, Spring)
+Units arranged
+Can be repeated for credit
+Undergraduate research opportunities in Political Science in theoretical and applied research. For further information, contact the
+Departmental Coordinator.
+R. J. Samuels
+Descriptions of Subjects 473

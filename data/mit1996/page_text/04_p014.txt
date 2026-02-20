@@ -1,0 +1,88 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.465 Structure of Geologic Aquifers 12.476 Radiogenic Isotope Geology 12.481 Advanced Field Geology I
+(New)
+Prereq.: Permission of instructor Prereq.: 12.108, 12.113, 12.114, 12.115
+(Subject meets with 12.130) G (Spring) Acad Year 1996-97: G (Fall)
+Prereq.: 12.110 or permission of instructor 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered
+Acad Year 1996-97: G (Fall) 2-2-2 H-LEVEL Grad Credit
+Applications of the variations in the relative
+Acad Year 1997-98: Not offered Can be repeated for credit
+abundance of radiogenic isotopes to problems
+3-3-6 H-LEVEL Grad Credit
+of petrology, geochemistry, and tectonics. Introduction to the problems to be investigated
+Intended for earth scientists and engineers Topics: geochronology; isotopic evolution of in 12.482, as well as the regional setting ano
+who require a knowledge of the structure and earth's crust and mantle, petrogenesis, analyti- local geology of the field area. Various special
+complexity of shallow to deeply-buried cal techniques. techniques may be introduced and preparatory
+sedimentary aquifers. Content focuses on the S. Bownng investigations may be conducted that are
+analysis of depositional systems and facies specific to the area to be studied in 12.482.
+and architecture; the nature and origin of 12.478 Pressure-Temperature-Time B. C. Burchfiel, J. P. Grotzinger, K. V. Hodges,
+geometry and scales of vertical and lateral in- Evolution of Orogenic Belts L. H. Royden
+homogeneity; reconstruction of sedimentary
+basins and their interpretation; quantitative Prereq.: 3.01 or 5.60; 12.109, 18.03 12.482 Advanced Field Geology II
+methods of spatial and temporal correlation; Acad Year 1996-97: Not offered
+numerical forward modeling and use of simula- Acad Year 1997-98: G (Fall) Prereq.: 12.481
+tion in characterization of aquifer geometry. 3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: G (IAP, Spring)
+Two field trips explore unconsolidated as well Multidisciplinary introduction to modern techni- Acad Year 1997-98: Not offered
+as lithified sediments. ques used to analyze burial and uplift histories Units arranged H-LEVEL Grad Credit
+J. P. Grotzinger, J. B. Southard, C. J. Marone of metamorphic terrains. Includes 1) Can be repeated for credit
+geochronologic systems; 2) closure tempera- In January, a geological study of a selected
+12.467 Seminar in Geomorphology ture theory and the use of geochronologic sys- field area is conducted during a four-week ex-
+(New) tems as thermochronometers; 3) cursion. The following term includes 1)
+geothermometry and geobarometry; 4) ther- preparation of maps and report based on field
+Prereq.: Permission of instructor
+modynamic modeling of P-T paths; 5) thermal study conducted in January, and 2) laboratory
+G (Spring)
+structure of orogenic belts, with emphasis on analysis of samples.
+2-0-4 H-LEVEL Grad Credit
+characteristic length scales and time scales for B. C. Burchfiel, J. P. Grotzinger, K. V Hodges,
+Can be repeated for credit
+thermal events; 6) geophysical analysis of L. H. Royden
+Discussion of current research or advanced burial and uplift trajectories for metamorphic
+topics in landscape evolution, surface hydrol- terrains. 12.484 Directed Field Studies
+ogy, mechanics of sediment transport, basin K. V. Hodges, L. H. Royden
+analysis, or experimental geomorphology. Ad- Prereq.: Permission of instructor
+vanced instruction in process geomorphology. 12.479 Trace-Element Geochemistry G (IAP)
+K. X. Whipple 0-6-0
+Prereq.: Permission of instructor Can be repeated for credit
+Acad Year 1996-97: Not offered
+12.474 Origin and Evolution of the Earth's Intensive training in field geological methods.
+Acad Year 1997-98: G (Fall)
+Crust Includes specific exercises selected to comple-
+3-0-9 H-LEVEL Grad Credit
+ment the backgrounds of the students enrolled
+Prereq.: Permission of instructor
+Focuses on element distribution in rocks and and provides supervised experience in applyAcad Year 1996-97: Not offered
+minerals using data obtained from natural and ing field analytical techniques to geological
+Acad Year 1997-98: G (Spring)
+experimental systems. Emphasizes models problems. Cannot be taken as a substitute for
+3-0-6 H-LEVEL Grad Credit
+describing trace-element partitioning and ap- 12.115.
+Broad overview of the origin and evolution of plications of trace-element geochemistry to K. V. Hodges, B. C. Burchfiel
+Earth's crust and mantle with emphasis on the problems in igneous geology.
+study of the Precambrian rock record. Topics F. A. Frey 12.485 Advanced Directed Field Studies
+include: processes of crustal growth, stabilization, and reactivation; evaluation of secular 12.480 Advanced Igneous Petrology_ Prereq.: 12.484
+cnange; and use of radiogenic isotopes in G (IAP)
+geochronology and as tracers of crust forming Prereq.: 5.60 or 3.00 0-6-0
+processes. Acad Year 1996-97: G (Spring) Can be repeated for credit
+S. Bowring Acad Year 1997-98: Not offered Continuation of 12.484. Designed to provide
+3-3-6 H-LEVEL Grad Credit
+more advanced training in specific field geologi-
+12.475 Global Plate Tectonics Thermodynamics, experimental phase equi- cal methods. Can be taken during the same
+libria, and kinetics combined to infer the physi- IAP period as 12.484.
+Prereq.: Permission of instructor
+cal conditions of igneous rock crystallization K. V. Hodges, B. C. Burchfiel
+Acad Year 1996-97: G (Spring)
+and magma production. Uses results of exAcad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit perimental studies to constrain processes that 12.490-12.491 Advanced Seminar in
+control magma genesis and give rise to the Geology and Geochemistry
+First half covers basic elements of plate tec- diversity of igneous rocks. Discusses theoretitonics, including sea floor spreading, magnetic cal approaches to thermometry-barometry Prereq.: Permission of instructor
+anomalies, and subduction zone. Second half techniques involving solid/solid and mineral/iq- G (Fall, Spring)
+covers implications of plate tectonics for con- uid reactions, kinetic controls on crystallization, Units arranged [P/D/F H-LEVEL Grad Credit
+tinental processes, including continental rifting, and properties of silicate melts. Can be repeated for credit
+continental collision, and mountain building. T. L. Grove Problems of current interest in geology and
+Emphasis will be on correlating plate tectonic geochemistry. Subject matter varies from term
+and continental processes using specific ex- to term. 12.490 is letter-graded.
+amples from around the world.
+Geology and Geochemistry Staff
+B. C. Burchfiel, L. H. Royden
+Descriptions of Subjects 411

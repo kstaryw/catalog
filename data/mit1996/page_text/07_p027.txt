@@ -1,0 +1,117 @@
+School of Engineering
+22.38 Probability and its Applications To Radiation Interactions and
+Reliability, Quality Control, and Risk Applications
+Assessment
+Prereq.: Permission of instructor
+G (Spring) 22.51 Interactions of Radiation
+with Matter
+3-0-9 H-LEVEL Grad Credit
+Prereq.: 8.05
+Interpretations of the concept of probability.
+G (Fall)
+Basic probability rules; random variables and
+3-0-9 H-LEVEL Grad Credit
+distribution functions; functions of random variables. Applications to quality control and the Basic principles of interaction of electromagreliability assessment of mechanical/electrical netic radiation, thermal neutrons, and charged
+components, as well as simple structures and particles with matter. Introduces classical
+redundant systems. Elements of statistics. electrodynamics, quantum theory of radiation,
+Bayesian methods in engineering. Methods for time-dependent perturbation theory, transition
+reliability and risk assessment of complex sys- probabilities and cross sections describing intems, (event-tree and fault-tree analysis, com- teraction of various radiations with atomic sysmon-cause failures, human reliability models). tems. Applications include theory of nuclear
+Uncertainty propagation in complex systems magnetic resonance; Rayleigh, Raman, and
+(Monte Carlo methods, Latin Hypercube Sam- Compton scattering; photoelectric effect; and
+pling). Introduction to Markov models. Ex- use of thermal neutron scattering as a tool in
+amples and applications from nuclear and condensed matter research.
+chemical-process plants, waste repositories, S. H. Chen
+and mechanical systems. Open to qualified undergraduates. 22.52J Statistical Thermodynamics of
+G. Apostolakis Complex Liquids
+(Same subject as 8.575J, 10.44J)
+22.39 Nuclear Reactor Operations and
+Prereq.: 8.08, 10.213, or equivalent
+Safety
+Acad Year 1996-97: Not offered
+Prereq.: 22.211 Acad Year 1997-98: G (Spring)
+Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+Acad Year 1997-98: G (Fall)
+Units arranged H-LEVEL Grad Credit Theory of self-assembly in surfactant-water
+(micellar) and surfactant-water-oil (micro-emulPrinciples of operating nuclear reactor systems sion) systems. Introduction to the theory of
+in a safe and effective manner. Emphasizes polymer solutions. Introduction to scattering
+light-water reactor systems with transient techniques - light, x-ray, and neutron scatterresponse studies, including degraded core ing - applied to studies of the structure and
+recognition and mitigation. Consequence dynamics of complex liquids. Modern theory of
+analysis and risk assessment. Lessons from the liquid state relevant to structured
+past accident experience. NRC licensing and (supramolecular) liquids.
+regulations. Demonstrations: operation of the S. H. Chen, D. Blankschtein
+MIT research reactor; use of a PWR concept
+simulator. Optional laboratory section involves 22.53 Statistical Processes and Atomistic
+a project at the Nuclear Reactor Laboratory. Simulations
+G. Apostolakis
+Prereq.:
+Numerical and Mathematical
+Methods
+22.45 Lattice Gas Algorithms and
+Architectures
+Prereq.: Permission of instructor
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+2-0-7 H-LEVEL Grad Credit
+Lattice gas algorithms are logical dynamical
+systems that can accurately and efficiently
+model a true continuum fluid. They provide fundamental computational advantages over floating point approximations to Navier-Stokes. The
+advantages stem from the dynamical similarity
+of the lattice gas system and a real molecular
+gas. Subject develops the algorithmic basis for
+the method, emphasizing the similarities and
+differences with a real molecular gas. Computer architectural issues also considered.
+K. Molvig, G. M. Papadopoulos, T. F. Knight
+-
+22.54 Nuclear and Atomic Collision
+Phenomena
+(22.113)
+Prereq.: 22.101
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Principles and applications of classical and
+quantum theory of collisions. Detailed study of
+two-body scattering, partial-wave and phaseshift analysis, time-dependent perturbation
+theory, and the Born approximation. Irradiation
+atomistics. Optical model of nuclear reactions.
+Atomic stopping power. Thermal neutron inelastic scattering in condensed matter. Connections between diffraction and imaging.
+S. Yip, X. L. Zhou
+22.55J Principles of Radiation Applications
+(Same subject as HST.560J)
+Prereq.: Permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+Principles of advanced radiation source engineering, theory and computation methods of
+radiation transport in bulk matter, and major
+radiation applications in industry, medicine,
+and scientific studies. Topics include radiation
+processing, nuclear measurements, nuclear interrogation, radiation therapies, radiation medical diagnostics, nuclear analytical techniques,
+and neutron scattering and NMR spectroscopies. Requires a term paper and presentation.
+X. L. Zhou
+22.56J Principles of Medical Imaging
+(Same subject as 2.761J, HST.561J)
+Prereq.: Permission of instructor
+G (Spring)
+4-0-8 H-LEVEL Grad Credit
+Principles of imaging methods using ionizing
+and non-ionizing radiation and ultrasound. Emphasis placed on fundamental physics and
+Acad Year 1996-97: G (Fall)
+mathematics involved in image formation, inAcad Year 1997-98: Not offered
+cluding basic interactions, data acquisition and
+3-0-9 H-LEVEL Grad Credit
+reconstruction. Planar radiographic imaging,
+Statistical mechanics principles of equilibrium multi-dimensional tomography (X-ray CAT,
+and time-dependent properties of condensed PET, SPECT), ultrasound, and NMR imaging
+states of matter. Phase-space distributions, covered, with examples of specific medical aptime correlations functions, kinetic equations. plications.
+Free energy calculations. Stochastic proces- D. Cory, D. Rowell
+ses. Continuum and molecular models for
+transport phenomena and phase transitions. 22.561 J Magnetic Resonance - Analytic,
+Methods and applications of molecular Biochemical, and Imaging Techniques
+dynamics and Monte Carlo simulations in
+statistical physics and materials science. (Same subject as HST.584J)
+Prereq.: Permission of instructor S. Yip
+G (Spring)
+3-0-12 H-LEVEL Grad Credit
+See description under subject HST.584J.
+B. R. Rosen
+526 Chapter Vill

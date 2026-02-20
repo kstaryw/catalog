@@ -1,0 +1,90 @@
+Department of Ocean Engineering Course 13
+13.43 Design of Ocean Engineering 13.471J Design and Implementation of 13.50 Numerical Methods with Applications
+Systems Computer-Aided Engineering Systems to Marine Problems
+Prereq.: 13.42 (Same subject as 2.157J, 1 .127J) Prereq.: 18.03, 13.016 or 1.00
+Acad Year 1996-97: Not offered Prereq.: Permission of instructor G (Fall)
+Acad Year 1997-98: G (Fall) G (Fall) 3-0-9
+3-0-9 H-LEVEL Grad Credit 3-2-7 H-LEVEL Grad Credit
+Introduces numerical methods useful in the
+Advanced topics in designing ocean engineer- See description under subject 2.157J. solution of engineering problems. Repreing systems. Wave, current, and wind forces; N. M. Patrikalakis, D. C. Gossard sentation of numbers on the computer. Roundstatistics of drift forces. Separation, oscillatory off error. Solution of linear systems. Nonlinear
+flow around bluff bodies. Vortex-induced vibra- 13.472J Computational Geometry equations. Eigenvalues of dynamical systems.
+tions. Galloping and flutter. Cable statics and Singular-value decomposition. Optimization
+dynamics; dynamics and design of multileg (Same subject as 1.128J, 2.158J) methods. Fast Fourier Transforms. Differential
+mooring systems. Riser statics and dynamics; Prereq.: 13.471J/2.157J or 6.837 equations. Solution of model problems from
+flexible risers; towed arrays. Dynamic position- Acad Year 1996-97: Not offered ocean engineering by finite-difference, finiteing of vehicles; modeling issues and control Acad Year 1997-98: G (Spring) element, and spectral methods. Assigned comsystem design. Applications to floating struc- 3-0-9 H-LEVEL Grad Credit puter problems requiring familiarity with
+tures include moored semisubmersibles and Topics in surface modeling: b-splines, non- FORTRAN.
+ships, and tension-leg platforms. uniform rational b-splines, physically based P. D. Sclavounos
+M. S. Triantafyllou, M. Grosenbaugh deformable surfaces, sweeps and generalized
+cylinders, offsets, blending and filleting sur- 13.51 Computer Models of Physical and
+13.462 Projects in Ocean Engineering faces. Non-linear solvers and intersection Engineering Systems
+System Design problems. Solid modeling: constructive solid
+Prereq.: 18.03 or 18.034, 1.00
+geometry, boundary representation, nonPrereq.: 13.412 or 13.42 or 13.43 U (Spring)
+manifold and mixed-dimension boundary repreG (Fall, Spring, Summer) 3-1-8
+sentation models, octrees. Robustness of
+Units arranged H-LEVEL Grad Credit
+geometric computations. Interval methods. Engineering School-Wide Elective Subject.
+Can be repeated for credit
+Finite and boundary element discretization Description given at end of this chapter in
+Determines design criteria for ocean-based methods for continuum mechanics problems. SWE section on page 999.
+systems such as ships, submersibles, plat- Scientific visualization. Variational geometry. F. Pelia-Mora
+forms, and their control systems derived from Tolerances. Inspection methods. Feature repa set of system mission requirements specified resentation and recognition. Shape interroga- 13.52 Management in Engineering
+by the student in consultation with the instruc- tion for design, analysis, and manufacturing.
+tor. Preparation of preliminary design of sys- Involves analytical and programming assign- Prereq.:
+tem fulfilling selected criteria. Students ments in C.
+intending to take 13.462 should plan a two- N. M. Patrikalakis, D. C. Gossard
+term sequence, preferably beginning in the
+first term. Participation by several students in a 13.49 Maneuvering and Control of Surface
+single project encouraged. Primarily for and Underwater Vehicles
+graduate students in Ocean Engineering;
+others admitted by permission of instructor. Prereq.: 13.42
+C. Chryssostomidis, M. S. Triantafyllou G (Fall)
+3-0-9 H-LEVEL Grad Credit
+13.465 Ocean Instrument Field Laboratory Maneuvering motions of surface and underwater vehicles. Derivation of equations of moPrereq.: 13.951 G (lAP) tion, hydrodynamic coefficients. Memory
+effects. Linear and nonlinear torms of the equa-
+1-4-1 H-LEVEL Grad Credit
+tions of motion. Control surfaces; modeling
+Field experience subject at Woods Hole and design of control surfaces. Environmental
+Oceanographic Institution. Classroom back- forces, simulation of a maneuvering vehicle.
+ground and field laboratory with hands-on ex- Towed vehicles and their motion. Stability of
+perience. Emphasis on modern oceanographic motion. Principles of multivariable automatic
+instrumentation including the operation of side- control; effect of delays. Applications include
+scan sonar, conductivity, temperature, depth, autopilots for surface vehicles; towing in open
+and optical backscatter systems; modern un- seas; remotely operated vehicles; and single
+derwater acoustic navigation and tracking tech- point moorings.
+niques; underwater systems for coastal M. S. Triantafyllou, M. Grosenbaugh
+research and monitoring; and underwater
+vehicle operation.
+J. H. Milgram, C. von Alt (Woods Hole Staff)
+13.470J Computer Aided Engineering I
+(Same subject as 1.124J, 2.159J)
+Prereq.: 1.00 and knowledge of C
+G (Fall)
+3-3-6 H-LEVEL Grad Credit
+See description under subject 1 .124J.
+J. R. Williams
+-
+U (Fall)
+3-0-9
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+J.-H. Chun
+13.60 Ship Production
+(New)
+Prereq.: 13.410, 13.122, 13.17J
+G (Summer)
+3-1-8 H-LEVEL Grad Credit
+Presents and applies modern ship production
+methods in a total ship system and concurrent
+engineering context. Reviews basic fabrication
+and material handling processes. Major topics
+include design/production integration, build
+strategy, group technology zone construction,
+shipyard layout, CAD/CAM, accuracy control,
+process planning, and scheduling. Examines
+design concepts to enhance producibility and
+reduce cost/environment impact. Uses case
+studies and projects.
+A. J. Brown
+Descriptions of Subjects 423

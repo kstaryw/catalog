@@ -1,0 +1,116 @@
+School of Engineering
+Course 1 Civil and Environmental
+Engineering
+For degree requirements, see listing in
+Chapter VII under the School of
+Engineering.
+Fundamentals 1.04 Solid Mechanics
+Prereq.: 8.01, 18.01
+U (Spring)
+1.00 Introduction to Computers and
+3-2-7 REST
+Engineering Problem Solving
+Static equilibrium. Forces in trusses. Stress,
+(Subject meets with 1.001)
+Prereq.: 18.01 strain, and Hooke's law; introduction to stressU (Fall, Spring) strain behavior of construction materials. Torsion in members of circular cross-section.
+3-1-8 REST
+Stresses and deflections in beams. Stresses
+Fundamental computational algorithms for en- on inclined planes and the use of Mohr's circle
+gineering and scientific applications. Weekly for plane stress. Design project using
+programming problems cover numerical Growltiger software package.
+analysis, graphics, data structures, searching, L. J. Gibson
+sorting, matrix methods, and simulation. Emphasis on developing techniques for solving
+1.05 Fluid Mechanics
+computational problems in engineering,
+science, management, and planning. Subject Prereq.: 8.01, 18.03
+taught using the C++ programming language U (Spring)
+in the Fall term and the C programming lan- 3-2-7
+guage in the Spring term. Some programming Introduction to the mechanics of incompresbackground helpful, particularly for the Fall sible fluid flow. Fluid properties. Hydrostatics.
+term. Conservation of mass and momentum using
+Fall Term: S. R. Lesman differential and integral balances. The BernoulSpring Term: E A. Kausel li equation. Shear stresses and velocity
+profiles in laminar and turbulent flows.
+1.001 Introduction to Computers and Dynamic similarity. First law of therEngineering Problem Solving modynamics and the energy equation. Applica-
+(New) tions to steady flow in conduits and open
+channels, pumps, turbines, drag and lift on im-
+(Subject meets with 1.00)
+mersed objects.
+Prereq.: 18.01
+0. S. Madsen
+G (Fall, Spring)
+3-1-5
+1.1OJ Environment and Technology
+Meets with undergraduate subject 1.00. See
+description under 1.00. (Subject meets with 10.470J, 10.570J,
+Fall Term: S. R. Lerman TPP.52J)
+Spring Term: E. A. Kausel Prereq.:
+1.03 Introduction to Probability and
+Statistics for Engineers
+Prereq.: 18.01, 18.02
+U (Fall)
+3-2-7
+Elements of probability and statistics with emphasis on engineering applications. Probability
+topics include univariate and multivariate distributions, estimation, and prediction; engineering reliability analysis; and Poisson and
+Markov processes. Statistics include classical
+and Bayesian methods of parameter estimation and hypothesis testing.
+D. Veneziano
+-
+Undergraduate Laboratory
+Subjects
+1.102 Transportation Laboratory
+Prereq.:
+U (Fall)
+3-0-6
+Introduction to environmental problems arising
+from commonplace technologies (e.g., plastics, electronics, automobiles). Considers the
+sustainability of resource use and the introduction of chemicals into the environment. Illustrates how to predict the fates of those
+chemicals in air-water-land-biota systems. Considers environmental and health consequences of products and the processes used for
+their manufacture. Discusses how we might
+respond to undesirable impacts, including
+product redesign and development of policies
+to achieve environmentally sensitive improvements. Meets with graduate subject 10.570J,
+but assignments differ.
+P. Gschwend, J. Ehrenfeld, A. Sarofim
+For additional undergraduate introductory
+subjects, see 1.30, 1.40, 1.50, 1.60, 1.70,
+1.80.
+-
+U (Spring)
+0-3-3 Institute LAB
+Can be repeated for credit
+Laboratory experience with the properties of
+transportation systems. Students formulate an
+experiment based upon readings and discussions of current transportation problems. Emphasis on formulation of hypotheses about
+properties and effects of different types of
+transportation systems; planning of experiments and data collection in the field to test
+these hypotheses, analysis of results, and
+development of recommendations for changes
+in transport systems plans and policies.
+Consult N. H. M. Wilson.
+1.105 Structural Engineering Laboratory
+Prereq.: -
+U (Fall)
+0-3-3 Institute LAB
+Introduces students to properties of structural
+materials and behavior of simple structural elements and systems through a series of experiments. Several laboratory projects involve the
+student as both the designer and fabricator of
+a structure.
+C. Leung
+1.106 Fluid Mechanics Laboratory
+Prereq.: -
+U (Fall)
+0-2-4 Institute LAB
+Credit cannot also be received for 1.108
+The measurement and analysis of physical
+parameters such as velocity, pressure, salinity,
+temperature, dissolved solids, etc., in closed
+conduits and natural water bodies. Application
+of these techniques in the context of six
+laboratory experiments. Certain experiments
+complement lectures in 1.05, but concurrent
+registration in 1.05 or previous fluid mechanics
+experience is not required. (Six additional
+units, satisfying the Institute Lab Requirement,
+may be obtained by registering for 1.108
+rather than 1.106.)
+E. E. Adams, H. M. Nepf
+300 Chapter Vill

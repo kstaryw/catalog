@@ -1,0 +1,65 @@
+School of Science
+8.481, 8.482 Selected Topics in Physics 8.513 Many-body Techniques in 8.562 Correlations and Critical Behavior
+of Atoms and Radiation Condensed Matter Physics in Condensed Matter
+Prereq.: 8.321 Prereq.: 8.511, 8.512 Prereq.: 8.511, 8.333
+G (Fall, Spring) G (Fall) Acad Year 1996-97: Not offered
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Presentation of topics of current interest, with Topics vary depending on lecturer. In 1996-
+content varying from year to year. Subject not 97, introduces the use of functional integrals in Views condensed-matter physics through
+routinely offered; given when sufficient interest condensed matter physics. Topics include space- and time-dependent correlation funcis indicated. quantum systems coupled to heat baths, the tions measured by scattering spectroscopy.
+Information: G. F. Koster. Hubbard-Stratonovitch formalism illustrated by Treats in detail experimental techniques of xthe superconductivity order parameter, density ray, light, electron, and neutron scattering.
+8.510J Application of Group Theory to the of states of disordered systems and the quan- Theoretical development is strongly
+Physics of Solids tum Hall effect, and the scaling theory of phenomenological to elucidate physical belocalization and transport in mesoscopic sys- havior with minimal mathematical complexity.
+(Same subject as 6.734J) tems. Uses conservation laws, broken symmetry,
+Prereq.: 8.231 or 6.732 X.-G. Wen and the fluctuation-dissipation theorem to ilAcad Year 1996-97: G (Spring) lustrate the interconnection between apparentAcad Year 1997-98: Not offered 8.515J Biological Physics ly diverse systems, with special attention to
+3-0-9 H-LEVEL Grad Credit behavior near phase transitions.
+See description under subject 6.734J. (Same subject as HST.450J) S. Mochrie
+Prereq.: 8.044 desirable but not necessary
+M. S. Dresseihaus
+G (Fall)
+8.575J Statistical Thermodynamics of
+4-0-8 H-LEVEL Grad Credit
+8.511 Theory of Solids I Complex Liquids
+Designed to provide seniors and first-year
+Prereq.: 8.231 graduate students with a quantitative, analyti- (Same subject as 22.52J, 10.44J)
+G (Fall) cal understanding of selected biological Prereq.: 8.08, 10.213, or equivalent
+3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: Not offered
+phenomena. Topics include: Experimental and
+Acad Year 1997-98: G (Spring)
+First term of a theoretical treatment of the theoretical basis for the phase boundaries and 3-0-9 H-LEVEL Grad Credit
+physics of solids. Concept of elementary ex- equation of state of concentrated protein solucitations. Symmetry: translational, rotational, tions, with application to diseases such as See description under subject 22.52J.
+and time-reversal invariances: theory of repre- sickle cell anemia and cataract. Protein-ligand S. H. Chen, D. Blankschtein
+sentations. Energy bands: APW, OPW, pseu- binding and linkage and the theory of allosteric
+dopotential and LCAO schemes. Survey of regulation of protein function, with application 8.581, 8.582 Selected Topics in Physics of
+electronic structure of metals, semimetals, to proteins as stores as transporters in respira- Solids
+semiconductors, and insulators. Excitons. Criti- tion, enzymes in metabolic pathways,
+cal points. Response functions. Interactions in membrane receptors, regulators of gene ex- Prereq.: Permission of instructor
+the electron gas. pression, and self-assembling scaffolds. The G (Fall, Spring)
+P. Lee physics of locomotion and chemoreception in 3-0-9
+bacteria and the biophysics of vision including Can be repeated for credit
+8.512 Theory of Solids 11 the theory of transparency of the eye, Presentation of topics of current interest, with
+molecular basis of photo reception and the contents varying from year to year. Subject not
+Prereq.: 8.511 detection of light as a signal to noise dis- routinely offered; given when sufficient interest
+G (Spring) crimination. is indicated.
+3-0-9 H-LEVEL Grad Credit G. Benedek, F. Villars Information: T. J. Greytak.
+Second term of a theoretical treatment of the
+physics of solids. Interacting electron gas: 8.532J Modern Topics in Solid State 8.613J Introduction to Plasma Physics I
+many-body formulation, Feynman diagrams, Physics
+(Same subject as 6.651J, 22.611J)
+random phase approximation and beyond. (Same subject as 6.735J) Prereq.: 6.014 or 8.07; 18.04 or 18.075
+General theory of linear response: dielectric
+Prereq.: 6.732 or 8.231 G (Fall)
+function; sum rules; plasmons; optical proper- Acad Year 1996-97: Not offered 3-0-9 H-LEVEL Grad Credit
+ties; applications to semiconductors, metals, Acad Year 1997-98: G (Fall)
+and insulators. Transport properties: non-inter- 3-0-9 H-LEVEL Grad Credit Introduces plasma phenomena relevant to
+acting electron gas with impurities, diffusons. energy generation by controlled thermonuclear
+Quantum Hall effect: integral and fractional. Quantum wells, superlattices, 2-D electron sys- fusion and to astrophysics. Coulomb collisions
+Electron-phonon interaction: general theory, tems, quantized Hall effect, intercalation, semi- and transport processes. Motion of charged
+applications to metals, semiconductors and in- conductor-metal transition, one-electron particles in magnetic fields; plasma confinesulators, polarons, field-theory description. Su- systems, organic conductors, magnetic semi- ment schemes. MHD models; simple equiperconductivity: experimental observations, conductors, localization phenomena, Bohm- librium and stability analysis. Two-fluid
+phenomenological theories, B.C.S. theory. Aharanov effect, Fullerenes. hydrodynamic plasma models; wave propagaP. Lee M. S. Dresseihaus tion in a magnetic field. Introduces kinetic
+theory; Vlasov plasma model; electron plasma
+waves and Landau damping; ion-acoustic
+waves; streaming instabilities.
+A. Bers, B. Coppi
+376 Chapter Vill

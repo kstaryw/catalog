@@ -1,0 +1,94 @@
+School of Architecture and Planning
+4.205 Foundations of Design and
+Computation
+Prereq.: Permission of instructor
+G (Fall)
+Units arranged H-LEVEL Grad Credit
+An introduction to the computational treatment
+of design problems and processes. Presents
+basic theoretical ideas and provides an overview of the relevant literature. Gives particular
+attention to shape description, shape computation, shape grammars, and shape languages.
+W. J. Mitchell
+4.206 Visualization
+(Revised Units)
+Prereq.: -
+4.210 Light, Color, and Computer Graphics 4.221 Architecture Studies Faculty
+Colloquium
+Prereq.: 4.203 or 4.206
+G (Spring) Prereq.: Permission of instructor
+3-0-6 H-LEVEL Grad Credit G (Fall)
+Units arranged [P/D/F]
+Introduction to the effects of light and color in
+Can be repeated for credit
+architecture. Applies computer graphics as the
+primary medium, along with direct observation, Required subject for all first-year S.M.Arch.S.
+basic mathematical analysis, and other forms students. Weekly presentations by faculty on a
+of representation, to help understand the com- selected theme followed by discussion. Replex and interconnected nature of these quirements include active student participation
+phenomena. Examines the distinction between and a final paper reviewing the general
+natural and artificial light, the related topic of theoretical issues raised by the theme and by
+energy consumption, the color of light, and the each faculty presentation.
+role of all of these in the shaping of buildings. Staff
+Also covers the relevant computer graphics
+techniques. Open to qualified undergraduates. 4.222 Aspects of Office Practice
+J. Dorsey
+U (Fall) Prereq.: Permission of instructor
+3-0-9 G (Fall)
+4.214J Advanced Topics in Computer
+2-0-4 [P/D/F] H-LEVEL Grad Credit
+Explores the role of computer visualization as Graphics
+a representational medium. Emphasizes the (New) An in-depth overview of the practice of arvisualization of light, color, surfaces, textures, chitecture. Structured to convey the myriad of
+(Same subject as 6.838J)
+volumes, scientific data, buildings, landscapes, concerns and methodology associated with arPrereq.: 6.837 or 4.210
+and terrains, and introduces basic animation chitectural project development. Introduces the
+G (Spring)
+techniques. Real and imaginary environments student to the broad range of issues from of-
+3-0-9 H-LEVEL Grad Credit
+are constructed, probed, and displayed. Also fice organization to steps and sequences recovers the relevant computer graphics In-depth study of an active research topic in quired to facilitate, administer, and carry
+methods. computer graphics. Topics change each term. through an architectural project. Explores the
+J. Dorsey Readings from the literature, student presenta- architect's role as designer, project manager,
+tions, short assignments, and a programming contact with client from predesign through con-
+4.207 Advanced Topics in Design and project. struction. Explores the expanding role of comComputation J. Dorsey puters in architectural practice. Combines
+classroom discussions with site visits to
+Prereq.: Permission of instructor 4.218, 4.219 Special Problems in Urban several architectural offices.
+G (Fall, Spring) Housing H. P. Portnoy
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit Prereq.: Permission of instructor
+4.228, 4.229 Architectural Design
+G (Fall, Spring)
+Provides an opportunity for detailed explora- Seminar
+Units arranged H-LEVEL Grad Credit
+tion of selected advanced topics in design and
+Can be repeated for credit Prereq.: 4.126
+computation. Supplementary work on in- G (Fall, Spring)
+dividual or group basis. Registration subject to Supplementary work on individual or group
+Units arranged H-LEVEL Grad Credit
+prior arrangement for subject matter and super- basis. Registration subject to prior arrangeCan be repeated for credit
+vision by staff. ment for subject matter and supervision by
+W. J. Mitchell staff. Inquiries and/or explorations into a research
+M. Dennis, R. Goethert, R. Strickland topic related to architectural design taught in a
+4.208, 4.209 Special Problems in seminar format. The work may supply the
+Computation and Architecture 4.220 Urban Housing: Paris, London, basis for an architectural design workshop
+New York and/or studio and/or lead a research proposal
+Prereq.: Permission of instructor and/or publication.
+G (Fall, Spring) Prereq.: Permission of instructor Architectural Design Staff
+Units arranged H-LEVEL Grad Credit G (Fall, Spring)
+Can be repeated for credit 3-0-6 H-LEVEL Grad Credit
+4.23J Special Interest Group in Urban
+Can be repeated for credit
+Supplementary work on individual or group Settlements: SIGUS Workshops
+basis. Registration subject to prior arrange- Analysis of the development of housing
+(Same subject as 11.465J)
+ment for subject matter and supervision by models and their urban implications in Paris,
+Prereq.: Permission of instructor
+staff. London, and New York City from the seven- G (Fall, IAP, Spring)
+Staff teenth century to the present. Focus on the
+Units arranged [P/D/F] H-LEVEL Grad Credit
+French hotel, London row house, and New
+Can be repeated for credit
+York City tenement and apartment building;
+twentieth-century housing reform movements Interactive interdisciplinary workshops which
+and work by the London County Council, focus on projects and practices on urban settleCIAM, and American public housing agencies. ment issues in developing countries
+M. Dennis, R. Strickland throughout the world. Participation by guest
+practitioners.
+R. Goethert, R. A. Gakenheimer, B. Sanyal
+336 Chapter Vill

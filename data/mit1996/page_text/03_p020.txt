@@ -1,0 +1,123 @@
+Department of Brain and Cognitive Sciences Course 9
+9.401 Survey of Cognitive Science 9.591 Language Processing
+Prereq.: Permission of instructor Prereq.: 9.59J, 9.401, or permission of instrucG (Fall) tor
+4-0-8 H-LEVEL Grad Credit G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Survey of theories, methods, and findings in
+cognitive psychology and perception. Includes Seminar in real-time language comprehension.
+perception and psychophysics, pattern recogni- Formal models of sentence processing from
+tion, imagery and mental codes, memory and the linguistic, psychology, and artificial intelattention, and language comprehension and ligence literature. Ambiguity resolution. Linguisproduction. Ordinarily restricted to Course IX tic complexity. The use of lexical, syntactic,
+graduate students; permission of instructor re- semantic, pragmatic, and contextual informaquired for others. tion in language comprehension. The
+M. C. Potter, M. /. Jordan, K. Wexler, psychological reality of linguistic repreE. Adelson, E. Gibson, R. Held, B. Anderson, sentations.
+M. Wilson, E. Miller, P. Dayan, S. Pinker E. Gibson
+9.50 Research in Brain and Cognitive 9.601J Language Acquisition I
+Sciences
+(Same subject as 24.949J)
+Prereq.: 9.00 or 9.62; and one other subject in Prereq.: Permission of instructor
+Course IX Acad Year 1996-97: G (Fall)
+U (Fall, Spring, Summer) Acad Year 1997-98: Not offered
+2-8-2 Institute LAB 3-0-6 H-LEVEL Grad Credit
+Can be repeated for credit
+Lectures, reading, and discussion of current
+Laboratory research in brain and cognitive theory and data concerning the psychology
+science, using physiological, anatomical, phar- and biology of language acquisition. Emmacological, developmental, behavioral, and phasizes learning of syntax and morphology,
+computational methods. Each student carries and especially research relating grammatical
+out an experimental study under the direction theory and learnability theory to empirical
+of a member of the faculty. Project must be ap- studies of children.
+proved in advance by faculty supervisor and K. Wexler
+either A. Hein or P. H. Schiller. Written presentation of results is required. 9.602J Language Acquisition III
+Consult A. Hein or P. H. Schiller.
+(Same subject as 24.950J)
+Prereq.: Permission of instructor 9.520 Learning, Approximation, and
+Acad Year 1996-97: Not offered Networks
+Acad Year 1997-98: G (Spring)
+Prereq.: 9.01, 9.35, 18.02 3-0-6 H-LEVEL Grad Credit
+G (Spring)
+Continues discussion of topics described
+3-0-9 H-LEVEL Grad Credit
+under 9.601J.
+Study of the problem of learning from ex- K. Wexler
+amples, from the perspective of statistics and
+of the theory of multivariate function ap- 9.611J Natural Language and the Computer
+proximation from sparse data. Examines ap- Representation of Knowledge
+plications in the field of computer vision,
+computer graphics, time-series analysis and (Same subject as 6.863J)
+Prereg.: 6.034 prediction, and adaptive control. Also considers implications for how the brain may work, G (Spring)
+in particular for the neurobiology of object 3-3-6 H-LEVEL Grad Credit
+recognition. See description under subject 6.863J.
+T. Poggio, F. Girosi R. C. Berwick
+9.59J Psycholinguistics 9.62 Introduction to Cognitive Science
+(Same subject as 24.905J) Prereq.:
+Prereq.: 9.62 or 24.900J
+U (Fall)
+3-0-9 HASS
+Central topics in first language acquisition and
+real-time language comprehension. How does
+a child acquire language despite impoverished
+output? What makes language easy or hard to
+understand? Experimental methodology and
+explicit models are discussed. An emphasis on
+the relation of linguistic principles to the
+problems of language acquisition and real-time
+processing. Discussion of computational
+modeling.
+E. Gibson, K. Wexler
+-
+9.63 Laboratory in Cognitive Science
+(Subject meets with 9.631)
+Prereq.: 9.62
+U (Spring)
+3-6-3 Institute LAB
+9.631 Laboratory in Cognitive Science
+(Subject meets with 9.63)
+Prereq.: Permission of instructor
+G (Spring)
+3-6-3 H-LEVEL Grad Credit
+Introduces the principles of experimental
+design and interpretation in cognitive psychology, including an overview of inferential statistics and analyses of common sources of
+artifact. Demonstration of experiments in a
+number of areas of cognitive science. Students design, execute, and write up an experiment of their own. Graduate students required
+to do additional reading and more technically
+demanding assignments.
+B. Anderson
+9.641 Introduction to Neural Networks
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Study of representation, processing, and adaptation in highly interconnected networks of
+simple analog processing units. Explores basic
+algorithms, including backpropagation,
+Boltzmann machines, mixtures of experts,
+recurrent algorithms, hidden Markov models,
+and junction tree propagation. Emphasizes the
+ties to dynamical systems and statistics. Applications to models of memory, perception,
+reasoning, and motor control.
+M. 1. Jordan
+9.65 Cognitive Processes
+Prereq.:
+U (Fall)
+3-0-9 HASS
+Surveys major issues that occupy contemporary cognitive science. Topics include visual
+perception, memory, thinking and reasoning,
+language and communication.
+M. C. Potter, E. Gibson
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Spring)
+3-0-9 HASS
+An introduction to human information processing and learning; topics include the nature of
+mental representation and processing; the architecture of memory; pattern recognition; imagery and mental codes; concepts and
+prototypes; reasoning and problem solving.
+Staff
+9.651 Cognitive Processes
+Prereq.: 9.62, 9.65, or equivalent
+Acad Year 1996-97: G (Fall)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Surveys major issues and basic findings in
+human cognitive processing. Topics include
+pattern recognition, word perception, the architecture of memory, mental codes, learning,
+and attention, in addition to special topics of
+current interest. Alternate years.
+M. C. Potter
+Descriptions of Subjects 383

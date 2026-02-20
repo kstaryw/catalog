@@ -1,0 +1,89 @@
+Department of Civil and Environmental Engineering Course 1
+1.725J Chemicals in the Environment: Fate Aquatic Sciences, Water Quality 1.77 Water Quality Control
+and Transport Control, and Environmental Prereq.: 1.05
+(Same subject as TPP.51J) Management G (Spring)
+Prereq.: Permission of instructor 3-0-9 H-LEVEL Grad Credit
+G (Fall)
+Emphasis on mathematical models for predict-
+3-0-9 1.75 Limnology and Wetland Ecology
+ing distribution and fate of effluents discharged
+For Institute students in all departments inter- Prereq.: Permission of instructor into lakes, reservoirs, rivers, estuaries, and
+ested in the behavior of chemicals in the en- Acad Year 1996-97: Not offered oceans. Focuses on formulation and structure
+vironment (see TPP listings for other subjects). Acad Year 1997-98: G (Spring) of models as well as analytical and simple
+Emphasis on man-made chemicals, their 3-0-9 H-LEVEL Grad Credit numerical solution techniques. Role of element
+movement through water, air, and soil, and cycles, such as oxygen, nitrogen, and phosDominant physical, chemical, and biological
+their eventual fate. Physical transport, as well phorus, as water quality indicators. Offshore
+features of lakes and wetlands: basin geology,
+as chemical and biological sources and sinks, water budget, wind-driven hydromechanical outfalls and diffusion. Salinity intrusion in esare discussed. Linkages to health effects, sour- phenomena, heat balance, thermal stratifica- tuaries. Thermal stratification, eutrophication,
+ces and control, and policy aspects. Core re- and sedimentation processes in lakes and
+tion, radiation environment, biological comquirement for Environmental M.Eng. program. reservoirs. Core requirement for Environmenmunities, and cycles of major elements.
+H. F. Hemond tal M.Eng. program.
+Characterization of wetlands, wetland biota,
+E. E. Adams
+and chemical conditions of wetlands.
+1.731 Water Resource Systems Methodologies of modern limnology, including
+Prereq.: 1.72, 1.714, 18.03 or equivalent field methods and use of models; and current 1.782 Environmental and
+G (Spring) issues in lake and wetland management. Alter- Geoenvironmental Engineering M.Eng.
+3-0-9 H-LEVEL Grad Credit nate years. Project
+H. F. Hemond (Revised Units)
+Survey of deterministic optimization methods
+Prereq.: Limited to Course 1 M.Eng. Students
+for management of large-scale water projects.
+1.76 Aquatic Chemistry G (Fall, IAP, Spring)
+Linear, integer, nonlinear, and dynamic
+5-0-10
+programming illustrated with case studies. Ap- Prereq.: 5.11
+plications include reservoir and irrigation G (Fall) Core requirement for Environmental and
+development, conjunctive use of surface and 3-0-9 H-LEVEL Grad Credit Geoenvironmental M.Eng. program. Designed
+groundwater, and hazardous waste remedia- to teach about environmental restoration enQuantitative treatment of chemical processes
+tion. gineering through the use of case studies,
+in aquatic systems. A brief review of chemical
+D. McLaughlin computer software tools, and seminars from inthermodynamics and kinetics is followed by
+dustrial experts. The MMR Supertund site lostudies of acid-base, precipitation-dissolution,
+1.732 Hydrologic Estimation and Prediction coordination, and reduction-oxidation reactions cated at Otis Air National Guard Base is the
+case study on which lectures and student
+Prereq.: 1.715 of interest in systems such as lakes, oceans, projects are based. Topics include
+Acad Year 1996-97: Not offered rivers, estuaries, groundwaters, and waste- groundwater modeling theory, legislative
+Acad Year 1997-98: G (Fall) waters. Emphasis on equilibrium calculations framework and regulations, geotechnical en-
+3-0-9 H-LEVEL Grad Credit in model systems as a tool for understanding gieering, environmental chemistry, risk
+the variables that govern the chemical comQuantitative methods for describing uncertain- position of aquatic systems and the fate of inor- analysis and risk management, remediation
+ty and natural variability. Estimating unobserv- ganic pollutants. 5.60 is a suggested goals, site characterization, remediation techable physical parameters from field prerequisite. Suitable for advanced under- nologies, site closure and pollution prevention.
+measurements. Real-time forecasting and con- graduates. Students must register for 1.782 for both IAP
+trol. Environmental data assimilation. Case B. Voelker and spring term.
+studies include stream flow forecasting, reser- F. Perkins
+voir operations, characterization of subsurface
+1.761 Environmental Chemical Kinetics
+contamination. 1.80 Fundamentals of Ecology
+(New)
+D. McLaughlin (Revised Units)
+Prereq.: 1.76 or permission of instructor
+Prereq.:
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Advanced subject emphasizing kinetics and
+mechanisms of chemical processes in aquatic
+systems such as surface waters, groundwaters, wastewaters, and cloudwaters. Topics
+include coordination and redox chemistry, reactions at the solid-solution interface (such as formation and dissolution of minerals,
+coagulation, and sorption), photochemistry,
+and radical chemistry. Offered alternate years.
+B. Voelker
+-
+U (Fall)
+3-1-8 REST
+Basic subject dealing with the science of ecology; principles of interrelationships between organisms and their environment. Development
+of basic concepts of energy flow and
+biogeochemical cycles in ecosystems; productivity; trophic dynamics; community structure
+and stability; competition and predation; evolution and natural selection; population growth;
+and physiological ecology. Emphasis on
+aquatic systems.
+S. W. Chisholm
+1.81J Chemicals in the Environment:
+Toxicology
+(Same subject as TOX.104J, TPP.53J)
+Prereq.: 5.11, 7.012/7.013/7.014
+U (Spring)
+3-0-9
+See description under subject TOX.104J.
+W. G. Thilly
+Descriptions of Subjects 311

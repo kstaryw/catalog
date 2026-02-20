@@ -1,0 +1,83 @@
+Department of Electrical Engineering and Computer Science Course 6
+Bioelectrical Engineering 6.542J Laboratory on the Physiology, 6.561J Fields, Forces, and Flows:
+Acoustics, and Perception of Speech Background for Physiology
+6.501 Sound, Speech, Hearing (Same subject as 24.966J, HST.712J) (Same subject as 2.795J, HST.544J)
+Prereq.: Permission of instructor Prereq.: Permission of instructor
+Prereq.: 6.003 Acad Year 1996-97: Not offered G (Spring)
+Acad Year 1996-97: U (Fall) Acad Year 1997-98: G (Fall) 3-0-9 H-LEVEL Grad Credit
+Acad Year 1997-98: Not offered 2-2-8 H-LEVEL Grad Credit
+3-0-9 Conduction, diffusion, convection in
+Experimental investigations of speech proces- electrolytes; fields in heterogeneous media;
+Introduces the physical, physiological, and ses. Topics: a) measurement of articulatory electrical double layers; Maxwell stress tensor
+psychological bases of auditory communica- movements, b) measurements of pressure and and electrical forces in physiological systems.
+tion. Sound propagation in tubes, sound radia- volume velocity, c) computer-aided waveform Fluid and solid continua: equations of motion
+tion, properties of neural and muscular analysis and spectral analysis of speech, d) useful for porous, hydrated biological tissues.
+elements, the vocal tract and speech genera- synthesis of speech, e) perception and dis- Case studies: membrane transport; electrode
+tion, signal transmission in the auditory sys- crimination of speechlike sounds, f) speech interfaces; electrical, mechanical, and chemitem, perception of attributes of speech and prosoay, g) hidden Markov models for speech cal transduction in tissues; electrophoretic,
+speechlike sounds, and the linguistic units that recognition, and other topics. Recommended electroosmotic flows; diffusion/reaction; ECG.
+underlie speech events. Disorders of human prerequisites: 6.501, 6.002 or 18.03. Alternate Electromechanical and physicochemical intercommunication. Alternate years. years. 4 Engineering Design Points. actions in biomaterials and cells; orthopaedic,
+K. N. Stevens, L. D. Braida K. N. Stevens, J. S. Perkell, S. Shattuck- cardiovascular, and other clinical examples.
+Hufnagel A. J. Grodzinsky
+6.521J Quantitative Physiology: Cells and
+Tissues 6.551J Acoustics of Speech and Hearing 6.566J Biosensors, Signal Processing, and
+(Subject meets with 6.021J, 2.791J, 2.794J, (Same subject as HST.714J) Biomedical Applications
+HST.541J) Prereq.: 8.03 and 6.003 or permission of in- (Same subject as HST.585J)
+Prereq.: 2.003 or 6.002 or 6.071 or 10.301; structor Prereq.: Permission of instructor
+8.02, 18.03 G (Fall) Acad Year 1996-97: Not offered
+G (Fall) 4-2-6 H-LEVEL Grad Credit Acad Year 1997-98: G (Fall)
+5-2-5 3-3-6 H-LEVEL Grad Credit
+Electric-acoustic analogies. Review of basic
+Meets with undergraduate subject 6.021J. Re- ideas of circuit theory; natural frequencies, two- Alternate years. 6 Engineering Design Points.
+quires the completion of more advanced home ports, reciprocity, energy, and power. Laws of See description under subject HST.585J.
+problems and/or an additional project. See acoustics. Waves in one dimension. Acoustic S. K. Bums, J. C. Weaver
+description under subject 6.021J. impedance. Natural frequencies in tubes.
+T. F. Weiss, D. M. Freeman Lumped approximations. Losses, non-uniform
+plane waves, horns. Room acoustics. Sound
+6.522J Quantitative Physiology: Organ sources and microphones. Concepts applied
+Transport Systems to speech production and hearing.
+Electrodynamics
+Laboratories demonstrate measurement
+(Subject meets with 6.022J, 2.792J, 2.796J,
+methods, data presentation, and tests of
+HST.542J)
+Prereq.: 2.006 or 6.013; 6.021J theory. 4 Engineering Design Points. 6.601 Fields, Forces, and Motion
+W. T. Peake, J. J. Rosowski,
+G (Spring) Prereq.: 6.013
+W. M. Rabinowitz, K. N. Stevens
+4-2-6 G (Fall)
+Meets with undergraduate subject 6.022J. Re- 6.552J Signal Processing by the Auditory 3-0-9
+quires the completion of more advanced home System: Perception Electromechanical interactions in lumpedproblems and/or an additional project. See parameter and continuum systems. Integral
+description under subject 6.022J. See descrip- (Same subject as HST.716J) and differential electromagnetic laws, including
+tion under subject 6.022J. Prereq.: 6.003; 6.041 or 6.431 and permission motion. Lumped electrical and mechanical eleof instructor
+R. G. Mark, R. Kamm ments: thermodynamics of discrete
+G (Fall)
+electromechanical coupling, equations of mo-
+3-0-9 H-LEVEL Grad Credit
+6.541J Speech Communication tion. Synchronous and induction rotating
+Studies behavioral aspects of human hearing machines. Linear and nonlinear transducers,
+(Same subject as 24.968J, HST.71 OJ)
+in relation to current physiological knowledge. transient and steady-state dynamics;
+Prereq.: Permission of instructor
+Examines performance in processing informa- electromechanical time constants. Field transG (Spring)
+tion from acoustic stimuli. Correlations be- formations, dc rotating machines, magnetic dif-
+3-1-8 H-LEVEL Grad Credit
+tween behavior and physiology, reflecting the fusion and charge relaxation in moving
+Survey of structural properties of natural lan- tono-topic organization and stochastic respon- conductors. Electromagnetic force densities
+guages, with special emphasis on the sound ses of the auditory system. Mathematical and stress tensors.
+pattern. Physiology of speech production, ar- models of psychophysical relations, incorporat- J. H. Lang
+ticulatory phonetics. Acoustical theory of ing quantitative knowledge of physiological
+speech production; acoustical and articulatory transformations by the peripheral auditory sysdescriptions of phonetic features. Perception tem. Discusses related research on diagnosis
+of speech: the auditory capabilities of humans; and aids for partially deaf.
+evidence for perceptual correlates of phonetic L. D. Braida
+categories. Applications to recognition and
+generation of speech by machine. Recom- 6.555J Biomedical Signal and Image
+mended prerequisite: mathematical back- Processing
+ground equivalent to 6.003.
+K. N. Stevens, S. J. Keyser (Same subject as HST.582J, 16.456J)
+Prereq.: 6.003 or 2.003 or 18.085
+G (Spring)
+3-6-3 H-LEVEL Grad Credit
+See description under subject HST.582J.
+L. D. Braida, B. Delgutte, A. Dobrzeniecki,
+J. Greenberg
+Descriptions of Subjects 357

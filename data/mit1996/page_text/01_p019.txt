@@ -1,0 +1,108 @@
+Department of Mechanical Engineering Course 2
+2.010 Control System Principles 2.05 Kinematics and Dynamics of 2.062 Wave Propagation
+(New) Mechanisms and Manipulators
+Prereq.: 2.03J
+Prereq.: 2.003, 18.03, 2.004 Prereq.: 2.03J Acad Year 1996-97: Not offered
+U (Fall, Spring) G (Fall) Acad Year 1997-98: G (Spring)
+3-2-4 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Introduction to feedback control of physical sys- Analyzes kinematic and dynamic charac- Wave concepts in applied mechanics with extem behavior. State-space and functional teristics of planar and spatial mechanisms, in- amples chosen from elasticity, acoustics,
+descriptions of linear and nonlinear systems. cluding machines and robotic manipulators. geophysics, hydrodynamics, and related subFeedback, stability, and robustness. Poles and Use of vector, graphical, and 4 by 4 matrix jects. Plane wave theory, dispersion, phase
+zeroes. Transient response shaping. Natural methods for kinematic analysis. An introduc- and group velocities, wave impedance, energy
+frequencies, normal coordinates, and modes. tion to graphical and computer methods for density and intensity. Theory of characteristics.
+Full-state and output feedback. Frequency kinematic synthesis of mechanisms. Methods Reflection and refraction, wave guides, and
+response methods. Root locus. Bode plots. for dynamic analysis of mechanisms, and the boundary waves. WKB method, Green's law,
+Stability margins. Design of PID controllers use of digital simulation techniques. Systems and wave action. Generation, transmission,
+and compensators. Introduction to digital con- include rigid and flexible elements and active and reception of waves. Water waves,
+trol. Extensive case studies emphasizing com- control systems. Applications from industrial Rayleigh waves, waves in periodic structures.
+puter analysis and design of electro- machine systems and robotic manipulators. T. R. Akylas
+mechanical, pneumatic, hydraulic, and S. Dubowsky
+electronic control systems. 2.063J Sound and Structural Vibration
+A. M. Annaswamy 2.06J Mechanical Vibration
+(Same subject as 13.82J)
+(Revised Units)
+Prereq.: 2.03J or 16.040 or 18.075
+(Same subject as 13.80J, 13.801) G (Spring)
+Prereq.: 2.004J 3-0-9 H-LEVEL Grad Credit
+Mechanics, Dynamics, and U (Spring)
+With subject 2.060J, forms a two-term se-
+3-1-8
+Acoustics quence in acoustics at advanced level; to be
+Elective unit distribution: Advanced discipli- taken in either order. Transmission of vibration
+nary, 9; Lab, 3. See description under subject in structures and interaction with sound fields.
+2.03J Dynamics 13.80J. Dynamics of sound fields and longitudinal,
+F. Feng, J. K. Vandiver shear, and flexural vibrations. Normal modes,
+(Same subject as 2.004J, 13.013,J)
+phase and group velocity, energy decay.
+Prereq.: 2.001, 2.004, and 2.02 or 2.003, 18.03
+Acad Year 1996-97: U (Fall, Spring) 2.060J Principles of Acoustics Radiation impedance and input and transfer
+mobility of structural elements. Statistical enerAcad Year 1997-98: Not offered (Same subject as 13.81J) gy analysis, reciprocity, energy sharing be-
+4-0-8 Prereq.: 13.013J or 2.03J or 16.040, 18.075 tween structures and sound fields.
+See description under subject 2.004J. G (Fall) Staff
+J. H. Williams, Jr., J. K. Vandiver 3-0-9 H-LEVEL Grad Credit
+With subject 2.063J, forms a two-term se- 2.067J Structural Acoustics
+2.032 Dynamics quence of advanced acoustics; to be taken in
+(Same subject as 13.83J)
+either order. Acoustics of fluids, sources of
+Prereq.: 2.03J Prereq.:
+sound, radiation, diffraction and scattering.
+G (Fall)
+Energy density and intensity, radiation im-
+3-0-9 H-LEVEL Grad Credit
+pedance and directivity. Reciprocity.
+Momentum principles and energy principles. Staff
+Lagrange's equations, Hamilton's principle. Applications to mechanical systems including 2.061 Random Vibration
+gyroscopic effects. Study of steady motions
+and nature of small deviations therefrom. Prereq.: 2.03J, 18.075
+Natural modes and natural frequencies for con- Acad Year 1996-97: Not offered
+tinuous and lumped parameter systems. Acad Year 1997-98: G (Spring)
+Forced vibrations. Dynamic stability theory. 3-0-9 H-LEVEL Grad Credit
+Causes of instability. Description of stochastic processes. Impulse
+J. H. Williams, Jr. response and frequency response of linear
+time-invariant dynamic systems. Correlations
+2.034 Nonlinear Dynamics and spectra of stationary response. Crossing
+rates, peaks, and envelopes. Failure under ranPrereq.: 2.032
+dom loading. Poisson pulse processes. MeasAcad Year 1996-97: G (Spring)
+urement, identification, and response
+Acad Year 1997-98: Not offered
+problems. Coherence. Space-time correlations
+3-0-9 H-LEVEL Grad Credit
+and cross-spectra. Digital data processing.
+A unified treatment of nonlinear phenomena in Spectral analysis. Applications to vehicles and
+the dynamics of discrete and continuous sys- structures subjected to wide-band random extems. Qualitative methods of analysis, phase citation.
+plane techniques. Quantitative analysis of F. Feng
+weakly nonlinear systems in free and forced
+vibrations; perturbation methods, nonlinear
+resonances, self-excited oscillations, lock-in
+phenomena. Introduction to nonlinear stability
+and bifurcation theory, chaotic behavior, nonlinear wave propagation, solitons. Applications
+are made to mechanical, fluid, electrical, and
+flow-structure interaction problems.
+T. R. Akylas
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+This advanced-level subject deals with various
+topics in the transmission of vibrational energy
+through structures, and the interaction of structural vibrations with surrounding and contained
+fluid regions. Faculty members will lead discussions of these topics using published papers
+and research reports. Topics will vary depending on research activities in the Structural
+Acoustics Program. A good background in
+dynamics, applied mathematics, and structural
+mechanics will be assumed. Background
+courses in acoustics and structural wave
+propagation are recommended.
+Staff
+2.072 Mechanics of Continuous Media
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Principles and applications of continuum
+mechanics. Kinematics of deformation. Thermomechanical conservation laws. Stress and
+strain measures. Constitutive equations. Solution of some basic problems for various
+materials as relevant in materials science,
+geomechanics, fluid dynamics, and structural
+analysis. Inherently nonlinear phenomena in
+continuum mechanics.
+R. Abeyaratne
+Descriptions of Subjects 315

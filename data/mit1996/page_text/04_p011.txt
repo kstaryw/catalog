@@ -1,0 +1,133 @@
+School of Science
+12.221 Geophysical Applications of the
+Global Positioning System
+Prereq.: -
+12.310 An Introduction to Weather
+Forecasting
+Prereq.: 8.01, 18.01
+U (IAP) U (IAP)
+1-4-1 [P/D/F] 1-1-4 [P/D/F]
+Introduction to the science of accurate deter- Basic principles of synoptic meteorology and
+mination of a position on Earth using radio sig- weather forecasting. Analysis of hourly
+nals from satellites, or the Global Positioning weather data and numerical weather predicSystem (GPS). Uses GPS to address, specifi- tion models. Regular preparation of weather
+cally, earthquake risk and prediction. Includes forecasts.
+a field trip of three to four days duration. L. Ilan
+T. A. Herring, B. H. Hager, R. King
+12.311 Experimental Oceanography
+Prereq.:
+Meteorology and Oceanography
+12.300 Global Change Science
+Prereq.: 18.03; 5.60
+U (Fall)
+3-0-9
+Introduces the basic relevant principles and
+concepts in atmospheric chemistry and
+physics, climate dynamics, biogeochemistry,
+and environmental policy making, through an
+examination of two current problems in the
+global environment: 1) carbon dioxide and
+global warming, and 2) chlorofluorocarbons
+and ozone. An introduction to global environmental problems for students in basic sciences
+and engineering.
+R. G. Prinn, P. H. Stone
+12.301 Past and Present Climate
+(Subject meets with 12.840)
+Prereq.: 8.02
+U (Spring)
+3-0-9
+Meets with graduate subject 12.840, but assignments differ. See description under subject
+12.840.
+R. E. Newell
+12.305 Global Atmospheric Pollution
+Prereq.: 8.02
+U (Fall)
+2-0-4
+Increasing industrial activity and biomass burnings have produced pollution patterns now
+detectable world-wide. In 1996-97, subject
+concentrates on material reaching the atmosphere from Pacific Rim countries and
+measured over the Pacific from specially instrumented aircraft in 1991, 1994, and 1996.
+Space shuttle measurements on global carbon
+monoxide also discussed. Atmospheric and
+oceanic structure necessary to understand the
+transport processes and photochemical sources and sinks of constituents, which in some
+cases provide natural removal processes, is
+presented. Students examine possible sources, including fossil fuel use, volcanic activity,
+biomass burning, and oceanic biosphere.
+R. E. Newell
+-
+U (IAP)
+2-2-2 [P/D/F]
+Can be repeated for credit
+An intensive introduction to the experimental
+aspects of oceanography, specifically in the
+areas of marine geology and geophysics,
+physical oceanography, and chemical
+oceanography. Includes participation in a research cruise. Content varies from year to year.
+M. McNutt, J. Marshall, J. Edmond, WHOI Staff
+12.312 Climate System Computer Lab
+Prereq.: -
+U (IAP)
+0-2-4 [P/D/F]
+Introduction to climate dynamics and the
+hands-on use of computer simulation models;
+investigation of the interaction between atmosphere, oceans, ice, and carbon cycle; applications include greenhouse effect and ice age
+onset.
+J. Marotzke
+12.313 Climate Change: Past, Present, and
+Future
+Prereq.: -
+12.330J Fluid Physics
+(Same subject as 8.292J)
+Prereq.: 8.044 or 5.60 or permission of instructor
+U (Spring)
+3-0-9
+A physics-based introduction to the properties
+of fluids and fluid systems, with examples
+drawn from a broad range of sciences. Definitions of fluids and the notion of continuum.
+Equations of state and continuity; conservation
+of momentum; the stress tensor; ideal fluids
+and Euler's equation; viscosity and NavierStokes equation. Hydrostatics and magnetohydrodynamics. Energy considerations,
+fluid thermodynamics, and isentropic flow.
+Compressible vs incompressible and rotational
+vs irrotational flow; Bernoulli's theorem; steady
+flow and streamlines. Circulation and vorticity.
+Thomson's theorem. Boundary layers. Fluid
+waves and instabilities.
+K. Emanuel, P. Joss
+12.331 Fluid Dynamics of the Atmosphere
+and Ocean
+(Subject meets with 12.800) Prereq.: 8.03, 18.04
+U (Fall)
+3-0-9
+See description under subject 12.800.
+J. Marshall
+12.332 Wave Motions in the Ocean and
+Atmosphere
+(Subject meets with 12.802)
+Prereq.: 12.331
+U (Spring)
+3-0-9
+See description under subject 12.802.
+C. Wunsch
+U (IAP) 12.333 Atmospheric and Ocean Circulation
+2-0-4 [P/D/F]
+Prereq.: 12.003 The human race is now a significant factor inU (Spring)
+fluencing global changes in the Earth's environ-
+3-0-9
+ment and climate. Subject provides a historical
+(as in geological) context within which to think Survey of atmospheric and oceanic
+about global climate change. Covers the entire phenomena including the discussion of obserspectrum of climate variations, from the forma- vations and theoretical interpretations. Topics
+tion of the Earth's early atmosphere 4.6 billion covered include: monsoons; El Niho; planetary
+years ago, to the ice ages, to the role of CO waves; atmospheric synoptic eddies and
+2
+variations in natural climate change, to fronts; gulf stream rings; hurricanes; surface
+temperature trends in this century. and internal gravity waves; tides; the stratoM. E. Raymo sphere and ozone.
+R. A. Plumb
+12.320J Introduction to Hydrology
+(Same subject as 1.71J)
+Prereq.: 1.03, 1.05, or equivalents
+U (Fall)
+3-0-9
+See description under subject 1.71J.
+D. Entekhabi
+408 Chapter Vill

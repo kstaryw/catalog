@@ -1,0 +1,78 @@
+School of Engineering
+10.491 Integrated Chemical Engineering 11 10.521 Heterogeneous Catalysis and 10.540 Cell Bioengineering
+Prereq.: 10.490 Catalytic Processes Prereq.: 18.03
+U (IAP, Spring) (Subject meets with 10.421) Acad Year 1996-97: G (Spring)
+4-0-8 Prereq.: 5.13, 10.37, or equivalents Acad Year 1997-98: Not offered
+G (Fall) 3-0-6 H-LEVEL Grad Credit
+Three modules present and solve chemical engineering problems in an industrial context. 3-0-6 H-LEVEL Grad Credit Analysis of mammalian cell function from a
+Emphasis placed on integration of fundamen- An introduction to applied catalysis, focusing quantitative, engineering perspective, focusing
+tals with material property estimation, process on principles of importance in the development on receptor-mediated behavior and underlying
+control, product development, and computer and improvement of catalysts and their practi- receptor/ligand interactions. Topics include
+simulation. Integration of societal issues, such cal use in industry. Topics include adsorption receptor/ligand binding; receptor/ligand traffickas engineering ethics, environmental and phenomena, catalyst preparation, and surface ing; physical aspects of receptor ligand interacsafety considerations, and impact of technol- characterization techniques. Application of tions (probability, diffusion, multivalency);
+ogy on society are addressed in the context of catalyst functionality concepts for control of signal transduction; cell proliferation; cell adcase studies. One module may be taken reaction selectivity and kinetic models. Com- hesion; cell migration.
+during IAP. monality of mechanisms for significant groups D. A. Lauffenburger
+P. /. Barton, R. S. Langer, D. A. Lauffenburger, of catalyzed reactions such as hydrogenation,
+G. C. Rutledge, A. F. Sarofim, H. H. Sawin, partial oxidation, and hydrocarbon reactions 10.542 Biochemical Engineering
+Gr. Stephanopoulos catalyzed by solid acids and zeolites. Control
+of pollutant emissions by catalysis. Meets with (10.541)
+(Subject meets with 10.442)
+10.50 Analysis of Heat and Mass Transfer undergraduate subject 10.421, but assign- Prereq.: Permission of instructor
+ments differ.
+Prereq.: 10.302 J. Y. Ying Acad Year 1996-97: Not offered
+G (Fall, Spring) Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit 10.531 Macromolecular Hydrodynamics 4-0-8 H-LEVEL Grad Credit
+Analyzes diffusive and convective transport of Prereq.: 10.301 Interaction of chemical engineering,
+h s p t r e a o a t b e t l e a a m n n d s d . m tr F a a o s n r s s c . i e e A d n n t a a d n ly d if t f i u c fr s a e i l e o n s c o o o lu r n t v c io e o n c n s t d i o t u o n c t s o io t f e n h a e d a y t - A A 3- c c 0 a a - d d 6 Y Y H e e - a a L r r E 1 V 1 9 9 E 9 9 L 6 7 - - G 9 9 7 8 ra : : d G N C o ( r F t e a o d l f l i ) f t ered b r o e f io p g c r r e h o s e w e m t n h i t , s a t t d r i y o e , n a a s th n , o d f a m m nd i i c c r m r o o b e b i t i o a a l b l o o g s l y y is s . m t M e . m a C t s h o . e n K m ti i n a n u t e i o c ti u a c s l s
+and mass in laminar flow. Simultaneous heat fermentation, agitation, mass transfer, and
+and mass transfer with chemical reaction or Observed phenomena in polymeric flow sys- scale-up in fermentation systems, enzyme
+phase change. tems. Tecnniques of viscometry and viscoelas- technology.
+R. C. Armstrong, W. M. Deen, H. Brenner, tic measurements for polymeric fluids. C. L. Cooney, D. I. C. Wang
+T. A. Hatton Rheological models. Continuum theories.
+Molecular theories of polymeric fluids. Analyti- 10.543J The Protein Folding Problem
+10.52 Mechanics of Fluids cal solutions to flow problems; non-Newtonian (New)
+viscosity, linear viscoelasticity, normal
+Prereq.: 10.50 stresses, recoil, stress relaxation. (Same subject as 7.88J, 5.48J)
+Prereq.: 5.07 or 7.05 or equivalent
+G (Spring) R. C. Armstrong
+3-0-6 H-LEVEL Grad Credit G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Advanced course in fluid and continuum 10.534 Macrotransport Processes
+mechanics. Content may vary, drawing from Prereq.: 10.50 See description under subject 7.88J.
+such topics as low Reynolds number G (Fall) J. A. King
+hydrodynamics, Brownian motion, suspension 3-0-6 H-LEVEL Grad Credit
+mechanics, flow in porous media, multi- 10.545 Separation Processes for
+phase/particulate flow, ideal fluid theory, Generalized Taylor dispersion theory applied Biochemical Products
+l a a n m d i n tu a r r b b u o le u n n c d e a . ry-layer theory, stability theory, t a o n c d h t r r o a m ns a p t o o r g t r a in p h p i o c r o s u e s p a m ra e t d io ia n , p tr r a o n c s e p s o s r e t s, flow (Subject meets with 10.445) K. A. Smith properties of macromolecular solutions, and Prereq.:
+generic analyses of heterogeneous systems,
+10.520 Molecular Aspects of Chemical including adsorption phenomena, thermal transport processes, and chemically reactive
+Engineering
+continua.
+(Subject meets with 10.420) H. Brenner
+Prereq.: 5.13, 10.213, or equivalent
+G (Fall) 10.535 Interfacial Transport Processes and
+3-0-6 H-LEVEL Grad Credit Rheology
+Molecular-level engineering and analysis of Prereq.: 10.50 or equivalent
+chemical processes. Use of chemical bonding, G (Fall)
+reactivity, and other key concepts in the design 3-0-6 H-LEVEL Grad Credit
+and tailoring of organic systems. Application
+and development of structure-property relation- Introduction to the theory and applications of
+ships to examples of adhesion, wetting, solva- liquid-liquid interfacial transport phenomena.
+tion, and adsorption. Descriptions of the General tensor analysis; interfacial statics;
+chemical forces, recognition events, and struc- kinematics, and transport across and within
+tural ordering factors that govern curved, deforming interfaces; two-dimensional
+supramolecular phenomena such as crystal- momentum transport processes, Newtonian
+lization and phase equilibria. and non-Newtonian interfacial stress constituP. E. Laibinis, P. T. Hammond tive relations, applications to surface rheology;
+surfactant transport and adsorption at interfaces, surface diffusion, Marangoni
+phenomena, interphase mass transfer;
+asymptotic theory of diffuse interfaces; line tension phenomena.
+H. Brenner
+- Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Introduction to fundamental principles of
+separation operations for the recovery of
+products from biological processes, membrane
+filtration, chromatography, centrifugation, cell
+disruption, extraction, and process design.
+C. L. Cooney
+388 Chapter Vill

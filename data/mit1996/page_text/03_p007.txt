@@ -1,0 +1,87 @@
+School of Science
+7.93 Selected Topics in Biology
+Prereq.: -
+G (Fall, Spring)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Classwork in various fields of biology not
+covered by the regular subjects of instruction.
+Consult Biology Student Office.
+7.941 Research Problems
+Prereq.: -
+G (Fall)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+7.942 Research Problems
+Prereq.: -
+G (Spring)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Directed research in a field of biological
+science, but not contributory to graduate thesis.
+Consult Biology Student Office.
+7.95 Cancer Biology
+(Revised Units)
+Prereq.: 7.03, 7.06, 7.08
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Intensive analysis of historical and current
+developments in cancer biology. Topics
+covered in lecture and through critical reading
+of relevant literature include: principles of transformation, viral and cellular oncogenes, tumor
+suppressor genes, tumor cell growth, and
+apoptosis.
+T. Jacks, J. Lees
+7.96 Cell-Cell Signaling
+Prereq.: -
+7.98J Neural Plasticity in Learning and
+Development
+(Same subject as 9.301J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Roles of neural plasticity in learning and
+memory and in development of invertebrates
+and mammals. An in-depth critical analysis of
+current literature of molecular, cellular, genetic,
+electrophysiological, and behavioral studies.
+Discussion of original papers supplemented by
+introductory lectures.
+S. Tonegawa, W. Quinn, M. Wilson, H. Steller
+7.99 Disease Intervention Through
+Biotechnology
+Prereq.: Permission of instructor
+G (Spring)
+3-0-3 H-LEVEL Grad Credit
+Analyzes the flow of scientific principles from
+the laboratory to the diseased patient. Concentrates on the biotechnology industry past,
+present, and future. Considers science in
+academia and industry and the regulatory
+hurdles required to bring scientific developments to humans.
+M. Gefter
+G (Spring)
+3-0-9 [P/D/F
+A seminar focusing on recent research in the
+area of intercellular communication. Topics include intracellular signal transduction by cell
+surface tyrosine and serine/theonine kinase
+receptors, cytokine receptors, and cell adhesion (integrin) receptors. Emphasis on techniques used in receptor research, including
+mutants, and on alterations in receptor function in various pathophysiologic states.
+H. Lodish, R. Rosenberg
+7.97 Topics In Evolution
+Prereq.: 7.05 and permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+2-0-7 H-LEVEL Grad Credit
+Seminar considering the role of evolutionary
+thought in modern science. Topics include: discussion of Darwin's The Origin of Species;
+molecular studies of protein evolution; roles of
+neutral mutation, recombination, and sex in
+evolution; the RNA world and the origin of life:
+in vitro selection and "test tube evolution"; and
+the interplay between biological thought and
+computer science, with reference to complexity
+theory, neural networks, genetic programming,
+and artificial life.
+C. Pabo
+370 Chapter Vill

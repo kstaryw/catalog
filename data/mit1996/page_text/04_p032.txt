@@ -1,0 +1,82 @@
+Department of Economics Course 14
+14.198,14.199 Teaching Introductory
+Economics
+Prereq.: -
+14.24 Law and Economics 14.286J Health Economics Seminar
+Prereq.: 14.01 (Same subject as HST.903J)
+U (Fall) Prereq.: 14.04, permission of instructor
+G (Fall, Spring) 4-0-8 HASS G (Spring)
+2-0-2 [P/D/F] Analysis of the role of the legal system in 3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit Can be repeated for credit
+providing an appropriate framework for market
+Required of teaching assistants in introductory transactions and in encouraging efficient Advanced subject in economics of health-care
+economics (14.01 and 14.02), under super- resource allocation. Contracts, torts, and sector. Considers selected topics in depth,
+vision of the faculty member in charge of the property law emphasized. Cases considered such as design and financing of health insubject. along with general theory. surance, behavior of nonprofit hospitals, role
+14.198: J. Harris, F. Fisher P. Diamond of competition in the medical care market,
+14.199: 0. Blanchard, R. Caballero determinants of technological change, and ef-
+14.25J Aerospace Economics fects of government regulations.
+J. E. Harris
+(Same subject as 16.800J)
+Prereq.: 14.01
+14.29 Topics in Political Economy
+Industrial Organization U (Fall)
+(New)
+3-0-9 HASS
+Prereq.: 14.03 or 14.04
+See description under subject 16.800J.
+14.20 Industrial Organization and U (Fall)
+Public Policy P. P. Belobaba 4-0-8 HASS
+Prereq.: 14.01 14.271 Industrial Organization I Reviews recent theoretical advances in the
+U (Spring) field of political economy. Is politics mainly
+3-0-9 HASS Prereq.: 14.04 about conflicting interests or about informaG (Fall)
+tion? Positive and normative analysis of politiAnalyzes the structure, behavior, and perfor- 4-0-8 H-LEVEL Grad Credit cal institutions in terms of mechanism design.
+mance of industrial markets in the US
+economy. Topics include the measurement of Covers theoretical and empirical work dealing Theory and empirical data about party positionmonopoly power, behavior of firms in oligopoly with the structure, behavior, and performance ing, polarization, coalition formation, and
+markets, static and dynamic measures of of firms and markets and core issues in an- stability. Political-economic cycles, competing
+market performance, antitrust, research and titrust. Topics include the organization of the explanations of the size of countries. Voting as
+development, consumer protection policy, and firm, monopoly, price discrimination, oligopoly, aggregating information, voting vs. the market.
+theory of the firm. monopolistic competition, product selection, Should one expect efficient outcomes? ApplicaD. Genesove and advertising. Theoretical and empirical tion to taxation and trade liberalization.
+work are integrated in each area. D. Spector
+G. Ellison, D. Genesove
+14.21J Health Economics
+14.294 Seminar in Political Economy
+( P S r a e m re e q .: s u 1 b 4 j . e 0 c 1 t as HST.901J) 14.272 Industrial Organization 11 Prereq.: 14.121, 14.122, and permission of inU (Fall) Prereq.: 14.271 structor
+3-0-9 HASS G (Spring) G (Fall, Spring)
+4-0-8 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit
+Applies theoretical and empirical tools of
+economics to problems of health and medical A continuation of 14.271. Focuses on public Political economics is the study of group or colcare delivery. Concentrates on selected policy issues in industrial organization includ- lective decision-making processes and the inproblems such as the welfare economics of ing topics in antitrust policy, economic and so- stitutions that evolve to implement them.
+"health" as a commodity, hospitals and the cial regulation, deregulation and privatization, Includes collective choice theory, interest
+nonprofit sector, human capital and medical patent and R & D policies, and the political group competition, theories of economic
+manpower, and innovation in medicine. economy of regulation. Theoretical and empiri- regulation, legislative behavior, bureaucracy,
+J. E. Harris cal work is integrated in each area. and behavior of administrative agencies. Both
+P. Joskow, N. Rose theoretical and empirical work are discussed.
+P. Joskow, J. Poterba
+14.23 Government Regulation of Industry
+(Revised Units) 14.28 Competition in Telecommunications
+14.295J Theory of Collective Choice:
+Prereq.: 14.01 (Subject meets with 15.020) Empirical Tests
+U (Spring) Prereq.: 14.03 or 14.04
+4-0-8 HASS U (Fall) (Same subject as 17.808J)
+3-0-9 HASS Prereq.: 17.806J
+Examines government regulation of prices, Acad Year 1996-97: G (Spring)
+entry, and product quality from a normative Provides an introduction to the economics and Acad Year 1997-98: Not offered
+and positive perspective. Theoretical analyses technology of telecommunications markets, in- 3-0-9 H-LEVEL Grad Credit
+of regulatory mechanisms and empirical cluding markets for exchange and information
+analyses of regulatory behavior and perfor- services, cellular telephone, long-distance ser- See description under subject 17.808J.
+mance are included. Regulatory reform, in- vices, and both carrier and customer equip- S. Ansolabehere
+dustry restructuring, and deregulation in ment. The shifting roles of technology, Federal
+industries such as telecommunications, and state government policies, and business 14.296J Theory of Collective Choice:
+electric power, airlines, and pharmaceuticals in strategies in shaping these rapidly changing Institutions and Positive Political Theory
+the US and abroad are covered. markets are studied, with particular emphasis (Subject meets with 17.806J, 17.805)
+P. Temin on the roles of regulation and competition and Prereq.:
+the likely evolution of technology, public policy,
+and market structures over the next decade.
+Undergraduates expected to complete an
+extra assignment in order to receive the additional units of credit.
+J. Hausman
+-
+G (Spring)
+3-0-9
+See description under subject 17.806J.
+J. M. Snyder, Jr.
+Descriptions of Subjects 429

@@ -1,0 +1,58 @@
+School of Management Course 15
+Information Technologies 15.565 Information Technology II: 15.574 Theoretical Foundations for
+Dynamics of the IT Industry Information Technology
+15.561 Information Systems: From Prereq.: 15.564 or equivalent Prereq.: 15.561 or programming experience
+Technology Infrastructure to the Networked G (Spring) G (Spring)
+Corporation 3-0-6 H-LEVEL Grad Credit 3-0-6 H-LEVEL Grad Credit
+Prereq.: Permission of instructor Provides broad coverage of current trends and Presents a theoretical background for many imG (Spring) perspectives of the information Technology portant topics in information technology such
+2-0-4 H-LEVEL Grad Credit (IT) industry, with an emphasis on modern as efficiency of algorithms, computer perfordatabase technology. Presents basic prin- mance evaluation, computer communications,
+Fundamental principles for the effective use of ciples of database technology and framework parallel processing, and database managecomputer-based information systems (IS). for integrating concepts essential to the under- ment systems. Theoretical foundations are
+Focuses on the strategic and organizational im- standing of the IT industry dynamics. Students drawn from areas such as combinatorics,
+plications of the key technologies. Topics: develop a sensitivity to the critical issues queuing theory, concurrency control, theorem
+trends in core technologies; the coalescing in- facing the computer industry and emerging proving, and Petri nets. Primarily for doctoral
+dustries of computers, communications, infor- trends. Topics are substantiated by speakers students. Offered every third year.
+mation services. electronics, and media; the such as prominent scholars, IT vendors, and Information: S. E. MadnicK.
+current state of the art in IS design; using IS to chief information officers.
+support work and gain competitive advantage; Information: S. E. Madnick. 15.575 Research Seminar in Information
+reinventing business processes for the next
+Technology and Organizations: Economic
+decade; evaluating and managing advanced in- 15.566 Information Technology as an Perspectives
+formation technologies; the networked corpora- Integrating Force in Manufacturing
+tion. Primarily for Sloan Master's students. Prereq.: Permission of instructor
+S. E. Madnick, W. j. Orlikowski, E. Brynjolfsson Prereq.: Permission of instructor Acad Year 1996-97: Not offered
+G (Spring) Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+15.563 Inventing the Organizations of the
+21st Century Focuses on the key role that information tech- Builds upon relevant economic theories and
+Prereq.: 15.561 or permission of instructor nology plays in enabling organizational change methodologies to analyze the changes
+and integration, especialy in manufacturing. enabled by information technology within and
+G (Spring)
+3-0-6 H-LEVEL Grad Credit Taught in a seminar format with presentations between organizations. Typical perspectives
+by faculty, students, and company repre- examined include principal-agent theory and inFocuses on alternative ways work may be or- sentatives. Topics: 1) core technologies, includ- stitutional economics, industrial organization,
+ganized in the future. Special emphasis on ing computer hardware architectures, software strategic frameworks, intellectual property,
+how new computer and communications tech- design principles, communications, and net- productivity assessment, and technology difnologies, along with new views of human na- works; 2) applications such as flexible fusion. Extensive reading and discussion of reture, may enable new organizational forms to manufacturing, CAD/CAM, and knowledge- search literature aimed at exploring the
+emerge. Topics include: examples of new or- based systems; 3) intra- and inter-organization- application of these theories and illustrating alganizational forms (such as networked or- al issues, such as business process redesign, ternative research methods used in their
+ganizations, "adhocracies," virtual networked organizations, and supply chain development and testing. Primarily for doctoral
+corporations, and electronic markets), new management. Offered jointly with LFM pro- students. Offered every third year.
+technologies (such as computer-supported gram. E. Brynjolfsson
+cooperative work, groupware, and EDI), and E. Brynjolfsson
+new concepts for organizational design (such
+15.576 Research Seminar in Information
+as reengineering and business process 15.568 Management Information Systems Technology and Organizations: Social
+analysis).
+Perspectives
+T. W Malone Prereq.: 15.561 or equivalent
+G (Fall, Spring) Prereq.: Permission of instructor
+3-0-6 H-LEVEL Grad Credit Acad Year 1996-97: G (Fall)
+15.564 Information Technology I
+Acad Year 1997-98: Not offered
+Prereq.: 15.561 or permission of instructor Concepts, frameworks, tools, techniques, and 3-0-9 H-LEVEL Grad Credit
+processes that assist management in its interG (Fall, Spring)
+4-0-8 H-LEVEL Grad Credit action with and direction of computer-based in- Examines the assumptions, concepts,
+formation systems today. Emphasis on theories, and methodologies that inform reBroad coverage of technology concepts under- reengineering of information flows to meet the search into the behavioral aspects of informalying modern computing and information needs of both control and empowerment in the tion technology. Extensive reading and
+management. Topics include computer ar- era of the global information infrastructure and discussion of research literature aimed at exchitecture and operating systems, information networked organizations. Emphasizes ploring micro, group, and macro level social
+retrieval techniques, graphical user interfaces, managerial point of view and organizational is- phenomena surrounding the development, imnetworks, groupware, and cryptography. sues involved in managing a firm's information plementation, use and implications of informaHands-on exposure to Internet services, SQL resources. tion technology in organizations. Primarily for
+database language, PowerBuilder graphical in- J. F. Rockart doctoral students. Alternate years.
+terface language, and Lotus Notes. W. J. Orlikowski
+information: S. E. Madnick.
+Descriptions of Subjects 445

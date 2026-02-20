@@ -1,0 +1,116 @@
+Whitaker College of Health Sciences and Technology
+HST.570J Biomedical Instrumentation HST.582J Biomedical Signal and Image HST.590 Biomedical Engineering Seminar
+Electronics Processing (Revised Content)
+(Same subject as 2.781J, 16.458J) (Same subject as 6.555J, 16.456J) Prereq.:
+Prereq.: Permission of instructor Prereq.: 6.003 or 2.003 or 18.085
+G (Summer) G (Spring)
+6-6-6 3-6-3 H-LEVEL Grad Credit
+Introduction to modern computer-based in- Fundamentals of digital signal processing with
+strumentation through a major bioengineering particular emphasis on problems in biomedical
+laboratory project in which each student research and clinical medicine. Basic prindevelops electronic circuits, interfaces them to ciples and algorithms for data acquisition, ima microcomputer, and combines them to form aging, filtering, and feature extraction.
+an instrument. Classroom material focuses on Laboratory projects provide practical exelectronic circuit elements, networks, signal perience in processing physiological data, with
+and system representations, logic and digital examples from neurophysiology, cardiology,
+design, elementary programming, and speech processing, and medical imaging.
+physiological background. No background in L. Braida, B. Delgutte, A. Dobrzeniecki, J.
+electrical engineering or programming required. Greenberg
+S. K. Bums, D. Rowell
+HST.584J Magnetic Resonance - Analytic,
+HST.572 Future Medical Technologies Biochemical, and Imaging Techniques
+Prereq.: Permission of instructor (Same subject as 22.561J)
+G (Spring) Prereq.: Permission of instructor
+2-0-4 [P/D/F] G (Spring)
+3-0-12 H-LEVEL Grad Credit
+Helps medical and graduate students to
+develop an understanding of the limitations of Introduction to basic NMR theory, including a
+current technology and the problems of creat- quantum mechanical description of the NMR
+ing new medical technology from research. experiment. Examples of biochemical data obRepresentative topics include drug delivery, tained using NMR summarized along with
+biotechnology, and non-invasive diagnostic other related experiments. Detailed study of
+methods. Students interact with their peers NMR imaging techniques includes discussions
+and local research leaders in these fields in a of basic cross-sectional image reconstruction,
+seminar setting, and are encouraged to image contrast, flow and real-time imaging,
+generate their own solutions to the problems and hardware design considerations. Exdiscussed. Students may find this subject help- posure to laboratory NMR spectroscopic and
+ful in evaluating possible theses. Open to ad- imaging equipment included.
+vanced undergraduates with permission of B. R. Rosen
+instructor.
+J. C. Weaver HST.585J Biosensors, Signal Processing,
+and Biomedical Applications
+HST.573 Biological Control Systems
+(Same subject as 6.566J)
+Prereq.: 6.003 or 2.02 or permission of instruc- Prereq.: Permission of instructor
+tor Acad Year 1996-97: Not offered
+G (Spring) Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-3-6 H-LEVEL Grad Credit
+Application of control theory to the modeling Principles of measurements and instrumentaand analysis of biological systems. Dynamics tion, emphasizing quantitative modelling of
+and system identification of compartmental basic transduction (sensing) processes, intermodels. Feedback, feedforward, adaptive, and action of sensors with biological systems (e.g.
+optimal and fuzzy control mechanisms in human body, clinical specimens), and both funphysiological control. Oscillation, chaos, and damental and practical limitations on the signalcatastrophe phenomena in nonlinear biological to-noise ratio. Emphasis on modern signal
+systems. Neuronal and neural network processing strategies involving intensive realmodels. Emphasis on mathematical analysis time computation as an integral part of the
+and computer simulation with examples from a measurement process. Some background in
+wide variety of biological and clinical applica- life sciences and electronics assumed.
+tions. J. C. Weaver, S. K. Burns
+C.-S. Poon
+HST.586-589 Special Subjects in Medical
+HST.575J Bioelectronics Project Laboratory Engineering and Medical Physics
+(Same subject as 6.121J) Prereq.: Permission of instructor
+Prereq.: 6.002 or 6.071 G (Fall, IAP, Spring, Summer)
+U (Spring) Units arranged H-LEVEL Grad Credit
+2-8-2 Institute LAB Can be repeated for credit
+See description under subject 6.121J. Opportunity for group study of advanced subS. K. Bums, R. G. Mark jects related to the Medical Engineering and
+Medical Physics Program not otherwise included in the curriculum. Offerings are initiated
+by MEMP faculty on an ad hoc basis subject to
+program approval. Prerequisites may vary by
+topic; consult faculty at time of offering.
+H. F. Bowman
+-
+G (Fall, Spring)
+1-0-0 [P/D/F]
+Can be repeated for credit
+Seminars presented by HST graduate students, by prominent outside speakers, and by
+focus groups of HST faculty and students.
+Designed to provide students with a broad exposure to current research in biomedical engineering and medical physics.
+M. L. Yarmush
+HST.591 Biomedical Engineering Research
+Seminar
+Prereq.: -
+G (Fall, Spring)
+2-0-0 H-LEVEL Grad Credit
+Can be repeated for credit
+Development of professional speaking skills in
+the communication of research progress. Students present their research, emphasizing
+clear statement of the goals, significance, and
+current status of their work. Confidential, written feedback given by each member of the
+audience. Required of all students affiliated
+with the HST Biomedical Engineering Center.
+J. C. Weaver
+HST.595 Tutorial in Medical Engineering
+and Medical Physics I
+(Revised Content)
+Prereq.: -
+G (Fall)
+2-0-0 [P/D/F]
+HST.596 Tutorial in Medical Engineering
+and Medical Physics 11
+(Revised Content)
+Prereq.: -
+G (Fall, Spring, Summer)
+0-2-0 [P/D/F]
+An exposure to the breadth and depth of
+biomedical engineering in the HST community
+through: (1) detailed discussions of technical,
+social, and ethical aspects of cutting-edge research and modern health care with HST faculty; and (2) visits to academic research
+laboratories, clinical facilities at HMS hospitals,
+and industrial sites involved in medical technology development. Topics to be covered include: tissue engineering, biomolecular design,
+functional imaging, biomechanics, gene
+therapy, cryopreservation, micromachines, and
+minimally invasive therapies.
+M. L. Yarmush, M. Toner
+HST.598 Special Topics in Medical
+Engineering and Medical Physics
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+For undergraduates desiring to carry on substantial projects of their own choosing in medical engineering or medical physics. Work may
+be of experimental, theoretical, or design nature. A project proposal is required at time of
+registration.
+Coordinator: E. G. Cravalho.
+542 Chapter VIII

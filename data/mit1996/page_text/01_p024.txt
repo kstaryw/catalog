@@ -1,0 +1,104 @@
+School of Engineering
+2.648 Superconducting Magnets
+Prereq.: 2.005, 2.51
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Focuses on one important engineering application of superconductors - generation of largescale and intense magnetic fields. Review of
+electromagnetic theory; detailed treatment of
+magnet design and operational issues, e.g.,
+"usable" superconductors, field and stress
+analyses, magnet instabilities, ac losses and
+mechanical disturbances, quench and protection, experimental techniques, cryogenics.
+New high-temperature superconductors for
+magnets - design and operational issues at
+high temperatures.
+Y. Iwasa, E. S. Bobrov
+Experimental Engineering
+2.670 Mechanical Engineering Tools
+Prereq.: -
+2.672 Project Laboratory 2.737 Mechatronics
+(Revised Units)
+Prereq.: 2.001, 2.003, 2.005, 2.006, 2.671
+U (Fall, Spring) Prereq.: 1.00, 2.010, 6.071, or equivalents; per-
+1-3-2 Institute LAB mission of instructor
+U (Fall, Spring)
+Engineering laboratory subject for mechanical
+3-5-4
+engineering juniors and seniors. Major emphasis on interplay between analytical and ex- Introduction to designing mechatronic sysperimental methods in solution of research tems, which require integration of the mechaniand development problems. Communication cal and electrical engineering disciplines within
+(written and oral) of results is also a strong a unified framework. Significant laboratorycomponent of the course. Groups of two or based design experiences form subject's core.
+three students work together on three projects Final project. Topics include: low-level interfacduring the term. Limited enrollment. ing of software with hardware; use of C lanW. Cheng, D. Hart guage and assembly language to implement
+real-time tasks; digital logic; analog interfacing
+and power amplifiers; measurement and sensing; electromagnetic and optical transducers;
+control of mechatronic systems. Limited enrollDesign ment. Elective unit distribution: Advanced disciplinary, 3, design 3, lab 6.
+D. Trumper, K. Youcef-Toumi
+2.72 Elements of Mechanical Design
+Prereq.: 2.001, 2.007 2.739J Product Design and Development
+U (Fall)
+(Same subject as 15.783J)
+3-3-6
+Prereq.: 15.760 or 15.761 or 2.731 or 2.73 or
+Examination and practice in the application of permission of instructor
+U (IAP)
+many mechanical design elements, including G (Spring)
+1-3-2 [P/D/F]
+control components. Students working in 3-0-9 H-LEVEL Grad Credit
+Introduces the fundamentals of machine tool groups will design, fabricate, and test
+See description under subject 15.783J.
+and computer tool use. Students work with a prototype devices in response to requests
+S. D. Eppinger
+variety of machine tools including the from industrial sponsors. Topics: typical
+bandsaw, milling machine, and lathe. Instruc- machine elements, power transmission eletion given on the use of the Athena network ments, motors and prime movers, control ele- 2.74 Optimal Product Redesign
+and Athena-based software packages includ- ments, material selection, and assembly Prereq.: 2.007 or equivalent, access to PC or
+ing MATLAB, MAPLE, XESS, and CAD. Em- techniques. It is recommended that students Macintosh
+phasis on problem solving, not programming not take this subject at the same time as 2.73. G (Fall)
+or algorithmic development. Assignments are Elective unit distribution: Advanced discipli- 3-0-6
+project-oriented relating to mechanical en- nary, 6; design, 6.
+gineering topics. It is recommended that stu- C. R. Peterson Reverse engineering products, demonstrated
+dents take this subject in the first lAP after with a consumer product case study
+declaring the major in Mechanical Engineering. 2.721 Design for Production redesigned in class through homework assignD. P. Hart, K. N. Otto ments. Lectures discuss: identifying objectives
+Prereq.: 2.001, 2.007, 2.72, 2.008 a product must satisfy; determining what the
+U (Spring) product has to satisfy the objectives; functional
+2.671 Measurement and Instrumentation
+2-3-4 modeling of the product; morphological
+Prereq.: 2.003, 8.02 analysis; physical modeling for use in optimizaIntended primarily as a follow-up to 2.72. StuU (Fall, Spring) tion studies using readily available computer
+dents fabricate and test prototype devices that
+2-3-7 Institute LAB tools; notions of performance and quality;
+have been designed for real clients in 2.72.
+designed experiments; prototyping solutions
+Experimental techniques for observation and Simultaneously, these devices are redesigned
+under real-world conditions.
+measurement of physical variables such as for economical production in light of prototype
+K. Otto
+force, strain, temperature, flowrate, and ac- experience and accompanying lecture material
+celeration. Emphasizes principles of transduc- on manufacturing processes and materials.
+tion, measurement circuitry, spectral analysis, C. R. Peterson 2.744 Product Design
+uncertainty analysis, computer-aided ex- Prereq.:
+perimentation, and technical reporting. Typical 2.73 Design Projects
+laboratory experiments involve oscilloscopes, (Revised Units)
+thermocouples, strain gages, digital recorders,
+lasers, etc. Basic material and lab objectives Prereq.: 2.007, 2.008
+are developed in lectures. Six units may be ap- Acad Year 1996-97: U (Fall)
+plied to the General Institute Laboratory Re- Acad Year 1997-98: Not offered
+quirement. Enrollment may be limited. 3-3-6
+J. H. Lienhard, C. F. Dewey Practice in engineering design through termlong projects chosen to integrate significant
+portions of material covered in prerequisites.
+Emphasizes creative solutions to current engineering design problems, team work, and
+fabrication of prototypes. Often major involvement of a company in project definition and
+teaching. Lectures address the breadth of
+topics involved in engineering design from
+analytical techniques to human-machine interactions, economics, applied ethics, and patent
+laws.
+W. C. Flowers, W. Seering
+-
+G (Spring)
+3-1-8
+Project-centered subject addressing transformation of ideas into successful new products
+which are properly matched to the user and
+the market. Students are asked to take a more
+complete view of a new product and to gain experience with designs judged on their aesthetics, ease of use, and sensitivities to the
+realities of the marketplace. Lectures on
+modern design process, design for quality, and
+design for manufacturability. Guest lectures
+and case studies from practitioners.
+D. R. Wallace. W. C. Flowers
+320 Chapter Vill

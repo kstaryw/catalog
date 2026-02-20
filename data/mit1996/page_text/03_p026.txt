@@ -1,0 +1,119 @@
+Department of Chemical Engineering Course 10
+10.546J Principles and Methodologies of 10.55 Colloid and Surfactant Science 10.561 Molecular and Phenomenological
+Metabolic Engineering Interpretation of Polymer
+Prereq.: Permission of instructor
+Viscoelasticity
+(Same subject as 7.546J) Acad Year 1996-97: G (Fall)
+Prereq.: 7.05 or permission of instructor Acad Year 1997-98: Not offered Prereq.:
+G (Spring) 3-0-6 H-LEVEL Grad Credit
+3-0-6
+Introduction to theory and applications of colApplication of chemical reaction engineering loidal dispersions and surfactant science.
+principles and genetic engineering techniques Monolayer adsorption at interfaces, electrical
+to the analysis and modification of metabolic double layers, dispersion forces, electrokinetic
+pathways of microorganisms and mammalian phenomena, and stabilization of dispersions.
+cells. The goal is to optimize flux distributions Chemistry, structure, and classification of surof carbon and energy at critical junctions of the factants, critical micelle concentrations, micelmetabolic network in order to enhance product lar solubilization, and catalysis. Detergency
+synthesis. Topics include: determination of flux and wetting phenomena. Emulsion technology
+distributions in primary metabolism by and applications.
+stoichiometric and labelling techniques; T. A. Hatton
+kinetics and thermodynamics of metabolic networks; metabolic control theory; genetic en- 10.550 Process Dynamics, Operations, and
+gineering techniques for the overexpression, Control
+deregulation, or inhibition of targeted enzymes; biochemistry and enzymology of meta- (Subject meets with 10.450)
+bolic networks. Prereq.: 10.32, 10.37, 18.03
+G (Spring)
+Gr. Stephanopoulos, A. J. Sinskey
+3-0-6 H-LEVEL Grad Credit
+10.547J Health Technology Introduction to modeling and analysis of
+dynamic processes and the engineering tasks
+(Same subject as 15.136J, HST.920J)
+of process operations and control. Subject
+Prereq.: Permission of instructor
+covers the following topics: incentives for
+Acad Year 1996-97: Not offered
+process monitoring, analysis, and control;
+Acad Year 1997-98: G (Spring)
+modeling the static and dynamic behavior of
+3-0-6 H-LEVEL Grad Credit
+processes; control strategies; design of feedSee description under subject 15.136J. back, feedforward, and other control strucS. N. Finkelstein, C. L. Cooney tures; model-predictive, inferential, and
+adaptive control systems; digital computer con-
+10.548J Transport Phenomena and Tumor trol process identification; fault diagnosis and
+Pathophysiology supervisory control; computer-integrated
+manufacturing and industrial practice of
+(Same subject as HST.525J) process control. Meets with undergraduate
+Prereq.: 18.03; 2.20 or 10.301 or equivalent subject 10.450, but assignments differ.
+G (Spring)
+Geo. Stephanopoulos
+2-0-4 H-LEVEL Grad Credit
+See description under subject HST.525J. 10.551 Systems Engineering
+R. K. Jain
+Prereq.: 10.213, 10.302, 10.37
+G (Spring)
+10.549 Tissue Engineering 3-0-6 H-LEVEL Grad Credit
+Prereq.: 10.302 or equivalent,
+Introduction to the elements of systems en-
+7.012/7.013/7.014
+gineering. Special attention devoted to those
+Acad Year 1996-97: Not offered tools that help students structure and solve
+Acad Year 1997-98: G (Spring) complex problems. Illustrative examples drawn
+3-0-6
+from a broad variety of chemical engineering
+Analysis of fundamental processes in tissue topics, including product development and
+engineering for human therapeutic applica- design, process development and design, extions. Overview of major approaches in tissue perimental and theoretical analysis of physicoengineering (cell encapsulation, cell transplan- chemical process, analysis of process
+tation, matrix-guided regeneration, extracor- operations, etc.
+poreal reactors) and focus on specific tissues G. J. McRae, Geo. Stephanopoulos, P. /. Barrepresentative of applications in regenerating ton
+metabolic tissues (e.g., liver, pancreas) and
+connective tissues (e.g., bone, cartilage). Cel- 10.560 Structure and Properties of Polymers
+lular nutrient metabolism, cell regulation by
+Prereq.: 10.213 or permission of instructor
+macromolecules, and transport limitations in
+G (Spring)
+device design. Guided organization of multicel-
+3-0-6 H-LEVEL Grad Credit
+lular structures. Regulatory issues and current
+clinical prospects. Review of polymer molecular structure and
+L. G. Cima, W. M. Deen bulk morphology; survey of molecular and morphological influence on bulk physical properties including non-Newtonian flow,
+macromolecular diffusion, gas transport in
+polymers, electrical and optical properties,
+solid-state deformation, and toughness. Case
+studies for product design.
+R. E. Cohen
+-
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+2-0-7 H-LEVEL Grad Credit
+Theory and phenomenology of linear viscoelastic behavior of polymers. Material functions
+and their interconversion, model representation, time-temperature equivalence.
+Reviews molecular theories. Introduces nonlinear viscoelasticity.
+R. E. Cohen
+10.568 Physical Chemistry of Polymers
+Prereq.: 5.60 or 10.213 or 10.40
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Chain macromolecules as random coils (unperturbed, expanded) and as other shapes. Statistical thermodynamics of interpenetrating
+random coiling polymers in solution with application to phase separations, swelling of networks, depression of melting point. The
+isolated chain molecule in dilute solutions
+analyzed for mass or size by static methods
+(osmometry, light scattering, neutron scattering) and by dynamic methods (intrinsic viscosity, size exclusion chromatography,
+sedimentation).
+R. E. Cohen
+10.569 Synthesis of Polymers
+Prereq.: 5.12
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Studies synthesis of polymeric materials, emphasizing interrelationships of chemical pathway, process conditions, and
+"microarchitecture" of molecules produced.
+Chemical pathway: anionic, radical, condensation, ring-opening. Process conditions: bulk,
+solution, emulsion, suspension, gas phase,
+batch vs continuous fluidized bed. "Microarchitecture": tacticity, molecular-weight distribution, sequence distributions in copolymers,
+"errors" in chains such as branches, head-tohead addition, peroxide incorporation.
+E. W. Merrill, P. T. Hammond
+10.570J Chemicals in the Environment:
+Sources and Control
+(Subject meets with 1.1 OJ, 10.470J, TPP.52J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Meets with subjects 1.1OJ, 10.470J, and
+TPP.52J. Graduate credit based on two term
+projects. See description under subject 1 .1OJ.
+A. F Sarofim, J. R. Ehrenfeld, P. Gschwend
+Descriptions of Subjects 389

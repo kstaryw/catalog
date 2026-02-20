@@ -1,0 +1,131 @@
+Department of Nuclear Engineering Course 22
+22.821 Engineering Systems Analysis
+Prereq.: Permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+R. de Neufville, J. P. Clark, F. Field
+22.822J Strategic Analysis for
+Environmental Policy Planning, Design,
+and Implementation
+(Same subject as 1.141J, 3.563J, 6.688J,
+11.385J, TPP.121J)
+Prereq.: 1.146 or 2.192 or 3.56 or 13.62 or
+16.861 or TPP.21 or 11.200 or 11.205
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+See description under subject 1.141 J.
+D. H. Marks, R. de Neufville, J. Clark,
+R. Gakenheimer, M. W. Golay, D. Sadoway,
+R. D. Tabors
+22.823 Nuclear Industry Dynamics
+Prereq.: 22.211
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Introduction to techniques for modeling and understanding the interaction of nuclear plant
+operations with the external world of safety
+and economic regulation, public concern, and
+financial issues. The system dynamics technique is introduced by application to nuclear
+plant construction and then focuses on modeling the interrelations between plant management and operations, the regulatory
+environment, the financial environment, and
+the public sector.
+K. F. Hansen
+22.843J Technology, Productivity, and
+Industrial Competition
+(Same subject as 17.172J)
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+An analysis of the relationships between technological innovation, productivity growth, and
+industrial competitiveness. Examines alternative models of industrial performance at the
+enterprise, industry, and national levels.
+Several industry case studies. Surveys recent
+developments in industrial policies in the US
+and other advanced industrialized nations.
+R. K. Lester
+22.86 Entrepreneurship
+Prereq.: -
+General
+22.901-22.904 Special Problems in
+Nuclear Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+For graduate and advanced undergraduate students who wish to conduct a one-term project
+of a theoretical or experimental nature in the
+nuclear engineering field, in close cooperation
+with individual staff members. Arrangement of
+topic and hours to fit students' requirements.
+J. Freidberg
+22.905 Special Topics in Nuclear
+Engineering
+Prereq.: Permission of instructor
+G (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Special topics for graduate and advanced undergraduate students.
+J. Freidberg
+22.911 Seminar in Nuclear Engineering
+Prereq.:
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+-
+G (Fall)
+2-0-1 [P/D/F]
+Can be repeated for credit
+22.912 Seminar in Nuclear Engineering
+Prereq.: -
+22.920 A Hands-On Introduction to Nuclear
+Magnetic Resonance
+(New)
+Prereq.: Permission of instructor
+G (lAP)
+1-2-0 H-LEVEL Grad Credit
+Hands-on introduction to NMR presenting
+background in classical theory and instrumentation. Each lecture followed by lab experiments both to demonstrate ideas presented
+during the lecture and to familiarize students
+with state-of-the-art NMR instrumentation. Experiments cover topics ranging from spin
+dynamics to spectroscopy, and include imaging.
+D. G. Cory
+22.921 Nuclear Power Plant Dynamics and
+Control
+Prereq.: Graduate Level
+G (IAP)
+1-0-2
+Nuclear power plant dynamics involve unique
+non-linear systems due to delayed neutron effects and to thermally induced feedback effects. Engineers need to understand these; the
+rapid development of digital systems with control applications affords ideal methods for solving the non-linear control problems with
+systems that are insensitive to human error.
+Subject includes lectures and demonstrations
+with computer simulation and the use of the
+MIT Research Reactor.
+J. A. Bernard
+G (Spring) 22.925 Neutron and X-Ray Reflectometry
+2-0-1 [P/D/F] and Small Angle Scattering
+Can be repeated for credit (New)
+Prereq.: 8.03 or 18.03
+Restricted to graduate students engaged in
+doctoral thesis research. G (IAP)
+J. E Meyer 2-0-2 H-LEVEL Grad Credit
+Neutron and x-ray reflectometry are ideal for in-
+22.92 Advanced Engineering Internship vestigating the angstrom-level structure of
+material thin films, surfaces, and interfaces
+Prereq.: 22.092 which are found widely in physics, chemistry,
+G (Fall, Spring, Summer)
+0-6-0 [PID/F] materials science, and engineering studies. Can be repeated for credit Covers fundamental aspects of reflectometry,
+including direct theories, data inversion
+Provides credit for the third and fourth Work methods, reflectometer instrumentation, and
+Assignments for students affiliated with the En- applications. Includes an introduction to theory
+gineering Internship Program. Students and applications of small angle scattering
+register for this subject twice. Students must since they bear strong similarity to refleccomplete both Work Assignments to receive tometry.
+the academic credit for this subject. Enrollment X.-L. Zhou, S.-H. Chen
+limited to students in the Engineering Internship Program.
+J. E. Meyer
+Descriptions of Subjects 529

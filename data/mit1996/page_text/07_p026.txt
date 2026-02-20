@@ -1,0 +1,80 @@
+Department of Nuclear Engineering Course 22
+22.102 Engineering Principles for Nuclear 22.212 Special Problems in Advanced 22.32 Nuclear Power Reactor Synthesis
+Technology Nuclear Reactor Physics (Revised Content)
+(New)
+Prereq.: 22.211 Prereq.: 22.211, 22.312
+Prereq.: 2.001 and 2.51 G (Spring) G (Spring)
+G (Fall) 3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit
+Current methods for predicting neutron be- Describes how physics, fuel management, and
+Derivation of the basic continuum models used havior in complex geometrical and material engineering disciplines are integrated to
+to describe: energy transport in solids; mass, configurations. Collision theory; the transport produce safe and economical power reactor
+momentum, and energy transport in fluids; and equation and methods for solving it; group dif- designs. Emphasis given to application of
+stress, strain, and displacement behavior in fusion theory and its application to depletion. basic tools to develop an understanding of
+solids. Discussion of various widely used Applies homogenization, synthesis, and nodal how power reactors behave in steady-state,
+simplifications to make the models more trac- methods to reactor analysis. transient, and accident scenarios.
+table (e.g., one-dimensionality, incompres- A. F. Henry M. J. Driscoll, K. F. Hansen
+sibility, linear elasticity, etc.). Discussion of
+complications which arise such as turbulent 22.33 Nuclear Engineering Design
+transport processes, two-phase flow, plasticity,
+and multi-dimensions. Use of nuclear engineer- (Subject meets with 22.033)
+ing applications as examples - from fission, Prereq.: 22.212, 22.312
+fusion, and radiation science/technology. Nuclear Reactor Engineering G (Spring)
+J. E. Meyer 2-9-4 H-LEVEL Grad Credit
+Can be repeated for credit
+22.312 Engineering of Nuclear Reactors
+22.103 Microscopic Theory of Transport Group design project involving integration of
+(Subject meets with 22.031)
+nuclear physics, reactor physics, control, heat
+Prereq.: 22.101 Prereq.: 2.001 and 2.51
+transfer, safety, materials, power production,
+G (Spring) G (Fall)
+fuel-cycle management, environmental impact,
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+and economic optimization. Provides student
+Discusses basic physical mechanisms of par- Engineering principles of nuclear reactors, em- with opportunity to synthesize knowledge acticle and radiation transport due to microscopic phasizing power reactors. Power plant ther- quired in other subjects and apply this
+collisions. Simple explanation of transport coef- modynamics, reactor heat generation and knowledge to practical problems of interest in
+ficients (e.g., diffusivity, viscosity, heat conduc- removal (single-phase as well as two-phase the reactor design and radiation technology
+tivity, electrical conductivity) and various coolant flow and heat transfer), and structural fields. Meets with undergraduate subject
+nuclear cross sections. Derivation of the micro- mechanics. Engineering considerations in reac- 22.033, but assignments differ.
+scopic kinetic equation describing transport; tor design. N. E. Todreas
+the Boltzmann equation. Derivation of practical N. E. Todreas
+engineering fluid models (e.g., classical ther- 22.351 Current Nuclear Fuel Cycle Issues
+modynamics, the Navier Stokes equations, the 22.313 Thermal Hydraulics in Nuclear
+Prereq.: 22.03 or equivalent
+neutron transport equations) from the kinetic Power Technology
+model. Subject material elucidates the com- Acad Year 1996-97: Not offered
+mon roots of these widely different models. Prereq.: 22.312 Acad Year 1997-98: G (Spring)
+S. Yip, J. Freidberg Acad Year 1996-97: G (Spring) 2-0-4 H-LEVEL Grad Credit
+Acad Year 1997-98: Not offered
+Current problems arising from the nuclear fuel
+3-0-9 H-LEVEL Grad Credit
+cycle, including uranium enrichment,
+Advanced topics emphasizing thermo-fluid reprocessing of spent fuel, burning of lightdynamic phenomena and analysis methods. water reactor spent fuel in heavy water reacNuclear Reactor PhysiCs Single-heated channel-transient analysis. tors, and disposal of high-level waste by
+Multiple-heated channels connected at plena. transmutation, are discussed. Aspects of the
+Loop analysis including single and two-phase military fuel cycle cover disposal of military
+22.211 Nuclear Reactor Physics I natural circulation. Kinematics and dynamics plutonium, remediation of contaminated
+of two-phase flows with energy addition. Boil- facilities, issues related to nonproliferation of
+Prereq.: 18.076
+G (Fall) ing, instabilities, and critical conditions. Sub- weapons technology, and methods of safe dischannel analysis. posal of weapons plutonium. Meets for a two-
+3-0-9 H-LEVEL Grad Credit
+J. E. Meyer hour lecture once a week with four hours of
+Introduces problems of fission-reactor physics, assigned reading and homework.
+covering nuclear reactions induced by 22.314J Structural Mechanics in Nuclear N. C. Rasmussen, M. J. Driscoll
+neutrons, nuclear fission, slowing down of Power Technology
+neutrons in infinite media, diffusion theory, the
+few-group approximation, and point kinetics. (Same subject as 1.56J, 2.084J, 13.14J)
+Emphasizes the nuclear physical bases of Prereq.: Permission of instructor
+reactor design and their relation to reactor en- Acad Year 1996-97: Not offered
+gineering problems. Acad Year 1997-98: G (Spring)
+K. F. Hansen 3-0-9 H-LEVEL Grad Credit
+Structural components in nuclear power plant
+systems, their functional purposes, operating
+conditions, and mechanical-structural design
+requirements. Combines mechanics techniques with models of material behavior to determine adequacy of component design.
+Considerations include mechanical loading,
+brittle fracture, inelastic behavior, elevated
+temperatures, neutron irradiation, and seismic
+effects.
+J. E. Meyer, 0. Buyukozturk
+Descriptions of Subjects 525

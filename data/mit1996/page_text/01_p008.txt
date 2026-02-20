@@ -1,0 +1,140 @@
+School of Engineering
+1.212 An Introduction to Intelligent
+Transportation Systems
+Prereq.: Permission of Instructor
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-6 H-LEVEL Grad Credit
+Basic elements of intelligent transportation systems. Technological, systems, and institutional
+aspects of ITS considered, including system architecture, congestion pricing, public/private
+partnerships, network models, ITS as industrial
+policy, implementation case studies. Term
+project required. Alternate years.
+J. Sussman
+1.231J Planning and Design of Airport
+Systems
+(Same subject as 16.781J)
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Equal emphasis on current practice and advanced concepts. Airport location and planning
+with full consideration of economic, environmental, and other impacts. Demand prediction,
+determination of the capacity of the airfield, estimation of levels of congestion. Design of terminals. Role of airports in the aviation and
+transportation system. Airport access
+problems. Optimal configuration of air
+transport networks and implications for airport
+development. Economics of the airport. Financing and institutional aspects. Special attention
+to international practice and developments. Alternate years.
+R. de Neufville, A. R. Odoni
+1.233J Seminar in Air Transportation
+Analysis and Planning
+(Same subject as 16.73J)
+Prereq.: -
+G (Fall)
+1-0-5
+See description under subject 16.73J.
+A. R. Odoni, P. P. Belobaba
+1.25J Technology, Policy, and
+Sustainability in the Middle East
+(Same subject as 17.559J)
+Prereq.: -
+1.251J Transportation and Government
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-0-9
+May not count toward HASS Requirement.
+See description under subject 17.559J.
+N. Choucri, F. Moavenzadeh
+-
+Public Policy and Politics
+(Same subject as 11.379J)
+Prereq.: -
+G (Spring)
+3-0-6
+The reasons for government involvement in
+building transportation infrastructure, the organization and regulation of transportation services, and the safety and economic regulation
+of vehicles and the energy systems which fuel
+them. Reviews the historical, public policy, and
+political reasons for government involvement
+in transportation, and analyzes the current institutional mechanisms of government in air,
+water, rail, highway, auto, trucking, and transit
+systems. Issues include privatization, deregulation, federal program development, and intergovernmental conflicts.
+F. Salvucci, R. Gakenheimer
+1.252J Urban Transportation Planning
+(Same subject as 11.380J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 11.380J.
+R. A. Gakenheimer, F. Salvucci, T. Humphrey
+1.254J Infrastructure in Developing
+Countries
+(Subject meets with 11.469J, 11.104)
+Prereq.: -
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 11.469J.
+R. A. Gakenheimer
+1.255J Political Economy and Technology
+in the Middle East
+(Same subject as 17.558J, 21H.977J)
+Prereq.: -
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+See description under subject 17.558J.
+N. Choucn, F. Moavenzadeh, P. S. Khoury, R.
+Gakenheimer
+1.256J Technology, Policy, and
+Sustainability in the Middle East
+(Same subject as 17.560J)
+Prereq.: -
+1.258J Public Transportation Service and
+Operations Planning
+(Same subject as 11.381J)
+Prereq.: 1.201 or permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Evolution and role of urban public transportation modes, systems, and services, including
+bus and rail. Description of technological characteristics and their impacts on capacity, service quality, and cost. Current practice and
+new methods for performance monitoring,
+route design, vehicle and crew scheduling.
+Effect of pricing policy and service quality on
+ridership. Methods for estimating costs associated with proposed service changes.
+N. H. M. Wilson
+1.259J Transit Management
+(Same subject as 11.382J)
+Prereq.: 1.258J or permission of instructor
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Management methods of relevance to public
+transportation systems. Topics: strategic planning management; labor relations; maintenance planning and administration; financial
+planning; marketing; and management information and decision support systems. Shows how
+these general management tasks are dealt
+with in the transit industry and presents alternative strategies. Identifies alternative arrangements for service provision, including different
+ways of involving the private sector in public
+transportation.
+N. H. M. Wilson, F. Salvucci
+1.27 Studies in Transportation
+Engineering
+Prereq.: Permission of instructor
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Individual advanced study of a topic in
+transportation systems, selected with the approval of the instructor.
+Information: N. H. M. Wilson.
+1.271 Research Seminar in Transportation
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Discussion of current research at various
+Acad Year 1996-97: G (Spring) stages of development, including problem
+Acad Year 1997-98: Not offered definition, literature review, methodology, and
+3-0-9 H-LEVEL Grad Credit evaluation of results. Intended for advanced
+See description under subject 17.560J. doctoral students who have passed the
+N. Choucri, F. Moavenzadeh, R. Gakenheimer general examination.
+N. H. M. Wilson
+304 Chapter Vill

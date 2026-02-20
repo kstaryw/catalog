@@ -1,0 +1,99 @@
+School of Management Course 15
+15.082 Network Optimization Electrical Engineering and Computer 15.141 Comparative Health Systems
+Science: 6.041, 6.231, 6.245, 6.262, 6.264J,
+Prereq.: 15.081J or permission of instructor 6.430J, 6.431, 6.432, and 6.435 Prereq.:
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Management: 15.034, 15.061, 15.065,
+Network models for industrial logistics sys- 15.070,15.074, 15.075, 15.076, 15.078,
+tems, transportation systems, communication 15.098, 15.306, and 15.832
+systems, and other applications. Emphasizes
+a rigorous treatment of algorithms and their efficiency - algorithms for shortest routes, maxi- Mathematics: 18.05, 18.175, 18.177, 18.313,
+mum flows, minimum cost flows, traffic 18.440, 18.441, 18.443, 18.445,18.446,
+equilibrium, and network design. Implementa- 18.457, 18.458, 18.465, and 18.466
+tion issues.
+T. L. Magnanti, J. B. Orin
+See also: 2.061, 2.830, 2.870, 5.70, 5.72,
+15.083 Combinatorial Optimization 7.02, 8.044, 8.08,10.816, 11.220, 11.221,
+16.322,17.842, 17.846, 22.38, HST.191, and
+Prereq.: 15.081J or permission of instructor MAS.622J.
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Devoted to a theoretical and rigorous treatHealth Care Management
+ment of topics in integer programming and
+combinatonal optimization. Topics in combinatorial optimization include matching theory, 15.136J Health Technology
+matroid theory, computational complexity,
+design and analysis of heuristics. Topics in in- (Same subject as 10.547J, HST.920J)
+teger programming include formulations, Prereq.: Permission of instructor
+branch and bound, Lagrangean techniques, Acad Year 1996-97: Not offered
+cutting plane algorithms, group theoretic ap- Acad Year 1997-98: G (Spring)
+proaches, and Benders' decomposition. 3-0-6 H-LEVEL Grad Credit
+D. Bertsimas
+Research seminar in the development, evaluation, and dissemination of medical tech-
+15.084J Nonlinear Programming nologies and practices. Strategies for
+(Same subject as 6.252J) management of basic and applied biomedical
+research. Communication channels for re- Prereq.: 18.06, 18.100
+G (Spring) search results among researchers and from re-
+3-0-9 H-LEVEL Grad Credit searchers to users. Analytic methods for
+evaluation of efficacy and social impact. ExSee description under subject 6.252J. amines factors influencing commercial developJ. F. Shapiro, D. P. Bertsekas ment of new health technology.
+S. N. Finkelstein, C. L. Cooney
+15.098 Special Seminar in Applied
+Probability and Stochastic Processes 15.138J Seminar on Pharmaceutical and
+Biotechnology Industry Management Prereq.: 6.431
+G (Fall, Spring) (Same subject as 7.89J, 10.940J)
+Units arranged H-LEVEL Grad Credit Prereq.: Permission of instructor
+Can be repeated for credit G (Fall)
+Doctoral student seminar covering current 3-0-6 H-LEVEL Grad Credit
+topics in applied probability and stochastic Can be repeated for credit
+processes. Weekly presentations by guests from pharD. Bertsimas, V. Nguyen, L. Wein maceutical and biotechnology-related industries sharing their management problems
+15.099 Special Seminar in Operations with faculty and advanced students in manageResearch ment, engineering, and life sciences. Invited
+guests describe complex issues they face in
+Prereq.: 15.081J
+regulatory, finance, R & D, manufacturing, and
+G (Fall, Spring)
+other areas. Seminar participants interact to
+Units arranged H-LEVEL Grad Credit
+analyze and offer possible resolutions to the isCan be repeated for credit
+sues presented.
+Doctoral student seminar covering current T. J. Allen, C. L. Cooney, S. N. Finkelstein,
+topics related to operations research not other- A. Sinskey
+wise included in the curriculum.
+T. L. Magnanti
+For additional related subjects in Statistics,
+see:
+Civil and Environmental Engineering: 1.03,
+1.151, 1.155, 1.202, 1.203J, 1.205, and 1.732
+-
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Examines major issues facing health systems
+in the US and selected other countries from a
+variety of perspectives, including those of the
+physician, the manager, and the policy
+analyst. Considers cost, quality, access, and
+technology trade-offs as they affect government policy.
+S. N. Finkelstein, E. R. Bemdt, R. M. Henderson
+15.149 Special Studies in Health
+Management
+Prereq.: Permission of instructor
+G (Fall, Spring)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+For graduate students who desire to do advanced work or research on a health management problem not specifically covered
+elsewhere. Readings, conferences, fieldwork,
+and reports.
+S. N. Finkelstein
+International Management
+15.215 International Dimensions of
+Management
+Prereq.: -
+G (Spring)
+2-0-4
+Theory and practice of international business,
+emphasizing strategy selection, corresponding
+organization and managerial roles, in
+response to the changing international environment. Examines some of the distinctive
+management problems that arise in international firms. Restricted to Sloan Fellows.
+D. R. Lessard
+Descriptions of Subjects 437

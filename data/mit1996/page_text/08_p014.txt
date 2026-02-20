@@ -1,0 +1,107 @@
+Program in Media Arts and Sciences MAS
+Perceptual Computing MAS.630 Advanced Seminar In Affective MAS.654 Cognitive Artifacts
+Computing
+(New) (Subject meets with 9.34J, MAS.234J)
+MAS.622J Pattern Recognition and Analysis Prereq.: Permission of instructor
+Prereq.: Permission of instructor G (Fall)
+(Same subject as 1.126J) Acad Year 1996-97: G (Spring) 3-3-6 H-LEVEL Grad Credit
+Prereq.: A working knowledge of probability Acad Year 1997-98: Not offered
+theory and linear algebra 2-0-7 [P/D/F] H-LEVEL Grad Credit Lectures same as MAS.234J, supplemented
+Acad Year 1996-97: Not offered Can be repeated for credit by individual or group projects and additional
+Acad Year 1997-98: G (Spring) readings. Stresses the role of external repre-
+3-0-9 H-LEVEL Grad Credit An advanced seminar on issues of current in- sentations in guiding thought and imagination.
+terest involving computers which can recog- Term project required. See description under
+Fundamentals of characterizing and recogniz- nize, express, and "have" emotions. Topics subject 9.34J.
+ing patterns and features of interest in numeri- vary from year to year. Participants discuss the W. Richards
+cal data. Basic tools and theory for signal current literature.
+understanding problems with examples from R. W. Picard MAS.690 Special Projects in Perceptual
+multi-media, environmental monitoring, comComputing
+puter vision, remote sensing, medical and
+MAS.632 Conversational Computer
+biological image processing. Decision theory, Prereq.: Permission of instructor
+Systems
+statistical classification, maximum likelihood G (Fall, Spring)
+and Bayesian estimation, non-parametric Prereq.: Permission of instructor Units arranged H-LEVEL Grad Credit
+methods, unsupervised learning and cluster- G (Fall) Can be repeated for credit
+ing, context-dependent methods. Additional 3-0-6 H-LEVEL Grad Credit
+Special projects on individual or group basis.
+topics from active research.
+Interaction with computer systems by voice, in- Registration subject to prior arrangement of
+A. Bobick, R. W. Picard
+cluding speech synthesis, recognition, and digi- subject matter and supervision by staff.
+tal recording techniques. Emphasis on human Staff
+MAS.624 High-Level Computer Vision: interface design issues and interaction techniMethods and Models ques to successfully exploit the speech
+(Subject meets with MAS.210) medium for computer applications, including
+extensive reading from current research literaPrereq.: Permission of instructor
+Acad Year 1996-97: G (Spring) ture. Topics include human speech production Learning and Common Sense
+Acad Year 1997-98: Not offered and perception, isolated and connected
+3-0-9 speech recognition, text-to-speech synthesis
+algorithms, telephone technologies, parsers, MAS.712 Technological Tools for Learning
+Meets with undergraduate subject MAS.21 0. and dialogue generation.
+Additional attendance at occasional seminars C. Schmandt Prereq.:
+is required along with a research paper or
+project involving high-level vision. See descripMAS.641J Audio Processing by People and
+tion under subject MAS.210.
+Machines
+A. Bob/ck, Staff
+(Subject meets with MAS.241, 21 M.566J)
+MAS.626J Image Representations for Vision Prereq.: Permission of instructor G (Fall)
+(Same subject as 9.358J) 3-0-6 H-LEVEL Grad Credit
+Prereq.: MAS.51 0 or permission of instructor
+G (Fall) Lectures same as MAS.241, with additional
+2-0-7 H-LEVEL Grad Credit readings and a group or individual project. See
+description under subject MAS.241.
+Natural and artificial vision systems begin by B. Vercoe
+transforming an image into a set of representations, thus choosing the "languages" to MAS.642J Writing for Computer
+be used at each stage of visual processing.
+Performance
+This seminar surveys a variety of representations proposed in the context of human (Same subject as 21 M.565J)
+perception, neurophysiology, machine vision, Prereq.: MAS.641J
+and image processing, and explores how G (Spring)
+these representations can be used in such 3-0-6 H-LEVEL Grad Credit
+tasks as object recognition, image data comUse of current tools and techniques for creatpression, motion analysis, texture analysis,
+ing audio soundtracks that can be synthesized
+and so on. A reasonable facility with matheby computer in real time. Techniques of commatics and computation will be expected.
+pact definition and efficient, global disseminaE. H. Adelson, A. Pentland, A. Bobick tion, such as via the World Wide Web.
+Development and use of global standards for
+MAS.627J Special Topics in Vision Science audio and music rendering on remote sites.
+(Same subject as 9.359J) Participants are expected to create an original
+Prereq.: Permission of instructor work, performed in at least three remote sites
+G (Spring) to positive commentary, using the above principles.
+2-0-7 H-LEVEL Grad Credit
+Can be repeated for credit B. Vercoe
+See description under subject 9.359J.
+E. H. Adelson
+-
+G (Spring)
+2-0-7
+Examines how new computational tools and
+activities can help people learn new things in
+new ways. Discusses theories of learning and
+education underlying the design and use of
+these tools, and explores how new tools can
+change the ways people think about learning
+and education. Special emphasis on "constructionist" approaches to learning (represented by
+tools such as Logo and LEGO/Logo). Final
+project involves the design and observation of
+learning activities.
+M. Resnick
+MAS.713 Learning Environments
+Prereq.: Permission of instructor
+G (Spring)
+3-0-6 H-LEVEL Grad Credit
+Can be repeated for credit
+Seminar to develop a framework for understanding the entry of new technologies - computers, video technologies, communications -
+into the process of learning. Reading covers a
+broad range of topics in human sciences, epistemology, and computer sciences; research
+projects, either self-initiated or assigned.
+S. A. Papert
+MAS.714J Evolving Conceptions of
+Systems and Self
+(Same subject as STS.528J)
+Prereq.: -
+G (Fall)
+2-0-7
+See description under subject STS.528J.
+M. Resnick, S. Turkle
+Descriptions of Subjects 547

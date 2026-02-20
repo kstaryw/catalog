@@ -1,0 +1,81 @@
+Sloan School of Management
+15.375 New Enterprises Finance 15.415 Finance Theory
+Prereq.: Permission of instructor Prereq.: 14.01 or 15.011, 15.501 or 15.515
+G (Spring) 15.410 Financial Management I G (Fall, Spring)
+2-1-6 H-LEVEL Grad Credit 6-0-9 H-LEVEL Grad Credit
+Prereq.: 15.515
+Covers the process of conceptualizing, plan- G (Spring) Core theory of capital markets and corporate
+ning, and starting a new enterprise. Topics in- finance. Topics: functions and operations of
+2-0-4 H-LEVEL Grad Credit
+clude the entrepreneur, the business capital markets, analysis of consumptionopportunity, legal issues, entrepreneurial Provides students with the financial tools they investment decisions of investors, diversificaethics, the business plan, the founding team, need for non-financial management positions. tion and portfolio selection, valuation theory
+and seeking funds. Each student develops a Topics include: identification of financing and equilibrium pricing of risky assets, theory
+detailed business plan for a start-up. needs; capital structure; capital budgeting; of efficient markets, and investment and financInformation: E. A. von Hippel. company valuation. Lectures and case applica- ing decisions of firms. Theoretical foundation
+tions with an emphasis on the latter. Primarily for further study and practical applications. Re-
+15.377 R&D Process: Communications and intended for graduate students in Sloan quired for Finance electives, and for Financial
+Organization School of Management. Open to others with Management and Financial Engineering
+permission of instructor. tracks. If the subject is oversubscribed, priority
+Prereq.: 15.301 or 15.310 or 15.311 or 15.361 D. Scharfstein is given to Course 15 students.
+Acad Year 1996-97: Not offered S. C. Myers
+Acad Year 1997-98: G (Fall)
+15.411 Financial Management
+3-0-3 H-LEVEL Grad Credit
+15.416J Introduction to Financial
+Prereq.: 15.511, 15.024, 15.063
+A review of research, beginning with reward Economics
+G (Fall)
+systems for and motivation of engineers and
+3-0-6 H-LEVEL Grad Credit (Same subject as 14.416J)
+scientists in industry. Deals with a number of
+Prereq.: 14.121, 14.122
+diverse subjects, ranging from the aging of Primarily concerned with corporate finance. AdG (Spring)
+technical groups to the management of R&D dresses the three basic functions of a chief
+matrix organizations and the architecture of financial officer: how to make good financing 4-0-8 H-LEVEL Grad Credit
+R&D labs. Meets first half of semester. decisions, how to make good investment Foundations of modern financial economics;
+T. J. Allen decisions, and how to forecast the cash needs individuals' consumption and portfolio
+of the firm. Topics include: capital budgeting, decisions under uncertainty; valuation of finan-
+15.378J Dynamic Strategic Planning capital structure, the firm's cost of capital, cial securities. Topics include: expected utility
+financial instruments available in the capital theory; stochastic dominance; mutual fund
+(Same subject as TPP.23J) market, dividend policy, mergers, and the inter- separation, portfolio frontiers; capital asset pricPrereq.: Permission of instructor action between a firm's product market and ing model; arbitrage pricing theory; ArrowG (Summer) financial goals. Restricted to Sloan Fellows. Debreu economies; dynamic consumption and
+3-0-3 H-LEVEL Grad Credit Information: D. Scharfstein. portfolio decisions; dynamic spanning; options;
+Restricted to students in the Management of market imperfections; rational expectations;
+Technology program. See description under 15.412 Financial Management I1 financial signaling. Introduction to continuoussubject TPP.23J. Prereq.: 15.501 time finance. Primarily for doctoral students in
+R. de Neufville, J. P. Clark, F Field accounting, economics, and finance.
+Acad Year 1996-97: Not offered
+J. Wang
+Acad Year 1997-98: G (Fall)
+15.379 Seminar in Management of 4-0-8 H-LEVEL Grad Credit
+Technology 15.426J Real Estate Finance and
+Surveys and analyzes financial problems Investment
+Prereq.: Permission of instructor facing managers, including theoretical introducG (Summer) tion to financial institutions, financial instru- (Same subject as 11.431J)
+3-0-3 H-LEVEL Grad Credit ments, and capital markets. Topics: functions Prereq.: 11.447
+G (Fall)
+Current practices and issues in the strategic and operations of capital markets, theory of ef- 4-0-8 H-LEVEL Grad Credit
+Management of Technology are analyzed and ficient markets, portfolio and valuation theory,
+discussed by leaders from industry and govern- capital budgeting and investment decision See description under subject 11.431J.
+ment. Examines different approaches to making, firm's cost of capital, long-term financ- T. Riddiough
+managing the technology function within a ing instruments and financing decisions,
+broad organizational context, in seminar dis- dividend policy and capital structure. Primarily 15.427J Real Estate Capital Markets
+cussions and in the field. Restricted to for students not concentrating in finance.
+Management of Technology Program stu- Information: D. Scharfstein. (Same subject as 11.432J)
+Prereq.: Permission of instructor
+dents. Seminar continues into Fall term and
+G (Spring)
+through Spring term. 15.414 Financial Management
+4-0-8 H-LEVEL Grad Credit
+R. Weichman
+Prereq.: 15.012, 15.515
+G (Fall) See description under subject 11.432J.
+T. Riddiough
+3-0-6 H-LEVEL Grad Credit
+See also 15.136J, 15.138J. Investment theory, with special emphasis on 15.432 Capital Markets and Financial
+the impact of financial decisions on technology Institutions
+strategy. Operation of financial markets and institutions. Restricted to Management of Tech- Prereq.: 15.415
+nology students. Acad Year 1996-97: Not offered
+Information: D. Scharfstein. Acad Year 1997-98: G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Role and functioning of the capital markets
+and financial intermediaries for the channeling
+of investable funds, the allocation of resources, the reallocation of risk, and the auditing of
+performance. Function of financial intermediaries operating in world financial markets.
+F. Modigliani
+442 Chapter Vill

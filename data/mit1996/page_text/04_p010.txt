@@ -1,0 +1,169 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.110 Sedimentary Geology 12.119 Analytical Techniques for Studying
+(Revised Content) Environmental and Geologic Samples
+Prereq.: 12.001 Prereq.:
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-3-6
+Sediments in the rock cycle. Production of sediments at the Earth's surface. Physics and
+chemistry of sedimentary materials. Scale and
+geometry of near-surface sedimentary bodies,
+including aquifers. Sediment transport and
+deposition in modern sedimentary environments. Burial and lithification. Survey of major
+sedimentary rock types. Stratigraphic relationships of sedimentary basins. Evolution of
+sedimentary processes through geologic time.
+Two or three weekend days of field trips.
+J. B. Southard, J. P. Grotzinger
+12.113 Structural Geology
+Prereq.: 12.001, 12.005
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+3-3-6
+Introduces mechanics of rock deformation. Discusses recognition, interpretation, and
+mechanics of faults, folds, structural features
+of igneous and metamorphic rocks, and superposed deformations. Introduces regional structural geology and tectonics. Laboratory
+includes techniques of structural analysis,
+recognition and interpretation of structures on
+geologic maps, and construction of interpretive
+cross sections.
+B. C. Burchfiel
+12.114 Field Geology I
+Prereq.: 12.108, 12.113, or permission of instructor
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (Fall)
+2-2-2
+Introduces techniques of geological field study.
+Several weekend field exercises provide practical experience in preparation for 12.115.
+Presents, in addition, introductory material on
+the regional geology of the locale of 12.115.
+B. C. Burchfiel, J. P. Grotzinger, K. V. Hodges,
+L. H. Royden
+12.115 Field Geology 11
+Prereq.: 12.113, 12.114
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: U (IAP, Spring)
+0-18-0 Institute LAB
+During January, practices methods of modern
+geological field study during an intensive fourweek excursion. Exercises include geological
+mapping on topographic and photographic
+base maps, correlating geochemical and
+geophysical field measurements with geology,
+examining and sampling a wide variety of
+geological features. Following term includes 1)
+preparation of reports based on field studies
+conducted during January, and 2) laboratory
+analysis of samples, interpretation of geological, geophysical, and geochemical data. 12
+units may be applied to the General Institute
+Laboratory Requirement.
+B. C. Burchfiel, J. P. Grotzinger, K. V. Hodges,
+L. H. Royden
+-
+U (Spring)
+2-6-4 Institute LAB
+Focuses on analytical facilities that are used to
+determine elemental and isotopic abundances
+in soils, rocks, minerals, and fluids. Emphasis
+is on isotopic ratios Sr, Nd, and Pb, whose
+isotopic ratios can be used for age dating, and
+abundances of trace elements such as Rb, Sr,
+Cu, Cd, Hg, rare-earths, Pb, Th, and U. Analytical techniques include mass spectrometry,
+emission spectrometry, atomic absorption,
+neutron activation, and electron microprobe. A
+major lab project utilizes these techniques to
+address specific environmental and geologic
+problems. Each student generates a report
+that may be used to satisfy Phase II of the Writing Requirement.
+S. Bowring, E. Boyle, F. Frey, T. Grove
+12.120 Environmental Earth Science Field
+Course
+Prereq.: 12.001 or 12.102
+U (IAP)
+1-5-0
+Introduction to the methods of geologic mapping; practical experience in aspects of environmental geology such as selecting sites for
+hazardous waste disposal, hazard assessment
+in seismically and volcanically active areas,
+and in understanding the three-dimensional
+character of dissected alluvial deposits.
+S. Bowring,
+12.130 Structure of Geologic Aquifers
+(Subject meets with 12.465)
+Prereq.: 12.110 or permission of instructor
+Acad Year 1996-97: U (Fall)
+Acad Year 1997-98: Not offered
+3-3-6
+Meets with graduate subject 12.465, but assignments differ. See description under 12.465.
+J. P. Grotzinger, J. B. Southard, C. J. Marone
+12.141 Electron Microprobe Analysis
+Prereq.: -
+12.163 Surface Processes and Landscape
+Evolution
+(New)
+(Subject meets with 12.463)
+Prereq.: 8.01; 18.03
+U (Fall)
+3-3-6
+Meets with graduate subject 12.463, but assignments differ. See description under 12.463.
+K. X. Whipple
+Geophysics
+12.201 Essentials of Geophysics
+(Subject meets with 12.501)
+Prereq.: 8.02, 18.03
+U (Fall)
+4-0-8
+See description under subject 12.501.
+R. D. van der Hilst
+12.213 Alternate Energy Sources
+Prereq.:
+U (IAP)
+1-1-4 [P/D/F]
+Introduction to theory of x-ray microanalysis
+through Electron Microprobe; lab sessions, including analysis of materials with hands-on
+use of the microprobe; analytical methods include energy and wavelength dispersive
+spectrometry and backscattered electron imaging.
+T. Grove, N. Chatterjee
+12.159 Sedimentary and Surf icial Geology
+Investigations
+(New)
+(Subject meets with 12.459)
+Prereq.: 12.110 or permission of instructor
+U (Spring)
+3-6-3
+Can be repeated for credit
+Meets with graduate subject 12.459, but assignments differ. See description under 12.459.
+J. P. Grotzinger, J. B. Southard, K. X. Whipple
+-
+U (IAP)
+1-4-1 [P/D/F]
+Can be repeated for credit
+Explores a number of alternative energy sources such as geothermal energy (heat from the
+Earth's interior), wind, natural gas, and solar
+energy. Includes a field trip to visit sites where
+alternative energy is being harvested or
+generated. Content and focus of subject varies
+from year to year.
+M. N. Toksdz, F. D. Morgan
+12.214 Environmental Geophysics
+(Subject meets with 12.507)
+Prereq.: 18.03
+U (Spring)
+3-3-6
+Meets with graduate subject 12.507, but assignments differ. See description under subject
+12.507.
+F. D. Morgan
+12.215 Modern Navigation
+Prereq.: -
+U (Fall)
+3-1-8
+Introduces the concepts and applications of
+navigation techniques using celestial bodies
+and satellite positioning systems such as the
+Global Positioning System (GPS). Topics include astronomical observations, radio navigation systems, the relationship between
+conventional navigation results and those obtained from GPS, and the effects of the
+security systems, Selective Availability, and
+anti-spoofing on GPS results. Laboratory sessions cover the use of sextants, astronomical
+telescopes, and field use of GPS. Application
+areas covered include ship, automobile, and
+aircraft navigation and positioning, including
+very precise positioning applications.
+T. A. Herring
+Descriptions of Subjects 407

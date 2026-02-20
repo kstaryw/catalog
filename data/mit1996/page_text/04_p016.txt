@@ -1,0 +1,70 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+12.524 Mechanical Properties of Rocks 12.550 Geosystems I 12.570-12.571 Seminar in Geophysics
+(New)
+Prereq.: 8.03, 18.03 Prereq.: Permission of instructor
+Acad Year 1996-97: G (Fall) Prereq.: 8.02, 18.03, and permission of instruc- G (Fall, IAP, Spring)
+Acad Year 1997-98: Not offered tor Units arranged [P/D/F] H-LEVEL Grad Credit
+3-0-9 H-LEVEL Grad Credit G (Fall) Can be repeated for credit
+3-3-9 H-LEVEL Grad Credit
+A survey of the mechanical behavior of rocks Problems of current interest in geophysics;
+in natural geologic situations. Topics: brief sur- Modeling of complex systems in all areas of subject matter varying from term to term.
+vey of field evidence of rock deformation, geoscience, with emphasis on general theoreti- 12.570 is letter-graded.
+physics of plastic deformation in minerals, brit- cal principles and numerical tools for describ- Geophysics Staff
+tle fracture and sliding, and pressure-solution ing system behaviors. Subject matter
+processes. Results of field petrologic and struc- organized into a sequence of teaching 12.580-12.581 Special Problems in
+tural studies compared to data from experimen- modules, each focusing on a specific geosys- Geophysics
+tal structural geology. tem. Lectures introduce key physical and
+B. Evans chemical processes that operate within each Prereq.: Permission of instructor
+geosystem. Laboratory sessions include the G (Fall, Spring, Summer)
+12.533 Rock Physics use of simple table-top and computer-based Units arranged [P/D/F] H-LEVEL Grad Credit
+models, as well as introductions to advanced Can be repeated for credit
+Prereq.: Permission of instructor numerical simulations, with a strong focus on For graduate students desiring to perform speG (Spring) scientific inference through numerical ex- cial investigations, special laboratory work, or
+3-3-6 H-LEVEL Grad Credit perimentation. special fieldwork in geophysics. 12.580 is letFundamentals of experimental and theoretical T. H. Jordan, J. Marotzke ter-graded.
+rock physics taught at an advanced level. Geophysics Staff
+Rocks viewed as complex composite media 12.551 Geosystems 11
+with behavior dependent both on the physical (New)
+and chemical properties of the constituent
+Prereq.: 12.550
+phases, and on their gecmetries. Electrical,
+G (Spring)
+fluid transport, and seismic properties covered
+3-3-9 H-LEVEL Grad Credit Planetary Science
+in detail. Other topics such as magnetic,
+mechanical, and thermal responses briefly dis- Continuation of Geosystems I (2 semester secussed. Weekly laboratory. quence) 12.601 Essentials of Planetary Science
+F. D. Morgan T. H. Jordan, J. Marotzke
+Prereq.: 8.03, 18.03
+G (Fall)
+12.540 Principles of Global Positioning 12.560-12.561 Special Seminar in
+3-0-9 H-LEVEL Grad Credit
+System Exploration Geophysics
+Reviews fundamental physical concepts perPrereq.: 8.01, 18.02, 18.06 Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered G (Fall, IAP, Spring) taining to the study of the solar system, and
+highlights recent spacecraft results. Topics inAcad Year 1997-98: G (Spring) 2-0-4 [P/D/F] H-LEVEL Grad Credit
+clude: meteorites, orbital dynamics, asteroids,
+3-1-8 H-LEVEL Grad Credit Can be repeated for credit
+impact craters, surfaces, atmospheres, atmosThe principles and applications of the Global Advanced seminar focusing on areas of cur- pheric dynamics, interiors, magnetospheres,
+Positioning System (GPS) and other space rent interest in exploration geophysics and rings, comets, formation of the solar system.
+geodetic systems, including very-long-baseline seismology. Taught by visiting lecturers. T. Dowling
+interferometry (VLBI) and satellite laser rang- 12.560 is letter-graded.
+ing (SLR). The nature and uses of the course Geophysics Staff 12.602 Asteroids and Small Bodies
+acquisition (CA), the precise positioning (P)
+codes, and the differential carrier phase ob- 12.563 Seminar in Earthquake Source Prereq.: 8.02, 18.03
+servable. Techniques for estimating geodetic Physics Acad Year 1996-97: G (Spring)
+and geophysical quantities from these data. (New) Acad Year 1997-98: Not offered
+Other topics include: atmospheric refraction 3-0-9 H-LEVEL Grad Credit
+modeling, effects of Selective Availability (SA), Prereq.: Permission of instructor Introduction to the study of asteroids and the
+estimation techniques (including Kalman filter- Acad Year 1996-97: G (Spring) ground-based and space-based techniques
+ing). Statistical and spectral analysis of data. Acad Year 1997-98: Not offered used to explore them. Topics include asteroid
+T. A. Herring 2-0-4 [P/D/F] H-LEVEL Grad Credit orbital properties, surface structure, physical
+Can be repeated for credit
+properties, classifications, as well as their
+Theoretical models, laboratory data, and seis- origin, thermal and collisional evolution, and inmic observations relevant to earthquake terrelationships with meteorites and comets.
+source physics. Topics include: earthquake Subject also covers the near-earth asteroids,
+nucleation, dynamic rupture processes, in- the probabilities and consequences of terstability criteria and the transition from quasi- restrial collisions, and the possible utilization of
+static to dynamic rupture, the influence of fault asteroids as space resources.
+zone rheology on source processes, fracture R. P. Binzel
+mechanics and friction This is a reading seminar. Participants read, discuss, and critically
+analyze papers from the literature. Detailed
+focus varies from year to year.
+C. Marone
+Descriptions of Subjects 413

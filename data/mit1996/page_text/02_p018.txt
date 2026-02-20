@@ -1,0 +1,88 @@
+Department of Chemistry Course 5
+5.12 Organic Chemistry I
+Prereq.: 5.11
+U (Fall, Spring)
+5-0-7 REST
+Introduction to organic chemistry. Development of basic principles to understand the
+structure and reactivity of organic molecules.
+Emphasis on substitution and elimination reactions and chemistry of the carbonyl group. Introduction to the chemistry of aromatic
+compounds.
+Fall Term: D. S. Kemp
+Spring Term: S. L. Buchwald, G. C. Fu
+5.13 Organic Chemistry 11
+Prereq.: 5.11, 5.12
+U (Spring)
+5-0-7
+Intermediate organic chemistry. Synthesis,
+structure determination, mechanism, and the
+relationships between structure and reactivity
+emphasized. Special topics in organic
+chemistry included to illustrate the role of organic chemistry in biological systems and in
+the chemical industry.
+R. L. Danheiser, Staff
+5.22J Biotechnology and Engineering
+(Same subject as 10.02J, TOX.105J)
+Prereq.: -
+5.24J Archaeological Science 5.33 Advanced Chemical Experimentation
+(New) and Instrumentation
+(Same subject as 3.985J) Prereq.: 5.32, 5.61
+Prereq.: 3.091 or 5.11 or 8.01 or equivalent U (Fall)
+U (Spring) 2-13-6
+3-1-5 HASS
+Advanced experimentation, with particular emPressing issues in archaeology as an phasis on chemical synthesis and the funanthropological science. Stresses the natural damentals of quantum chemistry illustrated
+science and engineering methods ar- through molecular spectroscopy. Projects inchaeologists use to tackle them. Reconstruct- clude computer-interfaced IR, NMR, and
+ing time, space, and human ecologies picosecond laser spectroscopy; synthesis of orprovides one focus; materials technologies ganometallics under inert atmosphere; and
+that transform natural materials to material cul- polymer synthesis and characterization.
+ture provide another. Topics include 14C K. A. Nelson
+dating, ice core and palynological analysis,
+stable isotope chemistry of palaeodietary food- 5.43 Advanced Organic Chemistry
+webs, soil micromorphology and site formation, Pb isotope sourcing of metal artifacts, Prereq.: 5.13
+and microstructural and mechanical analyses U (Fall)
+of cementitious materials used in ancient 4-0-8
+monumental buildings. Application of structure and theory to the study
+H. N. Lechtman, /. Oppenheim of organic reaction mechanisms: stereochemical features including conformation and
+5.310 Laboratory Chemistry stereoelectronic effects; reaction dynamics,
+isotope effects and molecular orbital theory apPrereq.: 5. 12
+plied to pericyclic and photochemical reacU (Fall, Spring)
+tions; special reactive intermediates including
+2-8-2 Institute LAB
+carbenes, carbanions and free radicals.
+Introduces experimental chemistry for students G. C. Fu, S. C. Virgil
+who are not majoring in Course V. Principles
+and applications of chemical laboratory techni- 5.44 Organometallic Chemistry
+ques, including preparation and analysis of
+U (Spring) chemical materials, measurement of pH, gas Prereq.: 5.43
+4-0-5 and liquid chromatography, visible-ultraviolet G (Fall)
+Illustrates how the principles of chemistry, biol- spectrophotometry, infrared spectroscopy, 3-0-6 H-LEVEL Grad Credit
+ogy, and engineering are integrated to create kinetics, data analysis, and elementary syn- Examination of the most important transformanew products for human health and consump- thesis. Enrollment limited. tions of organotransitionmetal species. Emtion. Uses case-study format to examine Fall Term: W. H. Orme-Johnson, D. Seyferth phasizes basic mechanisms of their reactions,
+recently developed products of pharmaceutical Spring Term: C. C. Cummins, Staff structure-reactivity relationships, and applicaand biotechnology industries: how a product tions in synthesis.
+evolves from initial idea, through patents, test- 5.311 Introductory Chemical S. L. Buchwald
+ing, evaluation, production, and marketing. Em- Experimentation
+phasizes scientific and engineering principles, Prereq.: 5.12 5.45 Biorganic Chemistry
+as well as the responsibility scientists, engineers, and business executives have for the U (Fall) Prereq.: 5.43
+consequences of their technology. 2-8-2 Institute LAB Acad Year 1996-97: Not offered
+J. M. Essigmann, R. S. Langer First term of a three-term laboratory subject se- Acad Year 1997-98: G (Fall)
+quence for Course V majors. Experimental 3-0-6 H-LEVEL Grad Credit
+5.23J Atmospheric Chemistry work emphasizes development of fundamental Topics discussed in the context of protein and
+laboratory skills and techniques: volumetric nucleic acid chemistry: binding forces,
+(Subject meets with 12.340J, 5.68) and colorimetric analysis; nuclear magnetic catalysis, enzyme models, allostery, complexaPrereq.: 5.60 resonance; preparation, purification, and char- tion, cooperativity, transport, replication, recogU (Spring) acterization of chemical substances; and data nition, and supramolecular assemblies.
+3-0-9
+analysis. Enrollment limited to 50 students. En- Staff
+See description under subject 12.340J. rollment limited to Course V majors only.
+M. J. Molina, J. /. Steinfeld H. zur Loye, R. G. Gnffin 5.46 NMR Spectroscopy and Organic
+Structure Determination
+5.32 Intermediate Chemical Experimentation
+Prereq.: 5.43
+Prereq.: 5.311 or 5.310, 5.13, 5.60 G (Spring)
+U (Spring) 2-0-4 H-LEVEL Grad Credit
+0-12-3
+Applications of 1 D and 2D 1H and "C NMR
+Experimental work more advanced than in spectroscopy to organic structure determina-
+5.310 or 5.311, emphasizing thermodynamic tion.
+and kinetic measurements of organic reac- S. Masamune, S. C. Virgil
+tions; and synthesis, purification, and analysis
+of organic compounds employing IR, NMR,
+UV, mass spectroscopy, and thin layer and
+gas-liquid phase chromatography.
+S. C. Virgil, Staff
+Descriptions of Subjects 347

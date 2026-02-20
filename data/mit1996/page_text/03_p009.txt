@@ -1,0 +1,63 @@
+School of Science
+8.03 Physics III 8.044 Statistical Physics I 8.07 Electromagnetism I
+Prereq.: 8.02 or 8.022; 18.02 Prereq.: 8.03, 18.03 Prereq.: 8.03,18.03
+U (Fall, Spring) U (Spring) U (Fall)
+5-0-7 REST 5-0-7 4-0-8
+Mechanical vibrations and waves; simple har- Introduction to probability, statistical Survey of basic electromagnetic phenomena:
+monic motion, superposition, forced vibrations mechanics, and thermodynamics. Random electrostatics, magnetostatics; electromagnetic
+and resonance, coupled oscillations and nor- variables, joint and conditional probability den- properties of matter. Time-dependent
+mal modes; vibrations of continuous systems; sities, functions of a random variable. Con- electromagnetic fields and Maxwell's equareflection and refraction; phase and group cepts of macroscopic variables and tions. Electromagnetic waves, emission, abvelocity. Optics; wave solutions to Maxwell's thermodynamic equilibrium, fundamental as- sorption, and scattering of radiation.
+equations; polarization; Snell's Law, inter- sumption of statistical mechanics, microcanoni- Relativistic electrodynamics and mechanics.
+ference, Huygens's principle, Fraunhofer dif- cal and canonical ensembles. First, second, L. Rosenberg
+fraction, gratings. and third laws of thermodynamics. Numerous
+Fall Term: F. Rasio examples illustrating a wide variety of physical 8.08 Statistical Physics 11
+Spring Term: H. V. Bradt phenomena such as magnetism, polyatomic
+gases, thermal radiation, electrons in solids, Prereq.: 8.05
+8.033 Special Relativity and Classical and noise in electronic devices. Concurrent en- U (Spring)
+Mechanics rollment in 8.04 is recommended. 4-0-8
+(Revised Content) T. J. Greytak Probability distributions for classical and quanPrereq.: 8.01, 18.02 tum systems. Microcanonical, canonical, and
+U (Fall) 8.05 Quantum Physics I1 grand canonical partition-functions and as-
+5-0-7 Prereq.: 8.04 sociated thermodynamic potentials. Conditions
+of thermodynamic equilibrium for homogenous
+Normally taken by physics majors in their U 5 -0 (F -7 all, Spring) and heterogenous systems. Applications: nonsophomore year. Topics in relativity: Einstein's interacting Bose and Fermi gases; mean field
+postulates; consequences for simultaneity, General formalism of quantum mechanics: theories for real gases, binary mixtures, magtime dilation, length contraction, clock state space, Dirac notation, representations, netic systems, polymer solutions; phase and
+synchronization; Lorentz transformation; matrix mechanics. Angular momentum, mag- reaction equilibria, critical phenomena. Fluctuarelativistic effects and paradoxes; invariants netic moments, time-independent perturbation tions, correlation functions and susceptibilities,
+and four-vectors; momentum, energy and theory. Applications to atomic, molecular, and Kubo formulae. Evolution of distribution funcmass; particle collisions; principle of condensed-matter systems. Perturbation tions: Boltzmann and Smoluchowski equations.
+equivalence. Topics in mechanics: review of theory and the hydrogen atom: fine/hyperfine K. Huang
+8.01, conservative force fields, one-dimen- structure, Stark effect, Zeeman and Paschensional motion; central forces; celestial Back effects, Rydberg atoms. Vibrational-rotamechanics; scattering cross sections; ac- tional spectrum of a diatomic molecule using
+celerated coordinate systems; Lagrange's Born-Oppenheimer approximation. Van der
+equations and applications; conservation laws; Waals interaction in the H2 molecule. The Undergraduate Laboratory
+rigid body motion. Credit cannot be received electron in a one-dimensional periodic poten- and Special Project Subjects
+for 8.20 if credit for 8.033 is or had been tial: Bloch's theorem, band structure.
+received in the same or prior terms. Fall Term: R. L. Jaffe
+M. Baranger Spring Term: T. Imai 8.12 Physics Project Laboratory
+Prereq.: 8.04 Quantum Physics I 8.059 Quantum Physics Ill
+Prereq.: 8.03 or 6.014; 18.03 Prereq.: 8.05
+U (Fall, Spring) U (Spring)
+5-0-7 REST 5-0-7
+Experimental basis of quantum physics: Further development of quantum mechanics
+photoelectric effect, Compton scattering, and applications to physical systems. Scatterphotons, Franck-Hertz experiment, the Bohr ing theory: Rutherford scattering, inelastic scatatom, electron diffraction, deBroglie waves, tering, optical theorem. Identical particles:
+wave-particle duality of matter and light. Intro- fermions and bosons. Degenerate Fermi matduction to wave mechanics: Schroedinger's ter: collapsed stars, quark matter, metals, inequation, wave functions, wave packets, prob- sulators, and semiconductors. Thomas-Fermi
+ability amplitudes, stationary states, the model of atoms. Hartree-Fock method: helium
+Heisenberg uncertainty principle and zero- atom, atomic shell model, periodic table.
+point energies. Solutions to Schroedinger's Models of nuclei and hadrons. Time-dependequation in one dimension: transmission and ent perturbation theory: sudden and harmonic
+reflection at a barrier, barrier penetration, perturbations, Fermi's golden rule, electric and
+potential wells, the simple harmonic oscillator. magnetic multipole transitions, radiative decay,
+Schroedinger's equation in three dimensions: M~ssbauer effect. Superconductivity and the
+central potentials, introduction to hydrogenic Josephson effect.
+systems. R. L. Jaffe
+Fall Term: U. Wiese
+Spring Term: T. A. Arias
+-
+U (Spring)
+1-6-5 Institute LAB
+Offers an opportunity for students to carry out
+experimental projects based on their own
+curiosity, interests, and ideas to study physical
+phenomena, including optics, acoustics, magnetism, and quantum effects. Faculty help students to determine the feasibility of proposed
+projects and provide guidance in experimental
+techniques, data acquisition, error analysis
+and physical interpretation of results. Prior experience in a laboratory environment is not required. Not usable as a restricted elective by
+Physics majors.
+R. K. Yamamoto
+372 Chapter Vill

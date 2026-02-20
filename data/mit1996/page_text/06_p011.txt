@@ -1,0 +1,126 @@
+School of Science
+18.04 Complex Variables with Applications_ 18.076 Advanced Calculus for Engineers 11
+Prereq.: 18.03 or 18.034 Prereq.: 18.04 or 18.075
+U (Fall, Spring) G (Spring, Summer)
+4-0-8 3-0-9 (H except II, VI, XVI, XVIII, XXII)
+Complex algebra and functions; analyticity; Solution of classical partial differential equacontour integration, Cauchy's theorem; sin- tions of science and engineering: curvilinear
+gularities, Taylor and Laurent series; residues, coordinates, separation of variables, eigenfuncevaluation of integrals; multivalued functions, tion expansions. Fourier and Laplace integral
+potential theory in two dimensions; Fourier transforms. Quasilinear equations. Characanalysis and Laplace transforms. teristics.
+Fall Term: H. P. Greenspan Information: A. Toomre.
+Spring Term: A. Toomre
+18.085 Mathematical Methods for
+18.05 Introduction to Probability and Engineers I
+Statistics
+Prereq.. 18.03 or 18.034
+Prereq.: 18.01 or 18.013 or 18.014 G (Fall, Spring, Summer)
+U (Fall, Spring) 3-0-9 H-LEVEL Grad Credit
+4-0-8 REST
+Review of linear algebra, applications to netElementary introduction with applications. works, structures, and estimation, Lagrange
+Basic probability models. Combinatorics. Ran- multipliers, differential equations of equilibrium,
+dom variables. Binomial, Poisson, geometric, Laplace's equation and potential flow, boundexponential, and normal laws. Statistical es- ary-value problems, minimum principles and
+timation and testing. Confidence regions. Intro- calculus of variations, Fourier series, discrete
+duction to linear regression and analysis of Fourier transform, convolution, applications.
+variance. Fall Term: G. Strang
+Fall Term: R. M. Dudley Spring Term: Staff
+Spring Term: H. Rogers
+18.086 Mathematical Methods for
+18.06 Linear Algebra Engineers I1
+Prereq.: 18.02 or 18.023 or 18.024 Prereq.: 18.03 or 18.034
+U (Fall, Spring, Summer) G (Fall, Spring, Summer)
+4-0-8 REST 3-0-9 H-LEVEL Grad Credit
+Credit cannot also be received for 18.700
+Scientific computing: Fast Fourier Transform,
+Basic subject on matrix theory and linear al- finite differences, finite elements, spectral
+gebra, emphasizing topics useful in other dis- method, numerical linear algebra. Complex
+ciplines, including systems of equations, vector variables and applications. Initial-value
+spaces, determinants, eigenvalues, similarity, problems: stability or chaos in ordinary differenand positive definite matrices. Applications to tial equations, wave equation vs heat equaGauss elimination with pivoting, least-squares tion, conservation laws and shocks, dissipation
+approximations, stability of differential equa- and dispersion. Optimization: network flows,
+tions, networks, linear programming, and linear programming.
+Markov processes. Compared with 18.700, Information: G. Strang.
+more emphasis on matrix algorithms and
+many applications. 18.089 Review of Mathematics
+Fall Term: S. Lee
+Spring Term: G. Strang Prereq.:
+18.062J Mathematics for Computer Science
+(Same subject as 6.042J)
+Prereq.: 18.02 or 18.023 or 18.024
+U (Fall, Spring)
+5-0-7
+See description under subject 6.042J.
+C. E. Leiserson, F. T. Leighton, R. L. Rivest
+18.075 Advanced Calculus for Engineers I
+Prereq.: 18.03
+G (Fall, Spring, Summer)
+3-0-9 (H except Il, VI, VIII, XII, XIII, XVI, XVIII,
+XXII)
+Functions of a complex variable; calculus of
+residues. Ordinary differential equations; integration by power series; Bessel and
+Legendre functions. Expansion in series of orthogonal functions, including Fourier series.
+T. Witelski
+-
+18.095 Mathematics Lecture Series
+Prereq.: 18.01 or equivalent
+U (IAP)
+2-0-4 [P/D/F]
+Can be repeated for credit
+Ten lectures by mathematics faculty members
+on interesting topics from both classical and
+modern mathematics. All lectures accessible
+to students with calculus background and an
+interest in mathematics. At each lecture, reading and exercises are assigned. Students
+prepare these for discussion in a weekly problem session.
+Information: D. A. Vogan.
+18.098 Independent Activities
+Prereq.:
+G (Summer)
+Units arranged
+Reviews calculus and differential equations.
+Primarily for students in Course XIII-A. Degree
+credit allowed only in special circumstances.
+Information: D. A. Vogan.
+18.093 Tutoring in Mathematics
+Prereq.: 18.02 or 18.02A or 18.023 or 18.024
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+For undergraduates who are teaching mathematics recitation. Limited enrollment, based on
+positions available. Permission must be
+secured in advance to register for this subject.
+Information: D. A. Vogan.
+-
+U (IAP)
+Units arranged [P/D/F]
+Can be repeated for credit
+For undergraduates desiring credit for studies
+or for special individual reading on an undergraduate level on a P/D/F basis during IAP.
+Specific programs and credit arranged in consultation with individual faculty members and
+subject to departmental approval.
+Information: D. A. Vogan.
+18.099 Independent Activities
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+For undergraduates desiring credit for studies
+during IAP or for special individual reading on
+an undergraduate level during the regular
+terms. Specific programs and credit arranged
+in consultation with individual faculty members
+and subject to departmental approval.
+Information: D. A. Vogan.
+Analysis
+18.100 Analysis I
+Prereq.: 18.03 or 18.034
+U (Fall, Spring)
+3-0-9 (H except XVIII)
+Two options offered, both covering fundamentals of mathematical analysis: convergence of
+sequences and series, continuity, differentiability, Riemann integral, sequences and
+series of functions, uniformity, interchange of
+limit operations. Both options show the utility of
+abstract concepts and teach understanding
+and construction of proofs. Option A, offered
+first term only, chooses less abstract definitions and proofs, and gives applications where
+possible. Option B is more abstract and for students with more mathematical maturity. Places
+greater emphasis on point-set topology.
+Information: R. B. Melrose.
+476 Chapter Vill

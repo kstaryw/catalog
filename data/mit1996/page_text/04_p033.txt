@@ -1,0 +1,75 @@
+School of Humanities and Social Science
+Statistics and 14.383 Econometrics 11 14.391 Workshop in Economic
+Research
+Econometrics Prereq.: 14.382, permission of instructor
+G (Fall) Prereq.: 14.124, 14.454
+4-0-8 H-LEVEL Grad Credit G (Fall)
+14.30 Introduction to Statistical Method 2-0-10 [P/D/F] H-LEVEL Grad Credit
+Covers identification and estimation of linear
+in Economics Can be repeated for credit
+and nonlinear simultaneous equations models.
+Prereq.: 18.02 Requires econometrics paper due at the end 14.392 Workshop in Economic
+U (Fall, Spring) of IAP. Class size limited. Research
+4-0-8 REST J. Hausman
+Prereq.: 14.124, 14.454
+Self-contained introduction to statistics with G (Spring)
+economic applications. Elements of probability 14.384 Time Series Analysis 2-0-10 [P/D/F] H-LEVEL Grad Credit
+theory, sampling theory, statistical estimation, Prereq.: 14.382 or 14.388 Can be repeated for credit
+regression analysis, and hypothesis testing. G (Fall) Develops research ability of students through
+Elementary econometrics and other applica- 2-0-4 H-LEVEL Grad Credit intensive discussion of dissertation research
+tions of statistical tools to economic data. May
+not count toward HASS Requirement. Theory and application of time series methods as it proceeds, individual or group research
+Fall Term: S. Ellison in econometrics, including representation projects, and critical appraisal of current
+Spring Term: J. Bai theorems, decomposition theorems, predic- reported research. Workshops divided into
+tion, spectral analysis, estimation with station- various fields, depending on interest and size.
+ary and nonstationary processes, VARs, and Consult P. Temin.
+14.31 Econometrics
+method of moments procedures.
+Prereq.: 14.30 J. Ba,
+U (Fall, Spring)
+3-4-5 Institute LAB 14.385 Nonlinear Econometric Analysis For additional related subjects in Statistics,
+see:
+Introduces basic econometric techniques, em- Prereq.: 14.382 or permission of instructor
+phasizing the application of least squares to G (Fall)
+cross section and time series data. Examples 2-0-4 H-LEVEL Grad Credit Civil and Environmental Engineering: 1.03,
+include applications to labor economics, 1.151, 1.155, 1.202, 1.203J, 1.205, and 1.732
+monetary economics, and financial economics. Nonlinear econometric models, including large
+Advanced topics covered include two stage sample theory for estimation and hypothesis
+least squares, panel data methods, and limited testing, generalized method of moments, es- Electrical Engineering and Computer
+dependent variable models. May not count timation of censored and truncated specificaScience: 6.041, 6.231, 6.245, 6.262, 6.264J,
+toward HASS Requirement. tions and duration models, and nonparametric 6.430J, 6.431, 6.432, and 6.435
+Fall Term: D. Costa and semiparametric estimation. Methods ilSpring Term: J. Angrist lustrated with economic applications.
+W. Newey
+Management: 15.034, 15.061, 15.065,
+14.381 Statistical Method in Economics 15.070, 15.074, 15.075, 15.076, 15.078,
+14.386 Advanced Topics in Applied 15.098, 15.306, and 15.832
+Prereq.: 18.02, permission of instructor Econometrics
+G (Fall)
+4-0-8 H-LEVEL Grad Credit Prereq.: 14.383
+G (Spring) Mathematics: 18.05,18.175,18.177,18.313,
+Self-contained introduction to probability and 4-0-8 H-LEVEL Grad Credit 18.440, 18.441, 18.443,18.445, 18.446,
+statistics as background for advanced 18.457, 18.458,18.465, and 18.466
+econometrics. Elements of probability theory; Focuses on recent applications of econometric
+sampling theory; asymptotic approximations; tools. Topics include structural change,
+decision-theory approach to statistical estima- Markov switching, stochastic volatility, See also: 2.061, 2.830, 2.870, 5.70, 5.72,
+tion focusing on regression, hypothesis testing, threshold auto-regression, models for duration 7.02, 8.044, 8.08, 10.816, 11.220, 11.221,
+and maximum-likelihood methods. Illustrations data, discrete choice models, nonparametric 16.322, 17.842, 17.846, 22.38, HST.191, and
+from economics and application of these con- methods, quantile regression and other robust MAS.622J.
+cepts to economic problems. Class size limited. methods. Applications will be drawn from labor
+J. Bai economics, financial economics, industrial organization, and public finance.
+14.382 Econometrics I W. Newey National Income and
+Prereq.: 14.101, 14.381, permission of instruc- 14.389 Econometrics Paper Finance
+tor
+G (Spring) Prereq.: 14.382 or 14.31
+4-0-8 H-LEVEL Grad Credit G (Fall) 14.40 Advanced Macroeconomics
+0-0-3 H-LEVEL Grad Credit
+Specification and estimation of the linear Prereq.: 14.05 or 14.06; 14.31 recommended
+regression model. Departures from the stand- Paper in econometrics required of all Ph.D. U (Spring)
+ard Gauss-Markov assumptions include candidates who do not take 14.383. Paper due 3-0-9 HASS
+heteroskedasticity, serial correlation, and er- at the end of lAP. Topics in advanced macroeconomics, possibly
+rors in variables. Advanced topics include J. Hausman including but not limited to models of economic
+generalized least squares, instrumental vari- growth, term structure of interest rates, money
+ables, nonlinear regression, and limited de- and overlapping generations, time-inconsistenpendent variable models. Economic cy, consumption, and investment. Emphasis
+applications are discussed. Class size limited. on relating theory to testable implications.
+J. Hausman, W. Newey A. Bernard
+430 Chapter Vill

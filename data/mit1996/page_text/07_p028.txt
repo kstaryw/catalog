@@ -1,0 +1,123 @@
+Department of Nuclear Engineering Course 22
+22.562J Spatial Aspects of Nuclear
+Magnetic Resonance Spectroscopy
+(Same subject as HST.562J)
+Prereq.: 22.56J or permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Discusses the theory and application of
+nuclear magnetic resonance spectroscopy to
+questions of the spatial distribution of spins.
+Covers NMR imaging, localized spectroscopy,
+and local geometries as determined by diffusive processes. The theory is discussed in
+terms of the density operator and reciprocal
+space (for both imaging and motional studies).
+Describes applications to rapid imaging,
+dynamic imaging, microscopy, and localized
+spectroscopy. Instrumentation and experimental constraints are also described.
+D. G. Cory
+22.57J Radiation Biophysics
+(Same subject as HST.568J)
+Prereq.: 22.101
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+Discusses ionizing radiation, ultraviolet radiation, and heat and their effects on biological
+materials, cells, and tissues. Examines in vivo
+and in vitro mammalian systems, and explores
+mathematical models for cell survival, emphasizing prediction. Covers radiation therapy,
+radiation syndromes in humans, and carcinogenesis. Environmental radiation sources
+also discussed.
+J. C. Yanch
+22.571J General Thermodynamics
+(Same subject as 2.451J)
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+See description under subject 2.451 J.
+J. L. Smith
+22.58 Seminar in Radiation Health Physics
+Prereq.: -
+22.581 Radiation Health Physics
+(Revised Units)
+Prereq.:
+G (Fall)
+2-0-1 [P/D/F]
+Introduces many of the pertinent areas of research and concern in the field of Radiation
+Health Physics. Topics of weekly seminars include radiation shielding, waste management,
+environmental behaviour of radioactivity, medical irradiations, methods of detection and
+dosimetry, dose reduction, and the regulatory
+and legal aspects of radiation; student presentations also required.
+J. C. Yanch
+-
+22.602 Fusion Energy If
+Prereq.: 22.601 or 22.61 1J
+G (Spring)
+G (Spring) 3-0-9 H-LEVEL Grad Credit
+3-0-9
+Principles of magnetic plasma confinement.
+Covers topics in internal and external radiation Basic plasma heating schemes including
+dosimetry and protection, including radiation ohmic heating, neutral beams, and RF. Discusquantities and units, legal guidelines and sion of Landau damping and cyclotron dampregulations, derivations of external dosimetry ing and their application to plasma heating.
+calculations, source and facility shielding, path- Experimental description of current confineways and bioassays, contamination control, ment devices including tokamaks, RFPs, and
+and current areas of research activity. Environ- stellarators. Discussion of experimental operamental radiation exposure, radiation distribu- tion and design including toroidal magnet
+tion, and transport dynamics are also covered. design and poloidal field system design.
+Waste management (categories of sources, /. H. Hutchinson
+waste characteristics) and disposal (packing
+technology, sites, laws, and regulations) are 22.611J Introduction to Plasma
+examined. Physics I
+G. Solares
+(Same subject as 8.613J, 6.651J)
+Prereq.: 6.014 or 8.07; 18.04 or 18.075
+22.59 Principles of Nuclear Radiation
+G (Fall)
+Measurement and Protection
+3-0-9 H-LEVEL Grad Credit
+Prereq.: 22.101
+See description under subject 8.613J.
+Acad Year 1996-97: G (Fall)
+A. Bers, B. Coppi
+Acad Year 1997-98: Not offered
+2-6-4 H-LEVEL Grad Credit
+22.612J Introduction to Plasma
+Combines lectures, demonstrations, and ex- Physics 11
+periments. Covers effects of radiation on persons; control of radiation exposure within (Same subject as 8.614J, 6.652J)
+applicable standards; theory and use of a, P, y, Prereq.: 6.651J or 8.613J or 22.61 1J
+and n detectors and spectrometers; use of G (Spring)
+isotopes, radiation shielding, and dosimetry. In- 3-0-9 H-LEVEL Grad Credit
+cludes demonstrations and experiments using See description under subject 8.614J.
+the MIT research reactor, accelerators, and P. Catto
+power reactors.
+L. M. Lidsky, K. Wenzel
+22.615 MHD Theory of Fusion Systems
+Prereq.: 22.601 or 22.611J or 6.651J or 8.613J
+Acad Year 1996-97: G (Spring)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Plasmas and Controlled Fusion
+Derivation of the basic MHD model from the
+Boltzmann equation. Discussion of MHD equi-
+22.601 Fusion Energy I libria in cylindrical, toroidal, and noncircular
+(Subject meets with 22.061) tokamaks. Use of MHD equilibrium theory in
+Prereq.: Permission of instructor poloidal field design. MHD stability theory inG (Fall) cluding the Energy Principle, interchange in-
+3-0-9 H-LEVEL Grad Credit stability, ballooning modes, second region of
+stability, and external kink modes. Emphasis
+Basic nuclear physics and plasma physics for on discovering configurations capable of
+controlled fusion. Nuclear physics: fusion cross achieving good confinement at high beta.
+sections, ignition condition, break-even condi- J. P. Freidberg
+tion, Lawson criterion, elementary fusion reactor, required plasma parameters. Plasma 22.616 Plasma Transport Theory
+physics: definition of a plasma, single-particle
+orbits, Coulomb collisions, fluid model, mag- Prereq.: 22.615
+netic fusion configurations, MHD equilibrium Acad Year 1996-97: Not offered
+and stability, transport and heating. Meets Acad Year 1997-98: G (Fall)
+three lecture hours a week with undergraduate 3-0-9 H-LEVEL Grad Credit
+subject 22.061, but with different assignments Description of the processes by which mass,
+and exams.
+momentum, and energy are transported in
+J. P. Freidberg
+plasmas, with special reference to magnetic
+confinement fusion applications. Classical collisional transport based on the Boltzmann and
+Fokker-Planck equations in cylindrical plasmas. Scaling and empirical laws. Application to
+tokamaks, especially the divertor problem.
+Heat load requirements, divertor detachment,
+marfes, recycling, and impurity control.
+J. P. Freidberg, I. H. Hutchinson
+Descriptions of Subjects 527

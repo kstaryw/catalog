@@ -1,0 +1,113 @@
+School of Science
+12.603 Solar System Dynamics 12.620J Variational Mechanics: A
+Computational Approach
+Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered (Same subject as 6.946J, 8.351J)
+Acad Year 1997-98: G (Fall) Prereq.: 8.01, 18.03, 6.001 or equivalent
+3-0-9 H-LEVEL Grad Credit G (Fall)
+Can be repeated for credit 3-3-6 H-LEVEL Grad Credit
+Introduction to chaotic behavior in conserva- Classical mechanics in a computational
+tive systems, with examples drawn primarily framework. Lagrangian formulation. Action,
+from the rotation and orbital dynamics of variational principles. Hamilton's principle. Conplanets and satellites. Includes surfaces of sec- served quantities. Hamiltonian formulation. Surtion, Lyapunov exponents, perturbation theory, faces of section. Chaos. Liouville's theorem
+KAM theorem, resonances, onset of chaos, and Poincar6 integral invariants. Poincaredouble pendulum, Henon-Heiles problem, Birkhoff and KAM theorems. Invariant
+restricted three-body problem, spin-orbit cou- curves. Cantori. Nonlinear resonances.
+pling, orbital resonances, adiabatic invariants, Resonance overlap and transition to chaos.
+adiabatic chaos, tidal evolution, capture into Properties of chaotic motion. Transport, difresonance, stability of the solar system. fusion, mixing. Symplectic integration.
+J. Wisdom Adiabatic invariants. Many-dimensional systems, Arnold diffusion. Extensive use of com-
+12.611 Advanced Planetary Observations putation to capture methods, for simulation,
+and for symbolic analysis.
+Prereq.: Permission of instructor J. Wisdom, G. J. Sussman
+G (lAP)
+0-6-3 [P/D/F] H-LEVEL Grad Credit
+12.650 Current Topics in Planetary
+Can be repeated for credit
+Science
+Astronomical observations involving several
+Prereq.: Permission of instructor
+techniques are carried out at a major obserG (Spring)
+vatory, with focus on a particular set of objec-
+3-0-9 H-LEVEL Grad Credit
+tives that change from year to year. Work Can be repeated for credit
+includes 1) critical planning of the observations, 2) acquiring the data, 3) calibrating the In-depth discussion of current and classic
+data, and 4) on-site data reduction. literature on selected topics in planetary
+J. L. Elliot science. Topics vary from year to year.
+J. Wisdom
+12.616 Occultation Studies of the Solar
+System 12.690-12.691 Special Problems in
+(New) Planetary Science
+Prereq.: 8.03, 18.03 or 18.034 Prereq.:
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Basic principles underlying the techniques of
+occultations by solar system bodies, observed
+throughout the electromagnetic spectrum from
+spacecraft and Earth-based platforms. The interaction of electromagnetic radiation with
+planetary atmospheres and rings. Astrometric
+methods used to predict occultations. Physical
+models for atmospheres and rings that have
+been developed from occultation data.
+J. L. Elliot
+-
+12.708 Special Topics in Paleoceanography
+Prereq.: Permission of instructor
+G (Fall)
+Units arranged [P/D/F] H-LEVEL Grad Credit
+Can be repeated for credit
+Advanced seminar focusing on areas of current interest in paleoceanography ana
+paleoclimatology. Includes discussion of current and classic literature. Topics vary from
+year to year.
+M. E Raymo
+12.710 Marine Geology and Geophysics I
+Prereq.: Permission of instructor
+G (Fall)
+3-2-7 H-LEVEL Grad Credit
+An introduction to marine geology and
+geophysics intended as part of a two-semester
+sequence for first-year MIT-WHOI Joint Program students in marine geology and
+geophysics. Topics covered include the theory
+of plate tectonics, processes of deep-sea
+sedimentation, paleoceanography, and the
+evolution of the Mesozoic-Cenozoic global
+oceans.
+R. Detrick, M. Raymo, G. Giese, R. Stephen
+12.711 Marine Geology and Geophysics 11
+Prereq.: 12.710
+G (Spring)
+3-2-7 H-LEVEL Grad Credit
+An introduction to marine geology and
+geophysics intended as part of a two-semester
+sequence for first-year MIT-WHOI Joint Program students in marine geology and
+geophysics. Topics covered this semester include lithosphere evolution and mantle
+G (Fall, Spring, Summer)
+dynamics, the structure and composition of the
+Units arranged [P/D/F] H-LEVEL Grad Credit
+oceanic crust and mantle, tectonic and magCan be repeated for credit
+matic processes at mid-ocean ridges, hotspot
+For graduate students desiring to perform spe- volcanism, subduction and arc magmatism,
+cial investigations, special laboratory work, or and the crustal structure and sedimentation
+special fieldwork in planetary science. 12.690 history of contirental margins.
+is letter-graded. R. Detrick, N. Shimizu, R. Stephen
+Planetary Science Staff
+12.712 Advanced Marine Seismology
+Prereq.: 12.711
+Acad Year 1996-97: G (Fall, Spring)
+Acad Year 1997-98: Not offered Geological, Geophysical, and 3-0-6 H-LEVEL Grad Credit
+Chemical Oceanography Can be repeated for credit
+Advanced subject on theory and practice of
+12.707 Pre-Pleistocene Paleoceanography marine seismology. Topics: seismic wave
+and Paleoclimatology propagation; marine reflection and refraction
+seismology, including seismic data processing,
+Prereq.: Permission of instructor modeling, and inversion of multichannel data.
+Acad Year 1996-97: G (Spring) Extensive readings of geophysical literature.
+Acad Year 1997-98: Not offered (Woods Hole Staff): R. Stephen, R. Detrick
+3-0-9 H-LEVEL Grad Credit
+Climate history of the Earth from the formation
+of the early atmosphere and ocean to the
+present. Evaluation of geochemical, sedimentological, and paleontological evidence for
+changes in ocean circulation, global temperatures, and atmospheric carbon dioxide levels.
+Theories and models of Phanerozoic climate
+change. Long-term history of the global carbon
+cycle.
+M. E. Raymo
+414 Chapter Vill

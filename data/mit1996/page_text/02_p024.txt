@@ -1,0 +1,146 @@
+Department of Electrical Engineering and Computer Science Course 6
+6.152J Microelectronics Processing
+Technology
+(Same subject as 3.155J, 10.480J)
+Prereq.: Permission of instructor
+U (Fall, Spring)
+3-4-5
+Introduces the theory and technology of integrated-circuit fabrication. Lectures and
+laboratory sessions on basic processing techniques such as diffusion, oxidation, epitaxy,
+photolithography, chemical vapor deposition,
+and plasma etching. Emphasis on the interrelationships between material properties,
+device structure, and the electrical behavior of
+devices. Provides background for thesis work
+in microelectronics or for 6.151. 6 Engineering
+Design Points.
+M. A. Schmidt, C. G. Sodini, H. H. Sawin,
+C. V. Thompson, K. K. Gleason, L. C. Kimerling
+6.161 Modern Optics Project Laboratory
+Prereq.: 6.003, 6.013
+U (Fall)
+2-8-2 Institute LAB
+Lectures, laboratory exercises, and projects in
+modern optics. Topics: polarization properties
+of light, reflection and refraction, coherence
+and interference, Fraunhofer and Fresnel diffraction, imaging and transforming properties
+of lenses, spatial filtering, coherent optical
+processors, holography, optical properties of
+materials, lasers, nonlinear optics, electrooptic and acousto-optic materials and devices,
+optical detectors, fiber optics, and optical communication. Seniors may use this laboratory to
+find an advanced undergraduate project. 12
+Engineering Design Points.
+C. Warde
+6.163 Strobe Project Laboratory
+Prereq.: -
+6.182 Psychoacoustics Project Laboratory
+Prereq.: --
+Acad Year 1996-97: U (Spring)
+Acad Year 1997-98: Not offered
+3-4-5 Institute LAB
+Introduces the methods used to measure
+human auditory abilities. Discusses auditory
+function, principles of psychoacoustic measurement, models for psychoacoustic performance,
+and experimental techniques. Project topics:
+absolute and differential auditory sensitivity,
+operating characteristics of human observers,
+span of absolute judgment, adaptive measurement procedures, scaling sensory magnitudes.
+Oral presentation and written report.
+Knowledge of probability helpful. Alternate
+years. 12 Engineering Design Points.
+L. D. Braida
+6.190-6.194 Special Laboratory Subjects in
+Electrical Engineering and Computer
+Science
+Prereq.:
+U (Fall, Spring)
+2-8-2 Institute LAB
+A project laboratory for experiments, dealing
+mainly with the characteristics of electronic
+flash sources of light and their applications to
+photography and measurement problems. A
+program of experimentation concerned with
+electronic flash, organized with each group of
+students at the start of the term. 12 Engineering Design Points.
+C. H. Mazel
+6.170 Laboratory in Software Engineering
+Prereq.: 6.001
+U (Spring)
+3-9-3
+Introduces concepts and techniques relevant
+to the production of large software systems.
+Students taught a programming method based
+on the recognition and description of useful
+abstractions. Topics: programming methodology; procedural, data, and control abstractions; specifications; design methods, and
+testing. Several programming projects of varying size undertaken by students working singly
+and in groups. 12 Engineering Design Points.
+B. H. Liskov
+-
+U (Fall, IAP, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+6.195-6.198 Special Laboratory Subjects in
+Electrical Engineering and Computer
+Science
+Prereq.: -
+U (Fall, IAP, Spring)
+Units arranged
+Can be repeated for credit
+Laboratory subjects not offered in the regular
+curriculum. Consult Department to learn of offerings for a particular term. Registration by
+permission of instructor.
+A. C. Smith
+6.199 Advanced Undergraduate Project
+Prereq.: -
+Advanced Undergraduate
+Subjects and Graduate
+Subjects by Area
+Systems Science and Control
+Engineering
+6.231 Dynamic Programming and
+Stochastic Control
+Prereq.: 6.041 or 18.313 or 18.440 or 18.100
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Sequential decision making via dynamic
+programming. Unified approach to optimal control of stochastic dynamic systems and
+Markovian decision problems. Applications in
+linear-quadratic control, inventory control,
+resource allocation models. Optimal decision
+making under perfect and imperfect state information. Certainty equivalent and open loopfeedback control, self-tuning controllers.
+Infinite horizon problems, successive approximation, policy iteration. Discounted
+problems, stochastic shortest path problems,
+average cost problems. Optimal stopping,
+scheduling, and control of queues. Approximations and neurodynamic programming.
+D. P. Bertsekas
+6.241 Dynamic Systems and Control
+Prereq.: 6.003, 18.06
+G (Fall)
+4-0-8 H-LEVEL Grad Credit
+Linear, discrete- and continuous-time, multiinput-output systems in control, related areas.
+Least squares and matrix perturbation
+problems. State-space models, modes,
+stability, controllability, observability, transfer
+U (Fall, IAP, Spring) function matrices, poles and zeros, minimality.
+0-12-0 Internal stability of interconnected systems,
+Research project for those students complet- feedback compensators, state feedback, oping the S.B. degree; to be arranged by the stu- timal regulation, observers, observer-based
+dent and an appropriate MIT faculty member. compensators. Measures of control perforStudents who register for this subject must con- mance, robustness issues using singular
+sult Department Undergraduate Office. Stu- values of transfer functions. Introductory ideas
+dents who are completing a project that was on nonlinear systems. Recommended prereqoriginally started as 6.ThU must register under uisite: 6.302.
+that subject number. M. A. Dahleh, G. C. Verghese
+A. C. Smith
+6.242 Advanced Linear Control
+Systems
+Prereq.: 18.06, 6.241
+Acad Year 1996-97: G (Fall)
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Introduction to uncertain multivariable control
+systems, modeling assumptions and objectives. Stability of linear time invariant systems,
+coprime factorization, parametrization of all
+stabilizing compensators. Design using H , H.
+2
+L' -optimization. Stability and performance
+robustness in the presence of structured uncertainty. Special topics. Alternate years.
+M. A. Dahleh
+Descriptions of Subjects 353

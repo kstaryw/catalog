@@ -1,0 +1,95 @@
+Program in Media Arts and Sciences MAS
+MAS.838, MAS 839 Graphic Imaging Media MAS.853 Spatial Imaging Systems MAS.864 The Nature of Mathematical
+Projects Modeling
+Prereq.: Permission of instructor
+(Revised Units)
+Prereq.: Permission of instructor Acad Year 1996-97: Not offered
+G (Fall, Spring) Acad Year 1997-98: G (Spring) Prereq.: Permission of instructor
+Units arranged H-LEVEL Grad Credit 3-2-4 H-LEVEL Grad Credit G (Fall)
+Can be repeated for credit 4-0-8 H-LEVEL Grad Credit
+Surveys the technology of spatial imaging from
+Special work on an individual or group basis stereoscopes to holograms, emphasizing un- Surveys the range of levels of description usecombining research and projects of multidimen- aided viewing systems, and explores the per- ful for the computer modeling of natural
+sional graphics, typography, imaging, static or ceptual, technical, and aesthetic bases of phenomena, including: analytical solutions and
+dynamic, 2- or 3-D, and audio in an intelligent satisfying three-dimensional image com- approximations for difference and differential
+electronic design environment. Registration munication. Includes a review of the elements equations; finite difference, finite element, and
+subject to prior acceptance of project, super- of imaging optics. Lab fee. Open to qualified cellular automata numberical models; and
+vision by VLW staff. Completion dependent on undergraduates. stochastic processes, nonlinear function fitting
+successful demonstration and documentation S. Benton and model inference. The emphasis is on the
+of semester's project. practical implementation of these ideas.
+Staff MAS.854 Holographic Imaging N. Gershenfeld
+(Subject meets with MAS.450)
+MAS.845 Special Topics in Cinematic MAS.890 Special Projects in Information
+Prereq.: Permission of instructor
+Storytelling and Entertainment
+G (Fall)
+Prereq.: Permission of instructor 3-5-4 Prereq.: Permission of instructor
+G (Spring) G (Fall, Spring)
+Meets with undergraduate subject MAS.450.
+Units arranged H-LEVEL Grad Credit Units arranged H-LEVEL Grad Credit
+See description under subject MAS.450.
+Can be repeated for credit
+Seminar explores approaches to repre- S. Benton
+sentation for computer-assisted cinematic Special projects on individual or group basis.
+storytelling. The relationship of the moviemak- MAS.856 Synthetic Holography Registration subject to prior arrangement of
+ing process to form and content is analyzed. subject matter and supervision by staff.
+Concepts of "expert editor" and "expert viewer" Prereq.: MAS.854 Staff
+are introduced. Using sample material (a Acad Year 1996-97: G (Spring)
+story/some footage), a constraint-based ap- Acad Year 1997-98: Not offered
+proach to shot design and editing conventions 3-3-3 H-LEVEL Grad Credit
+is considered, and symbolic representations An introduction to the synthesis of holographic
+for story structures are evolved. Individual 3-D images from digital, video, and General
+projects in content representation and tool photographic data, and their applications.
+design. Limited enrollment.
+G. Davenport S. Benton MAS.910 Research in Media
+Technology
+MAS.848 Workshop in Elastic Movie Time MAS.858 Creative Holography Workshop Prereq.:
+(Subject meets with MAS.440) Prereq.: Permission of instructor
+Prereq.: Permission of instructor G (Spring)
+G (Fall) 3-3-3
+3-3-6 H-LEVEL Grad Credit
+An introduction to the history, methods, and
+Meets with undergraduate subject MAS.440. aesthetics of holographic image making. StuSee description under subject MAS.440. dents create holograms in the lab on a weekly
+G. Davenport basis, learning to use holography as a medium
+of expression and as a tool for the investigaMAS.849 Special Topics in Multimedia tion of three-dimensional ideas in design, arProduction chitecture, environmental design, and
+engineering studies. Lab fee. Limited enrollPrereq.: Permission of instructor
+ment.
+G (Fall, Spring)
+B. Connors
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+MAS.862 The Physics of Information
+Individual or group work of advanced and ex- Technology
+perimental scope. Registration contingent (Revised Units)
+upon prior determination of subject matter and
+plan for treatment, as well as arrangement for Prereq.: Permission of instructor
+staff supervision and project funding. G (Spring)
+G. Davenport 4-0-8
+Familiar devices such as computers and
+telephones that collect, store, manipulate,
+transmit, and present information operate near
+many fundamental physical limits. Subject
+studies the relationship between their design
+and the underlying physical principles, in order
+to understand how they operate, what their
+limits are, and how they can be improved. Assumes a general physics background.
+N. Gershenfeld
+-
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+For research assistants in Media Arts and
+Sciences, where the assigned research is approved for academic credit by the Department.
+S. Benton
+MAS.912 Teaching in Media Arts and
+Sciences
+Prereq.: -
+G (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+Laboratory, tutorial, or classroom teaching
+under the supervision of a Media Arts and
+Sciences faculty member. Students selected
+by interview. Enrollment is limited by the
+availability of suitable teaching assignments.
+Staff
+Descriptions of Subjects 549

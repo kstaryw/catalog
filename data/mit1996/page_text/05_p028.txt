@@ -1,0 +1,79 @@
+Department of Aeronautics and Astronautics Course 16
+16.458J Biomedical Instrumentation
+Electronics
+(Same subject as HST.570J, 2.781J)
+Prereq.: Permission of instructor
+G (Summer)
+6-6-6
+See description under subject HST.570J.
+D. Rowell, S. K. Bums
+16.459 Bioengineering Journal Article
+Seminar
+Prereq.: -
+16.512 Rocket Propulsion 16.540 Internal Flows in Turbomachines
+Prereq.: 16.50 Prereq.: 16.121 or 16.122 or 2.25
+G (Fall) Acad Year 1996-97: Not offered
+3-0-9 Acad Year 1997-98: G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Chemical rocket propulsion systems for
+launch, orbital, and interplanetary flight. Model- General features of internal flows with applicaing of solid, liquid-bipropellant, and hybrid rock- tion to compressors, turbines, and propulsion
+et engines. Thermochemistry, prediction of systems. Fundamental concepts of rotational
+specific impulse. Nozzle flows including real flows, inherent unsteadiness of turbogas and kinetic effects. Structural constraints. machines, boundary layers, wakes, and losses
+Propellant feed systems, turbopumps. Com- and mixing in turbomachines. Axisymmetric
+bustion processes in solid, liquid, and hybrid swirling and vortex core flows, streamline currockets. Cooling; heat sink, ablative, and vature computations, flows in rotating blade
+G (Fall, Spring) regenerative. rows. Effects of viscosity and compressibility in
+0-2-0 A. H. Epstein internal flows. Secondary flows and threeCan be repeated for credit dimensional effects. Flow instabilities in turEach term, the class selects a new set of 16.521 Aircraft Turbine Engine Design bomachines. Recent developments and
+professional journal articles on bioengineering experimental information. Alternate years.
+topics of current research interest. Some Prereq.: 16.511 or permission of instructor E. M. Greitzer
+Acad Year 1996-97: Not offered
+papers are chosen because of particular conAcad Year 1997-98: G (Fall)
+tent, others are selected because they il- 16.55 Ionized Gases
+3-0-9 H-LEVEL Grad Credit
+lustrate important points of methodology. Each
+Prereq.: 8.03
+week, one student leads the discussion, Fluid mechanics, thermodynamics, and solid
+Acad Year 1996-97: G (Spring)
+evaluating the strengths, weaknesses, and im- mechanics of aircraft turbine engines, with the
+Acad Year 1997-98: Not offered
+portance of each paper. Subject may be emphasis on design. Steady two-dimensional
+3-0-9 H-LEVEL Grad Credit
+repeated for credit a maximum of four terms. and three-dimensional flow theories of comLetter grade given in the last term applies to all pressors and turbines. Combuster design. Properties and behavior of low-temperature
+accumulated units of 16.459. Noise and emission considerations. Operation- plasmas for energy conversion, plasma propulL. R. Young, C. M. Oman al limitations and instabilities. Stress and as- sion, gas lasers. Equilibrium of ionized gases:
+sociated temperature limits and influence of energy states, statistical mechanics, and equiblade cooling techniques on turbines. librium. Kinetic theory: motion of charged parA.H. Epstein ticles, distribution function, collisions,
+characteristic lengths and times, cross-secPropulsion and Energy 16.522 Space Propulsion tions, transport properties. Gas surface interactions: thermionic emission, sheaths, probe
+Conversion Prereq.: 16.512, 8.03 theory. Radiation in plasmas, diagnostics. AlG (Spring) ternate years.
+3-0-9 H-LEVEL Grad Credit M. Martinez-Sanchez
+16.50 Introduction to Propulsion Systems
+Reviews rocket propulsion fundamentals. DisPrereq.: 16.050 cusses advanced concepts in rocket propul- 16.58 Aircraft Gas Turbine Structures
+U (Spring) sion ranging from chemical engines to
+3-0-9 electrical engines. Topics include advanced Prereq.: 16.511 or permission of instructor
+G (Spring)
+Presents aerospace propulsive devices as sys- mission analysis, physics and engineering of 3-0-9 H-LEVEL Grad Credit
+tems, with functional requirements and en- microthrusters, and solid propellant rockets,
+gineering and environmental limitations. electrothermal, electrostatic, and electro-mag- Examines the structural design of aircraft gas
+Requirements and limitations constrain design netic schemes for accelerating propellant. turbine engines as set by the (multidisciplinary)
+choices. Both air-breathing and rocket engines Some coverage is given of satellite power sys- coupling between aerodynamic, thermal, and
+covered, at a level which enables rational in- tems and their relation to propulsion systems. structural requirements for high-performance
+tegration of the propulsive system into an over- M. Martinez-Sanchez propulsion systems. Topics include structures
+all vehicle design. Mission analysis, under static loads, rotor dynamics and vibrafundamental performance relations, and ex- 16.523 Environmental Aerospace tion (design of rotating blades and disks, critiemplary design solutions presented. Engineering cal speed of rotating shafts, flutter and forced
+J. L. Kerrebrock response of compressor and turbine blades),
+Prereq.: 16.511 or permission of instructor low-cycle fatigue, and design considerations
+G (Spring)
+for hot-section components used in gas tur-
+16.511 Aircraft Engines and Gas Turbines 3-0-9 H-LEVEL Grad Credit bine engines.
+Prereq.: 16.50 Focuses on understanding, evaluating, and A. H. Epstein, E M. Greitzer, F. Ehrich
+G (Fall) developing design procedures to reduce the
+3-0-9 environmental impact of current and future
+Performance and characteristics of aircraft en- aerospace systems, primarily aircraft emisgines and industrial gas turbines, as deter- sions and noise. Principles of reacting flows,
+mined by thermodynamic and fluid mechanic combustor design, fundamentals of acoustics,
+and aircraft and engine noise sources are
+behavior of components: inlets, compressors,
+combustors, turbines, nozzles. Discusses presented within a broad contextual backdrop
+various engine types, including turbojet, tur- that includes discussions of ethics, human and
+bofan, and turboprop. Limitations imposed by global effects, the regulatory process,
+material properties and stresses. Emphasizes economics, urban planning, and environmental
+future design trends, including reduction noise, policy.
+pollutant formation, fuel consumption, and /. A. Waitz
+weight.
+I. A. Waitz
+Descriptions of Subjects 459

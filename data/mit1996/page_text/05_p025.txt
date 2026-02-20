@@ -1,0 +1,77 @@
+School of Engineering
+16.221 Structural Dynamics 16.242 Aeroelasticity 16.28 Adaptive Materials and Structures
+Prereq.: 16.20 Prereq.: 16.221, 16.100 Prereq.: 16.210, 16.060
+G (Fall) Acad Year 1996-97: Not offered Acad Year 1996-97: G (Fall)
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: G (Spring) Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Vibrations of simple and complex structures:
+bars, strings, rods, beams, plates; emphasizes Presents field of aeroelasticity from unified Introduction to materials and structures
+physical concepts. Analyzes continuous and viewpoint, applicable to flight structures as well capable of controllable response to their enmultimass systems. Formulation and applica- as buildings, suspension bridges, and other vironment. Reviews elasticity, electro/magneto
+tion of diverse methods; finite element, structures. Static aeroelastic and flutter in- statics. Characteristics and modelling of adapGalerkin, integral equation, and numerical col- stabilities of simple and complex structures. tive materials employing piezoelectric,
+location. Variational principles in dynamics: Similarity laws and wind-tunnel modeling. electrostrictive, and shape memory effects.
+Hamilton's Principle and Lagrange's equa- Responses to gusts and random excitation. Linear electroelastic and nonlinear modelling
+tions. Transient response solution by modal su- Derivation of unsteady airloads. Active control of adaptive structures incorporating such
+perposition and direct numerical integration concepts for aeroelasticity. Alternate years. materials. Distributed induced-strain actuation
+techniques. Self-excited vibrations, dynamic E. F. Crawley, M. Van Schoor of beams and plates. Energy methods for apstability. Wave propagation concepts. proximate analysis of more complex strucM. Van Schoor 16.243 Dynamics of Controlled Structures tures. Distributed structural strain sensing.
+Sensor and actuator placement and structure
+16.222 Mechanics of Filamentary Prereq.: 16.221, 16.31 manufacture with embedded components. DisComposite Materials Acad Year 1996-97: G (Fall) tributed control topics including processing arAcad Year 1997-98: Not offered chitecture and adaptation. Alternate years.
+Prereq.: 16.20 3-0-9 H-LEVEL Grad Credit N. W. Hagood
+G (Fall)
+Presents control-structural dynamic interaction
+3-0-9 H-LEVEL Grad Credit
+from a unified viewpoint, applicable to flexible 16.29 Advanced Topics in Filamentary
+Mechanical behavior of advanced filamentary space structures, precision structures, and Composites
+composite materials composed of boron, aero-servo-elastic lifting surfaces. Preliminary
+Prereq.: 16.222
+graphite, glass, and Kevlar fibers embedded in design of controlled structures. Damped strucAcad Year 1996-97: G (Spring)
+a matrix. Material properties of fibers and tures, modeling of dissipative and nonlinear efAcad Year 1997-98: Not offered
+matrices. Micromechanics, anisotropic elas- fects. Isolation systems. Formulations of
+2-0-4 H-LEVEL Grad Credit
+ticity, tensor notation, and Classical Laminated controllers for reduced-order models. ControlPlate Theory. Also includes failure analysis, structure interaction and spillover. System iden- Generalized study of the anisotropic properties
+buckling, sandwich construction, thermal and tification. Alternate years. of composite laminates. Anisotropic buckling,
+moisture stresses, and interlaminar stresses. E. F Crawley environmental effects, interlaminar stresses.
+Design concepts and cost-effective applica- Reviews current problems in the applications
+tions. 16.251 Structural Design for Longevity of composite materials in the aerospace and
+J. Dugundji automotive industries. Guest lecturers share
+Prereq.: 16.20 their experiences.
+16.230 Plates and Shells Acad Year 1996-97: G (Spring) P. A. Lagace, H. L. McManus, S. M. Spearing
+Acad Year 1997-98: Not offered
+Prereq.: 16.222, 16.210 3-0-9 H-LEVEL Grad Credit
+16.295 Failure Mechanics of Composite
+Acad Year 1996-97: Not offered
+Longevity is the most difficult of all the struc- Materials
+Acad Year 1997-98: G (Spring)
+tural integrity requirements for aerospace (New)
+3-0-9 H-LEVEL Grad Credit
+vehicles. Examines the many aspects of lonPrereq.: 16.222 or equivalent (with instructor's
+Review of classical plate theory with applica- gevity such as frequency of loads, fatigue of
+approval)
+tions. Composite plates, transverse shear ef- materials, growth of cracks, safe-life
+Acad Year 1996-97: Not offered
+fects, large deflections. Elements of differential philosophy, fail-safe philosophy, probabilistic
+Acad Year 1997-98: G (Spring)
+geometry. General formulation of elasticity in failure analysis, damage tolerance, stress con-
+3-0-9 H-LEVEL Grad Credit
+curvilinear coordinates. Development of shell centrations, scatter factors, testing. Introduces
+equations in general form for bending of thin linear elastic fracture mechanics and its use. Unified treatment of the failure mechanics of
+shells. Membrane theory, cylindrical shells, Emphasizes application of theory to practice. A composite material from micro-mechanics
+edge zones. Alternate years. portion devoted to study of case histories. Al- through to macroscopic models for material
+H. L. McManus ternate years. and structural behavior. The mechanics and
+P. A. Lagace fracture behavior of polymer, metal, intermetal-
+16.241 Advanced Structural Dynamics lic, and ceramic matrix composites are com-
+16.26 Thermal Structures pared and contrasted. Strengths and
+Prereq.: 16.221
+weaknesses of the modeling approaches are
+Acad Year 1996-97: Not offered Prereq.: 16.20 assessed and discussed. Presents case
+Acad Year 1997-98: G (Fall) Acad Year 1996-97: G (Spring) studies in composite design. Alternate years.
+3-0-9 H-LEVEL Grad Credit Acad Year 1997-98: Not offered S. M. Spearing, P. A. Lagace, H. L. McManus
+3-0-9 H-LEVEL Grad Credit
+Reviews transient response of linear systems.
+Emphasizes nonlinear vibrations and transient Introduction to heat transfer. Temperature disresponse of structures; elastic and inelastic tributions and heat flows in structures. Thermaterial behavior and large deflections. Modal moelasticity, thermal deformations and
+and direct numerical timewise integration tech- stresses, induced failure and buckling.
+niques. Transient force, strain, and displace- Coupled thermostructural problems, temperament responses. Dynamic instability of ture dependence of material properties,
+mechanical systems, follower forces. Mechani- degradation, ablation and charring. Examples
+cal filtering. Forced and parametric excitation. from high-speed aircraft structures, turbine
+Instabilities of rotating structures. Effects of and rocket engines, and space structures. Alnon-linear vibrations. Alternate years. ternate years.
+M. Van Schoor H. L. McManus
+456 Chapter Vill

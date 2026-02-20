@@ -1,0 +1,135 @@
+School of Science
+18.158 Topics in Differential Equations 18.248 String Theory
+Prereq.: 18.125 Prereq.: Permission of instructor
+Acad Year 1996-97: Not offered Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall) Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit Can be repeated for credit
+Content varies from year to year. Introduces a Content varies from year to year.
+concept of natural functionals on solutions of a Information: 1. M. Singer.
+system of linear PDE and develops integral
+geometry from this point of view. Topics: ele- 18.276 Mathematical Methods in
+ments of algebraic theory of D-modules. The Physics
+Radon transform. Relation with representation
+theory. Integral geometry from the point of Prereq.:
+view of D-modules. Admissible families of
+curves and Einstein-Weyl 3-folds. Petrovsky
+theory of lacunas of hyperbolic equations. Prerequisities: generalized functions, elements of
+homological algebra.
+Information: R. B. Melrose.
+18.175 Theory of Probability
+Prereq.: 18.125
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Ergodic theorems, laws of large numbers, convergence of probability measures, central limit
+theorems, stochastic processes, Brownian motion, martingales, strong Markov properties.
+R. M. Dudley
+18.177 Stochastic Processes
+Prereq.: 18.175
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+1996-97: Central topic: stochastic analysis.
+Emphasis on development and application of
+Ito's theory of stochastic differential equations.
+Second half devoted to applications which
+derive from differential geometry. Some
+knowledge of basic P.D.E. and differential
+geometry is recommended.
+D. W. Stroock
+18.199 Graduate Analysis Seminar
+Prereq.: Permission of instructor
+G (Fall, Spring)
+3-0-21 H-LEVEL Grad Credit
+Can be repeated for credit
+Studies original papers in differential analysis
+and differential equations. Intended for firstand second-year graduate students. Permission must be secured in advance.
+R. B. Melrose
+18.238 Geometry and Quantum Field
+Theory
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Content varies from year to year. Content for
+Fall 1996: An introduction to quantum guage
+theories for mathematicians. Basic concepts of
+path integration and renormalization, detailed
+study of two-dimensional Yang-Mills theory.
+No knowledge of physics is required but
+familiarity with connections, principal bundles,
+cohomology theory, and measure theory is assumed.
+A. Szenes
+-
+18.307 Methods of Applied
+Mathematics Ill
+Prereq.: 18.04 or 18.075 or 18.112
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Selection of material from the following topics:
+calculus of variations (the first variation and
+the second variation); integral equations (Volterra equations; Fredholm equations, the Hilbert-Schmidt theorem); the Hilbert Problem
+and singular integral equations of Cauchy
+type; Wiener-Hopf Method and partial differential equations; Wiener-Hopf Method and inG (Spring) tegral equations; group theory.
+3-0-9 H-LEVEL Grad Credit H. Cheng
+Can be repeated for credit
+Content varies from year to year. Recent 18.308 Wave Motion
+developments in physics require mathematical
+Prereq.: 18.305 techniques not usually covered in standard G (Fall)
+graduate subjects. Topics for 1996-97: vertex
+3-0-9 H-LEVEL Grad Credit
+algebras and conformal field theory.
+Can be repeated for credit
+V. Ka6
+Topics selected according to interests of students and lecturer. Possible topics: 1) dispersive waves: modulation and average
+Lagrangian, group speed, wave action; 2) nonApplied Mathematics linear geometrical optics: single and multiple
+phase waves, caustics, resonant interaction;
+3) hyperbolic waves: characteristics, shocks,
+18.303 Linear Partial Differential Equations focusing, and reflection; 4) solitons, inverse
+Prereq.: 18.03 or 18.034 scattering, complete integrability; 5) reacting
+U (Fall) gas dynamics: flames and detonations, acous-
+3-0-9 tic interactions; 6) numerical methods for hyperbolic conservation laws.
+Introduces classical partial differential equa- R. R. Rosales
+tions of applied mathematics: diffusion,
+Laplace/Poisson, and wave equations. Discus-
+18.310 Principles of Applied Mathematics
+sion of their origins and use in discrete random
+walks, heat conduction, potential theory, and Prereq.: 18.02 or 18.023 or 18.024
+waves of small amplitude arising in many U (Fall)
+areas of science and technology. Methods of 3-0-9
+solution emphasize separation of variables,
+Study of illustrative topics in discrete applied
+Fourier series and transforms, Sturm-Liouville
+mathematics including sorting algorithms, infor- eigenvalue problems, and the cause-and-efmation theory, coding theory, secret codes,
+fect insights provided by Green's functions.
+generating functions, linear programming,
+18.04 or 18.112 useful.
+game theory.
+D. Z. Freedman
+D. J. Kleitman
+18.305 Methods of Applied
+18.311 Principles of Applied Mathematics
+Mathematics I
+Prereq.: 18.03 or 18.034 Prereq.: 18.04 or 18.075 or 18.112
+U (Spring)
+G (Fall)
+3-0-9
+3-0-9 H-LEVEL Grad Credit
+Introductory survey of fundamental concepts in
+18.306 Methods of Applied
+Mathematics I1 applied mathematics: propagation, stability,
+equilibrium, optimization. This independent
+Prereq.: 18.04 or 18.075 or 18.112 half of the complete sequence emphasizes the
+G (Spring) ideas and topics that relate to a "continuous"
+3-0-9 H-LEVEL Grad Credit mathematical approach: diffusion, waves, instabilities, characteristics, and first-order par- A comprehensive treatment of the advanced
+tial differential equations, with applications to
+methods of applied mathematics. Fall Term: traffic problems, fluid flow, physics, and biolasymptotic behavior of ordinary differential and ogy.
+difference equations; asymptotic evaluation of R. R. Rosales
+integrals; regular and singular perturbation
+methods; boundary-layer techniques; WKB
+method; multiple scales. Spring Term: partial
+differential equations; transform methods; characteristics, initial and boundary-value
+problems; Green's functions; singular perturbation problems; nonlinear wave propagation.
+18.305: H. Cheng
+18.306: D. Z. Freedman
+478 Chapter VIII

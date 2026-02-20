@@ -1,0 +1,92 @@
+Department of Earth, Atmospheric, and Planetary Sciences Course 12
+Course 12 Earth, Atmospheric, and
+Planetary Sciences
+For degree requirements, see listing in
+Chapter VII under the School of Science.
+Undergraduate Subjects
+12.UR Undergraduate Research
+Prereq.: -
+U (Fall, IAP, Spring, Summer)
+Units arranged [P/D/F]
+Can be repeated for credit
+12.URG Undergraduate Research
+Prereq.: - U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Undergraduate research opportunities in
+Earth, Atmospheric, and Planetary Sciences.
+Consult Department Headquarters.
+12.IND Independent Study
+Prereq.: -
+U (Fall, IAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Independent reading, laboratory, or fieldwork
+in Earth, Atmospheric, and Planetary Sciences. Requires written report. To be arranged
+by student and an appropriate MIT faculty
+member.
+Consult Department Headquarters.
+12.ThU Undergraduate Thesis
+Prereq.: -
+Core and General Science
+Subjects
+12.001 Introduction to Geology
+Prereq.:
+U (Fall, lAP, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Program of undergraduate research, leading
+to the writing of a thesis; to be arranged by the
+student and an appropriate MIT faculty member.
+Consult Department Headquarters.
+-
+12.003 Physics of the Fluid Earth
+Prereq.: 18.02, 8.01, 5.60
+U (Fall)
+3-1-8 REST
+The laws of classical mechanics and thermodynamics are used to explore how the
+U (Spring)
+properties of fluids on a rotating planet, such
+3-4-5 REST
+as the Earth, manifest themselves in, and help
+Major rock-forming minerals, rock-forming shape, the global patterns of atmospheric
+processes, and rock types. Geologic structures winds, ocean currents, and the climate of the
+and relationships observable in the field. Earth. Underlying mechanisms are illustrated
+Geologic time scale, dating of rocks by fossil using a rotating table and through the study of
+and isotopic methods. Sediment movement numerous phenomena drawn from the atmosand landform development by moving water, phere and ocean, such as hurricanes,
+wind, and ice. Crustal processes and evolution thunderstorms, and ocean circulation. A
+in terms of global plate tectonics. Geologic his- laboratory acquaints students with meteorologitory of the continents, with emphasis on North cal and oceanographic data.
+America. Laboratories on minerals, rocks, fos- R. A. Plumb
+sils, and mapping. Two nonrequired one-day
+field trips. 12.004 Introduction to Planetary Science
+J. B. Southard
+Prereq.: 8.02, 18.03
+U (Spring)
+12.002 Physics and Chemistry of the Solid 3-0-9
+Earth
+Study of the solar system with emphasis on
+Prereq.: 8.02, 18.02
+physical processes. Topics include:
+U (Fall)
+meteorites, orbital dynamics, asteroids, impact
+3-1-8 REST
+craters, surfaces, atmospheres, atmospheric
+Study of the Earth's structure, composition, dynamics, interiors, magnetospheres, rings,
+and physical processes. Introduction to plate comets, formation of the solar system.
+tectonics, earthquakes, seismic waves, and T. Dowling, M. Zuber
+rheology. The Earth's gravity and magnetic
+fields, heat flux, and thermal structure. Plates 12.005 Applications of Continuum
+as thermal and chemical boundary layers. Mechanics to Earth, Atmospheric, and
+Mantle convection, properties of the Earth's Planetary Sciences
+deep interior, geomagnetism, core dynamics.
+Prereq.: 8 02, 18 02, 18.03
+Employs classical mechanics, electromagU (Spring)
+netism, some elementary differential equa-
+3-0-9
+tions. Suitable for majors and non-majors
+seeking general background in geophysics Practical applications of the continuum conand Earth structure. cept for deformation of solids and fluids, emC. J. Marone phasizing force balance. Stress tensor,
+infinitesimal and finite strain, and rotation tensors developed. Constitutive relations applicable to geological materials, including
+elastic, viscous, brittle, and plastic deformation. Solutions to classical problems in
+geodynamics, physical oceanography, and atmospheric sciences.
+B. H. Hager
+Descriptions of Subjects 405

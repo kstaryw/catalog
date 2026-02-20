@@ -1,0 +1,112 @@
+School of Engineering
+6.732 Physics of Solids 6.763 Applied Superconductivity 6.776J Plasma Processing in Integrated
+Circuit Fabrication
+Prereq.: 6.730 or 8.231 Prereq.: 6.013 or 8.07
+G (Fall) Acad Year 1996-97: G (Fall) (Same subject as 10.582J)
+4-0-8 H-LEVEL Grad Credit Acad Year 1997-98: Not offered Prereq.: Permission of instructor
+3-0-9 H-LEVEL Grad Credit Acad Year 1996-97: G (Spring)
+Continuation of 6.730 emphasizing applicaAcad Year 1997-98: Not offered
+tions-related physical issues in solids. Topics: Phenomenological approach to superconduc-
+3-0-9 H-LEVEL Grad Credit
+electronic structure and energy band diagrams tivity, surveying large-scale and small-scale
+of semiconductors, metals, and insulators; applications. Electrodynamics of superconduc- Studies glow discharge properties and procesFermi surfaces; dynamics of electrons; classi- tors, London's model, flux quantization. Type I1 ses as applied to integrated circuit fabrication.
+cal diffusive transport phenomena such as superconductors, upper critical fields, pinning, The physics and chemistry of nonequilibrium
+electrical and thermal conduction and ther- critical state model. Josephson Junctions and plasmas. Emphasizes the plasma kinetics and
+moelectric phenomena; quantum transport in superconducting quantum devices, equivalent plasma-surface interactions. Extensively
+tunnel ballistic devices; optical properties of circuits and analogs, computers. Brief over- reviews plasma etching processes, sputter
+metals, semiconductors, and insulators; view of superconducting materials and micro- deposition, and plasma enhanced chemical
+photon-lattice interactions; magnetic properties scopic theory. Some background in solid-state vapor deposition for the fabrication of VLSI
+of solids; magneto-oscillatory phenomena; physics helpful. Alternate years. devices. Alternate years.
+quantum Hall effect; superconducting T. P. Orlando L. R. Reif, H. H. Sawin
+phenomena and simple models.
+Q. Hu, M. S. Dresseihaus 6.772 Compound Semiconductor Devices 6.781 Submicrometer and Nanometer
+Technology
+Prereq.: 6.720, 6.730
+6.734J Application of Group Theory to the
+Acad Year 1996-97: Not offered Prereq.:
+Physics of Solids
+Acad Year 1997-98: G (Spring)
+(Same subject as 8.510J) 4-0-8 H-LEVEL Grad Credit
+Prereq.: 6.732 or 8.231
+Physics, modeling, application, and technology
+Acad Year 1996-97: G (Spring) of compound semiconductors (primarily lIl-Vs)
+Acad Year 1997-98: Not offered
+in electronic, optoelectronic, and photonic
+3-0-9 H-LEVEL Grad Credit
+devices and integrated circuits. Topics: properGroup theory techniques: mathematical back- ties, preparation, and processing of compound
+ground, representation theory, character semiconductors; theory and practice of
+tables, basis functions, point groups, space heterojunctions, quantum structures, and pseugroups, double groups, time reversal sym- domorphic strained layers; metal-semiconducmetry. Applications: crystal field structure, tor field effect transistors (MESFETs);
+selection rules, directed valence and bonds, heterojunction field effect transistors (HFETs)
+molecular vibrations, group of the wave vector and bipolar transistors (HBTs); and opwith application to energy bands, lattice toelectronic devices. Alternate years.
+modes. Alternate years. C. G. Fonstad, Jr.
+M. S. Dresselhaus
+6.774 Physics of Microelectronic
+6.735J Modern Topics in Solid State Fabrication
+Physics
+Prereq.: 6.152J or equivalent
+(Same subject as 8.532J) G (Fall)
+Prereq.: 6.732 or 8.231 3-0-9 H-LEVEL Grad Credit
+Acad Year 1996-97: Not offered
+Fundamental principles of the processes used
+Acad Year 1997-98: G (Fall)
+in the fabrication of silicon monolithic in-
+3-0-9 H-LEVEL Grad Credit
+tegrated circuits. Physical models of bulk crysAlternate years. See description under subject tal growth, thermal oxidation, solid-state
+8.532J. diffusion, ion implantation, epitaxial deposition,
+M. S. Dresseihaus chemical vapor deposition, and physical vapor
+deposition. Refractory metal silicides, plasma
+6.751 Quantum Electronics and reactive ion etching, rapid thermal processing. Process modeling and simulation. TechPrereq.: 6.728 or 8.05 nological limitations on integrated circuit
+Acad Year 1996-97: Not offered design and fabrication. VLSI fundamentals.
+Acad Year 1997-98: G (Spring) L. R. Reif
+3-0-9 H-LEVEL Grad Credit
+The quantum theory of light. Basic phenomena 6.775 Design of Analog MOS LSI
+of quantum electronics, including development
+Prereq.: 6.301
+of background quantum mechanics and optical
+G (Fall)
+properties of solids. Quantization of
+3-0-9 H-LEVEL Grad Credit
+electromagnetic field and spontaneous plus
+stimulated optical transitions between energy A detailed exposition of the principles involved
+levels. Resonant processes: electric dipole in designing analog circuits in MOS LSI.
+transitions, absorption, dispersion, saturation. Device physics, small signal and large signal
+Photon optics and counting. Coherence. The models. Biasing. Basic circuit building blocks.
+laser and its operating characteristics. Rate Operational amplifier design. Large signal conequations, optical pumping, Q-switching, mode siderations. Principles of switched capacitor
+locking. Resonance fluorescence, light scatter- networks. Applications: fully integrated filters,
+ing. Alternate years. comparators, A/D and D/A converters, other
+G. W. Pratt, Jr. signal processing circuits. A comprehensive
+design project is a required part of the subject.
+4 Engineering Design Points.
+H. S. Lee, C. G. Sodini
+-
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Surveys techniques to fabricate and analyze
+submicrometer and nanometer structures, with
+applications. Reviews optical and electron
+microscopy. Surface characterization, preparation, and measurement techniques. Resist
+technology. Optical projection, holographic, Xray, ion, and electron lithography. Aqueous.
+ion, and plasma etching techniques. Lift-off
+and electroplating. Ion implantation. Applications in microelectronics, optoelectronics, and
+quantum-effect electronics. Undergraduates
+with permission of instructor.
+H. I. Smith
+6.791 Special Topics in the Solid State and
+Its Application
+Prereq.: Permission of instructor
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+6.792 Special Topics in the Solid State and
+Its Application
+Prereq.: Permission of instructor
+G (Spring)
+3-0-9 H-LEVEL Grad Credit
+Can be repeated for credit
+Primarily for those interested in research on
+solid-state materials and devices for electrical
+and electronic applications. Topics and staff to
+be announced each term. Given independently
+or sequentially as circumstances require.
+F. R. Morgenthaler
+360 Chapter Vill

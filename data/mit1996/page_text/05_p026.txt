@@ -1,0 +1,113 @@
+Department of Aeronautics and Astronautics Course 16
+Instrumentation, Control, and 16.333 Advanced Flight Dynamics and 16.338 Nonlinear Aerospace Control
+Estimation Control Systems
+Prereq.: 16.060 Prereq.: 16.060 or 6.302 and 6.241 or 16.31
+Acad Year 1996-97: Not offered Acad Year 1996-97: Not offered
+16.300 Measurement, Estimation, and Acad Year 1997-98: G (Fall) Acad Year 1997-98: G (Fall)
+Navigation
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+Prereq.. 16.060, 6.041
+Brief review of applied aerodynamics. Wing, Introduction to nonlinear systems: ordinary difU (Spring)
+fuselage, and tail contributions. Power, com- ferential equations - second-order systems:
+3-0-9 pressibility, and aeroelastic effects. Modern ap- phase-plane technique - qualitative study of
+Introduction to the estimation of variables from proach to aircraft stability and control. Motion various nonlinearities: deadband, saturation,
+noisy measurements. Linearization of non- along steep trajectories, reentry dynamics, and dry friction, backlash. Control system design in
+linear measurements. Treatment of navigation stability of a shuttle vehicle. Human pilot phase-plane. Pulse modulation techniques for
+as a problem in measurement. Application to models and autopilots. Variable flight condi- on-off systems: pulse width, pulse frequency
+inertial and radio navigation systems. Con- tions. VTOL transition, dynamics and control. modulation - aerospace examples. Relation
+sideration of power requirements, bandwidth, Minimum drift control of launch vehicles. Multi- to optimal control. Heuristic nonlinear system
+signal-to-noise ratio, and measurement techni- ple scales analysis. Sensitivity to parameter analysis via describing functions: theoretical
+ques. Comparative analysis of competitive variations in variable systems. Motion at high foundations and practical criteria. Limitations
+navigation systems. angle-of-attack, roll coupling, and other nonW. M. Hollister linear flight regimes.
+R. V. Ramnath
+16.31 Feedback Control Systems
+16.334 Advanced Control of Flight
+Prereq.: 16.060
+Vehicles
+G (Fall)
+3-0-9 Prereq.: 16.060
+Acad Year 1996-97: Not offered
+Introduction to the state-space approach to
+Acad Year 1997-98: G (Spring)
+control system analysis and control synthesis.
+3-0-9 H-LEVEL Grad Credit
+State-space representation of dynamic systems; controllability and observability; state- Application of design techniques and principles
+space realizations of transfer functions; and to advanced control systems for air and space
+canonical forms. Design of controllers using vehicles. Review of nondimensional equations
+state-space methods, including pole place- of motion. Classical and modern control techniment and optimal control methods. Introduc- ques applied to flight vehicle stabilization.
+tion to the Kalman filter. Limitations on Time and frequency domain analysis of control
+performance of control systems from classical system performance. Models for pilot-in-theand state-space perspectives. Introduction to loop control. Prediction and validation of
+robustness of multivariable control systems, vehicle handling qualities. Introduction to digiusing frequency domain techniques. tal control techniques. Control system design
+E. Feron to meet mission requirements, including robustness criteria. Adaptive control and display
+16.322 Stochastic Estimation and Control design. Alternate years.
+J. D. Paduano
+Prereq.: 16.060, 6.041, or 6.431
+G (Spring)
+16.335 Spacecraft Dynamics and Control
+3-0-9 H-LEVEL Grad Credit
+Prereq.: 16.060
+Estimation and control of dynamic systems.
+G (Fall)
+Brief review of probability and random vari-
+3-0-9 H-LEVEL Grad Credit
+ables. Classical and state-space descriptions
+of random processes and their propagation Reviews rigid body kinematics and dynamics
+through linear systems. Frequency domain for small and large rotations. Reviews attitude
+design of filters and compensators. The Kal- sensors and actuators and the attitude
+man filter to estimate the states of dynamic guidance and control problem. Open-loop
+systems. Conditions for stability of the filter stability analyses are developed for a variety of
+equations. equilibrium conditions; spinners, dual spinners,
+W. E. Vander Velde gravity gradient equilibria. Active control is applied to the same examples: figure control of
+16.323 Principles of Optimal Control mirrors, linear control for pitch and coupled
+roll/yaw motion, active nutation damping. Orbit
+Prereq.: 18.085 attitude coupling in spacecraft dynamics.
+G (Fall) Stabilization and distributed control of defor-
+3-0-9 H-LEVEL Grad Credit mable reflectors. Effects of fuel slosh and strucStudies the principles of deterministic optimal tural flexibility covered briefly. Alternate years.
+control. Variational calculus and Pontryagin's R. V. Ramnath
+maximum principle. Applications of the theory,
+including optimal feedback control, time-op- 16.337J Dynamics of Nonlinear Systems
+timal control, and others. Dynamic program-
+(Same subject as 6.243J, 2.156J)
+ming and numerical search algorithms
+Prereq.: 18.100, 6.241
+introduced briefly.
+Acad Year 1996-97: G (Spring)
+W. E. Vander Velde
+Acad Year 1997-98: Not offered
+3-0-9 H-LEVEL Grad Credit
+See description under subject 6.243J.
+R. Ramnath, J. L. Wyatt, Jr., M. Dahleh,
+N. Hogan
+-
+nonheuristic nonlinear system analysis techniques: Lyapunov's stability theory, Popov's
+criterion - computational issues.
+E. Feron
+16.343 Spacecraft and Aircraft Sensors and
+Instrumentation
+Prereq.: 16.040, 8.03
+Acad Year 1996-97: Not offered
+Acad Year 1997-98: G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Covers fundamental sensor and instrumentation principles in the context of systems
+designed for space or atmospheric flight. Systems discussed are incoherent and doppler
+radars; space communications; spacecraft attitude determination by stellar, solar, and
+horizon sensing; remote sensing by
+radiometry, spectrometry, and interferometry;
+air data systems; and radio navigation. Also,
+review of basic electromagnetic theory and antenna design. Discussion of design considerations for flight.
+R. J. Hansman
+16.346 Astrodynamics I
+(Revised Content and Units)
+Prereq.: 18.03 or equivalent
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+Fundamentals of astrodynamics; the two-body
+orbital initial-value problem and boundaryvalue problems with applications to space
+vehicle navigation and guidance for lunar and
+planetary exploration. Topics: celestial
+mechanics, Kepler's problem, Lambert's problem, orbit determination, mission planning, and
+recursive algorithms for space navigation.
+Selected applications from the Apollo and
+Space Shuttle Programs
+R. H. Battin
+Descriptions of Subjects 457

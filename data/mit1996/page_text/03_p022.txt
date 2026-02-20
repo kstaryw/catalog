@@ -1,0 +1,129 @@
+Department of Chemical Engineering Course 10
+Course 10 Chemical Engineering
+For degree requirements, see listing in
+Chapter VII under the School of
+Engineering.
+10.UR Undergraduate Research
+Prereq.: -
+U (Fall, Spring)
+Units arranged [P/D/F]
+Can be repeated for credit
+10.URG Undergraduate Research
+Prereq.: -
+U (Fall, Spring)
+Units arranged
+Can be repeated for credit
+Opportunity for participation in a research
+group, or for special investigation in a particular field. Topic and hours to fit individual requirements.
+C. M. Mohr
+10.ThU Undergraduate Thesis
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged
+Can be repeated for credit
+Program of undergraduate research, leading
+to writing an S.B. thesis; topic arranged between student and MIT faculty member.
+C. M. Mohr
+10.001 Introduction to Computer Methods
+Prereq.: - U (Fall, IAP)
+2-0-4
+Introduction to computers in chemical engineering and to the Athena computer environment. Exposure to methods for text and
+picture creation and manipulation, symbolic
+computing, numerical programming in C, and
+elementary methods for numerical analysis.
+G. C. Rutledge
+10.02J Biotechnology and Engineering
+(Same subject as 5.22J, TOX.105J)
+Prereq.: -
+10.100 Interdisciplinary Research in
+Biomedical Engineering
+(New)
+Prereq.: 5.07 or 7.05, 7.06 or 7.08, 18.03,
+2.003 or 3.185 or 6.001 or 10.301 or
+16.030/16.040
+U (Fall, Spring)
+1-2-3
+Can be repeated for credit
+Individual research work in biomedical engineering not covered by other subjects.
+Project must integrate biology and engineering
+or medicine and engineering. Approval of the
+CBE Curriculum committee required. Students
+must enroll for at least 12 units in the term the
+work is done in order to receive credit as a
+restricted elective in the BME Minor. Consult
+the departmental BME Minor advisor early in
+the term. Can be used to fulfill Phase 11.
+L. G. Cima
+10.11 Computer Models of Physical and
+Engineering Systems
+Prereq.: 18.03 or 18.034, 1.00
+U (Spring)
+3-1-8
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+F. Pelia-Mora
+10.200 Sophomore Advising Seminar
+Prereq.:
+U (Spring)
+4-0-5
+See description under subject 5.22J.
+J. M. Essigmann, R. S. Langer
+-
+10.213 Chemical Engineering
+Thermodynamics
+Prereq.: 5.60, 10.001
+U (Fall, Spring)
+4-0-8
+Thermodynamics of multicomponent, multiphase systems. Applications of first, second,
+and third laws of thermodynamics to open and
+closed systems. Properties of mixtures, including colligative properties, chemical reaction
+equilibrium, and phase equilibrium; non-ideal
+solutions; power cycles; refrigeration; separation systems.
+D. Blankschtein, K. K. Gleason, T. A. Hatton,
+P. E. Laibinis, H. H. Sawin
+10.25 Industrial Chemistry and Chemical
+Process Pathways
+Prereq.: 5.11, 10.213, 10.37
+G (Fall)
+3-0-6 H-LEVEL Grad Credit
+Chemical and engineering principles involved
+in creation and operation of viable industrial
+processes. Topics: analysis of process
+chemistry by p-pathways (i.e., radical, ionic,
+and pericyclic reactions of organic syntheses)
+and d-pathways (i.e., catalysis by transitionmetal complexes). Use of reaction
+mechanisms for inference of co-product formation, kinetics, and equilibria: process synthesis
+logic related to reaction selectivity, recycle,
+separations. Illustrations drawn from current
+and contemplated commercial practice.
+P. S. Virk
+U (Fall)
+2-0-4 [P/D/F]
+10.26 Chemical Engineering Projects
+Special topics in chemical engineering Laboratory
+designed to help acquaint and orient new stu- (Revised Units)
+dents to the field. All sophomores beginning in
+Prereq.: 10.302
+chemical engineering are encouraged to take
+this seminar. U (Fall, Spring)
+1-8-3
+C. L. Cooney
+Laboratory projects in applied chemical re-
+10.21 Structures and Properties of Matter search and unit operations. Students work in
+groups on one project for the term. Projects
+Prereq.: 5.11, 5.60, 10.001
+are often suggested by local industry. Training
+U (Fall)
+in research planning, execution of experimen-
+3-0-6
+tal work, oral presentations, and report writing.
+Atomic and molecular interactions and their im- C. K. Colton, J.-F. Hamel, P. E. Laibinis,
+portance in determining physical and chemical R. S. Langer, H. H. Sawin,
+properties of matter. Dielectric properties of G. N. Stephanopoulos
+materials. Description of physical and specific
+chemical intermolecular forces, including
+hydrogen bonds. Bulk and interfacial properties of pure and mixed gases and liquids. Techniques for characterizing molecular structure
+and for predicting properties of matter.
+C. K. Colton
+Descriptions of Subjects 385

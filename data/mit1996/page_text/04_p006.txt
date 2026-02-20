@@ -1,0 +1,85 @@
+Department of Urban Studies and Planning Course 11
+11.486J Economic Institutions and Growth Planning Support Systems 11.525 New and Developing Technologies
+Policy Analysis for Planners
+(Same subject as 14.778J, 17.184J) 11.520 A Workshop on Geographic Prereq.: 11.227 and 11.228 or permission of inPrereq.: 11.210 Information Systems structor
+G (Spring) Prereq.: 1.201 or 11.220, 1.00 or 11.227 G (Spring)
+3-0-6 H-LEVEL Grad Credit 2-2-5 H-LEVEL Grad Credit
+G (Spring)
+Considers how institutions have been incor- 3-6-3 H-LEVEL Grad Credit Students are familiarized with the changing
+porated theoretically into explorations of technologies available for manipulating, orExamines the potential use of Geographic Ingrowth and development. Four sets of institu- ganizing, and presenting visually-oriented
+formation Systems in land-use planning,
+tions are examined in detail: the corporate sec- electronic information for the description of
+transportation planning, and town government.
+tor, to study how ownership, strategy, and urban environmental phenomena. Students
+Subject format is a studio setting with a local
+structure affect growth-related policies; finan- are exposed to cases where these techtown government as a client. Begins with
+cial institutions, to analyze how they condition nologies have been used, or are in use, by
+theory and use of GIS technology. Students
+savings and investment; labor market institu- planning-related agencies. Impacts of these
+select one of two middle segments focusing on
+tions, to investigate their impact on the deter- technologies upon public debate and decision
+a) a user-needs assessment and the developmination of wage and production-related making are studied. Specific attention is paid
+ment of skills in interview techniques, case
+productivity; and the institutions associated to multimedia and communication techstudies, and unobtrusive measures; or b) the
+with technology, such as universities, research nologies and how these have the ability to
+design of appropriate land use and transportalaboratories, and corporate training centers, to change the way people plan.
+tion models. The third segment integrates the
+consider how skill formulation is accomplished. M. Shifter
+work of both groups in developing the
+A. Amsden
+prototype GIS.
+J. Ferreira, Jr., Q. Shen 11.526J Logistical and Transportation
+11.487 Public Finance in Developing Planning Methods
+Countries
+11.521 Computer-Based Analysis for Public (Same subject as 1.203J, 6.281J, 13.665J,
+Prereq.: 11.205 and 11.254 or permission of in- Management 15.073J, 16.76J)
+structor Prereq.: 6.431, 15.075
+Prereq.: 11.227
+G (Spring) G (Fall)
+G (Fall)
+3-0-9 H-LEVEL Grad Credit 3-0-9 H-LEVEL Grad Credit
+3-2-7 H-LEVEL Grad Credit
+Analysis of the structure and operation of See description under subject 1.203J.
+Extends the computer and analytic skills
+government systems in developing countries, A. /. Barnett, R. C. Larson, A. R. Odoni
+developed in 11.227 to more advanced topics
+with particular emphasis on regional and local
+and problems. Includes advanced database
+governments. Major topics include: the role of
+management concepts and applications of
+decentralization in national economic reform
+SQL (Structured Query Language). Computerprograms; the potential impact of decentralimplemented models for improved public
+ized governments on local economic developmanagement are studied, including decision Tutorials, Research, and Field
+ment; determination of optimal arrangements
+for sharing fiscal responsibilities among levels support and geographic information systems. Work Subjects
+J. Ferreira, Jr., M. Shiffer
+of government; evaluation of local revenue
+and expenditure decisions; and assessment of
+prospects and options for intergovernmental 11.522 Research Seminar on Planning 11.800 Doctoral Research Paper
+fiscal reform. Emphasis on basic economic Support Systems Prereq.: Permission of instructor
+concerns, with consideration given to political, Prereq.: 11.227, 11.520, or 11.521 G (Fall, Spring)
+institutional, and cultural factors. G (Fall) 3-0-9 H-LEVEL Grad Credit
+P. Smoke 3-2-7 H-LEVEL Grad Credit Can be repeated for credit
+Can be repeated for credit
+Required subject for all entering Ph.D. stu-
+11.491J Industrial Development and Policy Advanced seminar extends computer and dents. Main focus is on formulating reAnalysis analytic skills developed in the other subjects searchable questions. Designed to help
+(Same subject as 17.176J) in this sequence into a research environment. students write their first-year papers.
+Prereq.: 11.205 Students present a structured discussion of a M. Schuster, M. Rein
+G (Fall) journal article representative of current re-
+3-0-9 H-LEVEL Grad Credit search in Planning Decision Support Systems, 11.900 Doctoral Proseminars
+and complete an approved short research
+Analyzes the theoretical and historical reasons project. Suggested research projects include Prereq.: Permission of instructor
+why governments in latecomer countries have G (Fall, Spring)
+topics related to ongoing research projects of
+intervened with a wide array of policies to the Computer Resource Laboratory. Units arranged H-LEVEL Grad Credit
+foster industrial development at various turning J. Ferreira, Jr., 0. Shen, M. Shiffer Can be repeated for credit
+points: the initiation of industrial activity; the
+Designed primarily for advanced doctoral candiversification of the industrial base; the
+didates. A selection of Proseminars is offered
+restructuring of major industrial institutions;
+each year for groups of students affiliated with
+and the entry into high-technology sectors.
+the various research clusters in the DepartA. Amsden
+ment.
+B. Sanyal
+Descriptions of Subjects 403

@@ -1,0 +1,75 @@
+Mechanical Engineering
+For degree requirements, see listing in
+Chapter VII under the School of
+Engineering.
+2.UR Undergraduate Research in
+Mechanical Engineering
+Prereq.: -
+U (Fall, Spring, Summer)
+Units arranged [P/D/F)
+Can be repeated for credit
+2.URG Undergraduate Research in
+Mechanical Engineering
+Prereq.: -
+School of Engineering
+Course 2
+2.003 Systems Modeling and Dynamics I 2.006 Thermal-Fluids Engineering 11
+Prereq.. 8.01,18.02 Prereq.: 2.005, 18.03
+U (Fall, Spring) U (Fall, Spring)
+4-0-8 REST 4-0-8
+Introduction to physical system dynamics, em- Mechanics of incompressible flow in engineerphasizing the common dynamic behavior of ing systems. Hydrostatics. Mass conservation.
+mechanical, electrical, fluid, and thermal Inviscid flow analysis and Bernoulli equation.
+devices and how they interact. Unified mathe- Linear and angular momentum. Application to
+matical modeling using linear and non-linear fluid machines. Analysis of laminar viscous
+lumped multiport elements. Introduction to flow in channels and passages. Turbulence.
+U (Fall, Spring, Summer)
+matrix methods and computer analysis of sys- Head loss in pipes. Boundary layers, drag.
+Units arranged
+tem dynamics. Concept of state and formula- Forced and natural convective heat transfer in
+Can be repeated for credit
+tion of state equations. Dynamic response and laminar and turbulent flow in channels and
+Individual study, research, or laboratory inves- stability of linear systems. Frequency response over surfaces. Heat exchangers.
+tigations under faculty supervision, including in- functions, pole-zero configurations, and their in- R. Kamm
+dividual participation in an ongoing research terpretation. Generalized impedance and
+project. See projects listing in Undergraduate source equivalents. Extensive use of engineer- 2.007 Design and Manufacturing I
+Office, 1-104, for guidance. ing examples.
+Coordinator: D. Rowell. D. Rowell Prereq.: 2.670
+U (Spring)
+2.001 Mechanics and Materials I 2.004J Systems Modeling and Dynamics I1 3-3-6
+(Revised Units) (Revised Units) Develops students' competence and self-confidence as designers. Emphasis on the creaPrereq.: 8.01, 18.02 (Same subject as 2.03J, 13.013J)
+tive design process for individuals. Synthesis,
+U (Fall, Spring) Prereq.: 2.001 and 2.003 or 13.015
+analysis, and robustness as complements.
+3-1-5 REST U (Fall, Spring)
+Subject relies on active learning through exer-
+4-0-5
+Introduction to statics and the mechanics of cises in lecture and laboratory. A major designdeformable solids. Emphasis on the three Introduction to dynamics and vibration of and-build project is featured. Lecture topics
+basic principles of equilibrium, geometric com- lumped-parameter models of mechanical sys- include idea generation, estimation, concept
+patibility, and material behavior. Stress and its tems. Distinction between force-momentum selection, visual thinking and communication,
+relation to force and moment; strain and its and work-energy formulations. Three-dimen- kinematics of mechanisms, design for
+relation to displacement; linear elasticity with sional particle kinematics. Newton-Euler equa- manufacturing, and designer's professional
+thermal expansion. Failure modes. Application tions. Lagrange's equations. Historical responsibilities. Several manufacturing technito simple engineering structures such as rods, citations. Issues of perspective including ques featured in 2.008 are used in fabrication
+shafts, beams, and trusses. Application to relationships of dynamics to design. of designs.
+design. J. H. Williams, Jr., J. K. Vandiver A. H. Slocum
+R. Abeyaratne, F. Feng, D. M. Parks
+2.005 Thermal-Fluids Engineering I 2.008 Design and Manufacturing I
+2.002 Mechanics and Materials 11
+Prereq.: 8.02, 18.03 Prereq.: 2.001, 2.003, 2.007, 2.005
+(Revised Units) U (Fall, Spring) U (Fall, Spring)
+Prereq.: 2.001 4-0-8 REST 3-5-4 Institute LAB
+U (Fall, Spring)
+Equilibrium thermodynamics and its applica- Integration of design, engineering, and
+3-2-7
+tion to engineering systems involving energy management disciplines and practices for
+Introduces mechanical behavior of engineering exchange and conversion. Concepts of work, analysis and design of manufacturing
+materials, and the use of materials in mechani- heat, and internal energy; The First Law. Re- enterprises. Emphasis is on the physics and
+cal design. Emphasizes the fundamentals of versibility, entropy, and The Second Law. Ther- stochastic nature of manufacturing processes
+mechanical behavior of materials, as well as modynamics of state of pure substances. and systems, and their effects on quality, rate,
+design with materials. Major topics: elasticity, Applications to processes and power cycles. cost, and flexibility. Topics include process
+plasticity, limit analysis, fatigue, fracture, and Modes of heat transfer. Conduction, applica- physics and control, design for manufacturing,
+composites. Materials selection. Laboratory ex- tions using lumped capacity and thermal resis- and manufacturing systems. Group project reperiments involving projects related to tance concepts, finned surfaces. Elements of quires design and fabrication of parts using
+materials in mechanical design. radiation. mass-production and assembly methods to
+L. Anand, D. M. Parks, M. C. Boyce J. Brisson, J. Heywood produce a product in quantity. Six units may
+be applied to the General Institute Lab Requirement.
+J.-H. Chun, E. M. Sachs
+314 Chapter Vill

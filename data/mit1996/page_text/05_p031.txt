@@ -1,0 +1,123 @@
+School of Engineering
+16.861 Engineering Systems Analysis 16.872 Aerospace Design Project
+Prereq.: Permission of instructor Prereq.: 16.870, 16.871
+G (Fall) G (Spring)
+3-0-6 H-LEVEL Grad Credit 1-0-2 H-LEVEL Grad Credit
+Engineering School-Wide Elective Subject. Restricted to Master of Engineering students.
+Description given at end of this chapter in Provides a supervisory framework for the
+SWE section on page 562. M.Eng. Design Project and Thesis. Multi-disR. de Neuville, J. P. Clark, F. Field ciplinary student teams are structured to focus
+on design projects recommended by industry
+16.862 Engineering Risk-Benefit and faculty. Projects address aircraft,
+Analysis spacecraft, or aerospace product subsystems.
+Student-prepared design review presentations
+Prereq.: 18.02 scheduled at several points during the Spring
+G (Spring) semester.
+3-0-6 H-LEVEL Grad Credit C. W. Boppe
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in 16.89 Space Systems Engineering
+SWE section on page 562. Prereq.: Permission of instructor
+A. R. Odon, A. W. Drake, G. Apostolakis G (Spring)
+4-0-8 H-LEVEL Grad Credit
+16.870 Aerospace Product Design
+Subject defines what a systems engineer
+(Revised Units)
+does, and reviews the unifying concepts which
+Prereq.: Permission of department are applicable across many disciplines. ExG (Fall) amples drawn from major national programs
+3-1-8 H-LEVEL Grad Credit such as the development of ballistic missiles,
+Systems engineering technical and manage- Apollo, the Shuttle, Space Station Freedom,
+ment elements used to address the unique and Patriot. Principles of good practice are
+complexity of aerospace products. Require- developed and applied to current national
+ments analysis, functional analysis, and design space programs, including the National
+trade techniques form the basis for integrated Aerospace Plane, the Space Exploration Initiaproduct-process development best practices. tive, and the Mission to Planet Earth. Class
+Project cost and technical control methods ad- specifies and designs a hypothetical satellite.
+dressed include fault tree analysis, risk D. E. Hastings
+management, and network analysis. Subject
+material integrated with special event aircraft,
+spacecraft, and systems seminars as well as
+case studies prepared by industry and government speakers. Other Graduate Subjects
+C. W. Boppe
+16.871 Aerospace Product Design Tools 16.ThG Graduate Thesis
+Prereq.: 16.870 Prereq.:
+G (IAP)
+1-0-2 H-LEVEL Grad Credit
+Computer-based tools that support the design
+and development of complex aerospace
+products are implemented as a basis for
+modeling that enhances understanding of principles learned in 16.870. Design Structure
+Matrix optimization ensures improved process
+information flows and reduced cycle time. Executable behavior diagrams or discrete event
+simulators assess systems characteristics and
+design problems prior to making hardware and
+software decisions. Stereolithography
+generates preliminary manufactured parts as
+well as masters and patterns for castings,
+EDM, and vacuum forming using CAD/CAM
+solids models.
+C. W. Boppe
+-
+16.90 Introduction to Computational
+Mechanics
+Prereq.: 18.03
+G (Fall)
+3-0-9 H-LEVEL Grad Credit
+An introductory subject in computational
+mechanics serving as a prerequisite for advanced computational fluids, structures, and
+propulsion subjects. Includes discretization
+methods (finite difference and finite element),
+solution methods for elliptic equations (direct
+and iterative) and initial value problems (explicit and implicit). Concepts of accuracy, consistency, stability, convergence, dissipation,
+and dispersion introduced. Examples selected
+from simple fluids, structures, heat, and mass
+transfer model problems (one- and two-dimensional). Emphasis is on mathematical numerical analysis. Computer assignments requiring
+programming.
+J. Peraire
+16.951 Entrepreneurship
+Prereq.:
+G (Fall, Spring, Summer)
+Units arranged H-LEVEL Grad Credit
+Can be repeated for credit
+Program of graduate research, leading to an
+S.M., M.Eng., E.A.A., Ph.D., or Sc.D. thesis; to
+be arranged by the student with an appropriate
+MIT faculty member, who is then thesis supervisor. The M.Eng. thesis is restricted to students in the M.Eng. program. Co-registration
+with 16.872 is required in the Spring Term.
+D. E. Hastings
+-
+G (Spring)
+4-0-5
+Engineering School-Wide Elective Subject.
+Description given at end of this chapter in
+SWE section on page 562.
+T. G. Gutowski
+16.952 Management Topics in Engineering
+Prereq.: -
+G (Spring)
+2-0-4
+Directed toward the student whose objective is
+a career in engineering leading to management. Provides opportunities to examine topics
+relating to the conduct of engineering activities
+within a total management environment. Interfaces between engineering and other company functions, such as marketing, finance,
+manufacturing, quality, explored with emphasis on the management process. Special
+attention given to the role of technical staff in
+the acquisition of new business and longrange planning. Seminar format based on current industrial practice.
+J. Yamron
+16.954J Research Ethics
+(Same subject as 2.953J, TPP.41J)
+Prereq.: -
+G (Spring)
+3-0-3
+See description under subject 2.953J.
+C. Whitbeck
+16.97 Advanced Engineering Internship
+Prereq.: 16.67
+G (Fall, Spring, Summer)
+0-6-0 [P/D/F]
+Can be repeated for credit
+A consecutive seven-month period of work experience as part of the Engineering Internship
+Program. Students register for this subject in
+two terms, receiving the grade "J" for the first
+registration. Limited to students registered in
+Course XVI-C who have been admitted to the
+Graduate School.
+/. A. Waitz
+462 Chapter Vill
