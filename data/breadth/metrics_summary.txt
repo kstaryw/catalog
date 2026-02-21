@@ -1,0 +1,18 @@
+=== Curriculum Breadth Summary ===
+Courses used (1996): 973
+Courses used (2024): 4491
+
+=== Interdisciplinarity proxies (multi-label topics) ===
+1996 multi-topic rate: 0.694
+2024 multi-topic rate: 0.593
+1996 avg topics/course: 2.928
+2024 avg topics/course: 2.156
+
+=== Curriculum diversity (topic entropy; higher => broader distribution) ===
+1996 topic entropy: 2.2884
+2024 topic entropy: 2.2324
+
+=== Outputs ===
+- Topic shares CSV: data/breadth/topic_shares.csv
+- Topic plots: data/breadth/topic_share_1996.png, data/breadth/topic_share_2024.png
+- Dept specialization top20 (HHI high => specialized): data/breadth/dept_specialization_top20_1996.csv, data/breadth/dept_specialization_top20_2024.csv

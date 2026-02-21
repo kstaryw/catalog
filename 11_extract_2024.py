@@ -113,6 +113,65 @@ def peel_embedded_fields(text: str) -> tuple[str, Optional[str], Optional[str], 
     return s, prereq, level_term, units
 
 
+def split_header_title_and_remainder(header_tail: str) -> tuple[str, str]:
+    """
+    Split header tail text into a clean title and possible inline remainder.
+    Remainder may contain prereq/term/units/instructor/description text.
+    """
+    s = clean_text(header_tail)
+    if not s:
+        return "", ""
+
+    split_patterns = [
+        r"\bPrereq:",
+        r"\bCoreq:",
+        r"\b[UG]\s*\(",
+        r"\b\d+\s*-\s*\d+\s*-\s*\d+\s*units\b",
+        r"\b\d+\s*units\b",
+        r"\bAcad Year\b",
+        r"\bSubject meets with\b",
+        r"\bunits arranged\b",
+        r"\bCan be repeated for credit\b",
+        r"\bNot offered regularly\b",
+        r"\bconsult department\b",
+        r"\bStaff\b",
+    ]
+
+    split_index: Optional[int] = None
+    for pattern in split_patterns:
+        m = re.search(pattern, s, flags=re.I)
+        if m:
+            idx = m.start()
+            if split_index is None or idx < split_index:
+                split_index = idx
+
+    sentence_start = re.search(
+        r"(?:[.;]\s+)(Presents|Introduces|Provides|Covers|Explores|Develops|Focuses|Examines|Addresses|Emphasizes|Investigates)\b",
+        s,
+        flags=re.I,
+    )
+    if sentence_start:
+        idx = sentence_start.start(1)
+        if split_index is None or idx < split_index:
+            split_index = idx
+
+    if split_index is None:
+        title = s.rstrip(" .;:-")
+        return clean_text(title), ""
+
+    title = clean_text(s[:split_index]).rstrip(" .;:-")
+    remainder = clean_text(s[split_index:])
+    return clean_text(title), remainder
+
+
+def looks_like_instructor_line(text: str) -> bool:
+    return len(text) <= 80 and (
+        text.lower() == "staff"
+        or re.search(r"[A-Z]\.\s*[A-Z][a-z]", text) is not None
+        or "," in text
+    )
+
+
 def extract_subject_urls(index_html: str) -> List[str]:
     soup = BeautifulSoup(index_html, "html.parser")
     urls: List[str] = []
@@ -181,6 +240,22 @@ def parse_course_page(url: str) -> List[MITCourse]:
         nonlocal current, desc_lines
         if not current:
             return
+        title_clean, title_tail = split_header_title_and_remainder(current["title"])
+        if title_clean:
+            current["title"] = title_clean
+
+        if title_tail:
+            inline_clean, prereq2, _, units2 = peel_embedded_fields(title_tail)
+            if current.get("prereq") is None and prereq2:
+                current["prereq"] = prereq2
+            if current.get("units") is None and units2:
+                current["units"] = units2
+            if inline_clean:
+                if current.get("instructors") is None and looks_like_instructor_line(inline_clean):
+                    current["instructors"] = inline_clean
+                else:
+                    desc_lines.insert(0, inline_clean)
+
         description_raw = clean_text(" ".join(desc_lines))
         description_clean, prereq2, _, units2 = peel_embedded_fields(description_raw)
 
@@ -216,13 +291,28 @@ def parse_course_page(url: str) -> List[MITCourse]:
         if m:
             # Start of a new course
             flush()
+            raw_title = m.group(2)
+            title, inline_tail = split_header_title_and_remainder(raw_title)
             current = {
                 "course_id": m.group(1),
-                "title": m.group(2),
+                "title": title or clean_text(raw_title),
                 "prereq": None,
                 "units": None,
                 "instructors": None,
             }
+
+            if inline_tail:
+                inline_clean, prereq2, _, units2 = peel_embedded_fields(inline_tail)
+                if prereq2:
+                    current["prereq"] = prereq2
+                if units2:
+                    current["units"] = units2
+
+                if inline_clean:
+                    if looks_like_instructor_line(inline_clean):
+                        current["instructors"] = inline_clean
+                    else:
+                        desc_lines.append(inline_clean)
             continue
 
         # If we are inside a course, classify lines
@@ -244,11 +334,7 @@ def parse_course_page(url: str) -> List[MITCourse]:
 
             # instructor line: many pages use names or "Staff" (not perfect, but useful)
             # If the line is short-ish and looks like names, record it.
-            if len(text) <= 80 and (
-                text.lower() == "staff"
-                or re.search(r"[A-Z]\.\s*[A-Z][a-z]", text)  # "A. Madry"
-                or "," in text
-            ):
+            if looks_like_instructor_line(text):
                 # don't overwrite if we already captured instructors
                 if current.get("instructors") is None:
                     current["instructors"] = text
