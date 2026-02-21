@@ -34,13 +34,19 @@ TOP_N_PLOT = 20
 
 # Stopwords: keep practical + add some catalog-generic words if desired
 STOPWORDS = {
-    "a", "an", "and", "are", "as", "at", "be", "by", "for", "from",
-    "in", "into", "is", "it", "of", "on", "or", "the", "to", "with",
-    "without", "via", "ii", "iii", "iv", "v", "vi", "vii", "viii",
-    "ix", "x", "i", "1", "2", "3",
-    # common generic title words (optional)
-    "introduction", "intro", "topics", "seminar", "special", "selected",
-    "independent", "study", "project", "lab", "workshop", "practicum",
+    "a","an","and","are","as","at","be","by","for","from",
+    "in","into","is","it","of","on","or","the","to","with",
+    "without","via","ii","iii","iv","v","vi","vii","viii",
+    "ix","x","i",
+
+    # catalog metadata words
+    "units","unit","prereq","prerequisite","subject",
+    "spring","fall","iap","summer","year",
+    "students","student","instructor","instructors",
+    "credit","credits","permission","offered","consult",
+    "none","meets","limited","arranged","version",
+    "staff","department","term","repeated","can","that",
+    "not",
 }
 
 # Remove very short tokens (often noise)
